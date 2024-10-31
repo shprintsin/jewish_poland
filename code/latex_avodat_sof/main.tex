@@ -1,0 +1,65 @@
+%% !TEX program = xelatex
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{colortbl}
+% \usepackage{arydshln} % for dashed lines in tables
+
+\input{setting.tex}
+
+\begin{document}
+\input{chapters/titles.tex}
+
+\newcommand{\cep}[1]{\citep{#1}}
+\newcommand{\ce}[1]{\cite{#1}}
+\newcommand{\cy}[2]{#2 (\citeyear{#1})}
+\newcommand{\citey}[1]{ (\citeyear{#1})}
+\newcommand{\e}[1]{ \textenglish{#1}}
+% \citep*{acemoglu_theory_2021}
+% \input{chapters/models.tex}
+% \include{chapters/titles}
+% \include{chapters/introduction/intro}
+
+ % \justify Add this line to justify the text
+
+\input{chapters/introduction/intro.tex}
+% \section{הקדמה}
+% \subsection[context]{קונטקסט היסטורי}
+% \input{chapters/introduction/context}
+% \subsection[literature]{ספרות}
+% \input{chapters/introduction/literature}
+
+% \section[research]{הצעת המחקר}
+% \subsection[question]{שאלת המחקר}
+% \input{chapters/introduction/intro.tex}
+
+% \subsection[question]{נתונים}
+% \input{chapters/research/data.tex}
+
+% \subsection[question]{מודל דסקריפטיבי}
+% \input{chapters/research/model1.tex}
+% \input{chapters/research/model2.tex}
+% % \input{chapters/research/model2.tex}
+% \subsection[question]{מודל סיבתי}
+% % \input{chapters/research/model3.tex}
+% ַּ\input{chapters/research/model3_2.tex}
+% \subsection[robust]{רובסטיות}
+% ַּ\input{chapters/research/robustness.tex}
+% \section[conclusion]{מסקנות}
+% ַּ\input{chapters/conclusions.tex}
+
+
+% \eqtwo
+
+\begin{spacing}{1.4}
+    \bibliographystyle{aea} % Choose a bibliography style
+    % \bibliography{bib/refrences}
+    \textenglish{\bibliography{bib/refrences}}
+\end{spacing}
+
+\section*{נספח 1}
+\input{chapters/research/model2.tex}
+
+\end{document}

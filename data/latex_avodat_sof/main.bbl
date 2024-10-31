@@ -1,0 +1,54 @@
+
+
+% Bibstyle aea.bst version 2009.05.20
+
+\begin{thebibliography}{xx}
+
+\harvarditem[Acemoglu \harvardand\ Wolitzky]{Daron Acemoglu \harvardand\
+  Alexander Wolitzky}{2020}{acemoglu_sustaining_2020}
+{\bf Acemoglu, Daron, and Alexander Wolitzky.} 2020. ``Sustaining
+  {Cooperation}: {Community} {Enforcement} versus {Specialized}
+  {Enforcement}.'' {\em Journal of the European Economic Association},
+  18(2):~1078--1122.
+
+\harvarditem[Ellickson]{Robert~C. Ellickson}{1991}{ellickson_order_1991}
+{\bf Ellickson, Robert~C.} 1991. {\em Order without {Law}.} Harvard University
+  Press.
+
+\harvarditem[Greif]{Avner Greif}{1993}{greif_contract_1993}
+{\bf Greif, Avner.} 1993. ``Contract {Enforceability} and {Economic}
+  {Institutions} in {Early} {Trade}: {The} {Maghribi} {Traders}' {Coalition}.''
+  {\em The American Economic Review}, 83(3):~525--548. Publisher: American
+  Economic Association.
+
+\harvarditem[Hundert]{Gershon~David Hundert}{2004}{hundert_jews_2004}
+{\bf Hundert, Gershon~David.} 2004. {\em Jews in {Poland}-{Lithuania} in the
+  {Eighteenth} {Century}: {A} {Genealogy} of {Modernity}.} University of
+  California Press.
+
+\harvarditem[{Instytut Historii PAN}]{{Instytut Historii
+  PAN}}{2024}{historicalatlaspoland}
+{\bf {Instytut Historii PAN}.} 2024. ``Historical Atlas of Poland.'' {\em
+  \url{https://atlasfontium.pl/}}, Accessed: 2024-05-31.
+
+\harvarditem[Kalik]{Judith Kalik}{2009}{kalik_scepter_2009}
+{\bf Kalik, Judith.} 2009. {\em Scepter of {Judah}: the {Jewish} autonomy in
+  the eighteenth-century crown {Poland}.} {\em Studia {Judaeoslavica}},
+  Leiden:Brill.
+
+\harvarditem[Kaźmierczyk]{Adam Kaźmierczyk}{2022}{kazmierczyk_permanent_2022}
+{\bf Kaźmierczyk, Adam.} 2022. ``Permanent {Crisis}: {The} {Decline} of
+  {Jewish} {Self}-{Government} in {Poland} in the {Seventeenth} and
+  {Eighteenth} {Centuries}.'' In {\em Polin: {Studies} in {Polish} {Jewry}
+  {Volume} 34}. {\em Jewish {Self}-{Government} in {Eastern} {Europe}}, , ed.
+  François Guesnet and Antony Polonsky, 181--202. Liverpool University Press.
+
+\harvarditem[Szady]{Bogumił Szady}{2023}{szady_geografia_2023}
+{\bf Szady, Bogumił.} 2023. {\em Geografia struktur religijnych i wyznaniowych
+  w {Koronie} w {II} połowie {XVIII} w.} Wydawnictwo KUL.
+
+\harvarditem[Teller]{Adam Teller}{2010}{teller_early_2010-1}
+{\bf Teller, Adam.} 2010. ``The {Early} {Modern} {Jewish} {Parliament}: {The}
+  {Council} of {Four} {Lands} in {Poland}.'' 7.
+
+\end{thebibliography}

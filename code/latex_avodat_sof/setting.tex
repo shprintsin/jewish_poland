@@ -1,0 +1,30 @@
+\usepackage[round]{natbib} % Use the natbib package with round parentheses
+\usepackage{amsmath,graphicx,psfrag,epsf,enumerate,polyglossia,natbib,url,setspace,amssymb,titlesec}
+\usepackage{hebtex}
+\usepackage{booktabs}
+\usepackage[colorlinks,citecolor=blue,urlcolor=blue,bookmarks=false,hypertexnames=true]{hyperref}
+\addtolength{\oddsidemargin}{-.5in}%
+\addtolength{\evensidemargin}{-.5in}%
+\addtolength{\textwidth}{1in}%
+\addtolength{\textheight}{1.3in}%
+\addtolength{\topmargin}{-.8in}%
+\setdefaultlanguage[numerals=mapping]{hebrew} 
+\setotherlanguage{english}  
+\newfontfamily\hebrewfont[Path = fonts/,
+Scale = 1.0,
+Extension =.ttf,
+UprightFont = *-Regular,
+BoldFont = *-semibold,
+ItalicFont = *-Italic,
+BoldItalicFont = *-BoldItalic,
+Script = Hebrew]{OpenSans} 
+% \setmainfont{David CLM}
+%% Set Hebrew and English fonts
+\usepackage{iffont}
+\setmonofont[Script=Hebrew]{Miriam Mono CLM}
+
+
+\newfontfamily\hebrewfontsf[Script=Hebrew]{Miriam CLM}
+\def\spacingset#1{\renewcommand{\baselinestretch}%
+{#1}\small\normalsize} \spacingset{1}
+\spacingset{1.45}

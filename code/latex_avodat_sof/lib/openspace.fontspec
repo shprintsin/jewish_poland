@@ -1,0 +1,21 @@
+\defaultfontfeatures{
+     Path = fonts/,
+    Scale = 1.0,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic,
+    Script = Hebrew
+}
+
+\setmainfont{OpenSans}[
+  Path = fonts/,
+    Scale = 1.0,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic,
+    Script = Hebrew
+]

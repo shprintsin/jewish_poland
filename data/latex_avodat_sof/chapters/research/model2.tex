@@ -1,0 +1,60 @@
+
+בפרק הבא אנו מציגים מכניזם פשוט להסבר ההנחות שעומדות בבסיס השערת המחקר שלנו. מטרת המודל היא להסביר את הטענה שההפרש בין מפקד האוכלוסין ותשלומי מס הגולגולת משקפים פערי אינפורמציה. המודל הוא דסקריפטיבי לחלוטין.
+
+נניח שהממשלה יכולה לקבל מידע על אוכלוסייה בגודל \( N \) באמצעות אוכפים פנימיים בעלות \(\alpha_1\) או באמצעות אוכפים חיצוניים מומחים בעלות \(\alpha_2\). 
+\begin{equation}
+    \text{AgencyPremium} = \alpha_1 \text{Insider} - \alpha_2 \text{Specialized} + \alpha_0 
+\end{equation}
+כאשר \(\alpha_1\) ו-\(\alpha_2\) מייצגות את עלות המידע, ו-\(\alpha_0\) מייצג מידע פרטי או עלויות טרנזקציה.
+
+$$
+    \text{Insider} = \delta_1 N \\
+    \text{Specialized} = \delta_2 N 
+$$
+תחת סימטריית מידע, \(\delta_2 = \delta_1\), הממשלה תעדיף אכיפה פנימית אם ורק אם \(\alpha_1 < \alpha_2\), כלומר הפרמיה מאכיפה פנימית חיובית.
+
+כאשר קיימת אסימטריית מידע,
+\(\delta_1 \ne \delta_2\), במקרה זה, הממשלה תבחר באכיפה חיצונית אם:
+\begin{equation}
+    \text{AgencyPremium} > 0 \rightarrow \alpha_1\delta_1 > \alpha_2\delta_2 \rightarrow \frac{\alpha_1}{\alpha_2} > \frac{\delta_2}{\delta_1}
+\end{equation}
+כלומר, אם האכיפה הפנימית חשופה ליותר מידע מהאכיפה החיצונית, ואם היא לא יוצרת פערי מידע משלה.
+
+כאשר הממשלה כבר בחרה את מספר האוכפים, בטווח הקצר, ההבדל בין דיווח האכיפה הפנימית לאכיפה החיצונית משקף למעשה את פער המידע בלבד, ללא עלויות הסוכנים.
+\begin{equation}
+    \text{InformationGap} = N(\delta_1 - \delta_2)
+\end{equation}
+
+ההשערה המחקרית היא שפערי מידע מושפעים מהמבנה ההיררכי והמבנה הקואליציוני:
+\begin{equation}
+    \text{Insider}_{id} = \alpha_0 + \alpha_1 f(K_i, L_d) + \alpha_2 \text{Specialized}
+\end{equation}
+
+כאשר \(K_i\) מייצג את המיקום ההיררכי של הפרט \(i\) במערכת האכיפה הפנימית \(d\), ו-\(L_d\) מייצג את מספר האוכפים המקסימלי במערכת.
+
+הפונקציה \(f(K_i, L_d)\) מוגדרת כ:
+\begin{equation}
+    f(K_i, L_d) = \gamma_1 K_i + \gamma_2 L_d + \gamma_3 K_i L_d
+\end{equation}
+בעיית האופטימיזציה של הממשלה:
+
+אם \(\gamma_1 < 0\), הממשלה תבחר \(K_i = 0\).
+
+אם \(\gamma_2 < 0\), הממשלה תבחר \(L_d = 0\).
+
+האפשרות היחידה לאופטימיזציה היא כאשר \(\gamma_1 < 0\), \(\gamma_2 < 0\), ו-\(\gamma_3 > 0\), כאשר \(\gamma_3\) מתאר את ההשפעה של הוספת שכבה היררכית.
+
+
+על ידי הצבת הפונקציה \(f(K_i, L_d)\) אנו מקבלים את המודל הבא:
+
+\begin{equation}
+    \text{Insider}_{id} = \beta_0 + \beta_1 K_i + \beta_2 L_d + \beta_3 K_i L_d + \beta_4 \text{Specialized} + \varepsilon_{id}
+\end{equation}
+
+כאשר \(\beta_0 = \alpha_0\), \(\beta_1 = \alpha_1 \gamma_1\), \(\beta_2 = \alpha_1 \gamma_2\), \(\beta_3 = \alpha_1 \gamma_3\), \(\beta_4 = \alpha_2\), ו-\(\varepsilon_{id}\) הוא משתנה השגיאה.
+
+בהתחשב בנתוני המפקד ומס הגולגולת מ-1764, ההבדל בין הדיווח של המפקד לדיווח מס הגולגולת ניתן לתיאור כפער מידע בין אכיפה חיצונית (מפקד) לאכיפה פנימית (מס גולגולת):
+
+\begin{equation}
+    \text{Cen}_{id} = \beta_0 + \beta_1 H_i + \beta_2 \text{Poll}_i + \beta_3 S_i + \beta_4 H_i \times S_d + \mu_i
+\end{equation}
