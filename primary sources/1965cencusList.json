@@ -1,0 +1,5508 @@
+[{
+  "census_year": 1764,
+  "regions": [
+    {
+      "name": "Woiewodztwo Poznańskie",
+      "type": "Voivodeship",
+      "locations": [
+        {
+          "name": "Babimost",
+          "type": "City",
+          "population": 206,
+          "notes": "Synagogi"
+        },
+        {
+          "name": "Broiec",
+          "type": "City",
+          "population": 55,
+          "notes": "communittis do Babimostu"
+        },
+        {
+          "name": "Czarnków",
+          "type": "City",
+          "population": 489,
+          "notes": "z Ryczywołem"
+        },
+        {
+          "name": "Czempiń",
+          "type": "City",
+          "population": 86,
+          "notes": "Sy."
+        },
+        {
+          "name": "Człop",
+          "type": "City",
+          "population": 234,
+          "notes": "Sy."
+        },
+        {
+          "name": "Freylandek",
+          "type": "City",
+          "population": 90,
+          "notes": "Sy."
+        },
+        {
+          "name": "Grodzisko",
+          "type": "City",
+          "population": 812,
+          "notes": "Sy."
+        },
+        {
+          "name": "Iutrosin",
+          "type": "City",
+          "population": 115,
+          "notes": "communittis z Dublin"
+        },
+        {
+          "name": "Kargowa",
+          "type": "City",
+          "population": 289,
+          "notes": "Sy."
+        },
+        {
+          "name": "Leszno",
+          "type": "City",
+          "population": 4743,
+          "notes": "z Bojanowem Synagoga"
+        },
+        {
+          "name": "Lwówek",
+          "type": "City",
+          "population": 336,
+          "notes": "Sy."
+        },
+        {
+          "name": "Międzychód",
+          "type": "City",
+          "population": 236,
+          "notes": "Sy."
+        },
+        {
+          "name": "Międzyrzec",
+          "type": "City",
+          "population": 1077,
+          "notes": "Synagogi z wsiami"
+        },
+        {
+          "name": "Murowana Goślina",
+          "type": "City",
+          "population": 111
+        },
+        {
+          "name": "Oborniki",
+          "type": "City",
+          "population": 231,
+          "notes": "Sy."
+        },
+        {
+          "name": "Obrzysko",
+          "type": "City",
+          "population": 195,
+          "notes": "Sy."
+        },
+        {
+          "name": "Osieczna",
+          "type": "City",
+          "population": 239,
+          "notes": "Sy."
+        },
+        {
+          "name": "Piła",
+          "type": "City",
+          "population": 411,
+          "notes": "Sy. z miastem Jastrow"
+        },
+        {
+          "name": "Pniewy",
+          "type": "City",
+          "population": 201,
+          "notes": "Sy."
+        },
+        {
+          "name": "Poznan",
+          "type": "City",
+          "population": 1951,
+          "notes": "Sy."
+        },
+        {
+          "name": "Rawicz",
+          "type": "City",
+          "population": 563,
+          "notes": "Sy."
+        },
+        {
+          "name": "Restarzew",
+          "type": "City",
+          "population": 52,
+          "notes": "communittis"
+        },
+        {
+          "name": "Rogoźno",
+          "type": "City",
+          "population": 386,
+          "notes": "Sy."
+        },
+        {
+          "name": "Sarnowa",
+          "type": "City",
+          "population": 79,
+          "notes": "Sy."
+        },
+        {
+          "name": "Sieraków",
+          "type": "City",
+          "population": 119,
+          "notes": "Sy."
+        },
+        {
+          "name": "Skwirzyna",
+          "type": "City",
+          "population": 492,
+          "notes": "S."
+        }
+      ],
+      "subregions": [
+        {
+          "name": "Ziemia Wschowska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Szlichtyngowa",
+              "type": "City",
+              "population": 80,
+              "notes": "Sy."
+            },
+            {
+              "name": "Szrem",
+              "type": "City",
+              "population": 327,
+              "notes": "Sy."
+            },
+            {
+              "name": "Stęszew",
+              "type": "City",
+              "population": 55,
+              "notes": "communitt."
+            },
+            {
+              "name": "Szwarzeć",
+              "type": "City",
+              "population": 1024,
+              "notes": "Sy."
+            },
+            {
+              "name": "Samotuły",
+              "type": "City",
+              "population": 494,
+              "notes": "Sy."
+            },
+            {
+              "name": "Trzcianka",
+              "type": "City",
+              "population": 338,
+              "notes": "Sy."
+            },
+            {
+              "name": "Trzciel",
+              "type": "City",
+              "population": 223,
+              "notes": "Sy."
+            },
+            {
+              "name": "Tuczno",
+              "type": "City",
+              "population": 215,
+              "notes": "Sy."
+            },
+            {
+              "name": "Wałecz",
+              "type": "City",
+              "population": 642,
+              "notes": "Sy. z wsiami"
+            },
+            {
+              "name": "Wieluń",
+              "type": "City",
+              "population": 686,
+              "notes": "Sy."
+            },
+            {
+              "name": "Wołsztyn",
+              "type": "City",
+              "population": 371,
+              "notes": "Sy."
+            },
+            {
+              "name": "Wronki",
+              "type": "City",
+              "population": 483,
+              "notes": "Sy. z wsiami"
+            },
+            {
+              "name": "Wschowa",
+              "type": "City",
+              "population": 301,
+              "notes": "Sy."
+            },
+            {
+              "name": "Zbąszyn",
+              "type": "City",
+              "population": 89,
+              "notes": "Sy."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Kaliskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Kaliski",
+          "type": "County",
+          "total_population": 3490,
+          "locations": [
+            {
+              "name": "Kalisz",
+              "type": "City",
+              "population": 702,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Krotoszyn",
+              "type": "City",
+              "population": 1524
+            },
+            {
+              "name": "Żerków",
+              "type": "City",
+              "population": 76
+            },
+            {
+              "name": "Koźmin",
+              "type": "City",
+              "population": 271
+            },
+            {
+              "name": "Ostrów",
+              "type": "City",
+              "population": 266
+            },
+            {
+              "name": "Zduny",
+              "type": "City",
+              "population": 49
+            },
+            {
+              "name": "Odolanow",
+              "type": "City",
+              "population": 18
+            },
+            {
+              "name": "Koźminek",
+              "type": "City",
+              "population": 225
+            },
+            {
+              "name": "Karmin",
+              "type": "City",
+              "population": 96
+            },
+            {
+              "name": "Stawiszyn",
+              "type": "City",
+              "population": 91
+            },
+            {
+              "name": "Raszków",
+              "type": "City",
+              "population": 8
+            }
+          ]
+        },
+        {
+          "name": "Powiat Kcyński",
+          "type": "County",
+          "total_population": 1928,
+          "locations": [
+            {
+              "name": "Kcynia",
+              "type": "City",
+              "population": 361
+            },
+            {
+              "name": "Chodzież",
+              "type": "City",
+              "population": 644
+            },
+            {
+              "name": "Gołańcza",
+              "type": "City",
+              "population": 193
+            },
+            {
+              "name": "Margonin",
+              "type": "City",
+              "population": 316
+            },
+            {
+              "name": "Łabiszyn",
+              "type": "City",
+              "population": 364
+            },
+            {
+              "name": "Barcin",
+              "type": "City",
+              "population": 50
+            }
+          ]
+        },
+        {
+          "name": "Powiat Koniński",
+          "type": "County",
+          "total_population": 991,
+          "locations": [
+            {
+              "name": "Konin",
+              "type": "City",
+              "population": 133
+            },
+            {
+              "name": "Koło",
+              "type": "City",
+              "population": 256
+            },
+            {
+              "name": "Russocice",
+              "type": "City",
+              "population": 57
+            },
+            {
+              "name": "Golina",
+              "type": "City",
+              "population": 142
+            },
+            {
+              "name": "Kleczew",
+              "type": "City",
+              "population": 262
+            },
+            {
+              "name": "Wilczyn",
+              "type": "City",
+              "population": 39
+            },
+            {
+              "name": "Rychwał",
+              "type": "City",
+              "population": 102
+            }
+          ]
+        },
+        {
+          "name": "Powiat Pyzdrski",
+          "type": "County",
+          "locations": [
+            {
+              "name": "Pyzdry",
+              "type": "City",
+              "population": 452,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Jarocin",
+              "type": "City",
+              "population": 282
+            },
+            {
+              "name": "Kobylin",
+              "type": "City",
+              "population": 139
+            },
+            {
+              "name": "Nowe Miasto",
+              "type": "City",
+              "population": 146
+            },
+            {
+              "name": "Jaroczew",
+              "type": "City",
+              "population": 85
+            },
+            {
+              "name": "Pogorzel",
+              "type": "City",
+              "population": 32
+            },
+            {
+              "name": "Borek",
+              "type": "City",
+              "population": 200
+            },
+            {
+              "name": "Kurnik",
+              "type": "City",
+              "population": 381
+            },
+            {
+              "name": "Zaniemiśle",
+              "type": "City",
+              "population": 37
+            },
+            {
+              "name": "Miłosław",
+              "type": "City",
+              "population": 136
+            }
+          ]
+        },
+        {
+          "name": "Powiat Gnieźnienski",
+          "type": "County",
+          "total_population": 1570,
+          "locations": [
+            {
+              "name": "Gniezno",
+              "type": "City",
+              "population": 251
+            },
+            {
+              "name": "Działyń",
+              "type": "City",
+              "population": 104
+            },
+            {
+              "name": "Witków",
+              "type": "City",
+              "population": 354
+            },
+            {
+              "name": "Skoki",
+              "type": "City",
+              "population": 372
+            },
+            {
+              "name": "Września",
+              "type": "City",
+              "population": 436
+            },
+            {
+              "name": "Czerniejow",
+              "type": "City",
+              "population": 20
+            },
+            {
+              "name": "Żydów",
+              "type": "City",
+              "population": 33
+            }
+          ]
+        },
+        {
+          "name": "Powiat Nakielski",
+          "type": "County",
+          "total_population": 3024,
+          "locations": [
+            {
+              "name": "Mrocza",
+              "type": "City",
+              "population": 105
+            },
+            {
+              "name": "Krajenka",
+              "type": "City",
+              "population": 254
+            },
+            {
+              "name": "Dębrzno",
+              "type": "City",
+              "population": 308
+            },
+            {
+              "name": "Granowo",
+              "type": "City",
+              "population": 97
+            },
+            {
+              "name": "Złotowo",
+              "type": "City",
+              "population": 1027
+            },
+            {
+              "name": "Lendyczek",
+              "type": "City",
+              "population": 52
+            },
+            {
+              "name": "Łobżenica",
+              "type": "City",
+              "population": 572
+            },
+            {
+              "name": "Sempelborg",
+              "type": "City",
+              "population": 553
+            },
+            {
+              "name": "Nakło",
+              "type": "City",
+              "population": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Sieradzkie",
+      "type": "Voivodeship",
+      "total_population": 4950,
+      "locations": [
+        {
+          "name": "Łaska",
+          "type": "Synagoga",
+          "population": 1588,
+          "notes": "z parafiami"
+        },
+        {
+          "name": "Wartska",
+          "type": "Synagoga",
+          "population": 362,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Dobrska",
+          "type": "Synagoga",
+          "population": 380,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Blaszkowska",
+          "type": "Synagoga",
+          "population": 310,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Lutomirska",
+          "type": "Synagoga",
+          "population": 445,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Piotrkowska",
+          "type": "Synagoga",
+          "population": 1107,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Koniecpolska",
+          "type": "Synagoga",
+          "population": 733,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Kamińsk",
+          "type": "City",
+          "population": 25,
+          "notes": "do Przedborza"
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Ziemia Wieluńska",
+      "type": "Land",
+      "total_population": 2976,
+      "locations": [
+        {
+          "name": "Działoszyńska",
+          "type": "Synagoga",
+          "population": 1956,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Kempińska",
+          "type": "Synagoga",
+          "population": 879
+        },
+        {
+          "name": "Bolesławska",
+          "type": "Synagoga",
+          "population": 96,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Grabowskie",
+          "type": "Starostwo",
+          "population": 45,
+          "notes": "Accedit ad mentem Dekretu wylikwidowane"
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Krakowskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Xięski",
+          "type": "County",
+          "total_population": 5599,
+          "locations": [
+            {
+              "name": "Kazimierz przy Krakowie",
+              "type": "City",
+              "population": 3710,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Olkusz i Trzebina",
+              "type": "Cities",
+              "population": 396,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Chrzanów",
+              "type": "City",
+              "population": 327,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Będzin i Modrzęjow",
+              "type": "Cities",
+              "population": 515,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Działoszyce",
+              "type": "City",
+              "population": 651,
+              "notes": "z paraf."
+            }
+          ]
+        },
+        {
+          "name": "Powiat Lelowski",
+          "type": "County",
+          "total_population": 2296,
+          "locations": [
+            {
+              "name": "Żarnowiec",
+              "type": "City",
+              "population": 355,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Wodzisław, Oksza, Siensko, Proszowice, Słomniki",
+              "type": "Cities",
+              "population": 1638
+            },
+            {
+              "name": "Wolbrom",
+              "type": "City",
+              "population": 303
+            },
+            {
+              "name": "Lelów i Kromołow",
+              "type": "Cities",
+              "population": 468
+            },
+            {
+              "name": "Nakło",
+              "type": "City",
+              "population": 98
+            },
+            {
+              "name": "Janów y Częstochowa",
+              "type": "Cities",
+              "population": 623
+            }
+          ]
+        },
+        {
+          "name": "Xięstwo Zatorskie",
+          "type": "Duchy",
+          "locations": [
+            {
+              "name": "Zator",
+              "type": "City",
+              "population": 92
+            }
+          ]
+        },
+        {
+          "name": "Xięstwo Oświęcimskie",
+          "type": "Duchy",
+          "locations": [
+            {
+              "name": "Oświęcim y Biała",
+              "type": "Cities",
+              "population": 765
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Sandomirskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Sandomirski",
+          "type": "County",
+          "locations": [
+            {
+              "name": "Sandomierz",
+              "type": "City",
+              "population": 801,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Staszów",
+              "type": "City",
+              "population": 776,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Opatów",
+              "type": "City",
+              "population": 2034,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Połaniec",
+              "type": "City",
+              "population": 648,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Ostrowiec",
+              "type": "City",
+              "population": 904,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Tarłów",
+              "type": "City",
+              "population": 610,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Rudnik",
+              "type": "City",
+              "population": 196,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Iwaniska",
+              "type": "City",
+              "population": 398,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Bogurya",
+              "type": "City",
+              "population": 271,
+              "notes": "z paraf."
+            }
+          ],
+          "total_population": 11677
+        },
+        {
+          "name": "Powiat Wiślicki",
+          "type": "County",
+          "total_population": 8911,
+          "locations": [
+            {
+              "name": "Wiślica",
+              "type": "City",
+              "population": 256,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Nowe Miasto seu Korczyn",
+              "type": "City",
+              "population": 1536,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Pińczów",
+              "type": "City",
+              "population": 2862,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Chmielnik",
+              "type": "City",
+              "population": 1467,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Stopnica",
+              "type": "City",
+              "population": 563,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Szydłów",
+              "type": "City",
+              "population": 430,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Żabno",
+              "type": "City",
+              "population": 636,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Oleśnica",
+              "type": "City",
+              "population": 91,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Kurozwęki",
+              "type": "City",
+              "population": 75,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Raków",
+              "type": "City",
+              "population": 437,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Pacanów",
+              "type": "City",
+              "population": 558,
+              "notes": "z paraf."
+            }
+          ]
+        },
+        {
+          "name": "Powiat Pilzniński",
+          "type": "County",
+          "total_population": 9161,
+          "locations": [
+            {
+              "name": "Tarnów",
+              "type": "City",
+              "population": 2325,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Dąmbrowa",
+              "type": "City",
+              "population": 823,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Kolbuszowa",
+              "type": "City",
+              "population": 677,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Głogow",
+              "type": "City",
+              "population": 718,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Sędziszów",
+              "type": "City",
+              "population": 584,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Stryżow",
+              "type": "City",
+              "population": 979,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Cudecz",
+              "type": "City",
+              "population": 331,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Frysztak",
+              "type": "City",
+              "population": 254,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Robczyce",
+              "type": "City",
+              "population": 663,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Radomyśl",
+              "type": "City",
+              "population": 364,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Dęmbica",
+              "type": "City",
+              "population": 911
+            },
+            {
+              "name": "Wielopole",
+              "type": "City",
+              "population": 309,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Przecław",
+              "type": "City",
+              "population": 129,
+              "notes": "z paraf."
+            },
+            {
+              "name": "Żochow",
+              "type": "City",
+              "population": 94,
+              "notes": "z paraf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Brzeskie Kujawskie",
+      "type": "Voivodeship",
+      "total_population": 1267,
+      "locations": [
+        {
+          "name": "Brzeskiego Kujawskiego",
+          "type": "Kachału",
+          "population": 164
+        },
+        {
+          "name": "Przedeckiey",
+          "type": "Synagogi",
+          "population": 210
+        },
+        {
+          "name": "Kowalskiey",
+          "type": "Synagogi",
+          "population": 260
+        },
+        {
+          "name": "Lubranieckiey",
+          "type": "Synagogi",
+          "population": 249
+        },
+        {
+          "name": "Izbickiey",
+          "type": "Synagogi",
+          "population": 215
+        },
+        {
+          "name": "Piotrkowskiey",
+          "type": "Synagogi",
+          "population": 169
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Inowrocławskie",
+      "type": "Voivodeship",
+      "total_population": 1422,
+      "locations": [
+        {
+          "name": "Inowrocław",
+          "type": "City",
+          "population": 980,
+          "notes": "i wsiach"
+        },
+        {
+          "name": "Forduń",
+          "type": "City",
+          "population": 385
+        },
+        {
+          "name": "Żołędowo",
+          "type": "Village",
+          "population": 13
+        },
+        {
+          "name": "Gozdynin",
+          "type": "Village",
+          "population": 44,
+          "notes": "J. MPa. Zbyszewskiego"
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Chełmińskie",
+      "type": "Voivodeship",
+      "total_population": 577,
+      "locations": [
+        {
+          "name": "Ostromęcko",
+          "type": "City",
+          "population": 39,
+          "notes": "gdzie iest Synagoga"
+        },
+        {
+          "name": "Torunska",
+          "type": "Parish",
+          "population": 43
+        },
+        {
+          "name": "Pokrzywińska",
+          "type": "Parish",
+          "population": 43
+        },
+        {
+          "name": "Płowęzkowska",
+          "type": "Parish",
+          "population": 80
+        },
+        {
+          "name": "Filowska",
+          "type": "Parish",
+          "population": 172
+        },
+        {
+          "name": "Bratyańska",
+          "type": "Parish",
+          "population": 52
+        },
+        {
+          "name": "Wlewska",
+          "type": "Parish",
+          "population": 34,
+          "notes": "pod Lidzbarkiem"
+        },
+        {
+          "name": "Szemrucka",
+          "type": "Parish",
+          "population": 93,
+          "notes": "w Ekom. Rogozi."
+        },
+        {
+          "name": "Cyborska y Lidzbarska",
+          "type": "Parish",
+          "population": 21
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Malborskie",
+      "type": "Voivodeship",
+      "locations": [
+        {
+          "name": "Brodzent",
+          "type": "Village",
+          "population": 86,
+          "notes": "Starostwa Kiszporskiego"
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Pomorskie",
+      "type": "Voivodeship",
+      "total_population": 2731,
+      "locations": [
+        {
+          "name": "Kolincz, Owidz y Barchnowy",
+          "type": "Villages",
+          "population": 300,
+          "notes": "w powiecie Tczewskim"
+        },
+        {
+          "name": "Mosty",
+          "type": "Village",
+          "population": 97,
+          "notes": "do Klonowki w tymże powiecie"
+        },
+        {
+          "name": "Woytal seu Odry",
+          "type": "Village",
+          "population": 35,
+          "notes": "w tymże powiecie"
+        },
+        {
+          "name": "Przedmieście Człuchowskie y wieś Lendyk",
+          "type": "Suburb and Village",
+          "population": 419
+        },
+        {
+          "name": "Zarzece",
+          "type": "Village",
+          "population": 37,
+          "notes": "w powiecie Człuchowskim"
+        },
+        {
+          "name": "Malechin",
+          "type": "Village",
+          "population": 11,
+          "notes": "w powiecie Tucholskim"
+        },
+        {
+          "name": "Hoppembrug",
+          "type": "Village",
+          "population": 514,
+          "notes": "przy Gdańsku"
+        },
+        {
+          "name": "Chwarzcienko",
+          "type": "Village",
+          "population": 44,
+          "notes": "w pow. Tczewskim"
+        },
+        {
+          "name": "Grabowo y ieden gospodarz w Stwie Białem",
+          "type": "Village",
+          "population": 95
+        },
+        {
+          "name": "Podzamcze Kościerzyńskie",
+          "type": "Village",
+          "population": 43
+        },
+        {
+          "name": "Podzamcze Hamersztyńskie",
+          "type": "Village",
+          "population": 80
+        },
+        {
+          "name": "Tucholskie y wieś Linsk",
+          "type": "Village",
+          "population": 64
+        },
+        {
+          "name": "Weinberg",
+          "type": "Village",
+          "population": 364,
+          "notes": "przy Gdańsku"
+        },
+        {
+          "name": "Kosnica",
+          "type": "Village",
+          "population": 37,
+          "notes": "w powiecie Mirachow"
+        },
+        {
+          "name": "Langforty, Heiligenbrun",
+          "type": "Villages",
+          "population": 230,
+          "notes": "w powiecie Gdańskim"
+        },
+        {
+          "name": "Belnow",
+          "type": "Village",
+          "population": 51,
+          "notes": "w powiecie Świeckim"
+        },
+        {
+          "name": "Bukowiec",
+          "type": "Village",
+          "population": 140,
+          "notes": "w powiecie tymże"
+        },
+        {
+          "name": "Bolszewo",
+          "type": "Village",
+          "population": 85,
+          "notes": "w powiecie Puckim"
+        },
+        {
+          "name": "Grupa",
+          "type": "Village",
+          "population": 23,
+          "notes": "w powiecie Świeckim"
+        },
+        {
+          "name": "Bochlin",
+          "type": "Village",
+          "population": 43,
+          "notes": "w powiecie Nowskim"
+        },
+        {
+          "name": "Osieczno",
+          "type": "Village",
+          "population": 5,
+          "notes": "vel w Wielkim Komorze"
+        },
+        {
+          "name": "Krokow",
+          "type": "Village",
+          "population": 24
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Ziemia Dobrzyńska",
+      "type": "Land",
+      "total_population": 1082,
+      "locations": [
+        {
+          "name": "Dobrzyń",
+          "type": "City",
+          "population": 757,
+          "notes": "Synagogi"
+        },
+        {
+          "name": "Lipno",
+          "type": "City",
+          "population": 58,
+          "notes": "communittis"
+        },
+        {
+          "name": "Kikoł",
+          "type": "City",
+          "population": 102,
+          "notes": "communittis"
+        },
+        {
+          "name": "Radzikowscy Żydzi",
+          "type": "Other",
+          "population": 165
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Ruskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Lwowska",
+          "type": "Land",
+          "total_population": 34630,
+          "locations": [
+            {
+              "name": "Lwów",
+              "type": "City",
+              "population": 6378,
+              "notes": "z parafią"
+            },
+            {
+              "name": "Janów",
+              "type": "City",
+              "population": 244,
+              "notes": "z p."
+            },
+            {
+              "name": "Jaworow",
+              "type": "City",
+              "population": 1055,
+              "notes": "z p."
+            },
+            {
+              "name": "Złoczow",
+              "type": "City",
+              "population": 1656,
+              "notes": "z p."
+            },
+            {
+              "name": "Zborow",
+              "type": "City",
+              "population": 800,
+              "notes": "z p."
+            },
+            {
+              "name": "Gliniany",
+              "type": "City",
+              "population": 811,
+              "notes": "z p."
+            },
+            {
+              "name": "Jaryczow",
+              "type": "City",
+              "population": 764,
+              "notes": "z p."
+            },
+            {
+              "name": "Toporow",
+              "type": "City",
+              "population": 188,
+              "notes": "z p."
+            },
+            {
+              "name": "Sokołowka",
+              "type": "City",
+              "population": 159,
+              "notes": "z p."
+            },
+            {
+              "name": "Brody",
+              "type": "City",
+              "population": 6877,
+              "notes": "z p."
+            },
+            {
+              "name": "Olesko",
+              "type": "City",
+              "population": 771,
+              "notes": "z p."
+            },
+            {
+              "name": "Sasów",
+              "type": "City",
+              "population": 230,
+              "notes": "z p."
+            },
+            {
+              "name": "Gołogury",
+              "type": "City",
+              "population": 619,
+              "notes": "z p."
+            },
+            {
+              "name": "Białykamień",
+              "type": "City",
+              "population": 345,
+              "notes": "z p."
+            },
+            {
+              "name": "Brzeżany",
+              "type": "City",
+              "population": 1270,
+              "notes": "z p."
+            },
+            {
+              "name": "Przemyślany",
+              "type": "City",
+              "population": 789,
+              "notes": "z p."
+            },
+            {
+              "name": "Narajow",
+              "type": "City",
+              "population": 286,
+              "notes": "z p."
+            },
+            {
+              "name": "Kozowa",
+              "type": "City",
+              "population": 338,
+              "notes": "z p."
+            },
+            {
+              "name": "Kniechynicze",
+              "type": "City",
+              "population": 250,
+              "notes": "z p."
+            },
+            {
+              "name": "Swierz",
+              "type": "City",
+              "population": 933,
+              "notes": "z p."
+            },
+            {
+              "name": "Bubrka",
+              "type": "City",
+              "population": 840,
+              "notes": "z p."
+            },
+            {
+              "name": "Nawarya",
+              "type": "City",
+              "population": 140,
+              "notes": "z p."
+            },
+            {
+              "name": "Grodek",
+              "type": "City",
+              "population": 995,
+              "notes": "z p."
+            },
+            {
+              "name": "Szczyrzec",
+              "type": "City",
+              "population": 545,
+              "notes": "z p."
+            },
+            {
+              "name": "Komarno",
+              "type": "City",
+              "population": 1530,
+              "notes": "z p."
+            },
+            {
+              "name": "Żółkiew",
+              "type": "City",
+              "population": 2002,
+              "notes": "z p."
+            },
+            {
+              "name": "Kulikow",
+              "type": "City",
+              "population": 409,
+              "notes": "z p."
+            },
+            {
+              "name": "Strumiłowa Kamionka",
+              "type": "City",
+              "population": 617,
+              "notes": "z p."
+            },
+            {
+              "name": "Podkamień",
+              "type": "City",
+              "population": 985,
+              "notes": "z p."
+            },
+            {
+              "name": "Wybranowka",
+              "type": "City",
+              "population": 2501,
+              "notes": "z p."
+            },
+            {
+              "name": "Strzeliska",
+              "type": "City",
+              "population": 553,
+              "notes": "z p."
+            },
+            {
+              "name": "Stanisławczyk",
+              "type": "City",
+              "population": 126,
+              "notes": "z p."
+            },
+            {
+              "name": "Pomorzany",
+              "type": "City",
+              "population": 739
+            },
+            {
+              "name": "Kuliczkow",
+              "type": "Other",
+              "population": 55,
+              "notes": "Karaimów"
+            },
+            {
+              "name": "Dunajow",
+              "type": "City",
+              "population": 81,
+              "notes": "Accedit miasteczko"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Przemyska",
+          "type": "Land",
+          "total_population": 25724,
+          "locations": [
+            {
+              "name": "Lezayski",
+              "type": "Kachał",
+              "population": 909,
+              "notes": "z p."
+            },
+            {
+              "name": "Sieniawski",
+              "type": "Kachał",
+              "population": 1115,
+              "notes": "z p."
+            },
+            {
+              "name": "Przeworski",
+              "type": "Kachał",
+              "population": 969,
+              "notes": "z p."
+            },
+            {
+              "name": "Nowomiescka",
+              "type": "Synagoga",
+              "population": 245,
+              "notes": "z p."
+            },
+            {
+              "name": "Łańcucki",
+              "type": "Kahał",
+              "population": 829,
+              "notes": "z p."
+            },
+            {
+              "name": "Lubomierz",
+              "type": "Synagoga",
+              "population": 446,
+              "notes": "z p."
+            },
+            {
+              "name": "Krzeszowski",
+              "type": "Kachał",
+              "population": 413,
+              "notes": "z p."
+            },
+            {
+              "name": "Tarnogrodzki",
+              "type": "Kachał",
+              "population": 1606,
+              "notes": "z p."
+            },
+            {
+              "name": "Drohobycki",
+              "type": "Kachał",
+              "population": 1923,
+              "notes": "z p."
+            },
+            {
+              "name": "Kańczuga",
+              "type": "Kachał",
+              "population": 247,
+              "notes": "z p."
+            },
+            {
+              "name": "Grodziska",
+              "type": "Synagoga",
+              "population": 280,
+              "notes": "z p."
+            },
+            {
+              "name": "Chyrowski",
+              "type": "Kachał",
+              "population": 455,
+              "notes": "z p."
+            },
+            {
+              "name": "Hussakowski",
+              "type": "Kachał",
+              "population": 385,
+              "notes": "z p."
+            },
+            {
+              "name": "Tyczyński",
+              "type": "Kachał",
+              "population": 586,
+              "notes": "z p."
+            },
+            {
+              "name": "Stary Sambor",
+              "type": "Kachał",
+              "population": 193
+            },
+            {
+              "name": "Pruchnicki",
+              "type": "Kachał",
+              "population": 280,
+              "notes": "z p."
+            },
+            {
+              "name": "Krasiczyński",
+              "type": "Kachał",
+              "population": 159,
+              "notes": "z p."
+            },
+            {
+              "name": "Ustrzyg",
+              "type": "Synagoga",
+              "population": 99,
+              "notes": "z p."
+            },
+            {
+              "name": "Łaszek y Fulsztyna",
+              "type": "Synagoga",
+              "population": 164
+            },
+            {
+              "name": "Biercza",
+              "type": "Synagoga",
+              "population": 214,
+              "notes": "z p."
+            },
+            {
+              "name": "Wiszenka",
+              "type": "Synagoga",
+              "population": 291,
+              "notes": "z p."
+            },
+            {
+              "name": "Rzeszowski",
+              "type": "Kachał",
+              "population": 1202,
+              "notes": "z p."
+            },
+            {
+              "name": "Nowy Sambor",
+              "type": "Kachał",
+              "population": 513
+            },
+            {
+              "name": "Starosolska",
+              "type": "Synagoga",
+              "population": 229,
+              "notes": "z p."
+            },
+            {
+              "name": "Krzywcza",
+              "type": "Synagoga",
+              "population": 98,
+              "notes": "z p."
+            },
+            {
+              "name": "Mościcki",
+              "type": "Kachał",
+              "population": 912,
+              "notes": "z p."
+            },
+            {
+              "name": "Dobromilski",
+              "type": "Kachał",
+              "population": 1153,
+              "notes": "z p."
+            },
+            {
+              "name": "Krakowicki",
+              "type": "Kachał",
+              "population": 462,
+              "notes": "z p."
+            },
+            {
+              "name": "Rybotycka",
+              "type": "Synagoga",
+              "population": 251,
+              "notes": "z p."
+            },
+            {
+              "name": "Sokołowski",
+              "type": "Kachał",
+              "population": 754,
+              "notes": "z p."
+            },
+            {
+              "name": "Turczeński",
+              "type": "Kachał",
+              "population": 1250,
+              "notes": "z p."
+            },
+            {
+              "name": "Stryiski",
+              "type": "Kachał",
+              "population": 1727,
+              "notes": "z p."
+            },
+            {
+              "name": "Jarosławski",
+              "type": "Kachał",
+              "population": 1884,
+              "notes": "z p."
+            },
+            {
+              "name": "Skolski",
+              "type": "Kachał",
+              "population": 1063,
+              "notes": "z p."
+            },
+            {
+              "name": "Przemyski",
+              "type": "Kachał",
+              "population": 2418,
+              "notes": "z p."
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Sanocka",
+          "type": "Land",
+          "total_population": 4646,
+          "locations": [
+            {
+              "name": "Sanocki",
+              "type": "Kachał",
+              "population": 467,
+              "notes": "z p."
+            },
+            {
+              "name": "Liski",
+              "type": "Kachał",
+              "population": 1656,
+              "notes": "z p."
+            },
+            {
+              "name": "Rymanowski",
+              "type": "Kachał",
+              "population": 1015,
+              "notes": "z p."
+            },
+            {
+              "name": "Baligrodzki",
+              "type": "Kachał",
+              "population": 144,
+              "notes": "z p."
+            },
+            {
+              "name": "Dubiecki",
+              "type": "Kachał",
+              "population": 136,
+              "notes": "z p."
+            },
+            {
+              "name": "Dynowski",
+              "type": "Kachał",
+              "population": 1228,
+              "notes": "z p."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Ruskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Żydaczewski",
+          "type": "County",
+          "total_population": 5536,
+          "locations": [
+            {
+              "name": "Żydaczew",
+              "type": "City",
+              "population": 292,
+              "notes": "z parafią"
+            },
+            {
+              "name": "Żurawno",
+              "type": "City",
+              "population": 770,
+              "notes": "z p."
+            },
+            {
+              "name": "Żurów",
+              "type": "City",
+              "population": 74,
+              "notes": "z p."
+            },
+            {
+              "name": "Brozdowce",
+              "type": "City",
+              "population": 303
+            },
+            {
+              "name": "Chodorow",
+              "type": "City",
+              "population": 852,
+              "notes": "z p."
+            },
+            {
+              "name": "Ruzdoł",
+              "type": "City",
+              "population": 884,
+              "notes": "z p."
+            },
+            {
+              "name": "Dolina",
+              "type": "City",
+              "population": 714,
+              "notes": "z p."
+            },
+            {
+              "name": "Bolechowy",
+              "type": "City",
+              "population": 883,
+              "notes": "z p."
+            },
+            {
+              "name": "Sokołow",
+              "type": "City",
+              "population": 286,
+              "notes": "z p."
+            },
+            {
+              "name": "Rozniatow",
+              "type": "City",
+              "population": 478,
+              "notes": "z p."
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Halicka",
+          "type": "Land",
+          "total_population": 12304,
+          "locations": [
+            {
+              "name": "Halicz",
+              "type": "City",
+              "population": 94,
+              "notes": "Karaimów"
+            },
+            {
+              "name": "Halicz",
+              "type": "City",
+              "population": 365,
+              "notes": "Żydów z wsiami parafialnemi"
+            },
+            {
+              "name": "Monasterzyska",
+              "type": "City",
+              "population": 877,
+              "notes": "nowe i stare"
+            },
+            {
+              "name": "Jezupol",
+              "type": "City",
+              "population": 133,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Maryampol",
+              "type": "City",
+              "population": 229,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Tłomacz",
+              "type": "City",
+              "population": 493,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Bukaczowce",
+              "type": "City",
+              "population": 338,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Uście",
+              "type": "City",
+              "population": 451,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Tyśmienica",
+              "type": "City",
+              "population": 908,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kałusz",
+              "type": "City",
+              "population": 1662,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Stanisławów",
+              "type": "City",
+              "population": 908,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Buczacz",
+              "type": "City",
+              "population": 1267,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Zawołów",
+              "type": "City",
+              "population": 204,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Potok",
+              "type": "City",
+              "population": 417,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Martynow",
+              "type": "City",
+              "population": 75,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Rochatyn",
+              "type": "City",
+              "population": 1237,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Bursztyn",
+              "type": "City",
+              "population": 481,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Podheyce",
+              "type": "City",
+              "population": 1290,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Bełszowiec",
+              "type": "City",
+              "population": 226,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Niźniow",
+              "type": "City",
+              "population": 154,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Woyniłow",
+              "type": "City",
+              "population": 495,
+              "notes": "z w. p."
+            }
+          ]
+        },
+        {
+          "name": "Powiat Trembowolski",
+          "type": "County",
+          "total_population": 7018,
+          "locations": [
+            {
+              "name": "Trembowla",
+              "type": "City",
+              "population": 617,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Mikulince",
+              "type": "City",
+              "population": 463,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Grzymałów",
+              "type": "City",
+              "population": 693,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Towste",
+              "type": "City",
+              "population": 402,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kopczyńce",
+              "type": "City",
+              "population": 407,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Suchostaw czyli Jabłonow",
+              "type": "City",
+              "population": 213,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Czortkow",
+              "type": "City",
+              "population": 812,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Skałat",
+              "type": "City",
+              "population": 640,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Janów",
+              "type": "City",
+              "population": 447,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Budzanow",
+              "type": "City",
+              "population": 400,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Tarnopol",
+              "type": "City",
+              "population": 1680,
+              "notes": "miasteczko"
+            },
+            {
+              "name": "Kozłow y Kopczyńce",
+              "type": "City",
+              "population": 244,
+              "notes": "z w. p."
+            }
+          ]
+        },
+        {
+          "name": "Powiat Kołomyski",
+          "type": "County",
+          "total_population": 10253,
+          "locations": [
+            {
+              "name": "Kołomyia",
+              "type": "City",
+              "population": 1059,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Solotwina",
+              "type": "City",
+              "population": 471,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Pistynia",
+              "type": "City",
+              "population": 233,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Jabłonow czyli Słupczate",
+              "type": "City",
+              "population": 467,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Śniatyn",
+              "type": "City",
+              "population": 1123,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kuty",
+              "type": "City",
+              "population": 1013,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Gwozdia",
+              "type": "City",
+              "population": 659,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Zabłatow",
+              "type": "City",
+              "population": 946,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Pohorodczany",
+              "type": "City",
+              "population": 646,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kossow",
+              "type": "City",
+              "population": 225,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kossow",
+              "type": "City",
+              "population": 118,
+              "notes": "Alterius Dominii z w. p."
+            },
+            {
+              "name": "Kamionki Wielkie",
+              "type": "City",
+              "population": 56,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Ottenia",
+              "type": "City",
+              "population": 345,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Lipiec",
+              "type": "City",
+              "population": 171,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Nadworna",
+              "type": "City",
+              "population": 1196,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Obertyn",
+              "type": "City",
+              "population": 419,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Horodynka",
+              "type": "City",
+              "population": 956,
+              "notes": "z w. p."
+            },
+            {
+              "name": "Kułaczkowce",
+              "type": "City",
+              "population": 150,
+              "notes": "z w. p."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Ziemia Chełmska",
+      "type": "Land",
+      "total_population": 9787,
+      "locations": [
+        {
+          "name": "Chełmski",
+          "type": "Kachał",
+          "population": 1418,
+          "notes": "z parafiami"
+        },
+        {
+          "name": "Krośniczyński",
+          "type": "Kachał",
+          "population": 196,
+          "notes": "z p."
+        },
+        {
+          "name": "Krasnobrodzki",
+          "type": "Kachał",
+          "population": 245,
+          "notes": "z p."
+        },
+        {
+          "name": "Hrubieszewski",
+          "type": "Kachał",
+          "population": 1023,
+          "notes": "z p."
+        },
+        {
+          "name": "Kryłowski",
+          "type": "Kachał",
+          "population": 470,
+          "notes": "z p."
+        },
+        {
+          "name": "Uchański",
+          "type": "Kachał",
+          "population": 175,
+          "notes": "z p."
+        },
+        {
+          "name": "Rejowiecki",
+          "type": "Kachał",
+          "population": 437,
+          "notes": "z p."
+        },
+        {
+          "name": "Lubomlski",
+          "type": "Kachał",
+          "population": 1226,
+          "notes": "z p."
+        },
+        {
+          "name": "Turobiński",
+          "type": "Kachał",
+          "population": 985,
+          "notes": "z p."
+        },
+        {
+          "name": "Szczebreszyński",
+          "type": "Kachał",
+          "population": 444,
+          "notes": "z p."
+        },
+        {
+          "name": "Przedmieście Krasnostawskie",
+          "type": "Kachał",
+          "population": 86,
+          "notes": "alias"
+        },
+        {
+          "name": "Żułkiewka",
+          "type": "City",
+          "population": 98
+        },
+        {
+          "name": "Tarnogurski",
+          "type": "Kachał",
+          "population": 100
+        },
+        {
+          "name": "Zamoyski",
+          "type": "Kachał",
+          "population": 1905,
+          "notes": "z p."
+        },
+        {
+          "name": "Opaliński",
+          "type": "Kachał",
+          "population": 139,
+          "notes": "z p."
+        },
+        {
+          "name": "Swierzowski",
+          "type": "Kachał",
+          "population": 158,
+          "notes": "z p."
+        },
+        {
+          "name": "Siedliszcze",
+          "type": "City",
+          "population": 25,
+          "notes": "nowey lokacyi"
+        },
+        {
+          "name": "Ratno",
+          "type": "City",
+          "population": 210,
+          "notes": "z p."
+        },
+        {
+          "name": "Maciejów",
+          "type": "City",
+          "population": 343,
+          "notes": "z p."
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Lubelskie",
+      "type": "Voivodeship",
+      "total_population": 20107,
+      "locations": [
+        {
+          "name": "Biskupice",
+          "type": "City",
+          "population": 60
+        },
+        {
+          "name": "Baranów",
+          "type": "City",
+          "population": 513
+        },
+        {
+          "name": "Bełżyce",
+          "type": "City",
+          "population": 946
+        },
+        {
+          "name": "Bychawa",
+          "type": "City",
+          "population": 413
+        },
+        {
+          "name": "Biłgoray",
+          "type": "City",
+          "population": 661
+        },
+        {
+          "name": "Czemierniki",
+          "type": "City",
+          "population": 325
+        },
+        {
+          "name": "Frannopol",
+          "type": "City",
+          "population": 191
+        },
+        {
+          "name": "Głusko",
+          "type": "City",
+          "population": 333
+        },
+        {
+          "name": "Goray",
+          "type": "City",
+          "population": 332
+        },
+        {
+          "name": "Janów",
+          "type": "City",
+          "population": 461
+        },
+        {
+          "name": "Józefów",
+          "type": "City",
+          "population": 924
+        },
+        {
+          "name": "Kazimierz",
+          "type": "City",
+          "population": 415
+        },
+        {
+          "name": "Kalinowszczyzna",
+          "type": "City",
+          "population": 325
+        },
+        {
+          "name": "Końska Wola",
+          "type": "City",
+          "population": 569
+        },
+        {
+          "name": "Kurów",
+          "type": "City",
+          "population": 1092
+        },
+        {
+          "name": "Kraśnik",
+          "type": "City",
+          "population": 1343
+        },
+        {
+          "name": "Kock",
+          "type": "City",
+          "population": 793
+        },
+        {
+          "name": "Lubartów",
+          "type": "City",
+          "population": 1018
+        },
+        {
+          "name": "Lublin",
+          "type": "City",
+          "population": 1634
+        },
+        {
+          "name": "Łęczna",
+          "type": "City",
+          "population": 724
+        },
+        {
+          "name": "Łuków",
+          "type": "City",
+          "population": 1563
+        },
+        {
+          "name": "Modliborzyce",
+          "type": "City",
+          "population": 350
+        },
+        {
+          "name": "Markuszew",
+          "type": "City",
+          "population": 356
+        },
+        {
+          "name": "Ostrów",
+          "type": "City",
+          "population": 344
+        },
+        {
+          "name": "Opole",
+          "type": "City",
+          "population": 487
+        },
+        {
+          "name": "Piaski",
+          "type": "City",
+          "population": 602,
+          "notes": "mil 3 od Lublina"
+        },
+        {
+          "name": "Piaski",
+          "type": "City",
+          "population": 104,
+          "notes": "pod Lublinem"
+        },
+        {
+          "name": "Parczew",
+          "type": "City",
+          "population": 454
+        },
+        {
+          "name": "Rachow",
+          "type": "City",
+          "population": 173
+        },
+        {
+          "name": "Radzyń",
+          "type": "City",
+          "population": 797
+        },
+        {
+          "name": "Siedlce",
+          "type": "City",
+          "population": 531
+        },
+        {
+          "name": "Wieniawa",
+          "type": "City",
+          "population": 403
+        },
+        {
+          "name": "Włostowice",
+          "type": "City",
+          "population": 146
+        },
+        {
+          "name": "Wysokie",
+          "type": "City",
+          "population": 123
+        },
+        {
+          "name": "Zbuczyn",
+          "type": "City",
+          "population": 122
+        },
+        {
+          "name": "Zaklików",
+          "type": "City",
+          "population": 480
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Wołyńskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Krzemieniecki",
+          "type": "County",
+          "total_population": 20089,
+          "locations": [
+            {
+              "name": "Konstantynów Stary i nowy",
+              "type": "City",
+              "population": 1801,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Wiśniowiec Stary i nowy",
+              "type": "City",
+              "population": 664,
+              "notes": "z p."
+            },
+            {
+              "name": "Werba",
+              "type": "City",
+              "population": 181,
+              "notes": "z p."
+            },
+            {
+              "name": "Ptycza",
+              "type": "City",
+              "population": 112,
+              "notes": "z p."
+            },
+            {
+              "name": "Połonne stare",
+              "type": "City",
+              "population": 581,
+              "notes": "z Wolą y Przed. Wol."
+            },
+            {
+              "name": "Maryan z Tarnowem",
+              "type": "City",
+              "population": 897,
+              "notes": "94 897"
+            },
+            {
+              "name": "Kamienczyc",
+              "type": "City",
+              "population": 150
+            },
+            {
+              "name": "Wsie, to jest parafie",
+              "type": "Other",
+              "population": 72
+            },
+            {
+              "name": "Połonne nowe",
+              "type": "City",
+              "population": 344
+            },
+            {
+              "name": "Baranowka",
+              "type": "City",
+              "population": 544,
+              "notes": "z wsiami 142"
+            },
+            {
+              "name": "Ostropol",
+              "type": "City",
+              "population": 860,
+              "notes": "589 | 222 | 49"
+            },
+            {
+              "name": "Sudyłkow",
+              "type": "City",
+              "population": 397,
+              "notes": "z p."
+            },
+            {
+              "name": "Lubar",
+              "type": "City",
+              "population": 405
+            },
+            {
+              "name": "Ostropol nowy",
+              "type": "City",
+              "population": 62
+            },
+            {
+              "name": "Szepetowka",
+              "type": "City",
+              "population": 390,
+              "notes": "z p."
+            },
+            {
+              "name": "Sławuta",
+              "type": "City",
+              "population": 246,
+              "notes": "z p."
+            },
+            {
+              "name": "Łabuń stary",
+              "type": "City",
+              "population": 316
+            },
+            {
+              "name": "Łabuń nowy",
+              "type": "City",
+              "population": 678,
+              "notes": "116 678"
+            },
+            {
+              "name": "To iest wsie parafie",
+              "type": "Other",
+              "population": 246
+            },
+            {
+              "name": "Olexyniec nowy",
+              "type": "City",
+              "population": 95
+            },
+            {
+              "name": "Olexyniec stary",
+              "type": "City",
+              "population": 317,
+              "notes": "8 317"
+            },
+            {
+              "name": "Wsie to iest parafie",
+              "type": "Other",
+              "population": 114
+            },
+            {
+              "name": "Wołoczysko",
+              "type": "City",
+              "population": 774,
+              "notes": "z p."
+            },
+            {
+              "name": "Wyżgrodek",
+              "type": "City",
+              "population": 668,
+              "notes": "z p."
+            },
+            {
+              "name": "Kozin",
+              "type": "City",
+              "population": 332,
+              "notes": "z p."
+            },
+            {
+              "name": "Stary Zasław",
+              "type": "City",
+              "population": 2047
+            },
+            {
+              "name": "Nowy Zasław",
+              "type": "City",
+              "population": 3891,
+              "notes": "z jozefpolem 760"
+            },
+            {
+              "name": "Białogródka",
+              "type": "City",
+              "population": 100
+            },
+            {
+              "name": "Wsie to iest parafie",
+              "type": "Other",
+              "population": 984
+            },
+            {
+              "name": "Łachowce",
+              "type": "City",
+              "population": 860,
+              "notes": "589"
+            },
+            {
+              "name": "Kornica",
+              "type": "City",
+              "population": 491
+            },
+            {
+              "name": "Radziwiłow",
+              "type": "City",
+              "population": 298,
+              "notes": "z p."
+            },
+            {
+              "name": "Leśniow",
+              "type": "City",
+              "population": 494,
+              "notes": "z p."
+            },
+            {
+              "name": "Horynki",
+              "type": "City",
+              "population": 203,
+              "notes": "z p."
+            },
+            {
+              "name": "Jampol",
+              "type": "City",
+              "population": 476,
+              "notes": "z p."
+            },
+            {
+              "name": "Zbaraż",
+              "type": "City",
+              "population": 910,
+              "notes": "z p."
+            },
+            {
+              "name": "Krupiec",
+              "type": "City",
+              "population": 114,
+              "notes": "z p."
+            },
+            {
+              "name": "Tofipol",
+              "type": "City",
+              "population": 516,
+              "notes": "z p."
+            },
+            {
+              "name": "Szumsk",
+              "type": "City",
+              "population": 170,
+              "notes": "z p."
+            },
+            {
+              "name": "Rochmanow",
+              "type": "City",
+              "population": 170,
+              "notes": "z p."
+            },
+            {
+              "name": "Łanowce",
+              "type": "City",
+              "population": 85,
+              "notes": "z p."
+            },
+            {
+              "name": "Kuzmin",
+              "type": "City",
+              "population": 232,
+              "notes": "z p."
+            },
+            {
+              "name": "Kulczyn",
+              "type": "City",
+              "population": 288,
+              "notes": "z p."
+            },
+            {
+              "name": "Bazalia",
+              "type": "City",
+              "population": 240,
+              "notes": "z p."
+            },
+            {
+              "name": "Krasyłow",
+              "type": "City",
+              "population": 273,
+              "notes": "z p."
+            },
+            {
+              "name": "Krzemieniec",
+              "type": "City",
+              "population": 1029,
+              "notes": "z p."
+            },
+            {
+              "name": "Kuniow",
+              "type": "City",
+              "population": 325,
+              "notes": "z p."
+            },
+            {
+              "name": "Hrycow",
+              "type": "City",
+              "population": 86,
+              "notes": "z p."
+            },
+            {
+              "name": "Ozochowce",
+              "type": "City",
+              "population": 317,
+              "notes": "z p."
+            },
+            {
+              "name": "Załoszcze",
+              "type": "City",
+              "population": 644,
+              "notes": "z p."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Podolskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Kamieniecki i Czerwonogrodzki",
+          "type": "County",
+          "total_population": 20390,
+          "locations": [
+            {
+              "name": "Baliński",
+              "type": "Kachał",
+              "population": 211,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Bilzecki",
+              "type": "Kachał",
+              "population": 69,
+              "notes": "z p."
+            },
+            {
+              "name": "Borszczowski",
+              "type": "Kachał",
+              "population": 301,
+              "notes": "z p."
+            },
+            {
+              "name": "Zwierzchaykówce",
+              "type": "Village",
+              "population": 16,
+              "notes": "Accessit do niegoż wieś"
+            },
+            {
+              "name": "Czerczecki",
+              "type": "Kachał",
+              "population": 270,
+              "notes": "z p."
+            },
+            {
+              "name": "Czarnokozince",
+              "type": "Kachał",
+              "population": 308,
+              "notes": "z kachałem Uścieskim y p."
+            },
+            {
+              "name": "Czerwonogrodzki",
+              "type": "Kachał",
+              "population": 214,
+              "notes": "z p."
+            },
+            {
+              "name": "Dunajowiecki",
+              "type": "Kachał",
+              "population": 598,
+              "notes": "z p."
+            },
+            {
+              "name": "Dźwinogród",
+              "type": "Starostwo",
+              "population": 62,
+              "notes": "z p."
+            },
+            {
+              "name": "Franpolski",
+              "type": "Kachał",
+              "population": 157,
+              "notes": "z p."
+            },
+            {
+              "name": "Fulsztyński",
+              "type": "Kachał",
+              "population": 211,
+              "notes": "Sortis Chorążego Czerwonogrodzk. z p."
+            },
+            {
+              "name": "Gródecki",
+              "type": "Kachał",
+              "population": 646,
+              "notes": "z p."
+            },
+            {
+              "name": "Ludwipol",
+              "type": "Village",
+              "population": 8,
+              "notes": "Accessit wieś czyli Giersze"
+            },
+            {
+              "name": "Husiatyński",
+              "type": "Kachał",
+              "population": 1435,
+              "notes": "z p."
+            },
+            {
+              "name": "Jagielnicki",
+              "type": "Kachał",
+              "population": 347,
+              "notes": "z p."
+            },
+            {
+              "name": "Jarmoliniecki",
+              "type": "Kachał",
+              "population": 293,
+              "notes": "z p."
+            },
+            {
+              "name": "Jezierzański",
+              "type": "Kachał",
+              "population": 704,
+              "notes": "z p."
+            },
+            {
+              "name": "Jazłowiecki",
+              "type": "Kachał",
+              "population": 544,
+              "notes": "z p."
+            },
+            {
+              "name": "Kitaygrodzki",
+              "type": "Kachał",
+              "population": 489,
+              "notes": "z p."
+            },
+            {
+              "name": "Kaluski",
+              "type": "Kachał",
+              "population": 149,
+              "notes": "z p."
+            },
+            {
+              "name": "Kudrynecki",
+              "type": "Kachał",
+              "population": 223,
+              "notes": "z p."
+            },
+            {
+              "name": "Kupiński",
+              "type": "Kachał",
+              "population": 405,
+              "notes": "z p."
+            },
+            {
+              "name": "Krzywczecki",
+              "type": "Kachał",
+              "population": 476,
+              "notes": "z p."
+            },
+            {
+              "name": "Kuźmiński",
+              "type": "Kachał",
+              "population": 208,
+              "notes": "z p."
+            },
+            {
+              "name": "Królowiecki",
+              "type": "Kachał",
+              "population": 226,
+              "notes": "z p."
+            },
+            {
+              "name": "Kałukow Gródecki",
+              "type": "Kachał",
+              "population": 82,
+              "notes": "z p."
+            },
+            {
+              "name": "Kasperowce",
+              "type": "Village",
+              "population": 76,
+              "notes": "z wsiami alias parafiami"
+            },
+            {
+              "name": "Lanckoroński",
+              "type": "Kachał",
+              "population": 631,
+              "notes": "z p."
+            },
+            {
+              "name": "Makowski",
+              "type": "Kachał",
+              "population": 313,
+              "notes": "z p."
+            },
+            {
+              "name": "Minkowiecki",
+              "type": "Kachał",
+              "population": 378,
+              "notes": "z p."
+            },
+            {
+              "name": "Oryniński",
+              "type": "Kachał",
+              "population": 436,
+              "notes": "3 sortium. z p."
+            },
+            {
+              "name": "Okopski",
+              "type": "Kachał",
+              "population": 230,
+              "notes": "z p."
+            },
+            {
+              "name": "Pobuźniański",
+              "type": "Kachał",
+              "population": 222,
+              "notes": "z p."
+            },
+            {
+              "name": "Sawiniecki",
+              "type": "Kachał",
+              "population": 82,
+              "notes": "z p."
+            },
+            {
+              "name": "Satanowski",
+              "type": "Kachał",
+              "population": 1625,
+              "notes": "z p."
+            },
+            {
+              "name": "Sidorowski",
+              "type": "Kachał",
+              "population": 73,
+              "notes": "z p."
+            },
+            {
+              "name": "Skalski",
+              "type": "Kachał",
+              "population": 362,
+              "notes": "z p."
+            },
+            {
+              "name": "Studeniecki",
+              "type": "Kachał",
+              "population": 274,
+              "notes": "z p."
+            },
+            {
+              "name": "Smotrycki",
+              "type": "Kachał",
+              "population": 375,
+              "notes": "z p."
+            },
+            {
+              "name": "Sołobkowiecki",
+              "type": "Kachał",
+              "population": 530,
+              "notes": "z p."
+            },
+            {
+              "name": "Szatawski",
+              "type": "Kachał",
+              "population": 164,
+              "notes": "z p."
+            },
+            {
+              "name": "Sckulecki",
+              "type": "Kachał",
+              "population": 356,
+              "notes": "z p."
+            },
+            {
+              "name": "Tarnowodzki",
+              "type": "Kachał",
+              "population": 771,
+              "notes": "z p."
+            },
+            {
+              "name": "Tłustecki",
+              "type": "Kachał",
+              "population": 355,
+              "notes": "z p."
+            },
+            {
+              "name": "Ułaszkowiecki",
+              "type": "Kachał",
+              "population": 96,
+              "notes": "z p."
+            },
+            {
+              "name": "Uszycki",
+              "type": "Kachał",
+              "population": 338,
+              "notes": "z p."
+            },
+            {
+              "name": "Zaleszczycki",
+              "type": "Kachał",
+              "population": 362,
+              "notes": "z p."
+            },
+            {
+              "name": "Żwaniecki",
+              "type": "Kachał",
+              "population": 1568,
+              "notes": "z p."
+            },
+            {
+              "name": "Zbrzyzki",
+              "type": "Kachał",
+              "population": 793,
+              "notes": "z p."
+            },
+            {
+              "name": "Kolendziany",
+              "type": "Village",
+              "population": 38,
+              "notes": "z wsiami"
+            }
+          ]
+        },
+        {
+          "name": "Powiat Latyczewski",
+          "type": "County",
+          "total_population": 17994,
+          "locations": [
+            {
+              "name": "Latyczew",
+              "type": "City",
+              "population": 652,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Stara Siniawa",
+              "type": "City",
+              "population": 834,
+              "notes": "z p."
+            },
+            {
+              "name": "Międzybórz",
+              "type": "City",
+              "population": 2039,
+              "notes": "z p."
+            },
+            {
+              "name": "Chmielnik",
+              "type": "City",
+              "population": 1417,
+              "notes": "z p."
+            },
+            {
+              "name": "Szarogrod",
+              "type": "City",
+              "population": 2219,
+              "notes": "z p."
+            },
+            {
+              "name": "Mikołajow",
+              "type": "City",
+              "population": 1087,
+              "notes": "z p."
+            },
+            {
+              "name": "Zinkow",
+              "type": "City",
+              "population": 522,
+              "notes": "z p."
+            },
+            {
+              "name": "Podole",
+              "type": "City",
+              "population": 94,
+              "notes": "novae locationis z p."
+            },
+            {
+              "name": "Szarawca",
+              "type": "City",
+              "population": 114,
+              "notes": "z p."
+            },
+            {
+              "name": "Deraznia",
+              "type": "City",
+              "population": 310,
+              "notes": "z p."
+            },
+            {
+              "name": "Wonkowce",
+              "type": "City",
+              "population": 510,
+              "notes": "z p."
+            },
+            {
+              "name": "Zamiechow",
+              "type": "City",
+              "population": 505,
+              "notes": "z p."
+            },
+            {
+              "name": "Wierzchowiec",
+              "type": "City",
+              "population": 202,
+              "notes": "z p."
+            },
+            {
+              "name": "Snitowka",
+              "type": "City",
+              "population": 129,
+              "notes": "z p."
+            },
+            {
+              "name": "Kopaygrod",
+              "type": "City",
+              "population": 337,
+              "notes": "z p."
+            },
+            {
+              "name": "Czarnoostrow",
+              "type": "City",
+              "population": 226,
+              "notes": "z p."
+            },
+            {
+              "name": "Ułodowka",
+              "type": "City",
+              "population": 74,
+              "notes": "z p."
+            },
+            {
+              "name": "Nowy Konstantynów",
+              "type": "City",
+              "population": 694,
+              "notes": "z p."
+            },
+            {
+              "name": "Płoskirow",
+              "type": "City",
+              "population": 750,
+              "notes": "z p."
+            },
+            {
+              "name": "Bar",
+              "type": "City",
+              "population": 1477,
+              "notes": "z p."
+            },
+            {
+              "name": "Michałpol",
+              "type": "City",
+              "population": 356,
+              "notes": "z p."
+            },
+            {
+              "name": "Ulanów",
+              "type": "City",
+              "population": 345,
+              "notes": "z p."
+            },
+            {
+              "name": "Olchowiec",
+              "type": "City",
+              "population": 24,
+              "notes": "z p."
+            },
+            {
+              "name": "Jaryszow",
+              "type": "City",
+              "population": 438,
+              "notes": "z p."
+            },
+            {
+              "name": "Pików",
+              "type": "City",
+              "population": 287,
+              "notes": "z p."
+            },
+            {
+              "name": "Snydkow",
+              "type": "City",
+              "population": 281,
+              "notes": "z p."
+            },
+            {
+              "name": "Mochylow",
+              "type": "City",
+              "population": 957,
+              "notes": "z p."
+            },
+            {
+              "name": "Łuczyniec",
+              "type": "City",
+              "population": 432,
+              "notes": "z p."
+            },
+            {
+              "name": "Letniowce",
+              "type": "City",
+              "population": 229,
+              "notes": "z p."
+            },
+            {
+              "name": "Ozarzyńce",
+              "type": "City",
+              "population": 322
+            },
+            {
+              "name": "Jaruga",
+              "type": "City",
+              "population": 131
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Bełzkie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Bełzki y Lubaczewski",
+          "type": "County",
+          "total_population": 12084,
+          "locations": [
+            {
+              "name": "Bełz",
+              "type": "City",
+              "population": 716,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Sokal",
+              "type": "City",
+              "population": 1390,
+              "notes": "z p."
+            },
+            {
+              "name": "Stojanow",
+              "type": "City",
+              "population": 176,
+              "notes": "z p."
+            },
+            {
+              "name": "Tartaków",
+              "type": "City",
+              "population": 779,
+              "notes": "z p."
+            },
+            {
+              "name": "Krystynopol",
+              "type": "City",
+              "population": 759,
+              "notes": "z p."
+            },
+            {
+              "name": "Waręz",
+              "type": "City",
+              "population": 449,
+              "notes": "z p."
+            },
+            {
+              "name": "Łaszczów",
+              "type": "City",
+              "population": 360,
+              "notes": "z p."
+            },
+            {
+              "name": "Wielkie Oczy",
+              "type": "City",
+              "population": 386,
+              "notes": "z p."
+            },
+            {
+              "name": "Rawa",
+              "type": "City",
+              "population": 1050,
+              "notes": "z p."
+            },
+            {
+              "name": "Huwnow",
+              "type": "City",
+              "population": 880,
+              "notes": "z p."
+            },
+            {
+              "name": "Tomaszow",
+              "type": "City",
+              "population": 806,
+              "notes": "z Józefowem y parafiami"
+            },
+            {
+              "name": "Narol",
+              "type": "City",
+              "population": 358,
+              "notes": "z p."
+            },
+            {
+              "name": "Lipsko",
+              "type": "City",
+              "population": 309,
+              "notes": "z p."
+            },
+            {
+              "name": "Jaroszew",
+              "type": "City",
+              "population": 144,
+              "notes": "z p."
+            },
+            {
+              "name": "Augustów seu Mosty",
+              "type": "City",
+              "population": 267,
+              "notes": "z p."
+            },
+            {
+              "name": "Magierow",
+              "type": "City",
+              "population": 440,
+              "notes": "z p."
+            },
+            {
+              "name": "Mosty",
+              "type": "City",
+              "population": 38,
+              "notes": "ze wsią iedną"
+            },
+            {
+              "name": "Libicza",
+              "type": "City",
+              "population": 154,
+              "notes": "z p."
+            },
+            {
+              "name": "Potok",
+              "type": "City",
+              "population": 80,
+              "notes": "z p."
+            },
+            {
+              "name": "Lubaczów",
+              "type": "City",
+              "population": 687,
+              "notes": "z miasteczkiem Potylicz y paraf."
+            },
+            {
+              "name": "Cieszanów",
+              "type": "City",
+              "population": 654,
+              "notes": "z p."
+            },
+            {
+              "name": "Niemierow",
+              "type": "City",
+              "population": 487,
+              "notes": "z p."
+            },
+            {
+              "name": "Oleszczyce",
+              "type": "City",
+              "population": 817,
+              "notes": "z p."
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Buska y Powiat Grabowiecki",
+          "type": "Land and County",
+          "total_population": 4358,
+          "locations": [
+            {
+              "name": "Grabowiec",
+              "type": "City",
+              "population": 443,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Komorow",
+              "type": "City",
+              "population": 256,
+              "notes": "z p."
+            },
+            {
+              "name": "Tyszowce",
+              "type": "City",
+              "population": 925,
+              "notes": "z p."
+            },
+            {
+              "name": "Horodło",
+              "type": "City",
+              "population": 220,
+              "notes": "z p."
+            },
+            {
+              "name": "Dubienka",
+              "type": "City",
+              "population": 604,
+              "notes": "z p."
+            },
+            {
+              "name": "Korytnica",
+              "type": "City",
+              "population": 143,
+              "notes": "z p."
+            },
+            {
+              "name": "Busk",
+              "type": "City",
+              "population": 481,
+              "notes": "z p."
+            },
+            {
+              "name": "Szczurowice",
+              "type": "City",
+              "population": 264,
+              "notes": "z p."
+            },
+            {
+              "name": "Chołojow",
+              "type": "City",
+              "population": 304,
+              "notes": "z p."
+            },
+            {
+              "name": "Radziechow",
+              "type": "City",
+              "population": 206,
+              "notes": "z p."
+            },
+            {
+              "name": "Strzemilcze",
+              "type": "City",
+              "population": 60,
+              "notes": "same w sobie"
+            },
+            {
+              "name": "Witków",
+              "type": "City",
+              "population": 452,
+              "notes": "z p."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Bracławskie",
+      "type": "Voivodeship",
+      "total_population": 20337,
+      "locations": [
+        {
+          "name": "Winnica",
+          "type": "City",
+          "population": 555,
+          "notes": "z miastem Nową Winnicą y Jozwinem, tudzież wsiami"
+        },
+        {
+          "name": "Kolumnow",
+          "type": "City",
+          "population": 155,
+          "notes": "z w."
+        },
+        {
+          "name": "Strzyżawka",
+          "type": "City",
+          "population": 540,
+          "notes": "z wsiami y miastem Woronicą"
+        },
+        {
+          "name": "Sieliszcza",
+          "type": "City",
+          "population": 74,
+          "notes": "z w."
+        },
+        {
+          "name": "Woroszyłówka",
+          "type": "City",
+          "population": 146,
+          "notes": "z wsiami y przedmieściem"
+        },
+        {
+          "name": "Krasne",
+          "type": "City",
+          "population": 722,
+          "notes": "z w."
+        },
+        {
+          "name": "Tomaszpol",
+          "type": "City",
+          "population": 531,
+          "notes": "z w."
+        },
+        {
+          "name": "Miastkowka",
+          "type": "City",
+          "population": 898,
+          "notes": "z w."
+        },
+        {
+          "name": "Cekinowka",
+          "type": "City",
+          "population": 237,
+          "notes": "z w."
+        },
+        {
+          "name": "Czekielnik",
+          "type": "City",
+          "population": 724,
+          "notes": "z wsiami y Nowym Miastem"
+        },
+        {
+          "name": "Raszków",
+          "type": "City",
+          "population": 478,
+          "notes": "z w."
+        },
+        {
+          "name": "Krute",
+          "type": "City",
+          "population": 783,
+          "notes": "z miastem Jahorlik y wsiami"
+        },
+        {
+          "name": "Jozefgrod",
+          "type": "City",
+          "population": 924,
+          "notes": "z w."
+        },
+        {
+          "name": "Granów",
+          "type": "City",
+          "population": 1024,
+          "notes": "z miastem Kublicz y wsiami"
+        },
+        {
+          "name": "Daszow",
+          "type": "City",
+          "population": 703,
+          "notes": "z Nowym y Kalnikiem oraz wsiami"
+        },
+        {
+          "name": "Sawran",
+          "type": "City",
+          "population": 494,
+          "notes": "z w."
+        },
+        {
+          "name": "Bracław",
+          "type": "City",
+          "population": 195,
+          "notes": "z w."
+        },
+        {
+          "name": "Tywrow",
+          "type": "City",
+          "population": 353,
+          "notes": "3 Dominior. z w."
+        },
+        {
+          "name": "Przyłuka",
+          "type": "City",
+          "population": 277,
+          "notes": "z w."
+        },
+        {
+          "name": "Ilińce",
+          "type": "City",
+          "population": 512,
+          "notes": "z w."
+        },
+        {
+          "name": "Tetyiow",
+          "type": "City",
+          "population": 708,
+          "notes": "z mias. Piatakory"
+        },
+        {
+          "name": "Ładyźyn",
+          "type": "City",
+          "population": 303,
+          "notes": "z w."
+        },
+        {
+          "name": "Zorniszcza",
+          "type": "City",
+          "population": 215,
+          "notes": "z w."
+        },
+        {
+          "name": "Dziunkow",
+          "type": "City",
+          "population": 157,
+          "notes": "z w."
+        },
+        {
+          "name": "Janów",
+          "type": "City",
+          "population": 795,
+          "notes": "z w."
+        },
+        {
+          "name": "Pików",
+          "type": "City",
+          "population": 298,
+          "notes": "z w."
+        },
+        {
+          "name": "Lityn",
+          "type": "City",
+          "population": 481,
+          "notes": "z w."
+        },
+        {
+          "name": "Reygrod",
+          "type": "City",
+          "population": 211,
+          "notes": "z w."
+        },
+        {
+          "name": "Haysyn",
+          "type": "City",
+          "population": 150,
+          "notes": "z w."
+        },
+        {
+          "name": "Niemirow",
+          "type": "City",
+          "population": 774,
+          "notes": "z w."
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Bracławskie",
+      "type": "Voivodeship",
+      "locations": [
+        {
+          "name": "Żywotow",
+          "type": "City",
+          "population": 363,
+          "notes": "z Łukaszowską y wsiami"
+        },
+        {
+          "name": "Lipowiec",
+          "type": "City",
+          "population": 351,
+          "notes": "z w."
+        },
+        {
+          "name": "Trostyaniec",
+          "type": "City",
+          "population": 172,
+          "notes": "z wsiami y przedmieściami"
+        },
+        {
+          "name": "Obodówka",
+          "type": "City",
+          "population": 266,
+          "notes": "z w."
+        },
+        {
+          "name": "Berszada",
+          "type": "City",
+          "population": 743,
+          "notes": "z w."
+        },
+        {
+          "name": "Tułczyn",
+          "type": "City",
+          "population": 452,
+          "notes": "z w."
+        },
+        {
+          "name": "Braiłow",
+          "type": "City",
+          "population": 819,
+          "notes": "z w."
+        },
+        {
+          "name": "Zwierzchowka",
+          "type": "City",
+          "population": 193,
+          "notes": "z w."
+        },
+        {
+          "name": "Pieczara",
+          "type": "City",
+          "population": 177,
+          "notes": "z w."
+        },
+        {
+          "name": "Monasterzyska",
+          "type": "City",
+          "population": 159,
+          "notes": "z w."
+        },
+        {
+          "name": "Kochanowka",
+          "type": "City",
+          "population": 84,
+          "notes": "z w."
+        },
+        {
+          "name": "Umań",
+          "type": "City",
+          "population": 446,
+          "notes": "z w."
+        },
+        {
+          "name": "Teplic",
+          "type": "City",
+          "population": 289,
+          "notes": "z w."
+        },
+        {
+          "name": "Sokołowka",
+          "type": "City",
+          "population": 518,
+          "notes": "z w."
+        },
+        {
+          "name": "Murachawa y Czuryna",
+          "type": "City",
+          "population": 509
+        },
+        {
+          "name": "Kumaygrod",
+          "type": "City",
+          "population": 155
+        },
+        {
+          "name": "Januszgrod",
+          "type": "City",
+          "population": 157
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Kijowskie",
+      "type": "Voivodeship",
+      "total_population": 12807,
+      "locations": [
+        {
+          "name": "Białocerkiewski",
+          "type": "Kachał",
+          "population": 1876,
+          "notes": "z paraf."
+        },
+        {
+          "name": "Stęcwiski",
+          "type": "Kachał",
+          "population": 699,
+          "notes": "do Starostwa Białocerkiew"
+        },
+        {
+          "name": "Brusiłowski",
+          "type": "Kachał",
+          "population": 492,
+          "notes": "z p."
+        },
+        {
+          "name": "Bohybryski",
+          "type": "Kachał",
+          "population": 1169,
+          "notes": "z p."
+        },
+        {
+          "name": "Korsunki",
+          "type": "Kachał",
+          "population": 339,
+          "notes": "z p."
+        },
+        {
+          "name": "Bohusławski",
+          "type": "Kachał",
+          "population": 875,
+          "notes": "z p."
+        },
+        {
+          "name": "Pawłocki",
+          "type": "Kachał",
+          "population": 1041,
+          "notes": "z p."
+        },
+        {
+          "name": "Choderkoski",
+          "type": "Kachał",
+          "population": 452,
+          "notes": "z p."
+        },
+        {
+          "name": "Biłytowski",
+          "type": "Kachał",
+          "population": 205,
+          "notes": "z p."
+        },
+        {
+          "name": "Czerwonski",
+          "type": "Kachał",
+          "population": 122,
+          "notes": "z p."
+        },
+        {
+          "name": "Dźwinogrodzki",
+          "type": "Kachał",
+          "population": 92,
+          "notes": "z p."
+        },
+        {
+          "name": "Skwierski",
+          "type": "Kachał",
+          "population": 284,
+          "notes": "z p."
+        },
+        {
+          "name": "Iwnicki",
+          "type": "Kachał",
+          "population": 93
+        },
+        {
+          "name": "Jasnohorodzki",
+          "type": "Kachał",
+          "population": 104,
+          "notes": "z p."
+        },
+        {
+          "name": "Kotelanski",
+          "type": "Kachał",
+          "population": 236,
+          "notes": "z p."
+        },
+        {
+          "name": "Leszczenski",
+          "type": "Kachał",
+          "population": 255,
+          "notes": "z p."
+        },
+        {
+          "name": "Makarowski",
+          "type": "Kachał",
+          "population": 217,
+          "notes": "z p."
+        },
+        {
+          "name": "Byszowski",
+          "type": "Kachał",
+          "population": 170,
+          "notes": "z p."
+        },
+        {
+          "name": "Taraszczenski",
+          "type": "Kachał",
+          "population": 134
+        },
+        {
+          "name": "Wołodarski",
+          "type": "Kachał",
+          "population": 662,
+          "notes": "z kluczem Torczyckim"
+        },
+        {
+          "name": "Fastowski",
+          "type": "Kachał",
+          "population": 460,
+          "notes": "z p."
+        },
+        {
+          "name": "Białopolski",
+          "type": "Kachał",
+          "population": 176,
+          "notes": "z p."
+        },
+        {
+          "name": "Hermanowka",
+          "type": "City",
+          "population": 113,
+          "notes": "z parafią"
+        },
+        {
+          "name": "Koszowata",
+          "type": "City",
+          "population": 125,
+          "notes": "z parafiami"
+        },
+        {
+          "name": "Czecheryn",
+          "type": "City",
+          "population": 66
+        },
+        {
+          "name": "Medweduwka",
+          "type": "City",
+          "population": 98
+        },
+        {
+          "name": "Borowica",
+          "type": "City",
+          "population": 35
+        },
+        {
+          "name": "Buzyn",
+          "type": "City",
+          "population": 29
+        },
+        {
+          "name": "Kryłow",
+          "type": "City",
+          "population": 25
+        },
+        {
+          "name": "Czerkasy",
+          "type": "City",
+          "population": 171
+        },
+        {
+          "name": "Łysianka",
+          "type": "City",
+          "population": 169
+        },
+        {
+          "name": "Smylański",
+          "type": "Kachał",
+          "population": 927
+        },
+        {
+          "name": "Borodzański",
+          "type": "Kachał",
+          "population": 347
+        },
+        {
+          "name": "Moszański",
+          "type": "Kachał",
+          "population": 89
+        },
+        {
+          "name": "Rzeszczowski",
+          "type": "Kachał",
+          "population": 57
+        }
+      ],
+      "subregions": [
+        {
+          "name": "Powiat Zytomirski",
+          "type": "County",
+          "total_population": 6058,
+          "locations": [
+            {
+              "name": "Zytomirski",
+              "type": "Kachał",
+              "population": 460,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Berdyczowski",
+              "type": "Kachał",
+              "population": 1541,
+              "notes": "z p."
+            },
+            {
+              "name": "Złobodyiski",
+              "type": "Kachał",
+              "population": 91
+            },
+            {
+              "name": "Pradzowski",
+              "type": "Kachał",
+              "population": 67
+            },
+            {
+              "name": "Trojanowski",
+              "type": "Kachał",
+              "population": 276,
+              "notes": "z p."
+            },
+            {
+              "name": "Czerniechowski",
+              "type": "Kachał",
+              "population": 359,
+              "notes": "z p."
+            },
+            {
+              "name": "Korestosowski",
+              "type": "Kachał",
+              "population": 620,
+              "notes": "z p."
+            },
+            {
+              "name": "Uszomierski",
+              "type": "Kachał",
+              "population": 179,
+              "notes": "z p."
+            },
+            {
+              "name": "Chalenski",
+              "type": "Kachał",
+              "population": 116,
+              "notes": "z p."
+            },
+            {
+              "name": "Łuwkowski",
+              "type": "Kachał",
+              "population": 24
+            },
+            {
+              "name": "Kodenski",
+              "type": "Kachał",
+              "population": 170,
+              "notes": "z p."
+            },
+            {
+              "name": "Xawerowski",
+              "type": "Kachał",
+              "population": 96,
+              "notes": "z p."
+            },
+            {
+              "name": "Cudnowski",
+              "type": "Kachał",
+              "population": 1283,
+              "notes": "z p."
+            },
+            {
+              "name": "Krasnopolski",
+              "type": "Kachał",
+              "population": 117,
+              "notes": "z p."
+            },
+            {
+              "name": "Radomyslki",
+              "type": "Kachał",
+              "population": 359,
+              "notes": "z p."
+            },
+            {
+              "name": "Horoszkewski",
+              "type": "Kachał",
+              "population": 58,
+              "notes": "z p."
+            },
+            {
+              "name": "Machnowski",
+              "type": "Kachał",
+              "population": 15
+            },
+            {
+              "name": "Czaykowski",
+              "type": "Kachał",
+              "population": 19
+            },
+            {
+              "name": "Nowego Lubara",
+              "type": "City",
+              "population": 164
+            },
+            {
+              "name": "Sttwa Rozowskiego",
+              "type": "Other",
+              "population": 44
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Kijowskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Powiat Owrucki",
+          "type": "County",
+          "total_population": 3487,
+          "locations": [
+            {
+              "name": "Owrucz",
+              "type": "City",
+              "population": 607,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Weledniki",
+              "type": "City",
+              "population": 241,
+              "notes": "z p."
+            },
+            {
+              "name": "Nordzynsk",
+              "type": "City",
+              "population": 240,
+              "notes": "z p."
+            },
+            {
+              "name": "Łuhyny",
+              "type": "City",
+              "population": 215,
+              "notes": "z p."
+            },
+            {
+              "name": "Olewsk",
+              "type": "City",
+              "population": 382,
+              "notes": "z p."
+            },
+            {
+              "name": "Choyniki",
+              "type": "City",
+              "population": 198,
+              "notes": "z p."
+            },
+            {
+              "name": "Brahin",
+              "type": "City",
+              "population": 532,
+              "notes": "z p."
+            },
+            {
+              "name": "Czarnobył",
+              "type": "City",
+              "population": 696,
+              "notes": "z p."
+            },
+            {
+              "name": "Narodycze",
+              "type": "City",
+              "population": 241,
+              "notes": "z p."
+            },
+            {
+              "name": "Wsie do tego powiatu należące",
+              "type": "Other",
+              "population": 51
+            },
+            {
+              "name": "Traktamirowski",
+              "type": "Kachał",
+              "population": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Podlaskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Drohicka",
+          "type": "Land",
+          "total_population": 9300,
+          "locations": [
+            {
+              "name": "Ciechanowiecki",
+              "type": "Kachał",
+              "total_population": 1577,
+              "locations": [
+                {
+                  "name": "Ciechanowiec",
+                  "type": "City",
+                  "population": 920
+                },
+                {
+                  "name": "Wysokie Mazowie",
+                  "type": "City",
+                  "population": 62
+                },
+                {
+                  "name": "Jabłonka",
+                  "type": "City",
+                  "population": 97,
+                  "notes": "z wsiami"
+                },
+                {
+                  "name": "Wsie do tegoż kachału Ciechanowskiego",
+                  "type": "Other",
+                  "population": 498
+                }
+              ]
+            },
+            {
+              "name": "Siemiatycki",
+              "type": "Kachał",
+              "total_population": 1895,
+              "locations": [
+                {
+                  "name": "Siemiatyce",
+                  "type": "City",
+                  "population": 1015
+                },
+                {
+                  "name": "Droiczyn y wsie",
+                  "type": "City",
+                  "population": 880
+                }
+              ]
+            },
+            {
+              "name": "Sokołowski",
+              "type": "Kachał",
+              "total_population": 1467,
+              "locations": [
+                {
+                  "name": "Sokołow",
+                  "type": "City",
+                  "population": 587
+                },
+                {
+                  "name": "Sterdynia",
+                  "type": "City",
+                  "population": 88
+                },
+                {
+                  "name": "Wsie parafialne do tegoż",
+                  "type": "Other",
+                  "population": 792
+                }
+              ]
+            },
+            {
+              "name": "Węgrowski",
+              "type": "Kachał",
+              "total_population": 3623,
+              "locations": [
+                {
+                  "name": "Węgrów",
+                  "type": "City",
+                  "population": 581
+                },
+                {
+                  "name": "Supplement parafii do niegoź",
+                  "type": "Other",
+                  "population": 3042
+                }
+              ]
+            },
+            {
+              "name": "Kossowski",
+              "type": "Przykachałek",
+              "locations": [
+                {
+                  "name": "Kossow",
+                  "type": "City",
+                  "population": 221
+                }
+              ]
+            },
+            {
+              "name": "Mordzski",
+              "type": "Przykachałek",
+              "total_population": 354,
+              "locations": [
+                {
+                  "name": "Mordy",
+                  "type": "City",
+                  "population": 219
+                },
+                {
+                  "name": "Wsie parafialne",
+                  "type": "Other",
+                  "population": 135
+                }
+              ]
+            },
+            {
+              "name": "Mąkobodzki",
+              "type": "Przykachałek",
+              "total_population": 163,
+              "locations": [
+                {
+                  "name": "Mąkobody",
+                  "type": "City",
+                  "population": 148
+                },
+                {
+                  "name": "Wsie parafialne",
+                  "type": "Other",
+                  "population": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Mielnicka",
+          "type": "Land",
+          "total_population": 2439,
+          "locations": [
+            {
+              "name": "Sarnacki",
+              "type": "Kachał",
+              "population": 244,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Niemierowski",
+              "type": "Przykachałek",
+              "population": 88,
+              "notes": "z p."
+            },
+            {
+              "name": "Konstantynowski",
+              "type": "Kachał",
+              "population": 553,
+              "notes": "z p."
+            },
+            {
+              "name": "Łosicki",
+              "type": "Przykachałek",
+              "population": 389,
+              "notes": "z p."
+            },
+            {
+              "name": "Międzyrzec",
+              "type": "City",
+              "population": 1076,
+              "notes": "z p."
+            },
+            {
+              "name": "Rosocza",
+              "type": "City",
+              "population": 89,
+              "notes": "z wsiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Bielska",
+          "type": "Land",
+          "total_population": 7304,
+          "locations": [
+            {
+              "name": "Tykociński",
+              "type": "Kachał",
+              "population": 2694,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Sokołowski",
+              "type": "Przykachałek",
+              "population": 163,
+              "notes": "z p."
+            },
+            {
+              "name": "Wiszyński",
+              "type": "Przykachałek",
+              "population": 148,
+              "notes": "z p."
+            },
+            {
+              "name": "Jasionowski",
+              "type": "Przykachałek",
+              "population": 242
+            },
+            {
+              "name": "Goniądzki",
+              "type": "Przykachałek",
+              "population": 426,
+              "notes": "z p."
+            },
+            {
+              "name": "Raygrodzki",
+              "type": "Przykachałek",
+              "population": 418,
+              "notes": "z p."
+            },
+            {
+              "name": "Augustowski",
+              "type": "Przykachałek",
+              "population": 239,
+              "notes": "z p."
+            },
+            {
+              "name": "Białostocki",
+              "type": "Kachał",
+              "population": 1761
+            },
+            {
+              "name": "Orliński",
+              "type": "Kachał",
+              "population": 1358,
+              "notes": "z p."
+            },
+            {
+              "name": "Boczkowski",
+              "type": "Kachał",
+              "population": 8,
+              "notes": "z p."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "regions": [
+    {
+      "name": "Woiewodztwo Płockie",
+      "type": "Voivodeship",
+      "total_population": 3960,
+      "locations": [
+        {
+          "name": "Płock",
+          "type": "City",
+          "population": 725,
+          "notes": "z parafią"
+        },
+        {
+          "name": "Droblina",
+          "type": "City",
+          "population": 775,
+          "notes": "z p."
+        },
+        {
+          "name": "Mława",
+          "type": "City",
+          "population": 487,
+          "notes": "z p."
+        },
+        {
+          "name": "Radzanowa",
+          "type": "City",
+          "population": 591,
+          "notes": "z p."
+        },
+        {
+          "name": "Sierpc",
+          "type": "City",
+          "population": 687,
+          "notes": "z p."
+        },
+        {
+          "name": "Bieżunia",
+          "type": "City",
+          "population": 172
+        },
+        {
+          "name": "Płońska",
+          "type": "City",
+          "population": 455,
+          "notes": "z p."
+        },
+        {
+          "name": "Kuczbork",
+          "type": "City",
+          "population": 68
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Mazowieckie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Czerska",
+          "type": "Land",
+          "notes": "Ziemia ta Żydów nie ma"
+        },
+        {
+          "name": "Ziemia Warszawska",
+          "type": "Land",
+          "notes": "W tey ziemi"
+        },
+        {
+          "name": "Ziemia Wyszegrodzka",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Wyszogród",
+              "type": "City",
+              "population": 235,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Ciechanowska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Ciechanów",
+              "type": "City",
+              "population": 980,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Zakroczymska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Nasielsk",
+              "type": "City",
+              "population": 1670,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Wizka",
+          "type": "Land",
+          "total_population": 1506,
+          "locations": [
+            {
+              "name": "Wizka",
+              "type": "Parafia",
+              "population": 233,
+              "notes": "czyli przykachałek do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Grajewska",
+              "type": "Parafia",
+              "population": 413,
+              "notes": "alias przykachałek do kachału tegoż należący"
+            },
+            {
+              "name": "Szczucińska",
+              "type": "Parafia",
+              "population": 473,
+              "notes": "alias przykachałek do tegoż kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Jedwabińska",
+              "type": "Parafia",
+              "population": 387,
+              "notes": "alias przykachałek do kachału Tykocińskiego należący"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Łomżyńska",
+          "type": "Land",
+          "total_population": 2264,
+          "locations": [
+            {
+              "name": "Stawiski",
+              "type": "Przykachałek",
+              "population": 1005,
+              "notes": "z parafią swoią do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Zambrowska",
+              "type": "Parafia",
+              "population": 197,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Jabłoński",
+              "type": "Parafia",
+              "population": 92,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Rudkowska",
+              "type": "Parafia",
+              "population": 83,
+              "notes": "do tegoż kachału należąca"
+            },
+            {
+              "name": "Zawadzka",
+              "type": "Parafia",
+              "population": 105,
+              "notes": "do tegoż kachału należąca"
+            },
+            {
+              "name": "Sniadowski",
+              "type": "Parafia",
+              "population": 718,
+              "notes": "czyli przykachałek do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Lipnicka",
+              "type": "Parafia",
+              "population": 64,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Różańska",
+          "type": "Land",
+          "total_population": 1452,
+          "locations": [
+            {
+              "name": "Różańska",
+              "type": "Parafia",
+              "population": 173,
+              "notes": "czyli przykachałek do kachału Makowskiego należący"
+            },
+            {
+              "name": "Makowski",
+              "type": "Kachał",
+              "population": 1279,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Liwska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Kałuszyński",
+              "type": "Kachał",
+              "population": 566,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Nurska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Czyżewska",
+              "type": "Parafia",
+              "population": 303,
+              "notes": "alias przykachałek do kachału Węgrowskiego należący"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Mazowieckie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Nurska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Zarębska",
+              "type": "Parafia",
+              "population": 155,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Stocka",
+              "type": "Parafia",
+              "population": 64,
+              "notes": "czyli przykachałek do kachału Węgrowskiego należący"
+            },
+            {
+              "name": "Ostrowska",
+              "type": "Parafia",
+              "population": 130,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Wąsowska",
+              "type": "Parafia",
+              "population": 131,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Wołki Brzezińskiej",
+              "type": "Parafia",
+              "population": 78,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Goworowo",
+              "type": "Village",
+              "population": 109,
+              "notes": "wieś kościelna w ziemi Łomżenskiey w teyźe parafii do kachału Tykocinskiego należąca"
+            }
+          ],
+          "total_population": 970
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Rawskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Rawska",
+          "type": "Land",
+          "total_population": 1880,
+          "locations": [
+            {
+              "name": "Nowomieyski",
+              "type": "Kachał",
+              "population": 1109,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Głowiński",
+              "type": "Kachał",
+              "population": 320,
+              "notes": "z p."
+            },
+            {
+              "name": "Bielski",
+              "type": "Kachał",
+              "population": 164,
+              "notes": "z p."
+            },
+            {
+              "name": "Rawski",
+              "type": "Kachał",
+              "population": 68,
+              "notes": "z p."
+            },
+            {
+              "name": "Grodzisk",
+              "type": "City",
+              "population": 157
+            },
+            {
+              "name": "Iłowo",
+              "type": "City",
+              "population": 106,
+              "notes": "z wsiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Sochaczewska",
+          "type": "Land",
+          "total_population": 1617,
+          "locations": [
+            {
+              "name": "Sochaczew",
+              "type": "City",
+              "population": 1349,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Mszczonow",
+              "type": "City",
+              "population": 268,
+              "notes": "z arendarzami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Gostyńska",
+          "type": "Land",
+          "total_population": 1791,
+          "locations": [
+            {
+              "name": "Gostyńska",
+              "type": "Parafia",
+              "population": 157,
+              "notes": "żydowska"
+            },
+            {
+              "name": "Kutnowski",
+              "type": "Kachał",
+              "population": 928
+            },
+            {
+              "name": "Gąmbinski",
+              "type": "Kachał",
+              "population": 395
+            },
+            {
+              "name": "Zychlinska",
+              "type": "Parafia",
+              "population": 311,
+              "notes": "żydowska"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Łęczyckie",
+      "type": "Voivodeship",
+      "total_population": 2905,
+      "locations": [
+        {
+          "name": "Łęczyca",
+          "type": "City",
+          "population": 1067,
+          "notes": "kachalne z arendarzami"
+        },
+        {
+          "name": "Stryków",
+          "type": "City",
+          "population": 625,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Brzeziny",
+          "type": "City",
+          "population": 243,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Ujazd y Inowłodz",
+          "type": "City",
+          "population": 212,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Sobota",
+          "type": "City",
+          "population": 114,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Bielany",
+          "type": "City",
+          "population": 88,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Parzęczow",
+          "type": "City",
+          "population": 267,
+          "notes": "do tegoż kachału"
+        },
+        {
+          "name": "Piątek",
+          "type": "City",
+          "population": 139,
+          "notes": "Pokrzywna ulica z arendarzami do tegoż kachału Łęczyckiego"
+        },
+        {
+          "name": "Krośniewice",
+          "type": "City",
+          "population": 79,
+          "notes": "do tegoż kachału"
+        },
+        {
+          "name": "Kutów",
+          "type": "City",
+          "population": 69,
+          "notes": "do tegoż kachału"
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Płockie",
+      "type": "Voivodeship",
+      "total_population": 3960,
+      "locations": [
+        {
+          "name": "Płock",
+          "type": "City",
+          "population": 725,
+          "notes": "z parafią"
+        },
+        {
+          "name": "Droblin",
+          "type": "City",
+          "population": 775,
+          "notes": "z p."
+        },
+        {
+          "name": "Mława",
+          "type": "City",
+          "population": 487,
+          "notes": "z p."
+        },
+        {
+          "name": "Radzanow",
+          "type": "City",
+          "population": 591,
+          "notes": "z p."
+        },
+        {
+          "name": "Sierpc",
+          "type": "City",
+          "population": 687,
+          "notes": "z p."
+        },
+        {
+          "name": "Bieżuń",
+          "type": "City",
+          "population": 172
+        },
+        {
+          "name": "Płońsk",
+          "type": "City",
+          "population": 455,
+          "notes": "z p."
+        },
+        {
+          "name": "Kuczbork",
+          "type": "City",
+          "population": 68
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Mazowieckie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Czerska",
+          "type": "Land",
+          "notes": "Ziemia ta Żydów nie ma"
+        },
+        {
+          "name": "Ziemia Warszawska",
+          "type": "Land",
+          "notes": "W tey ziemi"
+        },
+        {
+          "name": "Ziemia Wyszogrodska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Wyszogród",
+              "type": "City",
+              "population": 235,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Ciechanowska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Ciechanów",
+              "type": "City",
+              "population": 980,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Zakroczymska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Nasielsk",
+              "type": "City",
+              "population": 1670,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Wizka",
+          "type": "Land",
+          "total_population": 1506,
+          "locations": [
+            {
+              "name": "Wizka",
+              "type": "Parafia",
+              "population": 233,
+              "notes": "czyli przykachałek do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Grajewska",
+              "type": "Parafia",
+              "population": 413,
+              "notes": "alias przykachałek do kachału tegoż należący"
+            },
+            {
+              "name": "Szczucińska",
+              "type": "Parafia",
+              "population": 473,
+              "notes": "alias przykachałek do tegoż kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Jedwabińska",
+              "type": "Parafia",
+              "population": 387,
+              "notes": "alias przykachałek do kachału Tykocińskiego należący"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Łomżyńska",
+          "type": "Land",
+          "total_population": 2264,
+          "locations": [
+            {
+              "name": "Stawiski",
+              "type": "Przykachałek",
+              "population": 1005,
+              "notes": "z parafią swoią do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Zambrowska",
+              "type": "Parafia",
+              "population": 197,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Jabłoński",
+              "type": "Parafia",
+              "population": 92,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Rudkowska",
+              "type": "Parafia",
+              "population": 83,
+              "notes": "do tegoż kachału należąca"
+            },
+            {
+              "name": "Zawadzka",
+              "type": "Parafia",
+              "population": 105,
+              "notes": "do tegoż kachału należąca"
+            },
+            {
+              "name": "Sniadowski",
+              "type": "Parafia",
+              "population": 718,
+              "notes": "czyli przykachałek do kachału Tykocińskiego należący"
+            },
+            {
+              "name": "Lipnicka",
+              "type": "Parafia",
+              "population": 64,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Różańska",
+          "type": "Land",
+          "total_population": 1452,
+          "locations": [
+            {
+              "name": "Różańska",
+              "type": "Parafia",
+              "population": 173,
+              "notes": "czyli przykachałek do kachału Makowskiego należący"
+            },
+            {
+              "name": "Makowski",
+              "type": "Kachał",
+              "population": 1279,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Liwska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Kałuszyński",
+              "type": "Kachał",
+              "population": 566,
+              "notes": "z parafiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Nurska",
+          "type": "Land",
+          "locations": [
+            {
+              "name": "Czyżewska",
+              "type": "Parafia",
+              "population": 303,
+              "notes": "alias przykachałek do kachału Węgrowskiego należący"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "regions": [
+    {
+      "name": "Woiewodztwo Mazowieckie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Nurska",
+          "type": "Land",
+          "total_population": 970,
+          "locations": [
+            {
+              "name": "Zarębska",
+              "type": "Parafia",
+              "population": 155,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Stocka",
+              "type": "Parafia",
+              "population": 64,
+              "notes": "czyli przykachałek do kachału Węgrowskiego należący"
+            },
+            {
+              "name": "Ostrowska",
+              "type": "Parafia",
+              "population": 130,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Wąsowska",
+              "type": "Parafia",
+              "population": 131,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Wołki Brzezińskiej",
+              "type": "Parafia",
+              "population": 78,
+              "notes": "czyli przykachałek do tegoż kachału należący"
+            },
+            {
+              "name": "Goworowo",
+              "type": "Village",
+              "population": 109,
+              "notes": "wieś kościelna w ziemi Łomżenskiey w teyźe parafii do kachału Tykocinskiego należąca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Rawskie",
+      "type": "Voivodeship",
+      "subregions": [
+        {
+          "name": "Ziemia Rawska",
+          "type": "Land",
+          "total_population": 1880,
+          "locations": [
+            {
+              "name": "Nowomieyski",
+              "type": "Kachał",
+              "population": 1109,
+              "notes": "z parafiami"
+            },
+            {
+              "name": "Głowiński",
+              "type": "Kachał",
+              "population": 320,
+              "notes": "z p."
+            },
+            {
+              "name": "Bielski",
+              "type": "Kachał",
+              "population": 164,
+              "notes": "z p."
+            },
+            {
+              "name": "Rawski",
+              "type": "Kachał",
+              "population": 68,
+              "notes": "z p."
+            },
+            {
+              "name": "Grodzisk",
+              "type": "City",
+              "population": 157
+            },
+            {
+              "name": "Iłowo",
+              "type": "City",
+              "population": 106,
+              "notes": "z wsiami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Sochaczewska",
+          "type": "Land",
+          "total_population": 1617,
+          "locations": [
+            {
+              "name": "Sochaczew",
+              "type": "City",
+              "population": 1349,
+              "notes": "z wsiami parafialnemi"
+            },
+            {
+              "name": "Mszczonow",
+              "type": "City",
+              "population": 268,
+              "notes": "z arendarzami"
+            }
+          ]
+        },
+        {
+          "name": "Ziemia Gostyńska",
+          "type": "Land",
+          "total_population": 1791,
+          "locations": [
+            {
+              "name": "Gostyńska",
+              "type": "Parafia",
+              "population": 157,
+              "notes": "żydowska"
+            },
+            {
+              "name": "Kutnowski",
+              "type": "Kachał",
+              "population": 928
+            },
+            {
+              "name": "Gąmbinski",
+              "type": "Kachał",
+              "population": 395
+            },
+            {
+              "name": "Zychlinska",
+              "type": "Parafia",
+              "population": 311,
+              "notes": "żydowska"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Woiewodztwo Łęczyckie",
+      "type": "Voivodeship",
+      "total_population": 2905,
+      "locations": [
+        {
+          "name": "Łęczyca",
+          "type": "City",
+          "population": 1067,
+          "notes": "kachalne z arendarzami"
+        },
+        {
+          "name": "Stryków",
+          "type": "City",
+          "population": 625,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Brzeziny",
+          "type": "City",
+          "population": 243,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Ujazd y Inowłodz",
+          "type": "City",
+          "population": 212,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Sobota",
+          "type": "City",
+          "population": 114,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Bielany",
+          "type": "City",
+          "population": 88,
+          "notes": "z arendarzami do tegoż"
+        },
+        {
+          "name": "Parzęczow",
+          "type": "City",
+          "population": 267,
+          "notes": "do tegoż kachału"
+        },
+        {
+          "name": "Piątek",
+          "type": "City",
+          "population": 139,
+          "notes": "Pokrzywna ulica z arendarzami do tegoż kachału Łęczyckiego"
+        },
+        {
+          "name": "Krośniewice",
+          "type": "City",
+          "population": 79,
+          "notes": "do tegoż kachału"
+        },
+        {
+          "name": "Kutów",
+          "type": "City",
+          "population": 69,
+          "notes": "do tegoż kachału"
+        }
+      ]
+    }
+  ]
+},
+{
+  "census_year": 1764,
+  "total_population": 429587,
+  "regions": [
+    {
+      "name": "Woiewodztwo Poznańskie y ziemia Wschowska",
+      "type": "Voivodeship and Land",
+      "population": 19913
+    },
+    {
+      "name": "Woiewodztwo Kaliskie",
+      "type": "Voivodeship",
+      "population": 12729
+    },
+    {
+      "name": "Woiewodztwo Sieradzkie",
+      "type": "Voivodeship",
+      "population": 4950
+    },
+    {
+      "name": "Ziemia Wieluńska",
+      "type": "Land",
+      "population": 2976
+    },
+    {
+      "name": "Woiewodztwo Krakowskie",
+      "type": "Voivodeship",
+      "population": 18670
+    },
+    {
+      "name": "Woiewodztwo Sandomirskie",
+      "type": "Voivodeship",
+      "population": 42972
+    },
+    {
+      "name": "Woiewodztwo Brzeskie Kujawskie",
+      "type": "Voivodeship",
+      "population": 1267
+    },
+    {
+      "name": "Woiewodztwo Inowrocławskie",
+      "type": "Voivodeship",
+      "population": 1422
+    },
+    {
+      "name": "Woiewodztwo Chełmińskie",
+      "type": "Voivodeship",
+      "population": 577
+    },
+    {
+      "name": "Woiewodztwo Malborskie",
+      "type": "Voivodeship",
+      "population": 86
+    },
+    {
+      "name": "Woiewodztwo Pomorskie",
+      "type": "Voivodeship",
+      "population": 2731
+    },
+    {
+      "name": "Ziemia Dobrzyńska",
+      "type": "Land",
+      "population": 1082
+    },
+    {
+      "name": "Woiewodztwo Ruskie y ziemia Halicka",
+      "type": "Voivodeship and Land",
+      "population": 100111
+    },
+    {
+      "name": "Ziemia Chełmska",
+      "type": "Land",
+      "population": 9787
+    },
+    {
+      "name": "Woiewodztwo Lubelskie",
+      "type": "Voivodeship",
+      "population": 20107
+    },
+    {
+      "name": "Woiewodztwo Wołyńskie",
+      "type": "Voivodeship",
+      "population": 50792
+    },
+    {
+      "name": "Woiewodztwo Podolskie",
+      "type": "Voivodeship",
+      "population": 38384
+    },
+    {
+      "name": "Woiewodztwo Bełzkie",
+      "type": "Voivodeship",
+      "population": 16442
+    },
+    {
+      "name": "Woiewodztwo Bracławskie",
+      "type": "Voivodeship",
+      "population": 20337
+    },
+    {
+      "name": "Woiewodztwo Kijowskie",
+      "type": "Voivodeship",
+      "population": 22352
+    },
+    {
+      "name": "Woiewodztwo Podlaskie",
+      "type": "Voivodeship",
+      "population": 19043
+    },
+    {
+      "name": "Woiewodztwo Płockie",
+      "type": "Voivodeship",
+      "population": 3960
+    },
+    {
+      "name": "Woiewodztwo Mazowieckie",
+      "type": "Voivodeship",
+      "population": 10662
+    },
+    {
+      "name": "Woiewodztwo Rawskie",
+      "type": "Voivodeship",
+      "population": 5332
+    },
+    {
+      "name": "Woiewodztwo Łęczyckie",
+      "type": "Voivodeship",
+      "population": 2903
+    }
+  ]
+}
+
+]

@@ -1,0 +1,809 @@
+﻿st,v1,v2,v3,v4,v5,v6,cname
+ULICA WASILKOWSKA2,1,1,I3,Ludwig Bergau,Cyrulik4,1,ludwig bergau
+ULICA WASILKOWSKA2,2,"","",Kriiger - przymusowy lokator5,Sekretarz Kamery,2,kriiger
+ULICA WASILKOWSKA2,3,2,2,Wdowa Mengern6,Bez zawodu,1,wdowa mengern
+ULICA WASILKOWSKA2,4,3,3,Wdowa Sadoska7,Bez zawodu,1,wdowa sadoska
+ULICA WASILKOWSKA2,5,"","",Fischer - przymusowy lokator,Kancelista Kamery,2,fischer
+ULICA WASILKOWSKA2,6,4,4,Ludwig Willand,Kowal,1,ludwig willand
+ULICA WASILKOWSKA2,7,"","",von Michalskij -przymusowy lokator,Polski adwokat,2,von michalskij
+ULICA WASILKOWSKA2,8,5,5,Sim. Rijchlarskij,Cyrulik,3,sim. rijchlarskij
+ULICA WASILKOWSKA2,9,6,6,Frantz Radkoskij8,Mieszczanin rolnik,3,frantz radkoskij
+ULICA WASILKOWSKA2,10,7,7,Jan von Rudkoski,Kontroler leśny,2,jan von rudkoski
+ULICA WASILKOWSKA2,11,8,8’,Stephan Jastrzijmskij,Mieszczanin rolnik,3,stephan jastrzijmskij
+ULICA WASILKOWSKA2,12,"","",Krakau - przymusowy lokator,Tłumacz Rejencji,2,krakau
+ULICA WASILKOWSKA2,13,9,9,Thomas Chuchliński10,Ślusarz,3,thomas chuchliński
+ULICA WASILKOWSKA2,14,"","",Borchert - przymusowy loktator,Sekretarz Rejencji,1,borchert
+ULICA WASILKOWSKA2,15,10,10,Joh. Stoleckij11,Mieszczanin rolnik,3,joh. stoleckij
+ULICA WASILKOWSKA2,16,"","",Ludwik Reuth – kolonista,przymusowy lokator,Tokarz,ludwik reuth
+ULICA WASILKOWSKA2,17,11,11,Mates Fomberg12,Kowal,3,mates fomberg
+ULICA WASILKOWSKA2,18,"","",Rogal – przymusowy lokator,Registrator,2,rogal
+ULICA WASILKOWSKA2,19,"","",Zornitius – przymusowy lokator,Kancelista,2,zornitius
+ULICA WASILKOWSKA2,20,12,12,Jos. Schlegel13,Sukiennik,3,jos. schlegel
+ULICA WASILKOWSKA2,21,13,13,Johann Seeliger,Rzeźnik,1,johann seeliger
+ULICA WASILKOWSKA2,22,14,14,Jos. Pikarskij14,Garncarz,3,jos. pikarskij
+ULICA WASILKOWSKA2,23,15,15,Jan Dimiananowicz,Garbarz,1,jan dimiananowicz
+ULICA WASILKOWSKA2,24,16,16,Wawrz. Klososkij,Stolarz,3,wawrz. klososkij
+ULICA WASILKOWSKA2,25,"","",Franz Sacitoskij – przymusowy lokator,Szewc,4,franz sacitoskij
+ULICA WASILKOWSKA2,26,17,17,Georg Smolskij15,Introligator,3,georg smolskij
+ULICA WASILKOWSKA2,27,18,18,Moses Lejser,Szynkarz,2,moses lejser
+ULICA WASILKOWSKA2,28,19,19,Simon Kaspinowicz,Stelmach,1,simon kaspinowicz
+ULICA WASILKOWSKA2,29,"","",Martin Templin – przymusowy lokator,Stolarz,0,martin templin
+ULICA WASILKOWSKA2,30,20,20,Dawid Pierras,Kowal,3,dawid pierras
+ULICA WASILKOWSKA2,31,21,21,Abraham Gerson,Szynkarz,2,abraham gerson
+ULICA WASILKOWSKA2,32,"","",Abraham Chaim – przymusowy lokator,Krawiec,4,abraham chaim
+ULICA WASILKOWSKA2,33,22,22,Moses Michael,Szynkarz,2,moses michael
+ULICA WASILKOWSKA2,34,"","",Jankel Moses – przymusowy lokator,Sprzedawca tabaki,2,jankel moses
+ULICA WASILKOWSKA2,35,23,23,Leib Esro,Szynkarz,1,leib esro
+ULICA WASILKOWSKA2,36,"","",Abel Moses,Handlarz solą,4,abel moses
+ULICA WASILKOWSKA2,37,24,24,Kalm Gerson,Szynkarz,1,kalm gerson
+ULICA WASILKOWSKA2,38,"","",Lewin Kallmann – przymusowy lokator,Handlarz solą,4,lewin kallmann
+ULICA WASILKOWSKA2,39,"","",Rub. Kalmann – przymusowy lokator,Handlarz solą,4,rub. kalmann
+ULICA WASILKOWSKA2,40,25,25,Joh. Schaiba16,Kowal,2,joh. schaiba
+ULICA WASILKOWSKA2,41,26,26,Wdowa Zaleska,Po mieszczaninie rolniku,3,wdowa zaleska
+ULICA WASILKOWSKA2,42,"","",Ambros Juchnicki – przymusowy lokator,Ślusarz,3,ambros juchnicki
+ULICA WASILKOWSKA2,43,"","",Knorr17 – przymusowy lokator,Registrator Rejencji,1,knorr
+ULICA WASILKOWSKA2,44,27,27,Leijser Borach,Kupiec,1,leijser borach
+ULICA WASILKOWSKA2,45,"","",Moses Leijser – przymusowy lokator,Kupiec,2,moses leijser
+ULICA WASILKOWSKA2,46,"","",Lapol Marcus – przymusowy lokator,Kupiec,2,lapol marcus
+ULICA WASILKOWSKA2,47,28,28,Israel Hirsch,Złotnik,1,israel hirsch
+ULICA WASILKOWSKA2,48,"","",Choni Hirsch – przymusowy lokator,Kupiec,2,choni hirsch
+ULICA WASILKOWSKA2,49,"","",Hirsch Koppel – przymusowy lokator,Kupiec,2,hirsch koppel
+ULICA WASILKOWSKA2,50,29,29,Jankiel Moses,Łatacz ubrań,3,jankiel moses
+ULICA WASILKOWSKA2,51,"","",Gedelge Meloch – przymusowy lokator,Szynkarz,2,gedelge meloch
+ULICA WASILKOWSKA2,52,30,30,Jan Luckiewicz,Garncarz,3,jan luckiewicz
+ULICA WASILKOWSKA2,53,"","",Maciej Koslocki,Szewc,4,maciej koslocki
+ULICA WASILKOWSKA2,54,"","",Süshenguth – kolonista,Stolarz,0,süshenguth
+ULICA WASILKOWSKA2,55,31,31,Taube Leib – mieszka pod nr 126,"","",taube leib
+ULICA WASILKOWSKA2,56,"","",Stehller – przymusowy lokator,Radca Rejencji,1,stehller
+RYNEK18,57,32,32,Leib Nosen,Szynkarz i karczmarz,1,leib nosen
+RYNEK18,58,"","",Baer Lacher – przymusowy lokator,Kupiec,2,baer lacher
+RYNEK18,59,33,33,Johann Linker,Piekarz i karczmarz,1,johann linker
+RYNEK18,60,34,34,Wdowa Kreshe,Szynkarka,1,wdowa kreshe
+RYNEK18,61,"","",Jacob Jochim – przymusowy lokator,Sieczkarz,3,jacob jochim
+RYNEK18,62,"","",Moses Hirsch – przymusowy lokator,Sieczkarz,3,moses hirsch
+RYNEK18,63,35,35,Benjamin Abraham,Szynkarz,1,benjamin abraham
+RYNEK18,64,"","",Samse Schmuel – przymusowy lokator,Sieczkarz,3,samse schmuel
+RYNEK18,65,35/2,36,Abrah. Meijer,Kramarz,1,abrah. meijer
+RYNEK18,66,36,"",Siemon Feibusch – przymusowy lokator,Szynkarz,1,siemon feibusch
+RYNEK18,67,"","",David Jankel – przymusowy lokator,Sieczkarz,3,david jankel
+RYNEK18,68,"","",Jankel Juda – przymusowy lokator,Sieczkarz,3,jankel juda
+RYNEK18,69,"","",Minde – przymusowy lokator,Tłumacz,3,minde
+RYNEK18,70,"","",Radzibor – przymusowy lokator,Tłumacz,2,radzibor
+RYNEK18,71,37,37,Isaac Jude,Szynkarz,1,isaac jude
+RYNEK18,72,"","",Isaac,Sieczkarz,"",isaac
+RYNEK18,73,"","",Pereth Baer – przymusowy lokator,Złotnik,2,pereth baer
+RYNEK18,74,38,38,Jankel Jude,Szynkarz,1,jankel jude
+RYNEK18,75,"","",Arje Marcus,Nauczyciel,4,arje marcus
+ULICA ZIELONA,75,39,39,Chaim Moses,Szynkarz,1,chaim moses
+ULICA ZIELONA,76,"","",Wirsbolowski,Kalkulator Kamery,1,wirsbolowski
+ULICA ZIELONA,77,40,40,Salamon Calleb,Nauczyciel,1,salamon calleb
+ULICA ZIELONA,78,"","",Hirsch Schmul – przymusowy lokator,Nauczyciel,1,hirsch schmul
+ULICA ZIELONA,79,"","",Leib Borach – przymusowy lokator,Handlarz ryb,3,leib borach
+ULICA ZIELONA,80,41,41,Leijser Hirsch,Kupiec,1,leijser hirsch
+ULICA ZIELONA,81,"","",Leijser Moses – przymusowy lokator,Krawiec,4,leijser moses
+ULICA ZIELONA,82,42,42,Leijser Hirsch,Handlarz cytrynami,3,leijser hirsch
+ULICA ZIELONA,83,"","",Wolff David – przymusowy lokator,Handlarz cytrynami,3,wolff david
+ULICA ZIELONA,84,"","",Israel Owschaij – przymusowy lokator,Pracownik młyna,3,israel owschaij
+ULICA ZIELONA,85,"","",Leib Abraham – przymusowy lokator,Handlarz zbożem,3,leib abraham
+ULICA ZIELONA,86,43/44,43,Aron Leib,Kupiec,1,aron leib
+ULICA ZIELONA,87,"","",Haagen – przymusowy lokator,Ingrossator Rejencji,1,haagen
+ULICA ZIELONA,88,45,44,Mich. Werenoski,Kowal mosiądzu,2,mich. werenoski
+ULICA ZIELONA,89,"","",Albr. Puch – przymusowy lokator,Szewc,3,albr. puch
+ULICA ZIELONA,90,"","",Gottfried Klein – przymusowy lokator,Szewc,3,gottfried klein
+ULICA ZIELONA,91,46,45,Leib Leijser,Złotnik,2,leib leijser
+ULICA ZIELONA,92,"","",Salmon Leib – przymusowy lokator,Kowal mosiądzu,3,salmon leib
+ULICA ZIELONA,93,"","",Süssko Marcus – przymusowy lokator,Furman,3,süssko marcus
+ULICA ZIELONA,94,47,46,Joel Benjamin,Krawiec,3,joel benjamin
+ULICA ZIELONA,95,49,47,Johann Scheiba – mieszka pod nr 25,Krawiec,–,johann scheiba
+ULICA ZIELONA,96,"","",Schael19 – przymusowy lokator,Rendant kasy głównej,1,schael
+ULICA ZIELONA,97,48,48,Jacob Piekarski20,Garncarz,4,jacob piekarski
+ULICA ZIELONA,98,50,49,Ambros. Żakoskij,Mieszczanin rolnik,4,ambros. żakoskij
+ULICA ZIELONA,99,51,50,Franz Wilczijnski21,Mieszczanin rolnik,4,franz wilczijnski
+ULICA ZIELONA,100,52,51,Andr. Lukażijnski,Mieszczanin rolnik,4,andr. lukażijnski
+ULICA ZIELONA,101,53,52,Johann Waijewedka,Mieszczanin rolnik,4,johann waijewedka
+ULICA ZIELONA,102,"","",Lukaszinskij – przymusowy lokator,Mieszczanin rolnik,4,lukaszinskij
+ULICA ZIELONA,103,54,53,Pawel Stawckowski22,Mieszczanin rolnik,4,pawel stawckowski
+ULICA ZIELONA,104,55,54,Maciej Michalowicz,Szewc,4,maciej michalowicz
+ULICA ZIELONA,105,"","",Hohenhausen – przymusowy lokator,Kancelista,2,hohenhausen
+ULICA ZIELONA,106,56,55,Steph. Grusczewicz,Piekarz,4,steph. grusczewicz
+ULICA ZIELONA,107,"","",Baer – przymusowy lokator,Położnik,4,baer
+ULICA ZIELONA,108,57,56,Stanislaw Lukewicz,Mieszczanin rolnik oraz garncarz,4,stanislaw lukewicz
+ULICA ZIELONA,109,58,57,Wdowa Holulawicz23,Mieszczanin rolnik,4,wdowa holulawicz
+ULICA ZIELONA,110,"","",Pakockij,Szewc,"",pakockij
+ULICA ZIELONA,111,59,58,Andr. Kosakowicz,Robotnik dniówkowy,4,andr. kosakowicz
+ULICA ZIELONA,112,61,59,Cchaie Abraham,Kupiec,2,cchaie abraham
+ULICA ZIELONA,113,"","",Nadolnij – przymusowy lokator,Kalkulator Kamery,2,nadolnij
+ULICA ZIELONA,114,60,60,Benjam. Siemon,Kramarz,3,benjam. siemon
+ULICA ZIELONA,115,"","",Wolff Haskie – przymusowy lokator,Kupiec,2,wolff haskie
+ULICA ZIELONA,116,62,61,Jacob Dubżeijko,Mieszczanin rolnik,4,jacob dubżeijko
+ULICA ZIELONA,117,64,62,Jan Horodinskij,Mieszczanin rolnik,4,jan horodinskij
+ULICA ZIELONA,118,65,63,Wolff Marcus,Furman,3,wolff marcus
+ULICA ZIELONA,119,66,64,Schlaum Mann,Krawiec,4,schlaum mann
+ULICA ZIELONA,120,67,65,Abrah. Schaps,Kramarz,3,abrah. schaps
+ULICA ZIELONA,121,"","",Kraeger – przymusowy lokator,Kancelista Rejencji,2,kraeger
+ULICA ZIELONA,122,"","",Leib Marcus – przymusowy lokator,Kupiec,2,leib marcus
+ULICA ZIELONA,123,68,66,Jank Chaim,Kramarz,3,jank chaim
+ULICA ZIELONA,124,"","",Hillel Jankel – przymusowy lokator,Kramarz,3,hillel jankel
+ULICA ZIELONA,125,"","",Fedalge Abraham – przymusowy lokator,Kupiec kolonialny,3,fedalge abraham
+ULICA ZIELONA,126,"","",Jankel David – przymusowy lokator,Krawiec,4,jankel david
+ULICA ZIELONA,127,69,67,Leib Abraham,Szynkarz,1,leib abraham
+ULICA ZIELONA,128,63,68,Pawel Dubjeijko,Mieszczanin rolnik,4,pawel dubjeijko
+RYNEK,129,70,69,Leib Israel,Szynkarz wina,1,leib israel
+RYNEK,130,"","",Sutnick – przymusowy lokator,Strażnik pocztowy,2,sutnick
+RYNEK,131,71,70,Israel Hille,Kupiec,1,israel hille
+RYNEK,132,"","",March Israel – przymusowy lokator,Szynkarz,1,march israel
+RYNEK,133,"","",Lewin Mendel – przymusowy lokator,Kramarz,1,lewin mendel
+RYNEK,134,73,71,David Meijer,Kupiec,1,david meijer
+RYNEK,135,72,72,Rumpeli24,Właściciel bilardu,1,rumpeli
+RYNEK,136,"","",Isaac Abraham – przymusowy lokator,Handlarz skórami,3,isaac abraham
+RYNEK,137,74,73,Chaim Chaim,Szynkarz,1,chaim chaim
+RYNEK,138,"","",Hirsch Moses – przymusowy lokator,Kupiec,1,hirsch moses
+RYNEK,139,"","",Meijer Koppel – przymusowy lokator,Kupiec,1,meijer koppel
+RYNEK,140,"","",Jos. Schlom – przymusowy lokator,Kupiec,1,jos. schlom
+RYNEK,141,"","",Drescher – przymusowy lokator,Protokolant Hipoteki,2,drescher
+RYNEK,142,75,74,Michael Gerson,Zegarmistrz,2,michael gerson
+RYNEK,143,76,75,Josel Mendel,Szynkarz,1,josel mendel
+RYNEK,144,"","",Isaac Meijer – przymusowy lokator,Handlarz solą,4,isaac meijer
+RYNEK,145,77,76,Baer Markus,Szynkarz,1,baer markus
+RYNEK,146,"","",Stegmann – przymusowy lokator,Dyrektor kancelarii Rejencji,1,stegmann
+RYNEK,147,"","",Radziczeskij – przymusowy lokator,Tłumacz,2,radziczeskij
+RYNEK,148,78,77,Hirsch Marcus,Szynkarz,1,hirsch marcus
+ULICA STODOLNA (GUMIENNA),149,79,78,Chaie Aron,Handlarz solą,2,chaie aron
+ULICA STODOLNA (GUMIENNA),150,"","",Hirsch Schaie – przymusowy lokator,Handlarz solą,4,hirsch schaie
+ULICA STODOLNA (GUMIENNA),151,"","",Hirsch Nochim,Kupiec,1,hirsch nochim
+ULICA STODOLNA (GUMIENNA),152,80,79,Vincent Cudzinski,Szewc,3,vincent cudzinski
+ULICA STODOLNA (GUMIENNA),153,81,80,Piotr Luszcz,Mieszczanin rolnik,4,piotr luszcz
+ULICA STODOLNA (GUMIENNA),154,82,81,Joze. Deoli,Zegarmistrz,3,joze. deoli
+ULICA STODOLNA (GUMIENNA),155,"","",Wustrack – przymusowy lokator,Sekretarz Kamery,1,wustrack
+ULICA STODOLNA (GUMIENNA),156,83,82,Wdowa Zakrzeska,Bez zawodu,3,wdowa zakrzeska
+ULICA STODOLNA (GUMIENNA),157,"","",Michael Ciechanowski – przymusowy lokator,Szewc,3,michael ciechanowski
+ULICA STODOLNA (GUMIENNA),158,84,83,Marc. Jatachoskij,Garbarz,2,marc. jatachoskij
+ULICA STODOLNA (GUMIENNA),159,85,84,Wdowa Schimann,Bez zawodu,3,wdowa schimann
+ULICA STODOLNA (GUMIENNA),160,"","",Rogoskij – przymusowy lokator,Bednarz,4,rogoskij
+ULICA STODOLNA (GUMIENNA),161,8625,85,Grube,Sekretarz Kamery,1,grube
+ULICA STODOLNA (GUMIENNA),162,87,86,Wdowa Pieotorska,Bez zawodu,3,wdowa pieotorska
+ULICA STODOLNA (GUMIENNA),163,"","",Winkelmann – przymusowy lokator,Podatkobiorca,1,winkelmann
+ULICA STODOLNA (GUMIENNA),164,88,87,Laie Owschaie,Kramarz,2,laie owschaie
+ULICA TYKOCKA,165,89,88,Chaim Meijer,Karczmarz,1,chaim meijer
+ULICA TYKOCKA,166,90,89,Moses Baer,Szynkarz,1,moses baer
+ULICA TYKOCKA,167,"","",Isaac Josel – przymusowy lokator,Kramarz,3,isaac josel
+ULICA TYKOCKA,168,92,90,Maijer Hirsch,Księgarz,1,maijer hirsch
+ULICA TYKOCKA,169,"","",Schlesinger – przymusowy lokator,Komisarz Hipoteki,1,schlesinger
+ULICA TYKOCKA,170,93,91,Pinc. Aron,Piwowar,1,pinc. aron
+ULICA TYKOCKA,171,"","",Joskel Leib – przymusowy lokator,Szynkarz,2,joskel leib
+ULICA TYKOCKA,172,94,92,Hertz,Kancelista Rejencji,2,hertz
+ULICA TYKOCKA,173,95,93,David Moses,Piwowar,1,david moses
+ULICA TYKOCKA,174,"","",Jacobson,Szef posłańców Rejencji,2,jacobson
+ULICA TYKOCKA,175,97,94,Jahn,Sekretarz Rejencji,1,jahn
+ULICA TYKOCKA,176,96,95,Sarel Moses,Szynkarz,1,sarel moses
+ULICA TYKOCKA,177,"","",Josel Israel – przymusowy lokator,Kupiec,1,josel israel
+ULICA TYKOCKA,178,"","",Rahael Moses – kolonista,Kramarz galanterii,0,rahael moses
+ULICA STODOLNA (GUMIENNA),179,98,96,Bartel Jasobeck26,Garncarz,3,bartel jasobeck
+ULICA STODOLNA (GUMIENNA),180,"","",Jan Msanskij27 – przymusowy lokator,Murarz,4,jan msanskij
+ULICA STODOLNA (GUMIENNA),181,99,97,Ant. Jasobeck,Mieszczanin rolnik,4,ant. jasobeck
+ULICA STODOLNA (GUMIENNA),182,100,98,Ant. Jasobeck,Mieszczanin rolnik,–,ant. jasobeck
+ULICA STODOLNA (GUMIENNA),183,101,99,Math. Żubrzijcki,Mieszczanin rolnik,4,math. żubrzijcki
+ULICA STODOLNA (GUMIENNA),184,102,100,Aug. Puchalski,Mieszczanin rolnik,4,aug. puchalski
+ULICA STODOLNA (GUMIENNA),185,103,101,Adam Nyliżynski,Mieszczanin rolnik,4,adam nyliżynski
+ULICA STODOLNA (GUMIENNA),186,104,102,Nikol. Hdlukewicz,Szewc,4,nikol. hdlukewicz
+ULICA STODOLNA (GUMIENNA),187,105,103,Jacob Weilesczuk28,Mieszczanin rolnik,4,jacob weilesczuk
+ULICA STODOLNA (GUMIENNA),188,106,104,Wdowa Jachnicka,Mieszczanin rolnik,4,wdowa jachnicka
+ULICA STODOLNA (GUMIENNA),189,107,105,Simon Wilczijnski,Mieszczanin rolnik,4,simon wilczijnski
+ULICA STODOLNA (GUMIENNA),190,108,106,Frz. Malewicz29,Mieszczanin rolnik,4,frz. malewicz
+ULICA STODOLNA (GUMIENNA),191,109,107,Mikal Popplaski,Mieszczanin rolnik,4,mikal popplaski
+ULICA STODOLNA (GUMIENNA),192,110,108,Kosm. Lotoskij,Mieszczanin rolnik,4,kosm. lotoskij
+ULICA STODOLNA (GUMIENNA),193,111,109,Sim. Sdanowicz,Mieszczanin rolnik,4,sim. sdanowicz
+ULICA STODOLNA (GUMIENNA),194,112,110,Martin Kasolowski30,Mieszczanin rolnik,4,martin kasolowski
+ULICA STODOLNA (GUMIENNA),195,113,111,Jacob Pankiewicz31,Mieszczanin rolnik,4,jacob pankiewicz
+ULICA STODOLNA (GUMIENNA),196,114,112,Waijz Swisloskij,Mieszczanin rolnik,4,waijz swisloskij
+ULICA STODOLNA (GUMIENNA),197,115,113,Żendr. Hrijniwiski,Mieszczanin rolnik,4,żendr. hrijniwiski
+ULICA STODOLNA (GUMIENNA),198,"","",Joh.Cziehanowski – przymusowy lokator,Mieszczanin rolnik,4,joh.cziehanowski
+ULICA STODOLNA (GUMIENNA),199,116,114,Macieij Buczinskij,Szewc,4,macieij buczinskij
+ULICA STODOLNA (GUMIENNA),200,117,115,Wdowa Jablonska32,Po mieszczaninie rolniku,4,wdowa jablonska
+ULICA STODOLNA (GUMIENNA),201,"","",Stanislaw Jaruczewski – przymusowy lokator,Parasolnik,0,stanislaw jaruczewski
+ULICA STODOLNA (GUMIENNA),202,118,116,Stanislaw Poplawski,Mieszczanin rolnik,4,stanislaw poplawski
+ULICA STODOLNA (GUMIENNA),203,"","",Xtoph Dremskij – przymusowy lokator,Mieszczanin rolnik,4,xtoph dremskij
+ULICA STODOLNA (GUMIENNA),204,119,117,Jos Cudoski,Stolarz,3,jos cudoski
+ULICA STODOLNA (GUMIENNA),205,120,118,Franz Zawuckij,Robotnik dniówkowy,4,franz zawuckij
+ULICA STODOLNA (GUMIENNA),206,121,119,Jan Andrzejeski,Mieszczanin rolnik,4,jan andrzejeski
+ULICA STODOLNA (GUMIENNA),207,122,120,Leib Hirsch,Kupiec,1,leib hirsch
+ULICA STODOLNA (GUMIENNA),208,"","",Meijer Aron – przymusowy lokator,Kupiec,1,meijer aron
+ULICA STODOLNA (GUMIENNA),209,"","",Chaim Marcus – przymusowy lokator,Pośrednik handlowy,3,chaim marcus
+ULICA STODOLNA (GUMIENNA),210,123,121,Zamieszkany przez wojsko,Pośrednik handlowy,-,zamieszkany przez wojsko
+ULICA STODOLNA (GUMIENNA),211,124,122,Walpucki,Podatkobiorca,2,walpucki
+ULICA STODOLNA (GUMIENNA),212,125,123,David Hillel,Handlarz skórami,2,david hillel
+ULICA STODOLNA (GUMIENNA),213,126,124,Taube Laie,Piwowar,1,taube laie
+ULICA STODOLNA (GUMIENNA),214,"","",Samuel Pinkus – przymusowy lokator,Kramarz,3,samuel pinkus
+ULICA STODOLNA (GUMIENNA),215,127,125,Eisac Lewin,Kramarz,2,eisac lewin
+ULICA STODOLNA (GUMIENNA),216,128,126,Baer Menke,Handlarz solą,2,baer menke
+ULICA STODOLNA (GUMIENNA),217,129,127,Hirsch Baer,Kupiec kolonialny,1,hirsch baer
+ULICA STODOLNA (GUMIENNA),218,"","",Wdowa Ester,Po handlarzu skórami,3,wdowa ester
+ULICA STODOLNA (GUMIENNA),219,130,128,Chai Hirsch,Handlarz solą,3,chai hirsch
+ULICA STODOLNA (GUMIENNA),220,"","",Seelig Lewin,Handlarz solą,4,seelig lewin
+ULICA STODOLNA (GUMIENNA),221,"","",Mates Jankel,Kupiec kolonialny,3,mates jankel
+ULICA STODOLNA (GUMIENNA),222,"","",Bone Chaim,Handlarz skórami,4,bone chaim
+ULICA TYKOCKA,223,131,129,Joh. Rohleder33,Sukiennik,2,joh. rohleder
+ULICA TYKOCKA,224,132,130,Ignaz Suszijnski,Stolarz,3,ignaz suszijnski
+ULICA TYKOCKA,225,-,-,Bandorf,Posłaniec Kamery,4,bandorf
+ULICA TYKOCKA,226,133,131,Wdowa Reijmann,Po gospodarzu rolnym,2,wdowa reijmann
+ULICA TYKOCKA,227,134,132,Sijlo Hrijniewicki,Kowal,3,sijlo hrijniewicki
+ULICA NOWOLIPIE,228,135,133,Wdowa Barczijnski34,Bez zawodu,3,wdowa barczijnski
+ULICA NOWOLIPIE,229,"","",Malck,Bez zawodu,4,malck
+ULICA NOWOLIPIE,230,136,134,Jos. Radiszeski,Bez zawodu,3,jos. radiszeski
+ULICA NOWOLIPIE,231,"","",von Klingsporn35 – przymusowy lokator,Sekretarz Kamery,1,von klingsporn
+ULICA NOWOLIPIE,232,137,135,Jacob Dicka,Dzierżawca młyna,2,jacob dicka
+ULICA NOWOLIPIE,233,138,136,Kant36,Drukarz,1,kant
+ULICA NOWOLIPIE,234,139,137,Franz Grzijwalski,Polski żołnierz,4,franz grzijwalski
+ULICA NOWOLIPIE,235,140,138,Wdowa Kosloska,Bez zawodu,3,wdowa kosloska
+ULICA NOWOLIPIE,236,"","",Simon Kosloska,Stolarz,4,simon kosloska
+ULICA NOWOLIPIE,237,141,139,Johann Kudrijck37,Kuchmistrz dworski,3,johann kudrijck
+ULICA NOWOLIPIE,238,142,140,Bauer38,Ogrodnik,0,bauer
+ULICA NOWOLIPIE,239,143,141,Maciej Winierski,Robotnik dniówkowy,4,maciej winierski
+ULICA NOWOLIPIE,240,"","",Maceij Sadoskij – przymusowy lokator,Siodlarz,4,maceij sadoskij
+ULICA NOWOLIPIE,241,144,142,Szijm. Niersciurski39,Ptasznik,4,szijm. niersciurski
+ULICA NOWOLIPIE,242,145,143,Maci. Bindzigeski40,Szklarz,4,maci. bindzigeski
+ULICA NOWOLIPIE,243,"","",Wasenberg – przymusowy lokator,Kalkulator Rejencji,2,wasenberg
+ULICA NOWOLIPIE,244,146,144,Dom parafialny i majętności św. Rocha41,Własność Kościoła katolickiego,1,dom parafialny i majętności św. rocha
+ULICA NOWOLIPIE,245,147,145,"","","",""
+ULICA NOWOLIPIE,246,148 149,146,Goiel Schau – kolonista,Mistrz ciesielski,0,goiel schau
+ULICA NOWOLIPIE,247,"","",Sneider,Aktuariusz sądu powiatowego,2,sneider
+ULICA NOWOLIPIE,248,150,147,Marc Garoroski42,Mieszczanin rolnik,4,marc garoroski
+ULICA NOWOLIPIE,249,"","",Biegon – przymusowy lokator,Główny pisarz kasy,2,biegon
+ULICA NOWOLIPIE,250,151,148,Falk43,Rendant,1,falk
+ULICA NOWOLIPIE,251,152,149,Jos. Miliskij,Robotnik dniówkowy,4,jos. miliskij
+ULICA NOWOLIPIE,252,"","",Hoijer – przymusowy lokator,Tłumacz Hipoteki,2,hoijer
+ULICA NOWOLIPIE,253,153,150,Maccey Paczkowski,Kominiarz,4,maccey paczkowski
+ULICA NOWOLIPIE,254,154,151,Peter Kauffmann44,Garncarz,3,peter kauffmann
+ULICA NOWOLIPIE,255,"","",Rijkert – przymusowy lokator,Egzekutor Rejencji,4,rijkert
+ULICA NOWOLIPIE,256,155,152,Maciej Daszkoski,Radca leśny,3,maciej daszkoski
+ULICA NOWOLIPIE,257,156,153,Franz Malecki,Młockarz,3,franz malecki
+ULICA NOWOLIPIE,258,157,154,Michael Petrikoski,Robotnik dniówkowy,4,michael petrikoski
+ULICA NOWOLIPIE,259,"","",Andor – przymusowy lokator,Kancelista Kamery,2,andor
+ULICA NOWOLIPIE,260,158,155,Waijde,Fizylier,4,waijde
+ULICA NOWOLIPIE,261,"","",Kollmann – kolonista,Murarz,0,kollmann
+ULICA NOWOLIPIE,262,159,156,Adam Zablocki,Muzyk,2,adam zablocki
+ULICA NOWOLIPIE,263,160,157,Radicke45,Radca powiatowy,1,radicke
+ULICA NOWOLIPIE,264,161,158,Müller,Radca powiatowy i buchalter,1,müller
+ULICA NOWOLIPIE,265,162,159,Basel Borczeski,Czyszczący tkaniny,4,basel borczeski
+ULICA TYKOCKA,266,16346,160,Bened. Wiarkewicz,Karczmarz,3,bened. wiarkewicz
+ULICA TYKOCKA,267,"","",Gottlieb Schultz – przymusowy lokator,Piekarz,4,gottlieb schultz
+ULICA TYKOCKA,268,164,161,Feibus Marcus,Piwowar,1,feibus marcus
+ULICA TYKOCKA,269,165,162,Simon Isaac,Nauczyciel,3,simon isaac
+ULICA TYKOCKA,270,"","",Isaac Simon – przymusowy lokator,Szynkarz,2,isaac simon
+ULICA TYKOCKA,271,"","",Schoennemann – przymusowy lokator,Sekretarz powiatowy,1,schoennemann
+ULICA TYKOCKA,272,166,163,Carl Berger,Piwowar,1,carl berger
+ULICA TYKOCKA,273,"","",Zimmerman – kolonista,Mistrz ciesielski,0,zimmerman
+RYNEK,274,167,164,Abraham Schmerel,Karczmarz,1,abraham schmerel
+RYNEK,275,"","",Majewskij – przymusowy lokator,Komisarz Hipoteki,1,majewskij
+RYNEK,276,168,165,Aron Abraham,Piwowar,1,aron abraham
+RYNEK,277,"","",Gerson David,Handlarz solą,3,gerson david
+RYNEK,278,"","",Hexy,Sekretarz poczty,1,hexy
+RYNEK,279,169,166,Israel Schlaum,Kramarz,1,israel schlaum
+RYNEK,280,"","",Schlegel47,Aptekarz,1,schlegel
+RYNEK,281,170,167,Schlom Joseph,Kramarz,1,schlom joseph
+RYNEK,282,171,168,Hirsch Schmul,Piwowar,1,hirsch schmul
+RYNEK,283,"","",Leijser Hirsch – przymusowy lokator,Młynarz,3,leijser hirsch
+RYNEK,284,"","",Rathke,Sekretarz Kamery,1,rathke
+RYNEK,285,"","",Denheiser,Listonosz,4,denheiser
+RYNEK,286,"","",Marx,Fryzjer,4,marx
+RYNEK,287,172,169,Leib Borach48,Szynkarz,1,leib borach
+RYNEK,288,"","",Schmel Israel – przymusowy lokator,Kupiec,1,schmel israel
+RYNEK,289,"","",Boruch Manashe,Handlarz solą,3,boruch manashe
+RYNEK,290,173,170,Weck,Dyrektor poczty,1,weck
+RYNEK,291,"","",Czyż49,Landrat,1,czyż
+ULICA RYNKOWA TYLNA,292,174,171,Isaac Abraham,Krawiec,3,isaac abraham
+ULICA RYNKOWA TYLNA,293,"","",Chemje Hirsch,Kowal mosiądzu,4,chemje hirsch
+ULICA RYNKOWA TYLNA,294,"","",Chaim Salomon,Krawiec,3,chaim salomon
+ULICA RYNKOWA TYLNA,295,175,172,Nochem Peritz,Posługacz szpitalny,4,nochem peritz
+ULICA RYNKOWA TYLNA,296,176,173,Elias Lewin,Rzeźnik,2,elias lewin
+ULICA RYNKOWA TYLNA,297,"","",Jos. Bublak,Szewc,4,jos. bublak
+ULICA RYNKOWA TYLNA,298,177,174,Schlau Leijser50,Krawiec,3,schlau leijser
+ULICA RYNKOWA TYLNA,299,"","",Lewin Abraham,Handlarz solą,3,lewin abraham
+ULICA RYNKOWA TYLNA,300,"","",Moses Schlaum,Krawiec,3,moses schlaum
+ULICA RYNKOWA TYLNA,301,178,175,Hirsch Isaak,Kramarz,2,hirsch isaak
+ULICA RYNKOWA TYLNA,302,"","",Leib Salmon,Krawiec,3,leib salmon
+ULICA RYNKOWA TYLNA,303,179,176,Josel Gedalge,Szewc,3,josel gedalge
+ULICA RYNKOWA TYLNA,304,180,177,Wolff Lewin,Pracownik gorzelni,4,wolff lewin
+ULICA RYNKOWA TYLNA,305,181,178,Leib David,Krawiec,3,leib david
+ULICA RYNKOWA TYLNA,306,"","",Mendel Josel,Rzeźnik,2,mendel josel
+ULICA RYNKOWA TYLNA,307,"","",Moses Leib,Golibroda,3,moses leib
+ULICA RYNKOWA TYLNA,308,"","",Maijer Marcus,Krawiec,3,maijer marcus
+ULICA RYNKOWA TYLNA,309,182,179,Leib Hirsch,Krawiec,3,leib hirsch
+ULICA RYNKOWA TYLNA,310,183,180,David Lewin,Szewc,3,david lewin
+ULICA RYNKOWA TYLNA,311,"","",Hirsch Jankel – przymusowy lokator,Furman,3,hirsch jankel
+ULICA RYNKOWA TYLNA,312,184,181,Dan Leijser,Handlarz mąką,3,dan leijser
+ULICA RYNKOWA TYLNA,313,"","",Baer Limcke,Krawiec,4,baer limcke
+ULICA RYNKOWA TYLNA,314,185,182,Abraham Moses,Kuśnierz,3,abraham moses
+ULICA RYNKOWA TYLNA,315,186,183,Owsch. Abraham,Kramarz,2,owsch. abraham
+ULICA RYNKOWA TYLNA,316,187,184,Hesh,Posłaniec rejencji,3,hesh
+ULICA RYNKOWA TYLNA,317,188,185,Hirsch Schabr,Szewc,3,hirsch schabr
+ULICA RYNKOWA TYLNA,318,"","",Josel David,Krawiec,4,josel david
+ULICA RYNKOWA TYLNA,319,189,186,Aron Lewin,Szynkarz,1,aron lewin
+ULICA RYNKOWA TYLNA,320,190,187,Wolff Calel,Gorzelnik,3,wolff calel
+ULICA RYNKOWA TYLNA,321,"","",Jankel Hirsch – przymusowy lokator,Szewc,4,jankel hirsch
+ULICA RYNKOWA TYLNA,322,"","",Leib Jankel,Kuśnierz,4,leib jankel
+ULICA RYNKOWA TYLNA,323,191,188,Calel Elias,Nauczyciel,3,calel elias
+ULICA RYNKOWA TYLNA,324,"","",Hirsch Aron,Handlarz rybami,4,hirsch aron
+ULICA RYNKOWA TYLNA,325,"","",Salomon Nisson,Rzeźnik,2,salomon nisson
+ULICA RYNKOWA TYLNA,326,192,189,Elias Hirsch,Krawiec,3,elias hirsch
+ULICA RYNKOWA TYLNA,327,"","",Wolff Israel – przymusowy lokator,Kramarz,3,wolff israel
+ULICA RYNKOWA TYLNA,328,193,190,Laubach,Posłaniec Rejencji,3,laubach
+ULICA RYNKOWA TYLNA,329,194,191,Marcus Hirsch,Krawiec,3,marcus hirsch
+ULICA RYNKOWA TYLNA,330,"","",Issac Moses,Krawiec,4,issac moses
+ULICA RYNKOWA TYLNA,331,"","",Borach David,Krawiec,4,borach david
+ULICA RYNKOWA TYLNA,332,195,192,Kreuschner,Posłaniec Hipoteki,3,kreuschner
+ULICA RYNKOWA TYLNA,333,196,193,Wolff Abram,Piekarz,3,wolff abram
+ULICA RYNKOWA TYLNA,334,"","",Nossen Abraham,Krawiec,4,nossen abraham
+ULICA RYNKOWA TYLNA,335,197,194,Israel Borach,Kuśnierz,3,israel borach
+ULICA RYNKOWA TYLNA,336,"","",Feibel Abraham,Krawiec,4,feibel abraham
+ULICA RYNKOWA TYLNA,337,"","",Moses Borach,Kuśnierz,4,moses borach
+ULICA RYNKOWA TYLNA,338,"","",Marcus Elias,Krawiec,4,marcus elias
+ULICA RYNKOWA TYLNA,339,"","",Israel Moses,Kuśnierz,4,israel moses
+ULICA RYNKOWA TYLNA,340,198,195,Chanc Josel,Szynkarz,3,chanc josel
+ULICA RYNKOWA TYLNA,341,199,196,Borach Israel,Kuśniarz,3,borach israel
+ULICA RYNKOWA TYLNA,342,"","",Samuel Borach,Kuśnierz,4,samuel borach
+ULICA SURASKA TYLNA,343,200,197,Gedal Aron,Nauczyciel,3,gedal aron
+ULICA SURASKA TYLNA,344,201,198,Schlom Aron,Kupiec,1,schlom aron
+ULICA SURASKA TYLNA,345,"","",Hirsch Moses,Kramarz,3,hirsch moses
+ULICA SURASKA TYLNA,346,202,199,Salmon Hirsch,Handlarz mąką,3,salmon hirsch
+ULICA SURASKA TYLNA,347,201/2,200,Marcus Wolff,Furman,3,marcus wolff
+ULICA SURASKA TYLNA,348,"","",Chaim Salomon,Krawiec,4,chaim salomon
+ULICA SURASKA TYLNA,349,"","",Baer Moses,Dzierżawca młyna wodnego,3,baer moses
+ULICA SURASKA TYLNA,350,203,201,Jankel Josel,Krawiec,3,jankel josel
+ULICA SURASKA TYLNA,351,"","",Abraham David,Handlarz mąką,3,abraham david
+ULICA SURASKA TYLNA,352,204,202,Leib Josel,Rzeźnik,2,leib josel
+ULICA SURASKA TYLNA,353,"","",Josel David,Krawiec,4,josel david
+ULICA SURASKA TYLNA,354,205,203,Chone Hirsch51,Piekarz,3,chone hirsch
+ULICA SURASKA TYLNA,355,"","",Marcus Chone,Handlarz mąką,4,marcus chone
+ULICA SURASKA TYLNA,356,"","",Isaac Elias,Krawiec,4,isaac elias
+ULICA SURASKA TYLNA,357,206,204,Leijser Falk,Wzornik tkanin,3,leijser falk
+ULICA SURASKA TYLNA,358,"","",Samuel Vigdor,Piekarz,4,samuel vigdor
+ULICA SURASKA TYLNA,359,207,205,Nochim Lehrel,Krawiec,3,nochim lehrel
+ULICA SURASKA TYLNA,360,"","",Israel Schlomm,Rzeźnik,2,israel schlomm
+ULICA SURASKA TYLNA,361,208,206,Selig Marcus,Handlarz mąką,3,selig marcus
+ULICA SURASKA TYLNA,362,209,207,Kuschel Nochim,Pracownik warzelni piwa,3,kuschel nochim
+ULICA SURASKA TYLNA,363,"","",David Beretz,Rzeźnik,2,david beretz
+ULICA SURASKA TYLNA,364,210,208,Schinnc Jankiel – mieszka w Grodnie,Rzeźnik,"",schinnc jankiel
+ULICA SURASKA TYLNA,365,"","",Zimmermann – przymusowy lokator,Robotnik rolny,4,zimmermann
+ULICA SURASKA TYLNA,366,211,209,Lewin Abraham,Kuśnierz,3,lewin abraham
+ULICA SURASKA TYLNA,367,"","",Abraham Lewin – przymusowy lokator,Kuśnierz,4,abraham lewin
+ULICA SURASKA TYLNA,368,–,210,Wdowa Poltoraczka,Po golibrodzie,4,wdowa poltoraczka
+ULICA SURASKA TYLNA,369,–,211,Macz. Ratczkewicz,Ślusarz,2,macz. ratczkewicz
+ULICA SURASKA TYLNA,370,–,212,Paul Woronka,Szewc,3,paul woronka
+ULICA SURASKA TYLNA,371,216,213,Troschel52,Dyrektor Kamery,1,troschel
+ULICA SURASKA TYLNA,372,"","",Plett,Kancelista Hipoteki,2,plett
+ULICA SURASKA TYLNA,373,"","",Daehring,Komisarz Hipoteki,1,daehring
+ULICA SURASKA TYLNA,374,217,214,George Gresota,Szewc,4,george gresota
+ULICA SURASKA TYLNA,375,218,215,Pioter Pikarski,Garncarz,4,pioter pikarski
+ULICA SURASKA TYLNA,376,219,216,Steph. Naganoski,Robotnik dniówkowy,4,steph. naganoski
+ULICA SURASKA TYLNA,377,220,217,Josel Feibusch,Krawiec,4,josel feibusch
+ULICA SURASKA TYLNA,378,"","",Leib Josel,Krawiec,4,leib josel
+ULICA SURASKA TYLNA,379,"","",Cezachae Elkon,Kuśnierz,4,cezachae elkon
+ULICA SURASKA TYLNA,380,221,218,Aron Simon,Krawiec,4,aron simon
+ULICA SURASKA TYLNA,381,"","",Jankel Lewin,Pisarz synagogi,4,jankel lewin
+ULICA SURASKA TYLNA,382,222,219,Marcus Abraham,Handlarz mąką,3,marcus abraham
+ULICA SURASKA TYLNA,383,"","",Abraham Scheine,Krawiec,4,abraham scheine
+ULICA SURASKA TYLNA,384,223,220,Owschaij Seelig,Kuśnierz,3,owschaij seelig
+ULICA SURASKA TYLNA,385,224,221,Lewin Seelig,Kuśnierz,3,lewin seelig
+ULICA SURASKA TYLNA,386,225,222,David Lewin,Piekarz,3,david lewin
+ULICA SURASKA TYLNA,387,"","",Seelig Marcus,Piekarz,4,seelig marcus
+ULICA SURASKA TYLNA,388,"","",Koppel David,Handlarz rybami,4,koppel david
+ULICA SURASKA TYLNA,389,"","",Moses Seelig,Krawiec,4,moses seelig
+ULICA SURASKA TYLNA,390,"","",Lewin David,Krawiec,4,lewin david
+ULICA SURASKA TYLNA,391,226,223,Alberti – kolonista,Krawiec,0,alberti
+ULICA SURASKA TYLNA,392,227,224,Aron Lewin,Piekarz,3,aron lewin
+ULICA SURASKA TYLNA,393,228,225,Kusare Pelter,Pośrednik handlowy,3,kusare pelter
+ULICA SURASKA TYLNA,394,"","",Leib Hirsch,Krawiec,4,leib hirsch
+ULICA SURASKA TYLNA,395,"","",Hirsch Marcus,Krawiec,4,hirsch marcus
+ULICA SURASKA TYLNA,396,"","",Isaac Hackel,Krawiec,4,isaac hackel
+ULICA SURASKA,397,229,226,Jankel Abraham,Piwowar,1,jankel abraham
+ULICA SURASKA,398,"","",Mendel Elkon,Kupiec,1,mendel elkon
+ULICA SURASKA,399,230,227,Wassensleben,Radca leśny,1,wassensleben
+ULICA SURASKA,400,231,228,Pelett Moses,Szynkarz,1,pelett moses
+ULICA SURASKA,401,232,229,Moses Baer,Szynkarz,1,moses baer
+ULICA SURASKA,402,"","",Jankel Moses,Handlarz solą,3,jankel moses
+ULICA SURASKA,403,233,230,Josel Jankel,Rzeźnik,1,josel jankel
+ULICA SURASKA,404,"","",Leib Josel,Krawiec,3,leib josel
+ULICA SURASKA,405,"","",Abraham Josel,Krawiec,3,abraham josel
+ULICA SURASKA,406,"","",Issac Josel,Krawiec,3,issac josel
+ULICA SURASKA,407,"","",Pawel Samuel,Krawiec,3,pawel samuel
+ULICA SURASKA,408,"","",Hirsch Moses,Szewc,4,hirsch moses
+ULICA SURASKA,409,234,231,Moses Lewin,Piekarz,3,moses lewin
+ULICA SURASKA,410,"","",Esre Lewin,Handlarz mąką,4,esre lewin
+ULICA SURASKA,411,235,232,Isaac Moses,Szynkarz piwa,2,isaac moses
+ULICA SURASKA,412,"","",Meijer Lewin,Kupiec,1,meijer lewin
+ULICA SURASKA,413,236,233,Isaac Schlomm,Piekarz,3,isaac schlomm
+ULICA SURASKA,414,"","",Karol Thurm – kolonista,przymusowy lokator,Szklarz,karol thurm
+ULICA SURASKA,415,237,234,Koppel Borach,Kuśnierz,2,koppel borach
+ULICA SURASKA,416,"","",Josel Jacob – przymusowy lokator,Krawiec,4,josel jacob
+ULICA SURASKA,417,"","",Sigmuntowiz,Szewc,4,sigmuntowiz
+ULICA SURASKA,418,238,235,Gerson Siemon,Krawiec,3,gerson siemon
+ULICA SURASKA,419,"","",Baer Jeremias,Krawiec,4,baer jeremias
+ULICA SURASKA,420,"","",Ruben Lewin,Szewc,4,ruben lewin
+ULICA SURASKA,421,239,236,Moses Schaul,Nauczyciel,4,moses schaul
+ULICA SURASKA,422,240,237,David Lewin53,Muzykant,3,david lewin
+ULICA SURASKA,423,"","",Judel Abraham,Krawiec,4,judel abraham
+ULICA SURASKA,424,"","",Josel David,Krawiec,4,josel david
+ULICA SURASKA,425,241,238,Jankel Borach,Handlarz mąką,3,jankel borach
+ULICA SURASKA,426,242,239,Chaske Isaac,Szewc,3,chaske isaac
+ULICA SURASKA,427,"","",Borach Jossel – przymusowy lokator,Pisarz,"",borach jossel
+ULICA SURASKA,428,243,240,Moses Lewin,Furman,3,moses lewin
+ULICA SURASKA,429,"","",Salmon Wolff,Krawiec,4,salmon wolff
+ULICA SURASKA,430,"","",Sorrach Elias,Pracownik warzelni piwa,4,sorrach elias
+ULICA SURASKA,431,244,241,Wdowa Wawrijniec,Bez zawodu,3,wdowa wawrijniec
+ULICA SURASKA,432,245,242,Israel Hillel54,Strażak,2,israel hillel
+ULICA SURASKA,433,"","",Borach Salomon – przymusowy lokator,Pracownik słodowni,4,borach salomon
+ULICA SURASKA,434,246,243,Moses Isaac,Strażak,2,moses isaac
+ULICA SURASKA,435,"","",Salomon Wolff – przymusowy lokator,Krawiec,4,salomon wolff
+ULICA SURASKA,436,"","",Feibusch Siemon,Słodownik,2,feibusch siemon
+ULICA SURASKA,437,247,244,Wdowa Phrichipowicz55,Po garncarzu,3,wdowa phrichipowicz
+ULICA SURASKA,438,248,245,Fabian Pikarski56,Garncarz,3,fabian pikarski
+ULICA SURASKA,439,249,246,Martin Kresota57,Cieśla,3,martin kresota
+ULICA SURASKA,440,250,247,Simon Pikarski,Garncarz,3,simon pikarski
+ULICA SURASKA,441,251,248,Jankel Schlomm,Szynkarz,2,jankel schlomm
+ULICA SURASKA,442,252,249,Stanislaus Kopiski58,Garncarz,3,stanislaus kopiski
+ULICA SURASKA,443,253,250,Mikol Burijnski59,Mieszczanin rolnik,4,mikol burijnski
+ULICA SURASKA,444,254,251,Manee Leib,Muzykant,4,manee leib
+ULICA SURASKA,445,255,252,Tachel Leib,Golibroda,3,tachel leib
+ULICA SURASKA,446,"","",Nesson Abraham,Krawiec,4,nesson abraham
+ULICA SURASKA,447,"","",Moses Wolff,Rzeźnik,3,moses wolff
+ULICA SURASKA,448,256,253,Baer Leijser,Rzeźnik,1,baer leijser
+ULICA SURASKA,449,"","",Aron Baer,Rzeźnik,2,aron baer
+ULICA SURASKA,450,257,254,Baer Levin,Pielęgniarz,4,baer levin
+ULICA SURASKA,451,"","",Jos. Baer – przymusowy lokator,Handlarz skórami,2,jos. baer
+ULICA SURASKA,452,"","",Jone Moses,Krawiec,4,jone moses
+ULICA SURASKA,453,258,255,Schmul Schlaum,Szynkarz,1,schmul schlaum
+ULICA SURASKA,454,259,256,Elias Schmul,Kupiec,1,elias schmul
+ULICA SURASKA,455,260,257,Jankel Jude,Krawiec,3,jankel jude
+ULICA SURASKA,456,"","",Hirsch Hackel – przymusowy lokator,Krawiec,4,hirsch hackel
+ULICA SURASKA,457,261,258,Baer Aron,Krawiec,3,baer aron
+ULICA SURASKA,458,"","",Kalm Hirsch,Handlarz galanterią,1,kalm hirsch
+ULICA SURASKA,459,262,259,Jakel Meijer,Szynkarz,1,jakel meijer
+ULICA SURASKA,460,"","",Elias Leib,Nauczyciel,4,elias leib
+ULICA SURASKA,461,"","",Schie Feibus,Handlarz skórami,3,schie feibus
+ULICA SURASKA,462,263,260,Jankel Issak,Kramarz,2,jankel issak
+ULICA SURASKA,463,"","",Borach Hirsch,Kupiec,1,borach hirsch
+ULICA SURASKA,464,264,261,Jude Borach,Kuśnierz,3,jude borach
+ULICA SURASKA,465,"","",Schachne Hirsch – przymusowy lokator,Szynkarz,3,schachne hirsch
+ULICA SURASKA,466,266,262,Abel Joseph,Młockarz,3,abel joseph
+ULICA SURASKA,467,267,263,Moses Meijrim,Krawiec,3,moses meijrim
+ULICA SURASKA,468,"","",Baer Jude,Handlarz mąką,3,baer jude
+ULICA SURASKA,469,265,264,Leib Jude,Piekarz,3,leib jude
+ULICA SURASKA,470,"","",Naptanlij Jude – przymusowy lokator,Handlarz mąką,3,naptanlij jude
+ULICA SURASKA,471,268,265,Wdowa Baer,Bez zawodu,4,wdowa baer
+ULICA SZKOLNA,472,269,266,Isaac Chaim,Handlarz solą,3,isaac chaim
+ULICA SZKOLNA,473,"","",Issac Abraham,Podrabin,4,issac abraham
+ULICA SZKOLNA,474,"","",Salmon David,Krawiec,4,salmon david
+ULICA SZKOLNA,475,270,267,Hirsch Lewin,Handlarz solą,2,hirsch lewin
+ULICA SZKOLNA,476,271,268,Mendel Moses,Rzeźnik,2,mendel moses
+ULICA SZKOLNA,477,–,269,Schlaum Chaim,Krawiec,3,schlaum chaim
+ULICA SZKOLNA,478,272,270,Baer Borach,Handlarz solą,3,baer borach
+ULICA SZKOLNA,479,273,271,Radi Faibusch,Rzeźnik,1,radi faibusch
+ULICA SZKOLNA,480,"","",Peisac Isaac,Kuśnierz,4,peisac isaac
+ULICA SZKOLNA,481,274,272,Isaac Abraham,Kuśnierz,3,isaac abraham
+ULICA SZKOLNA,482,276,273,Schmul Lewin,Woźny szkolny,4,schmul lewin
+ULICA SZKOLNA,483,275,274,Leijser Hirsch,Rzeźnik,1,leijser hirsch
+ULICA SZKOLNA,484,277,275,Siemon Leszkewicz,Piekarz,3,siemon leszkewicz
+ULICA SZKOLNA,485,278,276,Kudisch Schmul,Krawiec,3,kudisch schmul
+ULICA SZKOLNA,486,"","",Schapse Kadisch – przymusowy lokator,Krawiec,4,schapse kadisch
+ULICA SZKOLNA,487,279,277,Mendel Elias,Krawiec,3,mendel elias
+ULICA SZKOLNA,488,"","",Schmul Elias – przymusowy lokator,Krawiec,4,schmul elias
+ULICA SZKOLNA,489,280,278,Moses Hirsch,Nauczyciel,3,moses hirsch
+ULICA SZKOLNA,490,"","",David Hirsch,Kuśnierz,4,david hirsch
+ULICA SZKOLNA,491,282,279,Jankel Leijser,Pracownik warzelni piwa,4,jankel leijser
+ULICA SZKOLNA,492,"","",Leijser Jacob,Krawiec,4,leijser jacob
+ULICA SZKOLNA,493,281,280,Marcus Hirsch,Krawiec,3,marcus hirsch
+ULICA SZKOLNA,494,283,281,Hirsch Marcus,Krawiec,3,hirsch marcus
+ULICA SZKOLNA,495,"","",Abram Palter,Kominiarz,4,abram palter
+ULICA SZKOLNA,496,284,282,Lewin Seelig,Krawiec,3,lewin seelig
+ULICA SZKOLNA,497,"","",Abraham Salomon,Krawiec,4,abraham salomon
+ULICA SZKOLNA,498,285,283,Leib Hirsch,Szewc,3,leib hirsch
+ULICA SZKOLNA,499,"","",Moses Salmon,Piekarz,4,moses salmon
+ULICA SZKOLNA,500,286,284,Nisin Nosen,Przewoźnik piwa,4,nisin nosen
+ULICA SZKOLNA,501,287,285,Mendel Jankel,Żebrak,0,mendel jankel
+ULICA SZKOLNA,502,"","",Kalm Hirsch,Kupiec,1,kalm hirsch
+ULICA SZKOLNA,503,288,286,Israel Baer,Kantor szkolny,3,israel baer
+ULICA SZKOLNA,504,"","",Maijer Baer – przymusowy lokator,Młynarz,3,maijer baer
+ULICA SZKOLNA,505,289,287,David Benjamin,Krawiec,3,david benjamin
+ULICA SZKOLNA,506,"","",Eisac Ruben,Krawiec,4,eisac ruben
+ULICA SZKOLNA,507,290,288,Samuel Gerson,Szewc,3,samuel gerson
+ULICA SZKOLNA,508,291,289,Isaac Lewin,Piekarz,3,isaac lewin
+ULICA SZKOLNA,509,292,290,Wdowa Rachelschops,Po piekarzu,3,wdowa rachelschops
+ULICA SZKOLNA,510,"","",Abram Schmuel – przymusowy lokator,Krawiec,4,abram schmuel
+ULICA SZKOLNA,511,293,291,Georg Jaroszewicz – mieszka w Słobodzie,"","",georg jaroszewicz
+ULICA SZKOLNA,512,"","",Beutelsbach – kolonista,przymusowy lokator,Mistrz ciesielski,beutelsbach
+ULICA SZKOLNA,513,294,292,Baer Simon,Robotnik dniówkowy,4,baer simon
+ULICA SZKOLNA,514,295,293,Isaac Aron,Piekarz,3,isaac aron
+ULICA SZKOLNA,515,"","",Moses Meijer – przymusowy lokator,Szklarz,3,moses meijer
+ULICA SZKOLNA,516,"","",Lewin Leijser,Szewc,4,lewin leijser
+ULICA SZKOLNA,517,296,294,Leib Chone,Rzeźnik,1,leib chone
+ULICA SZKOLNA,518,"","",Oscher Abraham – przymusowy lokator,Krawiec,4,oscher abraham
+ULICA SZKOLNA,519,297,295,Moses Hirsch,Krawiec,3,moses hirsch
+ULICA SZKOLNA,520,298,296,Chone Abram,Rzeźnik,1,chone abram
+ULICA SZKOLNA,521,299,297,Thobias Abram,Kuśnierz,3,thobias abram
+ULICA SZKOLNA,522,300,298,Lorenz Gruczinski60,Robotnik,4,lorenz gruczinski
+ULICA SZKOLNA,523,301,299,Baer Falck,Piwowar,1,baer falck
+ULICA SZKOLNA,524,"","",Isaac Jankel,Słodownik,2,isaac jankel
+ULICA SZKOLNA,525,302,300,Josel Schaie,Pracownik warzelni piwa,3,josel schaie
+ULICA SZKOLNA,526,"","",Anton Drewnoskij – kolonista,Robotnik dniówkowy,0,anton drewnoskij
+ULICA SZKOLNA,527,"","",Sperling,Służący w sądzie powiatowym,4,sperling
+ULICA SZKOLNA,528,303,301,Jan Lacharias,Służebny dworski,4,jan lacharias
+ULICA SZKOLNA,529,304,302,Jos. Jarosczewicz,Muzykant,4,jos. jarosczewicz
+ULICA SZKOLNA,530,305,303,Walesczuk,Posłaniec dworski,4,walesczuk
+ULICA SZKOLNA,531,"","",Ratke,Rendant,1,ratke
+ULICA SZKOLNA,532,306,304,Biackoski,Kominiarz,4,biackoski
+ULICA SZKOLNA,533,307,305,Leib Henoch,Stolarz,3,leib henoch
+ULICA SZKOLNA,534,"","",Wahrendorf – kolonista,Mistrz murarski,0,wahrendorf
+ULICA SZKOLNA,535,308,306,Tobias Leib,Krawiec,3,tobias leib
+ULICA SZKOLNA,536,"","",Jeremias Hirsch – przymusowy lokator,Krawiec,4,jeremias hirsch
+ULICA SZKOLNA,537,"","",Abraham Jankel,Krawiec,4,abraham jankel
+ULICA SZKOLNA,538,309,307,Daniel Jankel,Nauczyciel,3,daniel jankel
+ULICA SZKOLNA,539,310,308,Jankel Schmul,Furman,3,jankel schmul
+ULICA SZKOLNA,540,311,309,Jos. Borach,Pracownik warzelni piwa,3,jos. borach
+ULICA SZKOLNA,541,311/2,310,Leijser Lewin,Golibroda,3,leijser lewin
+ULICA SZKOLNA,542,"","",Dietrich,Protokolant sądu powiatowego,2,dietrich
+ULICA SZKOLNA,543,312,311,Isaac Marcus,Sieczkarz,3,isaac marcus
+ULICA SZKOLNA,544,"","",Abel Jankel,Krawiec,3,abel jankel
+ULICA JATKOWA,545,313,312,Meled Israel,Kramarz,2,meled israel
+ULICA JATKOWA,546,314,313,Itzig Hennoch,Furman,3,itzig hennoch
+ULICA JATKOWA,547,315,314,Hirsch Peisach,Krawiec,3,hirsch peisach
+ULICA JATKOWA,548,"","",Wolf Benjamin,Kramarz,3,wolf benjamin
+ULICA JATKOWA,549,316,315,Marcus Abram,Golibroda,3,marcus abram
+ULICA JATKOWA,550,"","",Jankel Abram,Rzeźnik,2,jankel abram
+ULICA JATKOWA,551,"","",Wolff Isaac,Golibroda,4,wolff isaac
+ULICA JATKOWA,552,317,316,Daniel Schlaum,Nauczyciel,3,daniel schlaum
+ULICA JATKOWA,553,"","",Moses Jude – przymusowy lokator,Handlarz solą,3,moses jude
+ULICA JATKOWA,554,"","",Leijser Abraham,Krawiec,4,leijser abraham
+ULICA JATKOWA,555,"","",Salomon Marcus,Furman,4,salomon marcus
+ULICA JATKOWA,556,318,317,Isaac Samuel,Golibroda,3,isaac samuel
+ULICA JATKOWA,557,319,318,Hirsch Schmul,Kramarz pasmanterii,3,hirsch schmul
+ULICA JATKOWA,558,"","",Lewin Hirsch – przymusowy lokator,Kramarz,1,lewin hirsch
+ULICA JATKOWA,559,320,319,Baer Hirsch,Introligator Kamery,2,baer hirsch
+ULICA JATKOWA,560,321,320,Wdowa Maczieijowa,Bez zawodu,4,wdowa maczieijowa
+ULICA JATKOWA,561,"","",Dobrowolski,Tłumacz Rejencji,2,dobrowolski
+ULICA JATKOWA,562,322,321,Owschaij Meijer,Krawiec,3,owschaij meijer
+ULICA JATKOWA,563,323,322,Moses Schmul,Kupiec,1,moses schmul
+ULICA JATKOWA,564,"","",Isaac Schmul,Kupiec,1,isaac schmul
+ULICA JATKOWA,565,324,323,Tobias Leijser,Kramarz pasmanterii,3,tobias leijser
+ULICA JATKOWA,566,"","",Liepmann Hirsch,Handlarz solą,3,liepmann hirsch
+ULICA JATKOWA,567,"","",Jone Schlaum,Kramarz pasmanterii,3,jone schlaum
+ULICA JATKOWA,568,325,324,Radcke,Egzekutor powiatowej komisji sądowej,4,radcke
+ULICA JATKOWA,569,326,325,Hirsch Wolf,Kramarz pasmanterii,3,hirsch wolf
+ULICA JATKOWA,570,"","",Onschai Hirsch,Kramarz pasmanterii,4,onschai hirsch
+ULICA JATKOWA,571,"","",Lewin Moses,Kramarz,3,lewin moses
+ULICA JATKOWA,572,327,326,Salmon Chaim,Kupiec,1,salmon chaim
+RYNEK,573,328,327,David Moses,Kramarz,2,david moses
+RYNEK,574,"","",David Leib,Krawiec,3,david leib
+RYNEK,575,"","",Hirsch Leijser,Kupiec,1,hirsch leijser
+RYNEK,576,329,328,Simch Lewin,Kramarz,2,simch lewin
+RYNEK,577,"","",Hirsch David,Szynkarz,2,hirsch david
+RYNEK,578,330,329,Jankel David,Piwowar,1,jankel david
+RYNEK,579,"","",Wolff Schlaum – przymusowy lokator,Krawiec,3,wolff schlaum
+RYNEK,580,"","",Moses Josel,Krawiec,3,moses josel
+RYNEK,581,331,330,Moses Isaac,Piwowar,1,moses isaac
+RYNEK,582,332,331,Schaul Baer,Faktor,1,schaul baer
+RYNEK,583,"","",Krieger,Kasjer Rejencji,2,krieger
+RYNEK,584,333,332,Catel Schlaum,Szynkarz,1,catel schlaum
+RYNEK,585,"","",Leib Calel – przymusowy lokator,Kupiec,1,leib calel
+RYNEK,586,"","",Noseser Meijer,Kupiec kolonialny,1,noseser meijer
+RYNEK,587,"","",Abraham Marcus,Furman,3,abraham marcus
+RYNEK,588,"","",Praesser,Kontroler ceł i podatków,1,praesser
+RYNEK,589,334,333,Josel Leijser – mieszka w Zhubudij [Zabłudowie?],Kontroler ceł i podatków,–,josel leijser
+RYNEK,590,"","",Josel Jude,Golibroda,4,josel jude
+RYNEK,591,"","",Leib Josel,Golibroda,4,leib josel
+RYNEK,592,335,334,Lewin Schaie,Szynkarz,1,lewin schaie
+RYNEK,593,"","",Szlomskij – przymusowy lokator,Kupiec,1,szlomskij
+RYNEK,594,336,335,Abraham Lewin,Szynkarz,1,abraham lewin
+RYNEK,595,"","",Marcus Moses,Handlarz suknem,1,marcus moses
+RYNEK,596,337,336,Elias Samuel,Szynkarz wina,1,elias samuel
+RYNEK,597,"","",Piaseckij,Kontroler podatków,2,piaseckij
+RYNEK,598,"","",Charisius,Radca powiatowy,1,charisius
+RYNEK,599,338,337,Hirsch Jankel,Piwowar,1,hirsch jankel
+RYNEK,600,"","",Moses Hirsch – przymusowy lokator,Kramarz,2,moses hirsch
+RYNEK,601,"","",August Star61,Blacharz,3,august star
+RYNEK,602,339,338,Leib Abraham,Handlarz solą,3,leib abraham
+RYNEK,603,"","",Salmon Abram,Szynkarz,1,salmon abram
+RYNEK,604,340,339,Abraham Lange62,Kupiec kolonialny,1,abraham lange
+RYNEK,605,"","",Seelig Lange,Szynkarz,1,seelig lange
+RYNEK,606,341,340,Ilka Meijer - mieszka w Goniądzu,-,1,ilka meijer
+RYNEK,607,"","",Chaim Moses,Piwowar,1,chaim moses
+RYNEK,608,"","",Berja Moses,Kupiec kolonialny,1,berja moses
+RYNEK,609,342,341,Lewin Josel,Szynkarz wina,1,lewin josel
+RYNEK,612,"","",Reinhardt,Radca finansowy Kamery,1,reinhardt
+RYNEK,613,344,343,Jaks tein,Radca Kamery,1,jaks tein
+RYNEK,614,345,344,Schwagerius63,Szynkarz,1,schwagerius
+RYNEK,615,347,345,Siostry Miłosierdzia64,Klasztor,0,siostry miłosierdzia
+RYNEK,616,346,346 65,von Metelski66,Polski adwokat,1,von metelski
+RYNEK,617,"","",Mirus67,Dyrektor Kamery,1,mirus
+RYNEK,618,"","",Dedekind68,Radca Kamery,1,dedekind
+RYNEK,619,"","",Pequillhen69,Radca Kamery,1,pequillhen
+RYNEK,620,"","",Weiss70,Radca Kamery,1,weiss
+RYNEK,621,"","",Hadsche,Radca tajny,1,hadsche
+RYNEK,622,"",Fol-wark,Hoenige71,Sekretarz Kamery,1,hoenige
+RYNEK,623,"","",Deheiss72,Marszałek dworski,"",deheiss
+RYNEK,624,348,dworski,Matuckewicz73,Podskarbi dworski,1,matuckewicz
+RYNEK,625,"",Folwark Budy-nek fabryki,Wilczewski74,Adwokat,1,wilczewski
+RYNEK,626,"","",Popławski,Sekretarz,1,popławski
+RYNEK,627,"","",Scheuba,Cukiernik,2,scheuba
+RYNEK,628,"","",Maliczewicz,Kucharz nadworny,2,maliczewicz
+RYNEK,629,"","",Fiasellij,Koniuszy,1,fiasellij
+RYNEK,630,"","",Richter,Dworski garderobiany,1,richter
+RYNEK,631,349,"",Schmidt,Radca Kamery,1,schmidt
+RYNEK,632,"","",Lipinski,Chirurg powiatowy,2,lipinski
+RYNEK,633,"","",Casimir,Pomocnik,4,casimir
+RYNEK,634,"","",Kopka,Egzekutor Kamery,4,kopka
+RYNEK,635,"","",Stroij,Posłaniec kasy,4,stroij
+RYNEK,636,"","",Treibleib,Służący administracyjny,4,treibleib
+RYNEK,637,"","",Lange,Kancelista Hipoteki,2,lange
+RYNEK,638,"","",Michał Jablonski,Kowal dworski,2,michał jablonski
+RYNEK,639,"","",Casp. Czaczkowski,Stelmach dworski,2,casp. czaczkowski
+NOWE MIASTO75,640,350,347,Jacob Michaelis76- pokój w młynie,Pomocnik chirurga,1,jacob michaelis
+NOWE MIASTO75,641,351,348,Siemon Jaworowski,Dworski służący,3,siemon jaworowski
+NOWE MIASTO75,642,"","",Andrée,Radca Rejencji ds. małoletnich,1,andrée
+NOWE MIASTO75,643,352,349 77,Hippel,Radca Rejencji,1,hippel
+NOWE MIASTO75,644,353,350,von Kaczerowski,Dworski vice koniuszy,2,von kaczerowski
+NOWE MIASTO75,645,"","",Stanislav von Kaczerowskij,Asystent registratora Rejencji,2,stanislav von kaczerowskij
+NOWE MIASTO75,646,354,351,Scholle78,Radca Rejencji,1,scholle
+NOWE MIASTO75,647,355,352,Gebhardt79,Główny rendant,1,gebhardt
+NOWE MIASTO75,648,"","",Borrowski,Registrator Kamery,1,borrowski
+NOWE MIASTO75,649,356,353 80,von Schulenburg81,Radca Kamery,1,von schulenburg
+ULICA KLEINDORFF,650,357,354,Casper,Prenczinskij82,"",casper
+ULICA KLEINDORFF,651,358,355,Bartol. Praga83,Stolarz,2,bartol. praga
+ULICA KLEINDORFF,652,"","",Labesius,Radca kryminalny,1,labesius
+ULICA KLEINDORFF,653,359,356,Paul Korbuth84,Bednarz,2,paul korbuth
+ULICA KLEINDORFF,654,"","",Terpitz,Radca Rejencji,1,terpitz
+ULICA KLEINDORFF,655,360,357,Steph. Kowalewski,Kowal,3,steph. kowalewski
+ULICA KLEINDORFF,656,361,358,Wdowa Pawelski,Bez zawodu,3,wdowa pawelski
+ULICA KLEINDORFF,657,"","",Blaschek,Registrator Kamery,1,blaschek
+ULICA KLEINDORFF,658,362,359,Mart. Lukulski,Bez zawodu,3,mart. lukulski
+ULICA KLEINDORFF,659,363,360,Schussler,Kalkulator Kamery,2,schussler
+ULICA KLEINDORFF,660,364,361,Mathis Matlinski,Szewc,3,mathis matlinski
+ULICA KLEINDORFF,661,"","",Bartricz,Kancelista Rejencji,2,bartricz
+ULICA KLEINDORFF,662,365,362,Albert Okraczinski,Sługa dworski,3,albert okraczinski
+ULICA KLEINDORFF,663,366,363,Math. Juchnitzki,Stolarz,3,math. juchnitzki
+ULICA KLEINDORFF,664,367,364,Pawel Kowalewski,Stelmach,3,pawel kowalewski
+ULICA KLEINDORFF,665,368,365,Basilius Lischewitz,Sługa dworski,3,basilius lischewitz
+ULICA KLEINDORFF,666,369,366,Kasimir Kuszniewski85,Sługa dworski,3,kasimir kuszniewski
+ULICA KLEINDORFF,667,"","",Koeller,Tłumacz Hipoteki,2,koeller
+ULICA KLEINDORFF,668,370,367,Bartel. Boijnowski,Bez zawodu,3,bartel. boijnowski
+ULICA KLEINDORFF,669,"","",Bratonius,Tłumacz Kamery,1,bratonius
+ULICA KLEINDORFF,670,372,368,Anth. Jendrzejewski,Gospodarz rolny,3,anth. jendrzejewski
+ULICA KLEINDORFF,671,"","",Plock,Radca Rejencji,1,plock
+ULICA KLEINDORFF,672,371,369,Wdowa Chuchlinska,Bez zawodu,3,wdowa chuchlinska
+ULICA KLEINDORFF,673,"","",Rentz,Kancelista Kamery,2,rentz
+ULICA KLEINDORFF,674,373,370,Adam Braga,Stolarz,3,adam braga
+ULICA KLEINDORFF,675,374,371,Marczin Juchnitzki,Piwowar,2,marczin juchnitzki
+ULICA KLEINDORFF,676,375,372,v[on] Hrieniewitzki86,Dworski pisarz,2,v[on] hrieniewitzki
+ULICA KLEINDORFF,677,376,373,Adam Langhammer87,Kotlarz,1,adam langhammer
+ULICA KLEINDORFF,678,"","",Johann Holzenberg,Szewc,4,johann holzenberg
+ULICA WARSZAWSKA,679,377,374,Mateus Woijewietzki,Siodlarz,3,mateus woijewietzki
+ULICA WARSZAWSKA,680,"","",Gallwitz,Sekretarz Kamery,1,gallwitz
+ULICA WARSZAWSKA,681,378,375,Mich. Lewitzki,Ślusarz,3,mich. lewitzki
+ULICA WARSZAWSKA,682,379,376,Andr. Lowicki,Ślusarz,3,andr. lowicki
+ULICA WARSZAWSKA,683,"","",Schultz,Rendant,1,schultz
+ULICA WARSZAWSKA,684,"","",Carl Zaellner,Kwestor,2,carl zaellner
+ULICA WARSZAWSKA,685,"","",Paquilhen,Registrator Kamery,2,paquilhen
+ULICA WARSZAWSKA,686,"","",Filinus,Registrator Kamery,2,filinus
+ULICA WARSZAWSKA,687,"","",Weiss,Registrator Kamery,2,weiss
+ULICA WARSZAWSKA,688,"","",Fischer,Kancelista,2,fischer
+ULICA WARSZAWSKA,689,380,377,Martin Richmann,Ślusarz,3,martin richmann
+ULICA WARSZAWSKA,690,"","",Holland88,Rendant kasy budowlanej,1,holland
+ULICA WARSZAWSKA,691,381,378,Wdowa Januschewskij,Bez zawodu,3,wdowa januschewskij
+ULICA WARSZAWSKA,692,"","",Hausleiter89 – przymusowy lokator,Kancelista Kamery,2,hausleiter
+ULICA WARSZAWSKA,693,382,379,Schultz,Kalkulator Kamery,1,schultz
+ULICA WARSZAWSKA,694,383,380,Joh. Schlaettcher,Blacharz,2,joh. schlaettcher
+ULICA WARSZAWSKA,695,384,381,Wdowa Koslowska,Bez zawodu,"",wdowa koslowska
+ULICA WARSZAWSKA,696,"","",Folksdorff,Sekretarz kancelarii,1,folksdorff
+ULICA WARSZAWSKA,697,385,382,Schlik90,Główny kasjer,1,schlik
+ULICA WARSZAWSKA,698,386,383,Laurentz Borkowskij91,Bez zawodu,3,laurentz borkowskij
+ULICA WARSZAWSKA,699,"","",Haupt92,Sekretarz kancelarii,1,haupt
+ULICA WARSZAWSKA,700,387,384,Ehlert,Kalkulator Kamery,1,ehlert
+ULICA WARSZAWSKA,701,388,385,von Czernich93,Architekt dworski,1,von czernich
+ULICA WARSZAWSKA,702,389,386,Georg Fictulewicz94,Bez zawodu,3,georg fictulewicz
+ULICA WARSZAWSKA,703,"","",Kunietzki,Kancelista Rejencji,2,kunietzki
+ULICA WARSZAWSKA,704,390,387,Antoni Herliczka95,Malarz,2,antoni herliczka
+ULICA WARSZAWSKA,705,"","",Lüebeck – przymusowy lokator,Radca Rejencji,1,lüebeck
+ULICA WARSZAWSKA,706,391,388,Stanisl. Szenerutzki,Szynkarz,2,stanisl. szenerutzki
+ULICA WARSZAWSKA,707,392,389,Theodor Antolewicz – bardzo ubogi,Dworski robotnik dniówkowy,–,theodor antolewicz
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],708,393,390,Bartel. Wallewicz – bardzo ubogi,Dworski robotnik dniówkowy,–,bartel. wallewicz
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],709,394,391,Jos. Szinowka – bardzo ubogi,Dworski robotnik dniówkowy,–,jos. szinowka
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],710,395,392,Adam Sawitzkij,Malarz,4,adam sawitzkij
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],711,396,393,Paul Sawitzkij,Murarz,4,paul sawitzkij
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],712,398,394,Thomas,Młynarz wiatraczny,2,thomas
+[PRZEDMIEŚCIE ZA BRAMĄ GRODZIEŃSKĄ],713,399,395,Back,Kucharz,1,back
+ULICA BOJARSKA,714,400,396,Adalbert Zubritzki,Gospodarz rolny,4,adalbert zubritzki
+ULICA BOJARSKA,715,401,397,Wdowa Kraine,Po piwowarze,2,wdowa kraine
+ULICA BOJARSKA,716,–,398,Frantz Eliassowitz,Bednarz,3,frantz eliassowitz
+ULICA BOJARSKA,717,–,399,Wdowa Kowarczisk,Bez zawodu,4,wdowa kowarczisk
+ULICA BOJARSKA,718,405,400,Cass. Czerniawski96,Mieszczanin rolnik,4,cass. czerniawski
+ULICA BOJARSKA,719,406,401,Heinrich Frick,Garbarz,1,heinrich frick
+ULICA BOJARSKA,720,407,402,Budynek przeznaczony na potrzeby szkoły,Garbarz,–,budynek przeznaczony na potrzeby szkoły
+ULICA BOJARSKA,721,408,403,Wdowa Osmianka97,Po mieszczaninie rolniku,4,wdowa osmianka
+ULICA BOJARSKA,722,"","",Eggerding,Kalkulator Kamery,2,eggerding
+ULICA BOJARSKA,723,409,404,Matheus Woijtullewicz98 – zwolniony,Pisarz miejski,0,matheus woijtullewicz
+ULICA BOJARSKA,724,"","",Celehrt,Służący Rejencji,4,celehrt
+ULICA BOJARSKA,725,410,405,Fabian Woijtulewicz99,Garbarz,3,fabian woijtulewicz
+ULICA BOJARSKA,726,411,406,Johann Bochm100,Garbarz,2,johann bochm
+ULICA BOJARSKA,727,"","",Malchaw,Radca Rejencji,"",malchaw
+ULICA BOJARSKA,728,412,407,Sziemann Mankowski,Szewc,4,sziemann mankowski
+ULICA BOJARSKA,729,412/ 2,408,Chawinski,Służący,4,chawinski
+ULICA BOJARSKA,730,413,409,Carol Krupicki,Dworski piekarz,4,carol krupicki
+ULICA BOJARSKA,731,414/ 415,410,Szpital wojskowy,"","",szpital wojskowy
+ULICA BOJARSKA,732,416,411 101,Tomaczewski,Mieszczanin rolnik,4,tomaczewski
+ULICA BOJARSKA,733,"","",Benjamin Kilscha102 – kolonista,Golibroda,0,benjamin kilscha
+ULICA BOJARSKA,734,417,412 103,Jos. Jozobik,Kowal,4,jos. jozobik
+ULICA BOJARSKA,735,418,413 104,Lorenz Wilczinski – robotnik dniówkowy,Służący parafialny,0,lorenz wilczinski
+ULICA BOJARSKA,736,419,414 105,Grzegor Ostaszewski – robotnik dniówkowy,Służący parafialny,0,grzegor ostaszewski
+ULICA BOJARSKA,737,420,415 106,Carol Ostarszewski – robotnik dniówkowy,Służący parafialny,0,carol ostarszewski
+ULICA BOJARSKA,738,421,416,Andr. Zawacki,Bez zawodu uprawia ¼ hufe107 gruntu dworskiego oraz ma 2 tygodnie zajęć tamże,4,andr. zawacki
+ULICA BOJARSKA,739,422,417,Wdowa Staszijnski,"",4,wdowa staszijnski
+ULICA BOJARSKA,740,423,418,Sim. Korbut108,"",4,sim. korbut
+ULICA BOJARSKA,741,424,419,Mates Guzowski,"",4,mates guzowski
+ULICA BOJARSKA,742,425,420,Adalbert Gakowski,"",4,adalbert gakowski
+ULICA BOJARSKA,743,426,421,Adalbert Sawicki109,"",4,adalbert sawicki
+ULICA BOJARSKA,744,427,422,Anton Jackowski110,"",4,anton jackowski
+ULICA BOJARSKA,745,428,423,von Deheis111,Marszałek dworu,–,von deheis
+ULICA BOJARSKA,746,429,424,Jacob Kudinskij112,Leśniczy dworski,1,jacob kudinskij
+ULICA BOJARSKA,747,430,425,Adalbert Kudinskij113,Leśniczy dworski,1,adalbert kudinskij
+ULICA BOJARSKA,748,432,426,Stanislaus Josobek114,Mieszczanin rolnik,4,stanislaus josobek
+ULICA BOJARSKA,749,433,427,Jacob Rosalli,Mieszczanin rolnik,4,jacob rosalli
+ULICA BOJARSKA,750,434,428,Staphan Paliczinskij115,Mieszczanin rolnik,4,staphan paliczinskij
+ULICA BOJARSKA,751,"","",Rawenée – przymusowy lokator,Fizyk powiatowy,1,rawenée
+ULICA BOJARSKA,752,435,429,Ternau,Protokolant Inkwizytoriatu,2,ternau
+ULICA BOJARSKA,753,"","",Luz,Radca Rejencji,1,luz
+ULICA BOJARSKA,754,"","",Lietke,Registrator Rejencji,2,lietke
+ULICA BOJARSKA,755,"","",Holtz,Kancelista Rejencji,2,holtz
+ULICA BOJARSKA,756,436,430,Holobowitz,Szklarz,4,holobowitz
+ULICA BOJARSKA,757,"","",Rosentreter,Radca celny,1,rosentreter
+ULICA NOWE MIASTO,758,437,431,Ochm116,Radca Rejencji,1,ochm
+ULICA NOWE MIASTO,759,438,432,Schultz,Radca Kamery,1,schultz
+ULICA NOWE MIASTO,760,439,433,Casp. Jabloncka,Sługa dworski,3,casp. jabloncka
+ULICA NOWE MIASTO,761,440,434,Spons,Radca Rejencji,1,spons
+ULICA NOWE MIASTO,762,441,435,Pissanski,Rendant,1,pissanski
+ULICA NOWE MIASTO,763,443,436,von Lassowski,Komisarz dworski,1,von lassowski
+ULICA NOWE MIASTO,764,"","",Peter Lassowski,Tłumacz Kamery,2,peter lassowski
+ULICA NOWE MIASTO,765,444,437,Casper Szupiński,Młynarz,2,casper szupiński
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,766,446 117,438,von Schimmelpfennig118,Prezydent Kamery,1,von schimmelpfennig
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,767,447 448/ 2,439,Jos. Daskowski119,Wytwórca świec,2,jos. daskowski
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,768,"","",Jos. Scheer,Kwestor,3,jos. scheer
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,769,451,441,von Ziegenhorn,Prezydent Rejencji,1,von ziegenhorn
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,770,"","",Botke,Radca Rejencji,1,botke
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,771,"","",Adler120,Inspektor budowlany,1,adler
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,772,"","",Ploger,Tłumacz Rejencji,2,ploger
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,773,"","",Kirste,Dyrektor kancelarii Kamery,1,kirste
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,774,"",442,Lupinkiewitz121,Proboszcz,1,lupinkiewitz
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,775,"","",von Mischakowski,Tłumacz Rejencji,2,von mischakowski
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,776,453 449 450 452 454 459,422,Müller122,Radca Kamery,1,müller
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,777,"","",Sommer123,Radca Kamery,1,sommer
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,778,"","",Gerlach124,Radca Kamery,1,gerlach
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,779,"","",Heyn,Sekretarz Kamery,1,heyn
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,780,"","",Erdmann125,Kalkulator,1,erdmann
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,781,"","",Fitzenreuter,Kalkulator,1,fitzenreuter
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,782,"","",Kaellner,Kalkulator,2,kaellner
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,783,"","",Dachs,Kalkulator,2,dachs
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,784,"","",Fornes126,Kalkulator,2,fornes
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,785,"","",Koli,Kalkulator,2,koli
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,786,"","",Attens,Inspektor kancelarii Kamery,2,attens
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,787,"","",Schlicht127,Główny rendant,1,schlicht
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,788,"","",Waase,Kancelista,2,waase
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,789,"","",Klutmann128,Kancelista,2,klutmann
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,790,"","",Doneit129,Kancelista,2,doneit
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,791,"","",Appelbaum,Kancelista,2,appelbaum
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,792,"","",Stephani,Kancelista,2,stephani
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,793,"","",Wolff,Registrator,2,wolff
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,794,"","",Rojal,Registrator,2,rojal
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,795,"","",Krebs130,Registrator,2,krebs
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,796,"","",Badendorff,Posłaniec Kamery,4,badendorff
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,797,"","",Leschner,Posłaniec Kamery,4,leschner
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,798,"","",Mesner,Sługa kancelaryjny,4,mesner
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,799,"","",Perlett131,Asystent kasy Rejencji,2,perlett
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,800,"","",Baer,Kancelista Rejencji,2,baer
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,801,"","",Habbel,Kopista,2,habbel
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,802,"","",Wienskowski,Kopista,2,wienskowski
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,803,"","",Lornow,Kopista,2,lornow
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,804,"","",Jankowski,Protokolant Hipoteki,2,jankowski
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,805,"","",Hertz,Tłumacz,2,hertz
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,806,"","",Schwemschultz,Kancelista,2,schwemschultz
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,807,"","",Meissner,Kancelista,1,meissner
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,808,"","",Schumann,Radca kryminalny,1,schumann
+ULICA Z RYNKU DO PAŁACU WRAZ Z PROBOSTWEM KATOLICKIM I RYNKIEM,809,"","",Gregronius,Asesor,2,gregronius

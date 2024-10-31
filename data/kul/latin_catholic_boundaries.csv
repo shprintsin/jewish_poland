@@ -1,0 +1,380 @@
+﻿id,deanery_id,deanery,adeacon_id,adeaconry,diocese_id,diocese,metrop_id,metropoly
+1,9070,Baków,9073,Baków,8349,Baków,8342,Lwów
+2,8788,Kołomyja,8365,Halicz,8353,Lwów,8342,Lwów
+3,8789,Spisz,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+4,8790,Czarnokozińce,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+5,8791,Halicz,8365,Halicz,8353,Lwów,8342,Lwów
+6,8792,Jazłowiec,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+7,8793,Dunajowce,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+8,8794,Szarogród,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+9,8799,Sanok,8370,Brzozów,2807,Przemyśl,8342,Lwów
+12,8796,Buczacz,8366,Lwów,8353,Lwów,8342,Lwów
+10,8813,Dynów,8370,Brzozów,2807,Przemyśl,8342,Lwów
+11,8795,Żydaczów,8365,Halicz,8353,Lwów,8342,Lwów
+13,2888,Kościan,2822,Śrem,2813,Poznań,8341,Gniezno
+14,8797,Konkolniki,8366,Lwów,8353,Lwów,8342,Lwów
+15,2875,Żmigród Nowy,8361,Wojnicz,2809,Kraków,8341,Gniezno
+18,8801,Satanów,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+19,8802,Nowe Miasto,8372,Przemyśl,2807,Przemyśl,8342,Lwów
+20,8803,Bracław,8369,Łuck,2808,Łuck,8342,Lwów
+21,2913,Krosno,8370,Brzozów,2807,Przemyśl,8342,Lwów
+22,8805,Trembowla,8366,Lwów,8353,Lwów,8342,Lwów
+106,8863,Małogoszcz,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+16,8798,Sambor,8372,Przemyśl,2807,Przemyśl,8342,Lwów
+17,8800,Rohatyn,8366,Lwów,8353,Lwów,8342,Lwów
+23,2885,Jasło,8361,Wojnicz,2809,Kraków,8341,Gniezno
+24,2860,Wolbrom,8358,Pilica,2809,Kraków,8341,Gniezno
+25,2872,Nowy Targ,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+31,8808,Gródek Jagielloński,8367,Żółkiew,8353,Lwów,8342,Lwów
+32,8809,Chwastów,9076,Kijów,8352,Kijów,8342,Lwów
+26,8806,Nowy Sącz,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+27,8807,Brzozów,8370,Brzozów,2807,Przemyśl,8342,Lwów
+28,2879,Bobowa,8361,Wojnicz,2809,Kraków,8341,Gniezno
+29,2862,Lelów,8359,Prepozytura Pilica,2809,Kraków,8341,Gniezno
+30,2952,Biecz,8361,Wojnicz,2809,Kraków,8341,Gniezno
+33,8810,Międzybóż,9075,Kamieniec,8351,Kamieniec,8342,Lwów
+130,8884,Kiełczyn,2816,Wrocław,2812,Wrocław,8340,Rzym
+34,2880,Tarnów,2829,Prepozytura Tarnów,2809,Kraków,8341,Gniezno
+35,8820,Żywiec,2838,Kraków,2809,Kraków,8341,Gniezno
+39,2855,Dobczyce,2838,Kraków,2809,Kraków,8341,Gniezno
+40,8814,Karviná,2836,Opole,2812,Wrocław,8340,Rzym
+116,8871,Krasnystaw,9074,Chełm,8350,Chełm,8342,Lwów
+36,2946,Pilzno,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+37,8811,Cieszyn,2836,Opole,2812,Wrocław,8340,Rzym
+38,8812,Lwów,8366,Lwów,8353,Lwów,8342,Lwów
+41,8815,Dunajów,8366,Lwów,8353,Lwów,8342,Lwów
+42,8821,Rzeszów,8371,Jarosław,2807,Przemyśl,8342,Lwów
+43,8836,Zbaraż,8369,Łuck,2808,Łuck,8342,Lwów
+71,8831,Pogrzebień,2836,Opole,2812,Wrocław,8340,Rzym
+136,8905,"Wrocław, Mikołaj Bp",2816,Wrocław,2812,Wrocław,8340,Rzym
+137,8906,Dubno,8369,Łuck,2808,Łuck,8342,Lwów
+44,8816,Frýdek,2836,Opole,2812,Wrocław,8340,Rzym
+45,8817,Żytomierz,9076,Kijów,8352,Kijów,8342,Lwów
+46,2924,Bielsko,2836,Opole,2812,Wrocław,8340,Rzym
+47,8818,Strzyżów,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+48,8819,Fryštát,2836,Opole,2812,Wrocław,8340,Rzym
+49,8822,Pruchnik,8372,Przemyśl,2807,Przemyśl,8342,Lwów
+50,2881,Skawina,2838,Kraków,2809,Kraków,8341,Gniezno
+51,8837,Zlatė Hory,2816,Wrocław,2812,Wrocław,8340,Rzym
+52,8823,Mościska,8372,Przemyśl,2807,Przemyśl,8342,Lwów
+53,8824,Strumień,2836,Opole,2812,Wrocław,8340,Rzym
+54,2926,Lipnica Murowana,8361,Wojnicz,2809,Kraków,8341,Gniezno
+55,8825,Wodzisław,2836,Opole,2812,Wrocław,8340,Rzym
+56,2927,Zator,2838,Kraków,2809,Kraków,8341,Gniezno
+57,2961,Wieliczka,2838,Kraków,2809,Kraków,8341,Gniezno
+58,2918,Oświęcim,2838,Kraków,2809,Kraków,8341,Gniezno
+59,2896,Kraków,2838,Kraków,2809,Kraków,8341,Gniezno
+60,8826,Busk,8367,Żółkiew,8353,Lwów,8342,Lwów
+61,2890,Wojnicz,8361,Wojnicz,2809,Kraków,8341,Gniezno
+62,8827,Janów,8367,Żółkiew,8353,Lwów,8342,Lwów
+63,8848,Biała,2836,Opole,2812,Wrocław,8340,Rzym
+64,8832,Pszczyna,2838,Kraków,2809,Kraków,8341,Gniezno
+65,2930,Ropczyce,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+66,8828,Żory,2836,Opole,2812,Wrocław,8340,Rzym
+67,8830,Racibórz,2836,Opole,2812,Wrocław,8340,Rzym
+68,8829,Jarosław,8371,Jarosław,2807,Przemyśl,8342,Lwów
+69,8835,Dubieńsko Wielkie,2836,Opole,2812,Wrocław,8340,Rzym
+70,8849,Głogów Górny,2836,Opole,2812,Wrocław,8340,Rzym
+72,8833,Krzemieniec,8369,Łuck,2808,Łuck,8342,Lwów
+73,2917,Proszowice,2838,Kraków,2809,Kraków,8341,Gniezno
+74,8834,Tarnogród,8371,Jarosław,2807,Przemyśl,8342,Lwów
+94,8852,Sokal,9074,Chełm,8350,Chełm,8342,Lwów
+95,8853,Krapkowice,2836,Opole,2812,Wrocław,8340,Rzym
+75,2871,Witów,2838,Kraków,2809,Kraków,8341,Gniezno
+76,8850,Vidnava,2816,Wrocław,2812,Wrocław,8340,Rzym
+77,8838,Leżajsk,8371,Jarosław,2807,Przemyśl,8342,Lwów
+78,8839,Gliwice,2836,Opole,2812,Wrocław,8340,Rzym
+79,2889,Bytom,2838,Kraków,2809,Kraków,8341,Gniezno
+80,8840,Łany,2836,Opole,2812,Wrocław,8340,Rzym
+81,8851,Książ Wielki,2838,Kraków,2809,Kraków,8341,Gniezno
+82,2939,Mielec,2831,Nowy Sącz,2809,Kraków,8341,Gniezno
+83,2853,Opatowiec,2838,Kraków,2809,Kraków,8341,Gniezno
+84,2923,Nowa Góra,2838,Kraków,2809,Kraków,8341,Gniezno
+85,8841,Potylicz,9074,Chełm,8350,Chełm,8342,Lwów
+86,8842,Žulowa,2816,Wrocław,2812,Wrocław,8340,Rzym
+87,2957,Sokolina,8360,Prepozytura Wiślica,2809,Kraków,8341,Gniezno
+88,2900,Skała,2838,Kraków,2809,Kraków,8341,Gniezno
+89,8843,Prudnik,2816,Wrocław,2812,Wrocław,8340,Rzym
+90,8844,Gościęcin,2836,Opole,2812,Wrocław,8340,Rzym
+91,8845,Głuchołazy,2816,Wrocław,2812,Wrocław,8340,Rzym
+92,8846,Turobin,9074,Chełm,8350,Chełm,8342,Lwów
+93,8847,Ujazd,2836,Opole,2812,Wrocław,8340,Rzym
+96,8854,Miechocin,2833,Sandomierz,2809,Kraków,8341,Gniezno
+97,8855,Pyskowice,2836,Opole,2812,Wrocław,8340,Rzym
+98,8856,Bełz,9074,Chełm,8350,Chełm,8342,Lwów
+99,8859,Rudnik,2833,Sandomierz,2809,Kraków,8341,Gniezno
+105,8862,Skoroszyce,2816,Wrocław,2812,Wrocław,8340,Rzym
+100,2925,Pacanów,8360,Prepozytura Wiślica,2809,Kraków,8341,Gniezno
+101,8857,Paczków,2816,Wrocław,2812,Wrocław,8340,Rzym
+102,8858,Nysa,2816,Wrocław,2812,Wrocław,8340,Rzym
+103,8860,Strzelce Wielkie,2836,Opole,2812,Wrocław,8340,Rzym
+104,8861,Toszek,2836,Opole,2812,Wrocław,8340,Rzym
+107,8864,Urzędów,2834,Zawichost,2809,Kraków,8341,Gniezno
+131,2847,Olesno,2836,Opole,2812,Wrocław,8340,Rzym
+108,8865,Jędrzejów,2838,Kraków,2809,Kraków,8341,Gniezno
+109,8866,Otmuchów,2816,Wrocław,2812,Wrocław,8340,Rzym
+110,2903,Kurzelów,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+111,2850,Kije,8360,Prepozytura Wiślica,2809,Kraków,8341,Gniezno
+112,8869,Połaniec,2833,Sandomierz,2809,Kraków,8341,Gniezno
+113,8867,Koprzywnica,2833,Sandomierz,2809,Kraków,8341,Gniezno
+114,8868,Opole,2836,Opole,2812,Wrocław,8340,Rzym
+115,8870,Ziębice,2816,Wrocław,2812,Wrocław,8340,Rzym
+117,8872,Zamość,9074,Chełm,8350,Chełm,8342,Lwów
+118,8877,Lubliniec,2836,Opole,2812,Wrocław,8340,Rzym
+129,8883,Krzepice,8357,Terytorium Wieluń,2810,Gniezno,8341,Gniezno
+119,8873,Hrubieszów,9074,Chełm,8350,Chełm,8342,Lwów
+120,8874,Ząbkowice Śląskie,2816,Wrocław,2812,Wrocław,8340,Rzym
+121,8875,Niemodlin,2836,Opole,2812,Wrocław,8340,Rzym
+122,8876,Grabowiec,9074,Chełm,8350,Chełm,8342,Lwów
+123,2904,Brzeźnica,2819,Uniejów,2810,Gniezno,8341,Gniezno
+124,8881,Siołkowice Stare,2836,Opole,2812,Wrocław,8340,Rzym
+125,8878,Zasław,8369,Łuck,2808,Łuck,8342,Lwów
+126,8879,Rychbach,2816,Wrocław,2812,Wrocław,8340,Rzym
+127,8880,Wiązów,2816,Wrocław,2812,Wrocław,8340,Rzym
+128,8882,Świebodzice,2816,Wrocław,2812,Wrocław,8340,Rzym
+132,8904,Wleń,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+133,2869,Zawichost,2834,Zawichost,2809,Kraków,8341,Gniezno
+134,8889,Luboml,9074,Chełm,8350,Chełm,8342,Lwów
+135,8886,Opatów,2834,Zawichost,2809,Kraków,8341,Gniezno
+138,8887,Grodków,2816,Wrocław,2812,Wrocław,8340,Rzym
+139,2949,Radom,2821,Dziekania Kielce,2809,Kraków,8341,Gniezno
+308,8995,Chełmża,8355,Chełmno,8344,Chełmno,8341,Gniezno
+309,8996,Augustów,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+140,8890,Bodzentyn,2832,Prepozytura Kielce,2809,Kraków,8341,Gniezno
+141,8888,Bogacica,2836,Opole,2812,Wrocław,8340,Rzym
+142,8891,Borów,2816,Wrocław,2812,Wrocław,8340,Rzym
+143,8892,Kamienna Góra,2816,Wrocław,2812,Wrocław,8340,Rzym
+144,8893,Bolków,2816,Wrocław,2812,Wrocław,8340,Rzym
+145,8894,Gorzów Śląski,2836,Opole,2812,Wrocław,8340,Rzym
+146,8895,Kąty Wrocławskie,2816,Wrocław,2812,Wrocław,8340,Rzym
+147,8896,Strzegowa (Strzegom),2816,Wrocław,2812,Wrocław,8340,Rzym
+148,8917,Cerkiew,2816,Wrocław,2812,Wrocław,8340,Rzym
+149,8918,Skrzynno,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+150,8897,Jelenia Góra,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+151,8898,Lubomierz,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+152,8899,Namysłów,2816,Wrocław,2812,Wrocław,8340,Rzym
+153,8900,Kunów,2832,Prepozytura Kielce,2809,Kraków,8341,Gniezno
+154,8901,Rychtal,2816,Wrocław,2812,Wrocław,8340,Rzym
+310,8997,Wąbrzeźno,8355,Chełmno,8344,Chełmno,8341,Gniezno
+311,2898,Wizna,2835,Pułtusk,2811,Płock,8341,Gniezno
+312,8999,Brodnica,8355,Chełmno,8344,Chełmno,8341,Gniezno
+155,2936,Sochaczew,2824,Warszawa,2813,Poznań,8341,Gniezno
+158,8903,Radomsko,2819,Uniejów,2810,Gniezno,8341,Gniezno
+214,2937,Łowicz,2837,Łowicz,2810,Gniezno,8341,Gniezno
+156,8902,Jawor,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+157,2844,Poznań,2830,Poznań,2813,Poznań,8341,Gniezno
+159,2891,Chodel,2818,Lublin,2809,Kraków,8341,Gniezno
+160,8957,Izbica,2839,Włocławek,2806,Włocławek,8341,Gniezno
+174,2901,"Gniezno, Piotr i Paweł AAp",2827,Gniezno,2810,Gniezno,8341,Gniezno
+234,2864,Śrem,2822,Śrem,2813,Poznań,8341,Gniezno
+161,2943,Solec,2818,Lublin,2809,Kraków,8341,Gniezno
+162,8907,Żarnów,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+163,8908,Środa Śląska,2816,Wrocław,2812,Wrocław,8340,Rzym
+164,8909,"Wrocław, Maurycy M",2816,Wrocław,2812,Wrocław,8340,Rzym
+165,8910,Oleśnica,2816,Wrocław,2812,Wrocław,8340,Rzym
+202,8933,Krobia,2822,Śrem,2813,Poznań,8341,Gniezno
+166,8911,Tuszyn,2823,Łęczyca,2810,Gniezno,8341,Gniezno
+167,8912,Ruda,8357,Terytorium Wieluń,2810,Gniezno,8341,Gniezno
+168,8971,Nieszawa,2839,Włocławek,2806,Włocławek,8341,Gniezno
+169,8913,Wieruszów,8357,Terytorium Wieluń,2810,Gniezno,8341,Gniezno
+170,8914,Syców,2816,Wrocław,2812,Wrocław,8340,Rzym
+171,8915,Wolbórz,2839,Włocławek,2806,Włocławek,8341,Gniezno
+172,2870,Kazimierz Dolny,2818,Lublin,2809,Kraków,8341,Gniezno
+173,8923,Bolesław,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+175,2906,Rawa Mazowiecka,2837,Łowicz,2810,Gniezno,8341,Gniezno
+176,8916,Opoczno,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+177,8972,Słonim,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+178,8919,Lignica,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+179,8973,Służewo,2839,Włocławek,2806,Włocławek,8341,Gniezno
+180,8920,Przytyk,2814,Kurzelów,2810,Gniezno,8341,Gniezno
+181,2877,Ostrzeszów,2816,Wrocław,2812,Wrocław,8340,Rzym
+182,8924,Chełm,9074,Chełm,8350,Chełm,8342,Lwów
+183,2908,Sierpc,2825,Płock,2811,Płock,8341,Gniezno
+184,2940,Kalisz,2820,Kalisz,2810,Gniezno,8341,Gniezno
+185,2851,Parczew,2818,Lublin,2809,Kraków,8341,Gniezno
+186,8921,Opatów,2816,Wrocław,2812,Wrocław,8340,Rzym
+187,8922,Włodzimierz,8369,Łuck,2808,Łuck,8342,Lwów
+188,8974,Rogoźno,2830,Poznań,2813,Poznań,8341,Gniezno
+189,2842,Zwoleń,2821,Dziekania Kielce,2809,Kraków,8341,Gniezno
+190,8928,Przychowa,2816,Wrocław,2812,Wrocław,8340,Rzym
+191,8925,Nowogrodziec,8373,Lignica (Legnica),2812,Wrocław,8340,Rzym
+192,8929,Milicz,2816,Wrocław,2812,Wrocław,8340,Rzym
+193,8930,Bobrujsk,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+194,2954,Staw,2820,Kalisz,2810,Gniezno,8341,Gniezno
+195,8926,Wołów,2816,Wrocław,2812,Wrocław,8340,Rzym
+196,8927,Straburek,2816,Wrocław,2812,Wrocław,8340,Rzym
+197,2931,Szadek,2819,Uniejów,2810,Gniezno,8341,Gniezno
+254,2868,Płock,2825,Płock,2811,Płock,8341,Gniezno
+313,9013,Olsztyn,9077,Warmia,8354,Warmia,8340,Rzym
+198,8932,Wysoki Kościół,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+212,8938,Janów Podlaski,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+199,2960,Łuków,2818,Lublin,2809,Kraków,8341,Gniezno
+200,2876,Skierniewice,2837,Łowicz,2810,Gniezno,8341,Gniezno
+201,2894,Grójec,2824,Warszawa,2813,Poznań,8341,Gniezno
+203,8934,Żagań,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+204,8935,Owrucz,9076,Kijów,8352,Kijów,8342,Lwów
+205,8937,Szprotawa,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+213,9065,Głogów Wielki,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+274,8970,Nowe Miasto,2825,Płock,2811,Płock,8341,Gniezno
+206,2873,Garwolin,2824,Warszawa,2813,Poznań,8341,Gniezno
+207,8936,Krotoszyn,2820,Kalisz,2810,Gniezno,8341,Gniezno
+208,2884,Stężyca,2821,Dziekania Kielce,2809,Kraków,8341,Gniezno
+209,2911,Zgierz,2823,Łęczyca,2810,Gniezno,8341,Gniezno
+210,8941,Kożuchów,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+211,8942,Borek,2822,Śrem,2813,Poznań,8341,Gniezno
+215,2897,Góra,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+216,8943,Koźmin,2822,Śrem,2813,Poznań,8341,Gniezno
+217,8940,Lutomiersk,2819,Uniejów,2810,Gniezno,8341,Gniezno
+285,8983,Bieżuń,2825,Płock,2811,Płock,8341,Gniezno
+218,2955,Warka,2824,Warszawa,2813,Poznań,8341,Gniezno
+219,8945,Pleszew,2820,Kalisz,2810,Gniezno,8341,Gniezno
+220,2921,Łęczyca,2823,Łęczyca,2810,Gniezno,8341,Gniezno
+221,2935,Mszczonów,2824,Warszawa,2813,Poznań,8341,Gniezno
+222,2858,Warta,2819,Uniejów,2810,Gniezno,8341,Gniezno
+223,2887,Uniejów,2819,Uniejów,2810,Gniezno,8341,Gniezno
+224,2964,Stawiszyn,2820,Kalisz,2810,Gniezno,8341,Gniezno
+225,2959,Konin,2827,Gniezno,2810,Gniezno,8341,Gniezno
+226,8946,Sława,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+227,2956,Nowe Miasto,2822,Śrem,2813,Poznań,8341,Gniezno
+228,8947,Śmigiel,2822,Śrem,2813,Poznań,8341,Gniezno
+293,2886,Przasnysz,2825,Płock,2811,Płock,8341,Gniezno
+229,2907,Kłodawa,2823,Łęczyca,2810,Gniezno,8341,Gniezno
+230,8944,Latowicz,2824,Warszawa,2813,Poznań,8341,Gniezno
+231,2941,Wschowa,2822,Śrem,2813,Poznań,8341,Gniezno
+298,9017,Grodno,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+232,8948,Zielona Góra,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+233,2910,Gostynin,2825,Płock,2811,Płock,8341,Gniezno
+235,2963,Sompolno,2827,Gniezno,2810,Gniezno,8341,Gniezno
+236,2874,Gąbin,2824,Warszawa,2813,Poznań,8341,Gniezno
+330,9018,Sztum,8356,Malbork,8344,Chełmno,8341,Gniezno
+331,9019,Raduń,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+237,2942,Błonie,2824,Warszawa,2813,Poznań,8341,Gniezno
+299,8988,Maków,2835,Pułtusk,2811,Płock,8341,Gniezno
+238,8962,Zakroczym,2825,Płock,2811,Płock,8341,Gniezno
+251,2909,Słupca,2827,Gniezno,2810,Gniezno,8341,Gniezno
+239,2932,Piaseczno,2824,Warszawa,2813,Poznań,8341,Gniezno
+240,2878,Wyszogród,2825,Płock,2811,Płock,8341,Gniezno
+241,2856,"Gniezno, św. Trójca",2827,Gniezno,2810,Gniezno,8341,Gniezno
+252,2905,"Gniezno, Michał A",2827,Gniezno,2810,Gniezno,8341,Gniezno
+253,8954,Radzymin,2835,Pułtusk,2811,Płock,8341,Gniezno
+242,2912,Kutno,2823,Łęczyca,2810,Gniezno,8341,Gniezno
+332,9020,Jeziorany,9077,Warmia,8354,Warmia,8340,Rzym
+243,8949,Drohiczyn,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+244,2915,Pyzdry,2830,Poznań,2813,Poznań,8341,Gniezno
+245,2846,Liw,2824,Warszawa,2813,Poznań,8341,Gniezno
+246,8961,Kowal,2839,Włocławek,2806,Włocławek,8341,Gniezno
+247,8950,Kostrzyń,2830,Poznań,2813,Poznań,8341,Gniezno
+248,8951,Stanisławów,2835,Pułtusk,2811,Płock,8341,Gniezno
+249,8952,Łosice,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+250,8953,Środa,2830,Poznań,2813,Poznań,8341,Gniezno
+333,9021,Dobre Miasto,9077,Warmia,8354,Warmia,8340,Rzym
+255,8955,Kamieniec Litewski,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+256,8956,Świebodzin,2817,Głogów Wielki (Głogów),2812,Wrocław,8340,Rzym
+257,2895,Grodzisk,2828,Pszczew,2813,Poznań,8341,Gniezno
+258,8958,Buk,2830,Poznań,2813,Poznań,8341,Gniezno
+259,2893,Płońsk,2825,Płock,2811,Płock,8341,Gniezno
+260,2882,Brześć Kujawski,2839,Włocławek,2806,Włocławek,8341,Gniezno
+261,8959,Bielsk Podlaski,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+262,8960,Bodzanów,2825,Płock,2811,Płock,8341,Gniezno
+263,8963,Kamieńczyk,2835,Pułtusk,2811,Płock,8341,Gniezno
+264,8964,Węgrów,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+265,2854,Radziejów,2839,Włocławek,2806,Włocławek,8341,Gniezno
+266,2933,Kruszwica,2841,Kruszwica,2806,Włocławek,8341,Gniezno
+267,2859,Żnin,2827,Gniezno,2810,Gniezno,8341,Gniezno
+268,8965,Różana,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+269,2934,Pułtusk,2835,Pułtusk,2811,Płock,8341,Gniezno
+270,8966,Bielsk,2825,Płock,2811,Płock,8341,Gniezno
+271,8967,Szereszów,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+272,8968,Zbąszyń,2828,Pszczew,2813,Poznań,8341,Gniezno
+273,8969,Lwówek,2828,Pszczew,2813,Poznań,8341,Gniezno
+275,8975,Raciąż,2825,Płock,2811,Płock,8341,Gniezno
+276,8976,Nowogródek,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+277,8979,Ostrów,2835,Pułtusk,2811,Płock,8341,Gniezno
+278,8977,Wołkowysk,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+279,8980,Brańsk,8368,Brześć Litewski,2808,Łuck,8342,Lwów
+280,8978,Bobrowniki,2839,Włocławek,2806,Włocławek,8341,Gniezno
+281,8982,Lipno,2826,Dobrzyń,2811,Płock,8341,Gniezno
+338,9026,Dzierzgoń,8356,Malbork,8344,Chełmno,8341,Gniezno
+282,2916,Dobrzyń,2826,Dobrzyń,2811,Płock,8341,Gniezno
+283,2865,Oborniki,2830,Poznań,2813,Poznań,8341,Gniezno
+284,2857,Ciechanów,2825,Płock,2811,Płock,8341,Gniezno
+286,8981,Wyszków,2835,Pułtusk,2811,Płock,8341,Gniezno
+287,8984,Czarnków,2830,Poznań,2813,Poznań,8341,Gniezno
+288,2928,Inowrocław,2841,Kruszwica,2806,Włocławek,8341,Gniezno
+289,8985,Knyszyn,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+290,2866,Rypin,2826,Dobrzyń,2811,Płock,8341,Gniezno
+291,8998,Lidzbark,8355,Chełmno,8344,Chełmno,8341,Gniezno
+292,2950,Mława,2825,Płock,2811,Płock,8341,Gniezno
+294,2944,Łekno,2827,Gniezno,2810,Gniezno,8341,Gniezno
+295,8986,Gniewkowo,2841,Kruszwica,2806,Włocławek,8341,Gniezno
+296,8987,Golub,8355,Chełmno,8344,Chełmno,8341,Gniezno
+297,9016,Gniew,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+300,8993,Toruń,8355,Chełmno,8344,Chełmno,8341,Gniezno
+307,8994,Janowo,2825,Płock,2811,Płock,8341,Gniezno
+301,8989,Nakło,2840,Kamień,2810,Gniezno,8341,Gniezno
+302,8990,Andrzejewo,2835,Pułtusk,2811,Płock,8341,Gniezno
+303,2953,Szreńsk,2825,Płock,2811,Płock,8341,Gniezno
+304,9000,Chełmno,8355,Chełmno,8344,Chełmno,8341,Gniezno
+305,8991,Więcbork,2840,Kamień,2810,Gniezno,8341,Gniezno
+306,8992,Górzno,2826,Dobrzyń,2811,Płock,8341,Gniezno
+314,2867,Łomża,2835,Pułtusk,2811,Płock,8341,Gniezno
+315,9001,Fordon,2841,Kruszwica,2806,Włocławek,8341,Gniezno
+316,9002,Radzyń,8355,Chełmno,8344,Chełmno,8341,Gniezno
+317,9003,Nowe Miasto,8355,Chełmno,8344,Chełmno,8341,Gniezno
+318,9014,Nowe,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+319,9015,Barczewo,9077,Warmia,8354,Warmia,8340,Rzym
+320,9004,Łobżenica,2840,Kamień,2810,Gniezno,8341,Gniezno
+321,9005,Łasin,8355,Chełmno,8344,Chełmno,8341,Gniezno
+322,9006,Człuchów,2840,Kamień,2810,Gniezno,8341,Gniezno
+323,9007,Lubawa,8355,Chełmno,8344,Chełmno,8341,Gniezno
+324,9008,Grudziąc,8355,Chełmno,8344,Chełmno,8341,Gniezno
+325,9009,Wąsosz,2835,Pułtusk,2811,Płock,8341,Gniezno
+326,9010,Lida,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+327,2962,Tuchola,2840,Kamień,2810,Gniezno,8341,Gniezno
+328,9011,Świecie,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+329,9012,Mińsk,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+334,9023,Malbork,8356,Malbork,8344,Chełmno,8341,Gniezno
+337,9025,Starogard,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+339,9027,Orneta,9077,Warmia,8354,Warmia,8340,Rzym
+335,9022,Bytów,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+336,9024,Reszel,9077,Warmia,8354,Warmia,8340,Rzym
+340,9028,Lidzbark Warmiński,9077,Warmia,8354,Warmia,8340,Rzym
+341,9029,Nowy Staw,8356,Malbork,8344,Chełmno,8341,Gniezno
+342,9030,Elbląg,9077,Warmia,8354,Warmia,8340,Rzym
+343,9035,Frombork,9077,Warmia,8354,Warmia,8340,Rzym
+344,9036,Orsza,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+345,9037,Braniewo,9077,Warmia,8354,Warmia,8340,Rzym
+346,9038,Witebsk,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+350,9053,Wiłkomierz,8363,Wilno,8347,Wilno,8341,Gniezno
+347,9031,Tczew,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+348,9051,Świr,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+349,9052,Pobojsk,8363,Wilno,8347,Wilno,8341,Gniezno
+351,9032,Troki,8363,Wilno,8347,Wilno,8341,Gniezno
+352,9054,Kroki,9078,Żmudź,8348,Żmudź,8341,Gniezno
+374,9069,Smoleńsk,9072,Smoleńsk,8346,Smoleńsk,8341,Gniezno
+353,9033,Żuławki,8356,Malbork,8344,Chełmno,8341,Gniezno
+354,9034,Pieniężno,9077,Warmia,8354,Warmia,8340,Rzym
+355,9039,Wilno,8363,Wilno,8347,Wilno,8341,Gniezno
+356,9040,Gdańsk,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+357,9041,Simno,8363,Wilno,8347,Wilno,8341,Gniezno
+358,9042,Mirachowo,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+359,9043,Wielona,9078,Żmudź,8348,Żmudź,8341,Gniezno
+360,9044,Olwita,8363,Wilno,8347,Wilno,8341,Gniezno
+361,9045,Radoszkowice,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+362,9046,Oszmiana,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+363,9047,Lębork,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+364,9048,Puck,8364,Gdańsk,2806,Włocławek,8341,Gniezno
+365,9049,Połock,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+366,9055,Szydłów,9078,Żmudź,8348,Żmudź,8341,Gniezno
+367,9068,Inflanty,9071,Inflanty,8345,Inflanty,8341,Gniezno
+368,9056,Retów,9078,Żmudź,8348,Żmudź,8341,Gniezno
+369,9050,Kowno,8363,Wilno,8347,Wilno,8341,Gniezno
+370,9057,Wornie,9078,Żmudź,8348,Żmudź,8341,Gniezno
+371,9061,Szkudy,9078,Żmudź,8348,Żmudź,8341,Gniezno
+372,9058,Brasław,8362,Białoruś (Obolce Stare),8347,Wilno,8341,Gniezno
+373,9064,Olsiady,9078,Żmudź,8348,Żmudź,8341,Gniezno
+375,9059,Szadów,9078,Żmudź,8348,Żmudź,8341,Gniezno
+376,9071,Kurlandia,9071,Inflanty,8345,Inflanty,8341,Gniezno
+377,9060,Kupiszki,8363,Wilno,8347,Wilno,8341,Gniezno
+378,9062,Janiszki,9078,Żmudź,8348,Żmudź,8341,Gniezno
+379,9063,Wieksznie,9078,Żmudź,8348,Żmudź,8341,Gniezno

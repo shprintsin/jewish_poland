@@ -1,0 +1,13 @@
+setwd('./code')
+source('0.libraries.r')
+source('1.Unify.r')
+source('2.table_code.r')
+source('3.normalize_names.r')
+source('4.assign_voivodeship.r')
+source('5.assign_communities.r')
+source('6.create_index.r')
+source('6.create_index.r')
+source('7.kul_data.r')
+source('7.1.kul_data_mutate.r')
+source('8_data_to_longer.r')
+

@@ -1,0 +1,924 @@
+| Voivodeship/Region | County | Name/ID | Value |
+|--------------------|--------|---------|-------|
+| Poznan Voivodeship |        |         |       |
+|                    |        | Babimost Synagogue | 206 |
+|                    |        | Brojec community to Babimost | 55 |
+|                    |        | Czarnkow with Ryczywol | 489 |
+|                    |        | Czempin Sy. | 86 |
+|                    |        | Czlopa Sy. | 234 |
+|                    |        | Frydlad Pruski Sy. | 877 |
+|                    |        | Grodzisko Sy. | 812 |
+|                    |        | Jutrosin community with Dublin | 115 |
+|                    |        | Kargowa Sy. | 289 |
+|                    |        | Leszno with Bojanow Synagogue | 4743 |
+|                    |        | Lwowek Sy. | 336 |
+|                    |        | Miedzychod Sy. | 236 |
+|                    |        | Miedzyrzec Synagogue with villages | 1077 |
+|                    |        | Murowana Goslina | 111 |
+|                    |        | Oborniki Sy. | 231 |
+|                    |        | Obrzycko Sy. | 195 |
+|                    |        | Osieczna Sy. | 239 |
+|                    |        | Pila Sy. with the town of Jastrow | 411 |
+|                    |        | Pniewy Sy. | 201 |
+|                    |        | Poznan Sy. | 1951 |
+|                    |        | Rawicz Sy. | 563 |
+|                    |        | Restarzew community | 52 |
+|                    |        | Rogozno Sy. | 386 |
+|                    |        | Samowa Sy. | 79 |
+|                    |        | Sierakow Sy. | 119 |
+|                    |        | Skwierzyna S. | 492 |
+| # Wschowa Land     |        |         |       |
+|                    |        | Szliszkowce Sy. | 80 |
+|                    |        | Srem Sy. | 327 |
+|                    |        | Steszew community | 55 |
+|                    |        | Szamotuly Sy. | 1024 |
+|                    |        | Szamotuly Sy. | 494 |
+|                    |        | Trzcianka Sy. | 338 |
+|                    |        | Trzciel Sy. | 223 |
+|                    |        | Tuczno Sy. | 215 |
+|                    |        | Walcz Sy. with villages | 642 |
+|                    |        | Wielun Sy. | 686 |
+|                    |        | Wolsztyn Sy. | 371 |
+|                    |        | Wronki Sy. with villages | 483 |
+|                    |        | Wschowa Sy. | 301 |
+|                    |        | Zbaszyn Sy. | 89 |
+| Poznan Voivodeship |        |         |       |
+|                    | Kalisz County | ##2 |     |
+|                    |        | City of Kalisz with parishes | 702 |
+|                    |        | » Kozmin | 271 |
+|                    |        | » Ostrow | 266 |
+|                    |        | » Zduny | 49 |
+|                    |        | » Odolanow | 225 |
+|                    |        | » Kozminek | 18 |
+|                    |        | » Karmin | 96 |
+|                    |        | » Stawiszyn | 91 |
+|                    |        | » Raszkow | 8 |
+|                    |        | City of Krotoszyn |   |
+|                    | Konin County | ##3 |      |
+|                    |        | City of Konin | 133 |
+|                    |        | » Kolo | 256 |
+|                    |        | » Russocice | 57 |
+|                    |        | » Golina | 142 |
+|                    |        | » Kleczew | 202 |
+|                    |        | » Wilczyn | 39 |
+|                    |        | » Rychwal | 102 |
+|                    | Pyzdry County | ##4 |     |
+|                    |        | City of Pyzdry with parishes | 452 |
+|                    |        | » Kobylin | 282 |
+|                    |        | » Jarocin | 139 |
+|                    |        | » Nowe Miasto | 146 |
+|                    |        | » Pogorzela | 85 |
+|                    |        | » Borek | 32 |
+|                    |        | » Kurnik | 200 |
+|                    |        | » Zaniemysl | 351 |
+|                    |        | » Miloslaw | 136 |
+|                    |        | City of Krotoszyn | 1524 |
+|                    |        | » Zerkow | 76 |
+|                    | Kcynia County | ## 5 |    |
+|                    |        | City of Kcynia | 861 |
+|                    |        | » Chodziez | 644 |
+|                    |        | » Golancz | 193 |
+|                    |        | » Margonin | 316 |
+|                    |        | » Labiszyn | 504 |
+|                    |        | Barcin | 30 |
+|                    | Gniezno County | ##6 |    |
+|                    |        | City of Gniezno | 251 |
+|                    |        | » Dzialyn | 104 |
+|                    |        | » Witkow | 354 |
+|                    |        | » Skoki | 372 |
+|                    |        | » Wrzesnia | 436 |
+|                    |        | » Czerniejow | 20 |
+|                    |        | » Zydow | 33 |
+|                    | Naklo County | ## 7 |     |
+|                    |        | City of Mrocza | 105 |
+|                    |        | » Kcynia | 308 |
+|                    |        | » Debrzno | 254 |
+|                    |        | » Zlotow | 97 |
+|                    |        | » Ledyczek | 1027 |
+|                    |        | » Szamocin | 572 |
+|                    |        | » Lobzenica | 553 |
+|                    |        | » Sepolno | 55 |
+|                    |        | » Naklo | 56 |
+| Sieradz Voivodeship |       | #8 |    |
+|                    |        | Lask Synagogue with parishes | 1588 |
+|                    |        | Warta Synagogue with parishes | 362 |
+|                    |        | Dobra Synagogue with parishes | 380 |
+|                    |        | Blaszki Synagogue with parishes | 310 |
+|                    |        | Lutomiersk Synagogue with parishes | 445 |
+|                    |        | Piotrkow Synagogue with parishes | 1107 |
+|                    |        | Koniecpol Synagogue with parishes | 733 |
+|                    |        | Kaminsku to Przedborz | 25 |
+| Wielun Land        |        | #8 |    |
+|                    |        | Dzialoszyn Synagogue with parishes | 1956 |
+|                    |        | Kepno Synagogue | 879 |
+|                    |        | Boleslaw Synagogue with parishes | 96 |
+|                    |        | Accedit Grabow Starosty | 45 |
+| Krakow Voivodeship |        | #10 |   |
+|                    |        | City of Kazimierz near Krakow with parishes | 3710 |
+|                    |        | Cities of Z. Olkusz and Trzebinia with parishes | 396 |
+|                    |        | City of Chrzanow with parishes | 327 |
+|                    |        | Cities Nr. Z. Bedzin and Modrzejow with parishes | 515 |
+|                    |        | City of Dzialoszyce with parishes | 651 |
+|                    | Ksiaz County | ##11 |  |
+|                    |        | City of Zarnowiec with parishes | 355 |
+|                    |        | Cities Nr. 5. Wodzislaw, Oksza-Sienko, Proszowice, Slomniki | 1638 |
+|                    |        | City of Wolbrom | 303 |
+|                    | Lelow County | ## 12 |  |
+|                    |        | Cities Z. Lelow and Kromlow | 468 |
+|                    |        | Accedit Leaseholder from Wygielczow | 7 |
+|                    |        | City of Naklo | 475 |
+|                    |        | Cities Z. Janow and Czestochowa | 623 |
+|                    |        | Cities Z. Pilica and Ogrodzieniec | 606 |
+|                    |        | Cities 4. Szczekociny | 520 |
+|                    |        | City of Zarki, Mrzygłod, Olsztyn and Wlodowice | 893 |
+|                    | Zator Duchy | ##14 |  |
+|                    |        | Zator | 92 |
+|                    | Oswiecim Duchy | # 15 |  |
+|                    |        | Cities 2. Oswiecim and Biala | 765 |
+|                    | Sacz County | # 16 |  |
+|                    |        | Sacz Kahal with parishes | 1361 |
+|                    |        | Accedit village Losie | 7 |
+|                    | Czchow and     |
+|                    | Szczerzec County |
+|                    |        | Wisnicz Kahal with parishes | 2385 |
+|                    | Biecz County | #18 |  |
+|                    |        | Zmigrod Kahal | 1926 |
+|                    |        | » Dukla | 806 |
+|                    |        | » Bobowa | 218 |
+|                    |        | City of Rudnik with parishes | 196 |
+|                    |        | » Iwaniska with parishes | 598 |
+|                    |        | » Bogoria with parishes | 271 |
+| Sandomierz Voivodeship |    |         |       |
+|                        | Sandomierz County | #19 |  |
+|                        |        | City of Sandomierz with parishes | 801 |
+|                        |        | » Staszow with parishes | 776 |
+|                        |        | » Opatow with parishes | 2034 |
+|                        |        | » Polaniec with parishes | 648 |
+|                        |        | » Ostrowiec with parishes | 904 |
+|                        |        | » Tarlow with parishes | 610 |
+|                        |        | City of Rozwadow with parishes | 368 |
+|                        |        | » Baranow with parishes | 435 |
+|                        |        | » Ulanow with parishes | 848 |
+|                        |        | » Dzikow with parishes | 569 |
+|                        |        | » Ozarow with parishes | 1047 |
+|                        |        | » Klimontow with parishes | 858 |
+|                        |        | » Mielec with parishes | 914 |
+|                        | Wislica County | # 20 |  |
+|                        |        | City of Wislica with parishes | 250 |
+|                        |        | » Nowe Miasto seu Korczyn with parishes | 1536 |
+|                        |        | » Pinczow with parishes | 2862 |
+|                        |        | » Chmielnik with parishes | 1407 |
+|                        |        | » Stopnica with parishes | 563 |
+|                        |        | » Szydlow with parishes | 436 |
+|                        |        | » Olesnica with parishes | 636 |
+|                        |        | » Zabno with parishes | 91 |
+|                        |        | » Kurow with parishes | 437 |
+|                        |        | » Rakow with parishes | 75 |
+|                        |        | » Pacanow with parishes | 558 |
+|                        | Pilzno County | #21 |  |
+|                        |        | City of Tarnow with parishes | 2325 |
+|                        |        | » Dabrowa with parishes | 823 |
+|                        |        | » Kolbuszowa with parishes | 777 |
+|                        |        | » Glogow with parishes | 618 |
+|                        |        | » Sedziszow with parishes | 784 |
+|                        |        | » Strzyzow with parishes | 579 |
+|                        |        | » Frysztak with parishes | 331 |
+|                        |        | » Czudec with parishes | 254 |
+|                        |        | » Ropczyce with parishes | 563 |
+|                        |        | » Debica | 664 |
+|                        |        | » Radomysl with parishes | 301 |
+|                        |        | » Wieliczka with parishes | 309 |
+|                        |        | » Przeclaw with parishes | 129 |
+|                        |        | » Zochow with parishes | 94 |
+|                        | Radom County | #22 |  |
+|                        |        | City of Kozienice with parishes | 1365 |
+|                        |        | » Ulanow | 902 |
+|                        |        | » Szydlowiec with parishes | 3 |
+|                        |        | » Przytyk with parishes | 795 |
+|                        |        | » Klwow | 464 |
+|                        |        | » Gniewoszow with parishes | 34 |
+|                        |        | » Granica with parishes | 341 |
+|                        |        | » Janowiec with parishes | 325 |
+|                        |        | » Lipsko with parishes | 431 |
+|                        |        | » Ryczywol with parishes | 1116 |
+|                        |        | » Zwolen with parishes | 1168 |
+|                        |        | » Przysucha with parishes | 628 |
+|                        |        | » Radom with parishes | 57 |
+|                        |        | » Sienno | 182 |
+|                        |        | With Ilza Baltawska Ruda to Sienno | 6 |
+|                        | Stezyce Land | #23 |  |
+|                        |        | City of Zelechow with parishes | 1464 |
+|                        |        | » Bobrowniki with parishes | 301 |
+|                        |        | » Lysoboki with parishes | 120 |
+|                        | Opoczno County | # 24 |  |
+|                        |        | City of Opoczno with parishes | 1349 |
+|                        |        | » Drzewica with parishes | 51 |
+|                        |        | » Checiny with parishes | 912 |
+|                        |        | » Przedborz | 665 |
+|                        |        | » Sobkow with parishes | 141 |
+|                        |        | » Wloszczowa with parishes | 282 |
+|                        |        | » Secemin with parishes | 21 |
+| Brzesc Kujawski Voivodeship | | #25 |  |
+|                        |        | Brzesc Kujawski Kahal | 164 |
+|                        |        | Przedecz Synagogue | 210 |
+|                        |        | » Kowal | 260 |
+|                        |        | Lubraniec Synagogue | 249 |
+|                        |        | » Izbica | 215 |
+|                        |        | » Piotrkow | 169 |
+|                        | | 26 | Inowroclaw Voivodeship |  |
+|                        |        | In the city of Inowroclaw and villages | 980 |
+|                        |        | » Fordon | 385 |
+|                        |        | » Zoledowo | 13 |
+|                        |        | In the village of Gozdyniuie J.M.P. Zbyszewski | 44 |
+| Chelmno Voivodeship |  | #27 |  |
+|                        |        | In the city of Ostromecko where there is a Synagogue | 39 |
+|                        |        | In Torun parish | 43 |
+|                        |        | » Pokrzywno | 43 |
+|                        |        | » Plowez | 80 |
+|                        |        | » Filow | 172 |
+|                        |        | » Bratjan | 32 |
+|                        |        | In Wlewsk parish under Lidzbark | 34 |
+|                        |        | » Szembruk in Rogozno Economy | 93 |
+|                        |        | » Ciborz and Lidzbark | 21 |
+| Malbork Voivodeship |  | #28 |  |
+|                        |        | In the village of Brodzent in Kiszpork Starosty | 86 |
+| Pomeranian Voivodeship | | #29 |  |
+|                        |        | Kolnicz, Owidz and Barchnowy in Tczew County | 300 |
+|                        |        | Mosty to Klonowka in the same county | 97 |
+|                        |        | Wojtal seu Odry in the same county | 35 |
+|                        |        | Czluchow Suburb and village Ledyk | 419 |
+|                        |        | Zarzecze village in Czluchow County | 37 |
+|                        |        | Malechin in Tuchola County | 11 |
+|                        |        | Hoppenbrug near Gdansk | 504 |
+|                        |        | Chwarzienko in Tczew County | 44 |
+|                        |        | Grabowo and one farmer in Biale Starosty | 95 |
+|                        |        | Koscierzyna Suburb | 43 |
+|                        |        | Hamersztyn Suburb | 80 |
+|                        |        | » Tuchola and village Linsk | 64 |
+|                        |        | Weinberg near Gdansk | 364 |
+|                        |        | Kosnica village in Mirachow County | 37 |
+|                        |        | Langforty, Heiligenbrun, in Gdansk County | 230 |
+|                        |        | Belnow in Swiecie County | 51 |
+|                        |        | Bukowiec in the same county | 140 |
+|                        |        | Bolszewo in Puck County | 85 |
+|                        |        | Grupa in Swiecie County | 23 |
+|                        |        | Bohlin in Nowe County | 43 |
+|                        |        | Osieecznie vel in Wielki Komor | 5 |
+|                        |        | Village Krokow | 24 |
+| Dobrzyn Land |  | #30 |  |
+|                        |        | In the city of Dobrzyn Synagogue | 757 |
+|                        |        | » Lipno community | 58 |
+|                        |        | » Kikol community | 102 |
+|                        |        | Radziki Jews | 165 |
+| Rus Voivodeship |  |  |  |
+|                        | Lwow Land | #31 |  |
+|                        |        | City of Lwow with parish | 6378 |
+|                        |        | » Janow with p. | 244 |
+|                        |        | » Jaworow with p. | 1056 |
+|                        |        | » Zborow with p. | 800 |
+|                        |        | » Zloczow with p. | 1656 |
+|                        |        | » Gliniany with p. | 764 |
+|                        |        | » Jaryczow with p. | 811 |
+|                        |        | » Sokolowka with p. | 188 |
+|                        |        | » Toporow with p. | 159 |
+|                        |        | » Brody with p. | 6877 |
+|                        |        | » Olesko with p. | 771 |
+|                        |        | » Sasow with p. | 230 |
+|                        |        | » Gologory with p. | 619 |
+|                        |        | » Bialy Kamien with p. | 345 |
+|                        |        | » Przemyslany with p. | 1279 |
+|                        |        | » Brzezany with p. | 2896 |
+|                        |        | » Narajow with p. | 76 |
+|                        |        | » Kozowa with p. | 338 |
+|                        |        | » Knihynicze with p. | 250 |
+|                        |        | » Swirz with p. | 840 |
+|                        |        | » Bobrka with p. | 933 |
+|                        |        | » Nawarja with p. | 140 |
+|                        |        | » Grodek with p. | 995 |
+|                        |        | » Szczerzec with p. | 545 |
+|                        |        | » Komarno with p. | 1530 |
+|                        |        | » Zolkiew with p. | 2002 |
+|                        |        | » Kulikow with p. | 409 |
+|                        |        | » Kamionka Strumilowa with p. | 617 |
+|                        |        | » Wybranowka with p. | 985 |
+|                        |        | » Podkamien with p. | 250 |
+|                        |        | » Strzeliska with p. | 553 |
+|                        |        | City of Stanislawczyk with p. | 126 |
+|                        |        | » Pomorzany | 739 |
+|                        |        | » Kuliczkowski Karaites | 55 |
+|                        |        | » Accedit town of Dunajow | 81 |
+| Rus Voivodeship (cont.) |    |         |       |
+|                         | Przemysl Land | #32 |  |
+|                         |        | Lezajsk Kahal with parishes | 909 |
+|                         |        | » Sieniawa with p. | 1115 |
+|                         |        | » Przeworsk with p. | 609 |
+|                         |        | Nowe Miasto Synagogue with p. | 245 |
+|                         |        | Lancut kahal with p. | 829 |
+|                         |        | Lubomierz city Synagogue with p. | 413 |
+|                         |        | Tarnobrzeg Kahal with p. | 1606 |
+|                         |        | » Drohobycz with p. | 1923 |
+|                         |        | » Kanczuga city with p. | 280 |
+|                         |        | Grodzisko Synagogue with p. | 247 |
+|                         |        | Husakow Kahal with p. | 455 |
+|                         |        | » Chyrow with p. | 385 |
+|                         |        | » Stary Sambor city with p. | 1580 |
+|                         |        | » Tyczyn with p. | 263 |
+|                         |        | » Ustrzyki city with p. | 586 |
+|                         |        | » Krzywcza with p. | 99 |
+|                         |        | » Przemysl with p. | 159 |
+|                         |        | Kaszow and Felsztyn city Synagogue | 164 |
+|                         |        | » Bircza town with p. | 291 |
+|                         |        | » Wiszenki with p. | 214 |
+|                         |        | » Rzeszow Kahal | 1202 |
+|                         |        | » with p. Nowy Sambor | 513 |
+|                         |        | Stara Sol Synagogue with p. town of Krzy- | 229 |
+|                         |        | Dobromil Kahal with p. | 968 |
+|                         |        | » Mosciska with p. | 453 |
+|                         |        | Rafalowka Kahal with p. | 912 |
+|                         |        | Rybotycze Synagogue with p. | 251 |
+|                         |        | » Turka with p. | 1254 |
+|                         |        | Sokolow Kahal with p. | 750 |
+|                         |        | » Stryj with p. | 1685 |
+|                         |        | » Jaroslaw with p. | 1727 |
+|                         |        | » Skole with p. | 1864 |
+|                         |        | » Przemysl with p. | 2418 |
+|                         | Sanok Land | #33 |  |
+|                         |        | Sanok Kahal with p. | 467 |
+|                         |        | » Lesko with p. | 1650 |
+|                         |        | » Rymanow with p. | 1015 |
+|                         |        | » Bukowsko with p. | 144 |
+|                         |        | » Dubiecko with p. | 136 |
+|                         |        | » Dynow with p. | 1228 |
+|                         | Zydaczow County | #34 |  |
+|                         |        | City of Zydaczow with parish | 292 |
+|                         |        | » Zurawno with p. | 770 |
+|                         |        | » Zurow with p. | 74 |
+|                         |        | » Brzozdowce | 303 |
+|                         |        | » Chodorow with p. | 852 |
+|                         |        | » Rozdol with p. | 884 |
+|                         |        | » Dolina with p. | 714 |
+|                         |        | » Bolechow with p. | 883 |
+|                         |        | » Sokolowka with p. | 286 |
+|                         |        | » Rozniatow with p. | 478 |
+|                         | Halicz Land | #35 |  |
+|                         |        | City of Halicz Karaites | 94 |
+|                         |        | Same city Jews with parish villages | 365 |
+|                         |        | City of Monasterzyska new and old | 877 |
+|                         |        | City of Jezupol with parish villages | 133 |
+|                         |        | » Mariampol with p.v. | 229 |
+|                         |        | » Tysmienica with p.v. | 493 |
+|                         |        | » Bukaczowce with p.v. | 338 |
+|                         |        | » Uscie with p.v. | 451 |
+|                         |        | » Tysmienica with p.v. | 908 |
+|                         |        | » Kalusz with p.v. | 1662 |
+|                         |        | » Stanislawow with p.v. | 968 |
+|                         |        | » Buczacz with p.v. | 1267 |
+|                         |        | » Zawalow with p.v. | 204 |
+|                         |        | » Potok with p.v. | 417 |
+|                         |        | » Martynow with p.v. | 75 |
+|                         |        | » Rohatyn with p.v. | 1237 |
+|                         |        | » Bursztyn with p.v. | 481 |
+|                         |        | » Podhajce with p.v. | 1290 |
+|                         |        | » Bolszowce with p.v. | 226 |
+|                         |        | » Nizniow with p.v. | 154 |
+|                         |        | » Wojnilow with p.v. | 495 |
+|                         | Trembowla County | #36 |  |
+|                         |        | City of Trembowla with parish villages | 617 |
+|                         |        | » Mikulince with p.v. | 463 |
+|                         |        | » Grzymalow with p.v. | 693 |
+|                         |        | » Tluste with p.v. | 402 |
+|                         |        | » Kopyczynce with p.v. | 407 |
+|                         |        | » Suchostaw or Jablonow with p.v. | 213 |
+|                         |        | » Czortkow with p.v. | 812 |
+|                         |        | » Skalat with p.v. | 640 |
+|                         |        | » Janow with p.v. | 447 |
+|                         |        | » Budzanow with p.v. | 400 |
+|                         |        | » Tarnopol, town |  |
+|                         |        | » Kozlow and Kopyczynce | 1680 |
+|                         |        | » with p.v. |  |
+|                         |        | » Strusow with p.v. | 244 |
+|                         | Kolomyja County | # 37 |  |
+|                         |        | City of Kolomyja with parish villages | 1059 |
+|                         |        | City of Solotwina with parish villages | 471 |
+|                         |        | » Pistyn | 233 |
+|                         |        | » Jablonow or Slupczale with p.v. | 467 |
+|                         |        | » Sniatyn with p.v. | 1123 |
+|                         |        | » Kuty with p.v. | 1013 |
+|                         |        | » Gwozdziec with p.v. | 659 |
+|                         |        | » Zablotow with p.v. | 946 |
+|                         |        | » Horodenka with p.v. | 646 |
+|                         |        | City of Kosow with p.v. | 225 |
+|                         |        | » Same Alterius Dominii with p.v. | 118 |
+|                         |        | » Kamionki Wielkie with p.v. | 56 |
+|                         |        | » Ottynia with p.v. | 345 |
+|                         |        | » Lysiec with p.v. | 171 |
+|                         |        | » Nadworna with p.v. | 1166 |
+|                         |        | » Obertyn with p.v. | 419 |
+|                         |        | » Horodenka with p.v. | 956 |
+|                         |        | » Kulaczkowce with p.v. | 160 |
+| Lublin Voivodeship |  | #38 |  |
+|                         |        | City of Biskupice | 60 |
+|                         |        | » Baranow | 513 |
+|                         |        | » Belzyce | 946 |
+|                         |        | » Bychawa | 413 |
+|                         |        | » Bilgoraj | 661 |
+|                         |        | » Czemierniki | 325 |
+|                         |        | » Frampol | 191 |
+|                         |        | » Goraj | 333 |
+|                         |        | » Goraj | 332 |
+|                         |        | » Janow | 461 |
+|                         |        | » Jozefow | 401 |
+|                         |        | » Kazimierz | 924 |
+|                         |        | » Kalinowszczyzna | 415 |
+|                         |        | » Konska Wola | 325 |
+|                         |        | » Kurow | 1092 |
+|                         |        | » Krasnik | 1343 |
+|                         |        | » Kock | 793 |
+|                         |        | » Lubartow | 1018 |
+|                         |        | » Lublin | 1634 |
+|                         |        | » Leczna | 724 |
+|                         |        | » Lukow | 1563 |
+|                         |        | » Modliborzyce | 350 |
+|                         |        | » Markuszow | 356 |
+|                         |        | » Ostrow | 344 |
+|                         |        | » Opole | 487 |
+|                         |        | » Piaski 3 miles from Lublin | 602 |
+|                         |        | » Piaski near Lublin | 104 |
+|                         |        | » Parczew | 454 |
+|                         |        | » Rachow | 173 |
+|                         |        | » Radzyn | 797 |
+|                         |        | » Siedlce | 531 |
+|                         |        | » Wieniawa | 403 |
+|                         |        | » Wlostowice | 146 |
+|                         |        | » Wysokie | 123 |
+|                         |        | » Zbuczyn | 122 |
+|                         |        | » Zaklikow | 480 |
+| wolyn Voivodeship |        |         |       |
+|                   | Luck County | #41 |       |
+|                   |        | City of Luck with parishes | 1845 |
+|                   |        | » Targowica with p. | 410 |
+|                   |        | » Morowica with p. | 340 |
+|                   |        | » Dubno with p. | 2492 |
+|                   |        | » Ostrog with p. | 290 |
+|                   |        | » Krzemieniec with p. | 162 |
+|                   |        | » Derazne with p. | 130 |
+|                   |        | » Mielnica with p. | 226 |
+|                   |        | » Hoszcza with p. | 283 |
+|                   |        | » Zwiahel with p. | 359 |
+|                   |        | » Warkowicze with p. | 577 |
+|                   |        | » Korzec with p. | 937 |
+|                   |        | » Rowno with p. | 1422 |
+|                   |        | » Krupa with p. | 232 |
+|                   |        | » Sokol with p. | 292 |
+|                   |        | Janowka with large town | 52 |
+|                   |        | Hulewicze town with p. | 151 |
+|                   |        | Tuczyn with p. | 54 |
+|                   |        | Stepan with p. | 1138 |
+|                   |        | Kiew with p. | 973 |
+|                   |        | Miedzyrzec Korecki with p. | 996 |
+|                   |        | » and parishes |  |
+|                   |        | Ostrog with p. Miedzyrzec | 2429 |
+|                   |        | » Berezno with p. | 391 |
+|                   |        | » Stobychwa with p. | 627 |
+|                   |        | » Lobaczowka with p. | 88 |
+|                   |        | » Torczyn with p. | 649 |
+|                   |        | » Horochow with p. | 1872 |
+|                   |        | » Beresteczko with p. | 2073 |
+|                   |        | » Miastyn with p. | 345 |
+|                   |        | » Druzkopl with p. | 105 |
+|                   |        | » Annopol with p. | 807 |
+|                   |        | » Leczna with p. | 82 |
+|                   |        | City of Michalowka with p. | 59 |
+|                   |        | » Wlodzimierz with p. | 385 |
+|                   |        | » Berezna with p. | 159 |
+|                   |        | » Olyka with p. | 646 |
+|                   |        | » Berezdow with p. | 380 |
+|                   |        | » Kolki with p. | 271 |
+|                   |        | » Czartorysk | 473 |
+|                   | Wlodzimierz County | #42 |  |
+|                   |        | City of Wlodzimierz with parishes | 1733 |
+|                   |        | » Kowel with p. | 1516 |
+|                   |        | » Ozdziutycze with p. | 203 |
+|                   |        | » Kisielin with p. | 145 |
+|                   |        | » Jeziorzany with p. | 84 |
+|                   |        | » Niesuchoize with p. | 479 |
+|                   |        | » Lokacze with p. | 440 |
+|                   |        | » Kamien Koszyrski with p. | 997 |
+|                   |        | » Ustilug with p. | 3758 |
+|                   |        | » Turzysk with p. | 874 |
+|                   |        | » Swiniuchy with p. | 254 |
+|                   |        | » Poryck with p. | 367 |
+|                   | Krzemieniec County | #44 |  |
+|                   |        | City of Konstantynow Old and New with parishes | 1801 |
+|                   |        | » Wisnowiec Old and New with p. | 664 |
+|                   |        | » Werba with p. | 181 |
+|                   |        | » Plycza old with p. | 112 |
+|                   |        | » Polonne old with Wola and Przed. Wol. | 581 |
+|                   |        | » Marjan Tarnow | 94 |
+|                   |        | » Kamienczyk | 150 |
+|                   |        | Villages, that is parishes | 72 |
+|                   |        | City of Polonne new | 344 |
+|                   |        | » Baranowka with villages | 142 |
+|                   |        | » Ostropol | 58 |
+|                   |        | » Sudylkow with p. | 397 |
+|                   |        | » Lubar | 405 |
+|                   |        | » Ostropol new | 62 |
+|                   |        | » Szepetowka with p. | 390 |
+|                   |        | » Slawuta with p. | 246 |
+|                   |        | » Labun old | 316 |
+|                   |        | » Labun new | 116 |
+|                   |        | That is villages parishes | 240 |
+|                   |        | City of Olexiniec new | 195 |
+|                   |        | » Olexiniec old | 8 |
+|                   |        | Villages that is parishes | 114 |
+|                   |        | City of Woloczysk with p. | 774 |
+|                   |        | » Wyzgrodek with p. | 668 |
+|                   |        | » Kozin with p. | 332 |
+|                   |        | » Zaslaw old | 2047 |
+|                   |        | » Zaslaw new with Jozefpol | 760 |
+|                   |        | » Bialogrodka | 100 |
+|                   |        | Villages that is parishes | 984 |
+|                   |        | City of Zachowice | 589 |
+|                   |        | » Kornica | 49 |
+|                   |        | Villages that is parishes | 222 |
+|                   |        | City of Radziwillow with p. | 298 |
+|                   |        | » Lesniow with p. | 494 |
+|                   |        | » Horynki with p. | 203 |
+|                   |        | » Jampol with p. | 476 |
+|                   |        | » Zbaraz with p. | 910 |
+|                   |        | » Krupe with p. | 114 |
+|                   |        | » Toijpol with p. | 516 |
+|                   |        | » Szumsk with p. | 170 |
+|                   |        | » Rochmanow with p. | 170 |
+|                   |        | » Kuczmin with p. | 85 |
+|                   |        | » Kunowce with p. | 232 |
+|                   |        | » Kulczyn with p. | 288 |
+|                   |        | » Bazalia with p. | 240 |
+|                   |        | » Krasilow with p. | 273 |
+|                   |        | » Krzemieniec with p. | 1029 |
+|                   |        | » Hrycow with p. | 325 |
+|                   |        | » Kuniow with p. | 86 |
+|                   |        | » Ozlochowce with p. | 317 |
+|                   |        | » Zaloszcze with p. | 644 |
+| Podole Voivodeship |        |         |       |
+|                   | Kamieniec and | #43 |       |
+|                   | Czerwonogrod County |    |  |
+|                   |        | Balin Kahal with parishes | 211 |
+|                   |        | » Bilcze with p. | 69 |
+|                   |        | » Borszczow with p. | 301 |
+|                   |        | Accessit to the same village Zwierz-chajkowce | 16 |
+|                   |        | Czercze Kahal with p. | 270 |
+|                   |        | Czarnokozince with Uscie kahal and p. | 308 |
+|                   |        | Czerwonogrod Kahal with p. | 214 |
+|                   |        | » Dunajowce with p. | 1598 |
+|                   |        | Dzwinogrod Starosty with p. | 62 |
+|                   |        | Franpol Kahal with p. | 157 |
+|                   |        | » Fulsztyn Sortis Chorazy Czerwonogrodzki with p. | 211 |
+|                   |        | From liquidation of unliquidated accessit |  |
+|                   |        | Same Kahal Sortis W.W. Grabiankow with p. | 32 |
+|                   |        | » Grodek with p. | 258 |
+|                   |        | Accessit village Ludwipol or Gierśe | 646 |
+|                   |        | Husiatyn Kahal with p. | 1435 |
+|                   |        | » Jagielnica with p. | 347 |
+|                   |        | » Jarmolince with p. | 293 |
+|                   |        | » Jezierzany with p. | 704 |
+|                   |        | » Jazlowiec with p. | 544 |
+|                   |        | » Kitajgrod with p. | 489 |
+|                   |        | » Kalusz with p. | 149 |
+|                   |        | » Kudrynce with p. | 223 |
+|                   |        | » Kupin with p. | 405 |
+|                   |        | Krzywcza Kahal with p. | 476 |
+|                   |        | » Kuzmin with p. | 208 |
+|                   |        | » Krolowka with p. | 226 |
+|                   |        | » Grodek Kahal with p. | 82 |
+|                   |        | Kasperowce with villages alias parishes | 76 |
+|                   |        | Lanckorona Kahal with p. | 631 |
+|                   |        | » Makow with p. | 313 |
+|                   |        | » Minkowce with p. | 378 |
+|                   |        | » Orynin 3 sortum. with p. | 436 |
+|                   |        | » Okopy with p. | 230 |
+|                   |        | » Pobuzany with p. | 222 |
+|                   |        | » Sawince with p. | 82 |
+|                   |        | » Satanow with p. | 1625 |
+|                   |        | » Sidorow with p. | 73 |
+|                   |        | » Skala with p. | 362 |
+|                   |        | » Studenica with p. | 274 |
+|                   |        | » Smotrycz with p. | 375 |
+|                   |        | » Solobkowce with p. | 530 |
+|                   |        | » Szarawka with p. | 164 |
+|                   |        | » Skala with p. | 356 |
+|                   |        | » Tarnoruda with p. | 771 |
+|                   |        | » Tluste with p. | 355 |
+|                   |        | » Ulaszkowce with p. | 96 |
+|                   |        | » Uszyca with p. | 338 |
+|                   |        | » Zaleszczyki with p. | 362 |
+|                   |        | » Zwaniec with p. | 1568 |
+|                   |        | » Zbryz with p. | 793 |
+|                   |        | Kolendziany with villages | 38 |
+|                   | Latyczow County | ## 45 |  |
+|                   |        | City of Latyczow with parishes | 652 |
+|                   |        | » Sieniawa Stara with p. | 834 |
+|                   |        | City of Miedzyborz with p. | 2039 |
+|                   |        | » Chmielnik with p. | 1417 |
+|                   |        | » Szarogrod with p. | 2219 |
+|                   |        | » Mikolajow with p. | 1087 |
+|                   |        | » Zinkow with p. | 522 |
+|                   |        | » Podole novae locationis with p. | 94 |
+|                   |        | » Deraznia with p. | 314 |
+|                   |        | » Szarawka with p. | 110 |
+|                   |        | » Zamiechow with p. | 505 |
+|                   |        | » Wonkowce with p. | 510 |
+|                   |        | » Wierzbowiec with p. | 202 |
+|                   |        | » Snitowka with p. | 129 |
+|                   |        | » Kopajgrod with p. | 137 |
+|                   |        | » Czarnokozince with p. | 226 |
+|                   |        | » Uladowka with p. | 74 |
+|                   |        | » Konstantynow Nowy with p. | 69 |
+|                   |        | » Proskurow with p. | 759 |
+|                   |        | » Bar with p. | 1477 |
+|                   |        | » Michalpol with p. | 356 |
+|                   |        | » Ulanow with p. | 345 |
+|                   |        | » Olchowiec with p. | 438 |
+|                   |        | » Jaryszow with p. | 24 |
+|                   |        | » Pikow with p. | 287 |
+|                   |        | » Sniekow with p. | 281 |
+|                   |        | » Mohylow with p. | 957 |
+|                   |        | » Luczyniec with p. | 432 |
+|                   |        | » Letniowce with p. | 229 |
+|                   |        | » Ozarzynce | 322 |
+|                   |        | » Jaruga | 131 |
+| Belz Voivodeship |        |         |       |
+|                  | Belz and | ## 46 |       |
+|                  | Lubaczow County |    |    |
+|                  |        | City of Belz with parishes | 716 |
+|                  |        | » Sokal with p. | 1390 |
+|                  |        | » Stojanow with p. | 176 |
+|                  |        | City of Tartakow with p. | 779 |
+|                  |        | » Krystynopol with p. | 759 |
+|                  |        | » Warez with p. | 449 |
+|                  |        | » Laszczow with p. | 360 |
+|                  |        | » Wielkie Oczy with p. | 386 |
+|                  |        | » Rawa with p. | 1050 |
+|                  |        | » Uhnow with p. | 778 |
+|                  |        | » Tomaszow with Jozefow and parishes | 806 |
+|                  |        | » Narol with p. | 358 |
+|                  |        | » Lipsko with p. | 309 |
+|                  |        | » Jaryczow with p. | 144 |
+|                  |        | » Augustow seu Mosty with p. | 267 |
+|                  |        | » Magierow with p. | 440 |
+|                  |        | » Mosty with one village | 38 |
+|                  |        | » Lubycza with p. | 154 |
+|                  |        | » Potok with p. | 80 |
+|                  |        | » Lubaczow with town Potylicz and with parishes | 687 |
+|                  |        | » Cieszanow with p. | 654 |
+|                  |        | » Niemirow with p. | 487 |
+|                  |        | » Oleszyce with p. | 817 |
+|                  | Busk Land and | ## 47 |    |
+|                  | Grabowiec County |    |    |
+|                  |        | City of Grabowiec with parishes | 443 |
+|                  |        | » Komarow with p. | 256 |
+|                  |        | » Tyszowce with p. | 925 |
+|                  |        | » Horodlo with p. | 220 |
+|                  |        | » Dubienka with p. | 604 |
+|                  |        | » Korytnica with p. | 143 |
+|                  |        | » Busk with p. | 481 |
+|                  |        | » Szczurowice with p. | 304 |
+|                  |        | » Cholojow with p. | 264 |
+|                  |        | » Radziechow with p. | 206 |
+|                  |        | » Strzemilce itself | 60 |
+|                  |        | » Witkow with p. | 452 |
+| Braclaw Voivodeship |     | #48 |    |
+|                  |        | City of Winnica with city Nowa Winnica and Jozwin, also with villages | 555 |
+|                  |        | » Kolumnow with v. | 155 |
+|                  |        | » Strzyzawka with villages and city Woronowica | 553 |
+|                  |        | » Sieliszcze with v. | 540 |
+|                  |        | » Woroszylowka with villages and suburb | 74 |
+|                  |        | » Krasne with v. | 146 |
+|                  |        | » Tomaszpol with v. | 722 |
+|                  |        | » Miastkowka with v. | 531 |
+|                  |        | » Cekinowka with v. | 898 |
+|                  |        | » Czerniowce with villages and Nowe Miasto | 237 |
+|                  |        | » Raszkow with v. | 724 |
+|                  |        | » Krute with city Jahorlik and villages | 478 |
+|                  |        | » Jozefgrod with v. | 924 |
+|                  |        | » Zywotow with Lukaszowka and villages | 303 |
+|                  |        | » Lipowiec with v. | 351 |
+|                  |        | » Trostianiec with villages and suburbs | 172 |
+|                  |        | » Obodowka with v. | 266 |
+|                  |        | » Berszada with v. | 743 |
+|                  |        | » Tulczyn with v. | 452 |
+|                  |        | » Braclaw with v. | 819 |
+|                  |        | » Zwierzchowka with v. | 193 |
+|                  |        | City of Granow with city Kublicz and villages | 1024 |
+|                  |        | » Daszow with Nowy and Kalnik and villages | 703 |
+|                  |        | » Sawran with v. | 494 |
+|                  |        | » Braclaw with v. | 195 |
+|                  |        | » Tywrow with Dominicans with v. | 353 |
+|                  |        | » Przyluka with v. | 277 |
+|                  |        | » Ilince with v. | 512 |
+|                  |        | » Tetyjow with city Piatakory | 708 |
+|                  |        | » Ladyzyn with v. | 303 |
+|                  |        | » Zorniszcze with v. | 215 |
+|                  |        | » Dziunkow with v. | 157 |
+|                  |        | » Janow with v. | 795 |
+|                  |        | » Pikow with v. | 298 |
+|                  |        | » Lityn with v. | 481 |
+|                  |        | » Rajgrod with v. | 211 |
+|                  |        | » Hajsyn with v. | 150 |
+|                  |        | » Niemirow with v. | 774 |
+|                  |        | » Peczara with v. | 177 |
+|                  |        | » Monasterzyska with v. | 159 |
+|                  |        | » Kochanowka with v. | 84 |
+|                  |        | » Uman with v. | 446 |
+|                  |        | » Teplik with v. | 289 |
+|                  |        | » Sokolowka with v. | 585 |
+|                  |        | » Morachwa and Czuryna | 509 |
+|                  |        | » Krasne | 455 |
+|                  |        | » Januszgrod | 157 |
+| Kyiv Voivodeship |        |         |       |
+|                  | Kyiv County | #49 |       |
+|                  |        | Biala Cerkiew Kahal with parishes | 1876 |
+|                  |        | Starosty to Biala Cerkiew Starosty | 699 |
+|                  |        | Brusilow with p. | 492 |
+|                  |        | Bohuslaw with p. | 1169 |
+|                  |        | Korsun with p. | 339 |
+|                  |        | Bohuslaw with p. | 875 |
+|                  |        | Pawolocz with p. | 1041 |
+|                  |        | Chodorkow with p. | 452 |
+|                  |        | Bilylow with p. | 205 |
+|                  |        | Czerwone with p. | 122 |
+|                  |        | Dzwinogrod with p. | 92 |
+|                  |        | Skwira with p. | 284 |
+|                  |        | Iwnica | 93 |
+|                  |        | Jasnogrodka with p. | 104 |
+|                  |        | Kotelnia with p. | 236 |
+|                  |        | Leszczyn with p. | 255 |
+|                  |        | Makarow with p. | 217 |
+|                  |        | Byszow with p. | 170 |
+|                  |        | Taraszca | 134 |
+|                  |        | Wolodarka with key | 662 |
+|                  |        | Torczyca |  |
+|                  |        | Fastow with p. | 460 |
+|                  |        | Bialopole with p. | 176 |
+|                  |        | Town of Hermanowka with parish | 113 |
+|                  |        | Koszowata with parishes | 125 |
+|                  |        | Kaniow with parishes | 403 |
+|                  |        | Czehryn | 66 |
+|                  |        | Medwedowka | 98 |
+|                  |        | Borowica | 35 |
+|                  |        | Buzyn | 29 |
+|                  |        | Krylow | 25 |
+|                  |        | Czerkasy | 171 |
+|                  |        | Lisianka | 169 |
+|                  |        | Smila Kahal | 927 |
+|                  |        | Borodzianka | 347 |
+|                  |        | Moszny | 89 |
+|                  |        | Ruzyn | 57 |
+|                  | Zhytomyr County | ##50 |  |
+|                  |        | Zhytomyr Kahal with parishes | 460 |
+|                  |        | » Berdyczow with p. | 1541 |
+|                  |        | » Slobodyszcze | 91 |
+|                  |        | » Przedwojew | 67 |
+|                  |        | » Trojanow with p. | 276 |
+|                  |        | » Czerniechow with p. | 359 |
+|                  |        | » Korosteszow with p. | 620 |
+|                  |        | » Uszomierz with p. | 179 |
+|                  |        | » Chabne with p. | 116 |
+|                  |        | » Lubianka | 24 |
+|                  |        | » Kodnia with p. | 170 |
+|                  |        | » Ksawerow with p. | 96 |
+|                  |        | » Cudnow with p. | 1283 |
+|                  |        | » Krasnopol with p. | 117 |
+|                  |        | Radomysl Kahal with p. | 359 |
+|                  |        | » Horoszki with p. | 58 |
+|                  |        | » Machnowka | 15 |
+|                  |        | » Czajkowka | 19 |
+|                  |        | City of Nowy Lubar | 164 |
+|                  |        | Ruzyn Starosty | 44 |
+|                  | Owrucz County | ##51 |  |
+|                  |        | City of Owrucz with parishes | 607 |
+|                  |        | » Wieledniki with p. | 241 |
+|                  |        | City of Norynsk with p. | 240 |
+|                  |        | » Luhiny with p. | 215 |
+|                  |        | » Olewsk with p. | 362 |
+|                  |        | » Chojniki with p. | 198 |
+|                  |        | » Brahin with p. | 532 |
+|                  |        | » Czarnobyl with p. | 696 |
+|                  |        | » Narodycze with p. | 241 |
+|                  |        | In villages belonging to this county | 51 |
+|                  |        | Trechtymyrow Kahal | 104 |
+| Podlasie Voivodeship |     |         |       |
+|                  | Drohiczyn Land | ##52 |  |
+|                  |        | Ciechanowiec Kahal |  |
+|                  |        | City of Ciechanowiec | 920 |
+|                  |        | » Wysokie Mazowieckie | 62 |
+|                  |        | » Jablonka with villages | 97 |
+|                  |        | Villages to the same Ciechanowiec kahal | 498 |
+|                  |        | Siemiatycze Kahal |  |
+|                  |        | City of Siemiatycze | 1015 |
+|                  |        | » Drohiczyn and villages | 880 |
+|                  |        | Sokolow Kahal |  |
+|                  |        | City of Sokolow | 587 |
+|                  |        | » Sterdyn | 88 |
+|                  |        | Parish villages to the same Wegrow Kahal | 792 |
+|                  |        | City of Wegrow | 581 |
+|                  |        | Supplement parishes to the same | 3042 |
+|                  |        | At Kosow Kahal |  |
+|                  |        | City of Kosow | 221 |
+|                  |        | At Mordy Kahal |  |
+|                  |        | Town of Mordy | 219 |
+|                  |        | Parish villages | 135 |
+|                  |        | At Mokobody Kahal |  |
+|                  |        | Town of Mokobody | 148 |
+|                  |        | Parish villages | 15 |
+|                  | Mielnik Land | #53 |  |
+|                  |        | Sarnaki Kahal with parishes | 244 |
+|                  |        | Niemirow Kahal with p. | 88 |
+|                  |        | Konstantynow Kahal with p. | 553 |
+|                  |        | Losice Kahal with p. | 389 |
+|                  |        | City of Miedzyrzec with p. | 1076 |
+|                  |        | » Rossosz with villages | 89 |
+|                  | Biala Land | ##54 |  |
+|                  |        | Tykocin Kahal with parishes | 2694 |
+|                  |        | Sokolow Kahal with p. | 165 |
+|                  |        | » Wiszniew with p. | 148 |
+|                  |        | » Jasionowka with p. | 242 |
+|                  |        | » Goniadz with p. | 226 |
+|                  |        | » Rajgrod with p. | 418 |
+|                  |        | or Bialystok-Augustow kahal with p. | 239 |
+|                  |        | » | 1358 |
+|                  |        | Orla Kahal with p. | 761 |
+|                  |        | » Boczki with p. | 855 |
+| Plock Voivodeship |       | #55 |    |
+|                  |        | Jews of Plock city with parish | 725 |
+|                  |        | » » Drobin with p. | 775 |
+|                  |        | » » Mlawa with p. | 487 |
+|                  |        | » » Radzanow with p. | 591 |
+|                  |        | Jews of Sierpc city with p. | 687 |
+|                  |        | » » Biezun | 172 |
+|                  |        | » » Plonsk with p. | 455 |
+|                  |        | » » in Kuczbork | 68 |
+| Mazovian Voivodeship |     |     |    |
+|                  | Czersk Land: | ##56 |  |
+|                  | No Jews |     | ##56 |  |
+|                  |        | This land is Tykocin |  |
+|                  | Warsaw Land | ##57 | | 235 |
+|                  | Wyszogrod Land | ##58 |  |
+|                  |        | City of Wyszogrod with parishes | 980 |
+|                  | Ciechanow Land | ##59 |  |
+|                  |        | City of Ciechanow with parishes | 1670 |
+|                  | Zakroczym Land | ##60 |  |
+|                  |        | City of Nasielsk with parishes | 1019 |
+|                  | Wizna Land | ##61 |  |
+|                  |        | Wizna parish or sub-kahal belonging to Tykocin kahal | 233 |
+|                  |        | Grajewo parish alias sub-kahal belonging to the same kahal | 413 |
+|                  |        | Szczuczyn parish alias sub-kahal belonging to the same Tykocin kahal | 473 |
+|                  |        | Jedwabne parish alias sub-kahal belonging to Tykocin kahal | 387 |
+|                  | Lomza Land | ##62 |  |
+|                  |        | Stawiski sub-kahal with its parish belonging to Tykocin kahal | 1005 |
+|                  |        | Zambrow parish or sub-kahal belonging to the same kahal | 197 |
+|                  |        | Jablonna parish or sub-kahal belonging to the same kahal | 92 |
+|                  |        | Rudka parish belonging to the same kahal | 83 |
+|                  |        | Zawady parish belonging to the same kahal | 105 |
+|                  |        | Sniadowo parish or sub-kahal belonging to Tykocin kahal | 718 |
+|                  |        | Lipniki parish or sub-kahal belonging to the same kahal | 64 |
+|                  | Rozan Land | ##63 |  |
+|                  |        | Rozan parish or sub-kahal belonging to Makow kahal | 173 |
+|                  |        | Makow Kahal with parishes | 1279 |
+|                  |        | Liw Land |  |
+|                  |        | Kaluszyn Kahal with parishes | 566 |
+|                  | Nur Land | ## 65 |  |
+|                  |        | Czyzewo parish alias sub-kahal belonging to Wegrow kahal | 393 |
+|                  |        | Zareby parish or sub-kahal belonging to the same kahal | 155 |
+|                  |        | Stoczek parish or sub-kahal belonging to Wegrow kahal | 64 |
+|                  |        | Ostrow parish or sub-kahal belonging to the same kahal | 130 |
+|                  |        | Wasewo parish or sub-kahal belonging to the same kahal | 131 |
+|                  |        | Wolka Brzezinska parish or sub-kahal belonging to the same kahal | 78 |
+|                  |        | Goworowo, church village in Lomza Land in the same parish belonging to Tykocin kahal | 109 |
+| Rawa Voivodeship |        |     |    |
+|                  | Rawa Land | ## 66 |  |
+|                  |        | Nowe Miasto Kahal with parishes | 1109 |
+|                  |        | » Glowno with p. | 320 |
+|                  |        | » Biala with p. | 164 |
+|                  |        | » Rawa with p. | 68 |
+|                  | Sochaczew Land | ## 67 |  |
+|                  |        | City of Sochaczew with parish villages | 1349 |
+|                  |        | » Mszczonow with leaseholders | 268 |
+|                  |        | City of Grodzisk | 157 |
+|                  |        | » Ilow with villages | 106 |
+|                  | Gostynin Land | ## 68 |  |
+|                  |        | Gostynin Jewish parish | 157 |
+|                  |        | Kutno Kahal | 928 |
+|                  |        | » Gabin | 395 |
+|                  |        | Zychlin Jewish parish | 311 |
+| Leczyca Voivodeship |      | # 69 |  |
+|                  |        | City of Leczyca kahal with leaseholders | 1067 |
+|                  |        | » Strykow with leaseholders to the same | 625 |
+|                  |        | » Brzeziny with leaseholders to the same | 243 |
+|                  |        | » Ujazd and Inowlodz with leaseholders to the same | 212 |
+|                  |        | » Sobota with leaseholders to the same | 114 |
+|                  |        | » Bielawy with leaseholders to the same | 88 |
+|                  |        | City of Parzeczew to the same kahal | 267 |
+|                  |        | In the city of Piatek Pokrzywna street with leaseholders to the same Leczyca kahal | 139 |
+|                  |        | City of Krosniewice to the same kahal | 79 |
+|                  |        | » Kalow to the same kahal | 69 |

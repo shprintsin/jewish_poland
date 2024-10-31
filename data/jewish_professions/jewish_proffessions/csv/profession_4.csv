@@ -1,0 +1,625 @@
+st,v1,v2,v3,v4,v5,v6
+ULICA WASILKOWSKA,1.,1,Chaim Zabłudowski,144,,46
+ULICA WASILKOWSKA,2.,2,Jan Rybek,127,,126
+ULICA WASILKOWSKA,3.,3,Karol Kint,39,4,28
+ULICA WASILKOWSKA,4.,4,Wdowa Korbutowa,35,4,70
+ULICA WASILKOWSKA,5.,5,Jan Malinowski,26,,34
+ULICA WASILKOWSKA,6.,6,Marcin Rutkowski4,38,3,33
+ULICA WASILKOWSKA,7.,7,Wdowa Rutkowska,22,6,26
+ULICA WASILKOWSKA,8.,8,Krystian Szeel5,48,8,43
+ULICA WASILKOWSKA,9.,9,Wdowa Chuchlińska,76,1,58
+ULICA WASILKOWSKA,10.,10,Jan Szayba,37,3,37
+ULICA WASILKOWSKA,11.,11,Jan Olfert,130,"""4","75"""
+ULICA WASILKOWSKA,12.,12,Chayka Welwelowa,68,"""4","5"""
+ULICA WASILKOWSKA,13.,13,Jan Zeliger,221,3,264
+ULICA NADRZECZE,14.,14,Sukcesorowie Czarneckiego,,,
+ULICA NADRZECZE,15.,15,Berko Zachariowicz,106,,116
+ULICA NADRZECZE,16.,16,Henryk Fryk,66,1,77
+ULICA NADRZECZE,17.,17,Szlicht y Szeel,56,8,113
+ULICA NADRZECZE,18.,18,Szkółka luterska,17,3,11
+ULICA NADRZECZE,19.,19,Józef Behm Józef Freidenberg,,,
+ULICA NADRZECZE,20.,20,Mateusz Woytulewicz,35,5,86
+ULICA NADRZECZE,21.,21,Józef Behm,180,,109
+ULICA NADRZECZE,22.,22,Wdowa Szeheniowa,12,4,
+ULICA NADRZECZE,23.,23,Józef Behm,,,
+ULICA NADRZECZE,24.,24,Skarbowy,21,3,
+ULICA NADRZECZE,25.,25,Maior Izenszmyt,11,3,
+ULICA NADRZECZE,26.,26,Jan Piekarski,113,7,189
+ULICA WASILKOWSKA,27.,27,Jan6 Grymaldy,10,6,22
+ULICA WASILKOWSKA,28.,28,Kazimierz Sokolski,25,6,17
+ULICA WASILKOWSKA,29.,29,Jacenty Sawaniewski,99,6,44
+ULICA WASILKOWSKA,30.,30,Moszko Weller,140,4,140
+ULICA WASILKOWSKA,31.,31,Piotr Kasperowicz,33,8,21
+ULICA WASILKOWSKA,32.,32,Slosarz Jakubielski,56,7,49
+ULICA WASILKOWSKA,33.,33,Hersz Kalman Szteyn,104,,65
+ULICA WASILKOWSKA,34.,34,Meier Jankiel,102,8,47
+ULICA WASILKOWSKA,35.,35,Wdowa Ezrowa,73,1,26
+ULICA WASILKOWSKA,36.,36,Herszko Nosowicz,59,6,58
+ULICA WASILKOWSKA,37.,37,Jan Rompelli,130,8,137
+ULICA WASILKOWSKA,38.,38,Jozeff Opic,65,6,54
+ULICA WASILKOWSKA,39.,39,Leyzer Konstantynowski,53,3,92
+ULICA WASILKOWSKA,40.,40,Izrael Zylberszteyn,97,7,178
+ULICA WASILKOWSKA,41.,41,Kałman Janowski,46,3,25
+ULICA WASILKOWSKA,42.,42,Herszko Szaia,44,8,44
+ULICA WASILKOWSKA,43.,43,Karol Zybert,38,4,36
+ULICA WASILKOWSKA,44.,44 Leyb Krynko,,104,3,45
+RÓG RYNKU,45.,45,Icko Zabłudowski,158,8,22
+KONTYNUACIJA RYNKU,46.,46,[Icko Zabłudowski],107,6,95
+KONTYNUACIJA RYNKU,47.,47,Beniamin Kan,48,5,68
+KONTYNUACIJA RYNKU,48.,48,Szymon Lewenhaupt,87,8,98
+ULICA ZIELONA,49.,49,Leybko Juchnowiecki,66,6,11
+ULICA ZIELONA,50.,50,Jankiel Gorczyk,25,3,55
+ULICA ZIELONA,51.,51,Herszko Abramowicz,21,,8
+ULICA ZIELONA,52.,52,Szepszel Szylimowicz,27,3,10
+ULICA ZIELONA,53.,53,Aron Dolicki,35,2,123
+ULICA ZIELONA,54.,54,Wolf Dawid,23,2,27
+ULICA ZIELONA,55.,55,Aron Epszteyn,155,6,170
+ULICA ZIELONA,56.,56,Aron Epszteyn,,,
+ULICA ZIELONA,57.,57,Józeff Woronowski,58,3,91
+ULICA ZIELONA,58.,58,Mortko Leyzerowicz,19,,67
+ULICA ZIELONA,59.,59,Izrael Zylbergleyt,,,23
+ULICA ZIELONA,60.,60,Jankiel Josielewicz,27,2,37
+ULICA ZIELONA,61.,61,Jan Dąbrowski,25,6,13
+ULICA ZIELONA,62.,62,Jakób Piekarski,56,,67
+ULICA ZIELONA,63.,63,Ambroży Żukowski,,,
+ULICA ZIELONA,64.,64,Mikołay Piekarski,212,7,18
+ULICA ZIELONA,65.,65,Andrzey ŁukaszyńskiKazimierz rzeźnik,21,3,18
+ULICA ZIELONA,66.,66  Jan Nierodziński,,22,,28
+KONTYNUACIJA ZIELONEY ULICY,67.,67,Józef Lisiewicz,82,3,100
+KONTYNUACIJA ZIELONEY ULICY,68.,68,Frydr[ych] Tylicki w tradycyi,31,3,35
+KONTYNUACIJA ZIELONEY ULICY,69.,69,Stanisław Gruszewicz,18,7,23
+KONTYNUACIJA ZIELONEY ULICY,70.,70,Szymon Krasota,36,,34
+KONTYNUACIJA ZIELONEY ULICY,71.,71,Sukces[orowie] Herszka Wolfowicza,14,6,23
+ULICA ZIELONA,72.,72,Wojciech Wilczyński,16,6,23
+ULICA ZIELONA,73.,73,Beniamin Owsieiowicz,60,,66
+ULICA ZIELONA,74.,74,Pinchas Herszkowicz,15,8,
+ULICA ZIELONA,75.,75,Chławne Goldblad,56,3,40
+ULICA ZIELONA,76.,76,Wdowa Wilczyńska Szymel rzeźnik,34,4,41
+ULICA ZIELONA,77.,77,Ilel Jankiel Filkenszteyn,45,6,119
+ULICA ZIELONA,78.,78,Josiel Rabinowicz,49,1,32
+ULICA ZIELONA,79.,79,Wolf Dolicki,14,6,
+ULICA ZIELONA,80.,80,Nochim Szemelowicz,43,6,14
+ULICA ZIELONA,81.,81,Zundel Liwczyc,39,5,18
+ULICA ZIELONA,82.,82,Mendel Leybowicz,35,3,37
+ULICA ZIELONA,83.,83,Hercko Leybowicz,119,,
+KONTYNUACYA RYNKU,84.,84,Wdowa Ryska,67,6,54
+KONTYNUACYA RYNKU,85.,85,Izrael Moszkowicz,70,6,8
+KONTYNUACYA RYNKU,86.,86,Goldberg Salamon,78,8,61
+KONTYNUACYA RYNKU,87.,87,Oszer Mendel Nus,50,6,43
+KONTYNUACYA RYNKU,88.,88,Mendel Grawe,37,2,19
+KONTYNUACYA RYNKU,89.,89,Josiel Mendel,96,1,39
+KONTYNUACYA RYNKU,90.,90,Berko Mortkowicz,17,3,9
+KONTYNUACYA RYNKU,91.,91,Hersz Miedownik,73,8,32
+ULICA GUMIENNA,92.,92,Josiel Szaiewicz,80,,77
+ULICA GUMIENNA,93.,93,Berko Izralowicz,34,3,16
+ULICA GUMIENNA,94.,94,Boruch Szeiowicz,58,6,19
+ULICA GUMIENNA,95.,95,Moszko Irszkowicz,24,,40
+ULICA GUMIENNA,96.,96,Moszko Irszkowicz,,,
+ULICA GUMIENNA,97.,97,Wdowa Gołda Berkowa,21,1,7
+ULICA GUMIENNA,98.,98,Leyba Monasowicz,22,4,12
+ULICA GUMIENNA,99.,99,Efroim Miłaszewski,24,,13
+ULICA GUMIENNA,100.,100,Wdowa Piotrowska,36,2,37
+ULICA GUMIENNA,101.,101,Moszko Ickowicz,43,2,66
+ULICA TYKOCKA,102.,102,Gierszon Grynberg,112,,14
+ULICA TYKOCKA,103.,103,Leybko Mouszkowicz,95,3,87
+ULICA TYKOCKA,104.,104,Mendel Zylberblat,91,5,105
+ULICA TYKOCKA,105.,105,Pinkus Gildenfan,60,8,122
+ULICA TYKOCKA,106.,106,Mendel Zylberblat,45,6,22
+ULICA TYKOCKA,107.,107,Ezrol Leybowicz,84,4,40
+ULICA TYKOCKA,108.,108 Jankiel Josiel Apelbaum,,68        2,,85
+ULICA GUMIENNA,109.,109 Srol Josiel Musztarda,,"""50       1","5""",
+ULICA GUMIENNA,110.,110,Bartłomiey Jozobik7,20,,
+ULICA GUMIENNA,111.,111,Jan Puchalski,37,,31
+ULICA GUMIENNA,112.,112,Krystian Szeel,,,
+ULICA GUMIENNA,113.,113,Krystian Szeel,,,
+ULICA GUMIENNA,114.,114,Wincenty Czyszyński a dopiero Bernekiel,,,
+ULICA GUMIENNA,115.,115,Wincenty Czyszyński a dopiero Bernekiel,,,
+ULICA GUMIENNA,116.,116,Sukcesorow Chuchlińskiego,,,
+ULICA GUMIENNA,117.,117,Józeff Linowski8,32,4,50
+ULICA GUMIENNA,118.,118,Stanisław Wilczyński,25,6,32
+ULICA GUMIENNA,119.,119,Paweł Słowikowski,,,
+ULICA GUMIENNA,120.,120,Piotr Lewkowicz organista,,,
+ULICA GUMIENNA,121.,121,Mikołay Halukiewicz,19,8,7
+ULICA GUMIENNA,122.,122,Sukcesorow Fomberga9,29,4,49
+ULICA GUMIENNA,123.,123,Franciszek Waleszczuk11,25,5,55
+ULICA GUMIENNA,124.,124,Jan Juchnicki12,87,,108
+ULICA GUMIENNA,125.,125,Wincenty Wysocki,18,8,24
+ULICA GUMIENNA,126.,126,Stanisław Wilczyński,,,
+ULICA GUMIENNA,127.,126/2,Józeff Linowski,42,,
+ULICA GUMIENNA,128.,127,Nochim Alpern,,92,1
+ULICA GUMIENNA,129.,128,Kazimierz Pankiewicz,,28,1
+ULICA GUMIENNA,130.,129,Dominik Szumowski,,27,7
+ULICA GUMIENNA,131.,130,Wdowa Szlegielowa,,40,4
+ULICA GUMIENNA,132.,131,Marcin Piłasiewicz,,13,3
+ULICA GUMIENNA,133.,132,Gotlib Bernekiel,,38,6
+ULICA GUMIENNA,134.,133,Kazimierz Pankiewicz,,41,3
+ULICA GUMIENNA,135.,134,Bartłomiey Pankiewicz,,41,3
+ULICA GUMIENNA,136.,135,Kasper Rewucki,,43,5
+ULICA GUMIENNA,137.,136,Andrzey Hryniewicki,,35,6
+ULICA GUMIENNA,138.,137,Ambroży Łuszcz,,,
+ULICA GUMIENNA,139.,138,Ilel Rabinowicz,,51,4
+ULICA GUMIENNA,140.,139,Abram Jurczuk,,32,5
+ULICA GUMIENNA,141.,litt. M,Jurczuk,,,
+ULICA GUMIENNA,142.,140,Krzysztof Opacki,,19,6
+ULICA GUMIENNA,143.,141,Jan Andruszkiewicz,,18,6
+ULICA GUMIENNA,144.,142,Krzysztof Dębski,,35,
+ULICA GUMIENNA,145.,143,Józef Żołodkowski,,13,3
+ULICA GUMIENNA,146.,144,Tadeusz Oliszewski,,18,6
+ULICA GUMIENNA,147.,145,Leyzer Leybowicz Szłoma,,21,7
+ULICA GUMIENNA,148.,146,Hirszko Halpernik,,17,
+TYLNIA PRAWA STRONA TYKOCKIEY,150.,148,,Sukcessorów Manesa,13,3
+TYLNIA PRAWA STRONA TYKOCKIEY,151.,149,,Moszko Dawidowicz,42,7
+TYLNIA PRAWA STRONA TYKOCKIEY,152.,150,,Jan Zybert,57,7
+TYLNIA PRAWA STRONA TYKOCKIEY,153.,151,,Leybko Berkowicz,52,"""7"
+TYLNIA PRAWA STRONA TYKOCKIEY,154.,152,Matys Jankiel,100,8,130
+ULICA TYKOCKA,155.,153,Johan Rohleder,29,3,33
+ULICA TYKOCKA,156.,154,Ignacy Jendrzeiewski,15,5,16
+ULICA TYKOCKA,157.,155,Wdowa Reymanowa,24,5,17
+ULICA TYKOCKA,158.,156,Hersz Alpern,37,,103
+ULICA NOWA LIPOWA,159.,157,Meier Weinreich,112,8,84
+ULICA NOWA LIPOWA,160.,158,Stanis[ław]Sielachowski,37,6,109
+ULICA NOWA LIPOWA,161.,159,Marcin Radziszewski,21,3,56
+ULICA NOWA LIPOWA,162.,160,Zamel Rudzio,76,3,85
+ULICA NOWA LIPOWA,163.,161,Sukcessor[ów]Topolskiego,,,
+ULICA NOWA LIPOWA,164.,162,Jan Kniazyński,,,
+ULICA NOWA LIPOWA,165.,163,Frydrych Grys,38,6,71
+ULICA NOWA LIPOWA,166.,164,Wdowa Wronowa,90,4,192
+ULICA NOWA LIPOWA,167.,165,Frydrych Bauer,61,5,68
+ULICA NOWA LIPOWA,168.,166,Sowiet[nik]13 Janiewicz,105,3,79
+ULICA NOWA LIPOWA,169.,167,Jan Holand,80,"""1","5"""
+ULICA NOWA LIPOWA,170.,168,Sukcessorowie Breyskie,98,,158
+ULICA NOWA LIPOWA,171.,169,Dom skarbowy,114,2,202
+ULICA NOWA LIPOWA,172.,170,Skarbowy,134,1,704
+ULICA NOWA LIPOWA,173.,171,Takowy zaięty pod Cmę-tarz Katolicki,,,
+ULICA NOWA LIPOWA,174.,172,Przyięty do kaplicy So Rocha,,,
+ULICA NOWA LIPOWA,175.,173,Dom skarbowy,84,3,93
+ULICA NOWA LIPOWA,176.,174,Ludwig Weys,103,1,72
+ULICA NOWA LIPOWA,177.,175,Kaznaczey Wiszniewski,65,4,93
+ULICA NOWA LIPOWA,178.,176,Biskup Jaworowski,190,8,264
+ULICA NOWA LIPOWA,179.,177,Frydrych Bauer,115,6,53
+ULICA NOWA LIPOWA,180.,178,Wdowa Sawicka,17,7,26
+ULICA NOWA LIPOWA,181.,179,Michiel Zabłudowski,72,,
+ULICA NOWA LIPOWA,182.,180,Dłużniewski14,41,3,36
+ULICA NOWA LIPOWA,183.,181,Ber Sztabiner,17,3,38
+ULICA NOWA LIPOWA,184.,182,Maciey Gaiewski,18,7,21
+ULICA NOWA LIPOWA,185.,183,Kazimierz Petrzykowski,33,3,29
+ULICA NOWA LIPOWA,186.,184,Karol Fuks,37,,77
+ULICA NOWA LIPOWA,187.,185,Jan Kniazyński,52,7,113
+ULICA NOWA LIPOWA,188.,186,Karol Mateas,70,1,69
+ULICA NOWA LIPOWA,189.,187,Chaym Elmonter,80,2,
+ULICA NOWA LIPOWA,190.,188,Gotlib Eyka,172,1,495
+DRUGA STRONA TYKOCKIEY ULICY,191.,189,Gdal Grodzieński,126,6,104
+DRUGA STRONA TYKOCKIEY ULICY,192.,190,Faybiel Libka,69,8,75
+DRUGA STRONA TYKOCKIEY ULICY,193.,191,Icko Szymelowicz,53,4,67
+DRUGA STRONA TYKOCKIEY ULICY,194.,192,Gdal Grodzieński,67,4,66
+RYNEK,195.,193,Hersz Zabłudowski,165,8,92
+RYNEK,196.,194,Leyzer Aronowicz,87,7,50
+RYNEK,197.,195,Icko Zylberfenig,89,3,43
+RYNEK,198.,196,Leyzer Żołtkowski,72,4,72
+RYNEK,199.,197,Leyb Halpern,52,2,38
+RYNEK,200.,198,Sukcessor[ów] Topolskiego,116,4,56
+ŻYDOWSKA SZPITALNA ULICA,201.,199,Szmoyło Melachowicz,26,4,19
+ŻYDOWSKA SZPITALNA ULICA,202.,200,Nochim Tewalowicz,23,3,34
+ŻYDOWSKA SZPITALNA ULICA,203.,201,Begier Rymarz,24,6,19
+ŻYDOWSKA SZPITALNA ULICA,204.,202,Hersz Zabłudowski,21,,12
+ŻYDOWSKA SZPITALNA ULICA,205.,203,Hersz Zabłudowski,17,1,59
+ŻYDOWSKA SZPITALNA ULICA,206.,204,Hersz Szłomowicz,18,3,8
+ŻYDOWSKA SZPITALNA ULICA,207.,205,Leybko Kusielowicz,24,,21
+ŻYDOWSKA SZPITALNA ULICA,208.,206,Szymel Jankielewicz,25,,18
+ŻYDOWSKA SZPITALNA ULICA,209.,207,Juno Moszkowicz,29,2,11
+ŻYDOWSKA SZPITALNA ULICA,210.,208,Srol Leyzer,19,2,8
+ŻYDOWSKA SZPITALNA ULICA,211.,209,Hersz Zabłudowski,32,,
+ŻYDOWSKA SZPITALNA ULICA,212.,210,Owsiey Abramowicz,21,,39
+ŻYDOWSKA SZPITALNA ULICA,213.,211,Leyzer Zusmanowicz,21,,20
+ŻYDOWSKA SZPITALNA ULICA,214.,212,Juda Aron,27,5,
+ŻYDOWSKA SZPITALNA ULICA,215.,213,Wdowa Sora Leybowa,15,,
+ŻYDOWSKA SZPITALNA ULICA,216.,214,Moszko Apelbau,37,7,
+ŻYDOWSKA SZPITALNA ULICA,217.,215,Gdal Elle,20,6,
+ŻYDOWSKA SZPITALNA ULICA,218.,216,Wdowa Moszkowiczowa,23,7,
+ŻYDOWSKA SZPITALNA ULICA,219.,217,Mortka Hersz,25,3,
+ULICA CERKIEWNA,220.,218,Chaym Szłomowicz,31,4,
+ULICA CERKIEWNA,221.,219,Leyb Hersz,19,5,
+ULICA CERKIEWNA,222.,220,Abram Wolf,16,1,
+ULICA CERKIEWNA,223.,221,Izrael Boruch Minic,34,,
+ULICA CERKIEWNA,224.,222,Szmul Orlanski,15,8,
+ULICA CERKIEWNA,225.,223,Michel Abramowicz,22,6,
+ULICA CERKIEWNA,226.,224,Szmul Ickowicz,20,6,
+ULICA CERKIEWNA,227.,225,Judel Uzielowicz,15,3,
+ULICA TYLNIA SURAZKA ULICA,228.,226,Mortka Gligfeld,22,6,
+ULICA TYLNIA SURAZKA ULICA,229.,227,Berko Zelmanowicz,27,8,
+ULICA TYLNIA SURAZKA ULICA,230.,228,Jakiel Noskowicz,16,,
+ULICA TYLNIA SURAZKA ULICA,231.,229,Faybiel Josiel,33,8,
+ULICA TYLNIA SURAZKA ULICA,232.,230,Leyb Warszawski,58,8,
+ULICA TYLNIA SURAZKA ULICA,233.,231,Icko Leybowicz Perl,16,6,
+ULICA TYLNIA SURAZKA ULICA,234.,232,Leyb Leyzerowicz,19,5,
+ULICA TYLNIA SURAZKA ULICA,235.,233,Abram Hersz Josielewicz,11,,
+ULICA TYLNIA SURAZKA ULICA,236.,234,Michiel Idkielowicz,11,,
+ULICA TYLNIA SURAZKA ULICA,237.,235,Nochim Birfirer,10,1,
+ULICA TYLNIA SURAZKA ULICA,238.,236,Szymel Oszer,30,6,
+ULICA TYLNIA SURAZKA ULICA,239.,237,Abram Olszyna,21,3,
+ULICA TYLNIA SURAZKA ULICA,240.,238,Szpital Chrześcianski,,,
+ULICA TYLNIA SURAZKA ULICA,241.,239,Do Cerkwi,,,
+ULICA TYLNIA SURAZKA ULICA,242.,240,Do Cerkwi,,,
+ULICA TYLNIA SURAZKA ULICA,243.,241,Franciszek Sosnowski,12,4,9
+ULICA TYLNIA SURAZKA ULICA,244.,242,Izrael Szmoyłowicz,38,5,78
+ULICA TYLNIA SURAZKA ULICA,245.,243,Wdowa Krassowska,77,1,123
+ULICA TYLNIA SURAZKA ULICA,246.,244,Wdowa Krassowska,71,2,48
+ULICA TYLNIA SURAZKA ULICA,247.,245,Antoni Bartoszewicz,24,3,17
+ULICA TYLNIA SURAZKA ULICA,248.,246,Abram Nachmenowicz,22,6,33
+ULICA TYLNIA SURAZKA ULICA,249.,247,Berko Ickowicz,29,4,16
+ULICA TYLNIA SURAZKA ULICA,250.,248,Leybko Herszkawicz,53,2,38
+ULICA TYLNIA SURAZKA ULICA,251.,249,Abram Jankielowicz,14,5,14
+ULICA TYLNIA SURAZKA ULICA,252.,250,Wdowa Neszka,20,1,21
+ULICA TYLNIA SURAZKA ULICA,253.,251,Markus Zelmanowicz,22,,15
+ULICA TYLNIA SURAZKA ULICA,254.,252,Szloma Menkie,15,,15
+ULICA TYLNIA SURAZKA ULICA,255.,253,Leyb Szepszel,20,,22
+ULICA TYLNIA SURAZKA ULICA,256.,254,Szlomo Peysahowicz,18,5,12
+ULICA TYLNIA SURAZKA ULICA,257.,255,Zelig Owsieiowicz,12,4,17
+ULICA TYLNIA SURAZKA ULICA,258.,256,Szyia Jankiel,24,,5
+ULICA TYLNIA SURAZKA ULICA,259.,257,Dawid Abramowicz,16,,12
+ULICA TYLNIA SURAZKA ULICA,260.,258,Aron Dawid,21,,7
+ULICA TYLNIA SURAZKA ULICA,261.,259,Palter Kasrelowicz,24,3,15
+GŁOWNA SURAZKA ULICA,262.,260,Abram Lewit,,,
+GŁOWNA SURAZKA ULICA,263.,261,Peilet Moszkowicz,60,8,13
+GŁOWNA SURAZKA ULICA,264.,262,Peilet Moszkowicz,,,
+GŁOWNA SURAZKA ULICA,265.,263,Abram Faybuś,39,4,24
+GŁOWNA SURAZKA ULICA,266.,264,Alpern Abram Apelbau,23,,31
+GŁOWNA SURAZKA ULICA,267.,265,Salamon Goldenb[erg] Chaym,24,,34
+GŁOWNA SURAZKA ULICA,268.,266,Wdowa Ickowa Makowska,51,6,8
+GŁOWNA SURAZKA ULICA,269.,267,Jankiel Szaie,38,1,19
+GŁOWNA SURAZKA ULICA,270.,268,Wdowa Berkowa,34,8,22
+GŁOWNA SURAZKA ULICA,271.,269,Leybko Gerszowicz,10,4,47
+GŁOWNA SURAZKA ULICA,272.,270,Jude Mouszowicz,31,3,56
+GŁOWNA SURAZKA ULICA,273.,271,Mouszko Oszer,19,3,85
+GŁOWNA SURAZKA ULICA,274.,272,Antrzel Jankielewicz,30,,78
+GŁOWNA SURAZKA ULICA,275.,273,Icko Chackielowicz,20,7,70
+GŁOWNA SURAZKA ULICA,276.,274,Moyzesz Szwabski,69,2,49
+GŁOWNA SURAZKA ULICA,277.,275,Andrzey Okrasinski,32,3,20
+ZA BRAMĄ SURASKĄ,278.,276,Szpital Żydowski,20,,
+ZA BRAMĄ SURASKĄ,279.,277 Antoni Piekarski,,22,,95
+ZA BRAMĄ SURASKĄ,280.,278,Puste place na piaskach w polu pozostałe,,,
+ZA BRAMĄ SURASKĄ,281.,279,,,,
+ZA BRAMĄ SURASKĄ,282.,280,,,,
+ZA BRAMĄ SURASKĄ,283.,281,,,,
+ZA BRAMĄ SURASKĄ,284.,282,,,,
+ZA BRAMĄ SURASKĄ,285.,283,,,,
+ZA BRAMĄ SURASKĄ,286.,284,,,,
+ZA BRAMĄ SURASKĄ,287.,285,,,,
+ZA BRAMĄ SURASKĄ,288.,286,,,,
+ZA BRAMĄ SURASKĄ,289.,286 1/2,Juno Sladkowski[?],45,2,
+ZA BRAMĄ SURASKĄ,290.,287,Stanisław Jaroszewicz,20,2,31
+ZA BRAMĄ SURASKĄ,291.,288,Stanisław Jaroszewicz,17,7,
+ZA BRAMĄ SURASKĄ,292.,289,Marcin Hermanowski,15,8,120
+ZA BRAMĄ SURASKĄ,293.,290,Felix Białkowski,29,5,
+ZA BRAMĄ SURASKĄ,294.,291,Berko Lipka,40,3,
+ZA BRAMĄ SURASKĄ,295.,292,Leyzer Słobodzki,90,4,315
+ZA BRAMĄ SURASKĄ,296.,293,Hersz Słoboder,,,
+ZA BRAMĄ SURASKĄ,297.,294,Józef Odachowski,17,,
+ZA BRAMĄ SURASKĄ,298.,295,Kazimierz Pańkiewicz,,,
+ZA BRAMĄ SURASKĄ,299.,296,Wdowa Stankiewiczowa,61,3,682
+ZA BRAMĄ SURASKĄ,300.,297,do Kahału,20,,75
+ZA BRAMĄ SURASKĄ,301.,298,Meier Natan Bacer,79,6,180
+ZA BRAMĄ SURASKĄ,302.,299,Szmól Moszkowicz,8,,134
+ZA BRAMĄ SURASKĄ,303.,300,Fiszel Rolenberg,64,,146
+ZA BRAMĄ SURASKĄ,304.,301,Icek Leybowicz Kantor,,,169
+ZA BRAMĄ SURASKĄ,305.,302,Wdowa Lipenbau,46,8,257
+ZA BRAMĄ SURASKĄ,306.,303,Jankiel Moszkowicz,16,8,
+ZA BRAMĄ SURASKĄ,307.,304,Nisel Abramowicz,17,6,
+ZA BRAMĄ SURASKĄ,308.,305,Leyb Boruch,17,6,
+ZA BRAMĄ SURASKĄ,309.,306,Nochim Josielowicz,10,5,
+ZA BRAMĄ SURASKĄ,310.,307,Jan Juchnicki,11,6,
+ZA BRAMĄ SURASKĄ,311.,308,Hersz Aron,18,3,
+ZA BRAMĄ SURASKĄ,312.,309,Elie Pinchas,57,,18
+ZA BRAMĄ SURASKĄ,313.,310,Moyżesz Rabinowicz,37,8,25
+ZA BRAMĄ SURASKĄ,314.,311,Berko Nochimowicz,37,8,56
+ZA BRAMĄ SURASKĄ,315.,312,Andrzey Archipowicz,16,8,23
+ZA BRAMĄ SURASKĄ,316.,312 1/2,Po Mateuszu Piekarskim,15,6,41
+ZA BRAMĄ SURASKĄ,317.,313,Josiel Ickowicz Furman,,,
+ZA BRAMĄ SURASKĄ,318.,314,Józef Krassota,21,3,48
+GŁOWNA SURAZKA ULICA,319.,315,Frydrych Roleder,34,4,33
+GŁOWNA SURAZKA ULICA,320.,316,Icko Jankielowicz,45,1,50
+GŁOWNA SURAZKA ULICA,321.,317,Leyzer Słobodzki,21,6,33
+GŁOWNA SURAZKA ULICA,322.,318,Mikołay Burzyński,76,2,40
+GŁOWNA SURAZKA ULICA,323.,319,Moszko Dawidowicz,22,7,16
+GŁOWNA SURAZKA ULICA,324.,320,Jankiel Szmoyłowicz,33,5,40
+GŁOWNA SURAZKA ULICA,325.,321,Leyb Chaym,41,,21
+GŁOWNA SURAZKA ULICA,326.,322,Josiel Golda Berkowicz,38,8,32
+GŁOWNA SURAZKA ULICA,327.,323,Meier Berl,58,,72
+GŁOWNA SURAZKA ULICA,328.,324,Chaym Radzyner,32,2,34
+GŁOWNA SURAZKA ULICA,329.,325,Dawid Ayzik Weydeber,28,4,11
+GŁOWNA SURAZKA ULICA,330.,326,Abram Dawidowicz,28,3,26
+GŁOWNA SURAZKA ULICA,331.,327,Wdowa Rochana Reiza,30,,14
+GŁOWNA SURAZKA ULICA,332.,328,Izrael Judkowicz,19,,43
+GŁOWNA SURAZKA ULICA,333.,329,Berko Wolfowicz,20,6,25
+GŁOWNA SURAZKA ULICA,334.,330,Meier Moszkowicz,22,6,14
+GŁOWNA SURAZKA ULICA,335.,331,Manus Jankiel,28,8,10
+SZKOLNA ULICA,336.,332,Wdowa Szmulowa,29,,9
+SZKOLNA ULICA,337.,333,Leyb Liwszyc Moszko,16,,13
+SZKOLNA ULICA,338.,334,Chaym Leybowicz,22,3,21
+SZKOLNA ULICA,339.,335,Szloma Mendelowicz,18,4,21
+SZKOLNA ULICA,340.,336,Wdowa Szmuyłowa,13,7,9
+SZKOLNA ULICA,341.,337,Icek Wolff,14,,7
+SZKOLNA ULICA,342.,338,Dawid Ryż,19,8,7
+SZKOLNA ULICA,343.,339,Herszko Ickowicz,12,,18
+SZKOLNA ULICA,344.,340,Leyb Haym,,,51
+SZKOLNA ULICA,345.,341,Leyb Manelowicz,13,,6
+SZKOLNA ULICA,346.,342,Józef Lisiewicz,43,,16
+SZKOLNA ULICA,347.,343,Abram Dawidowicz,21,4,16
+SZKOLNA ULICA,348.,344,Berko Herszkowicz,21,3,32
+SZKOLNA ULICA,349.,345,Moyżesz Malczyk,19,3,40
+SZKOLNA ULICA,350.,346,Motyl Berkowicz,21,5,22
+SZKOLNA ULICA,351.,347,Wdowa Wasilkowska,12,6,9
+SZKOLNA ULICA,352.,348,Hersz Mortkowicz,9,3,9
+SZKOLNA ULICA,353.,349,Meier Abramowicz,12,,9
+SZKOLNA ULICA,354.,350,Wdowa Leybowa Janowska,20,6,17
+SZKOLNA ULICA,355.,351,Wdowa Mendlowa Sara,24,,25
+SZKOLNA ULICA,356.,352,Wdowa Welwelowa,21,4,20
+SZKOLNA ULICA,357.,353,Szmul Szepszel,13,7,48
+SZKOLNA ULICA,358.,354,Icek Szmuyłowicz,17,7,7
+SZKOLNA ULICA,359.,355,Szloma Moszkowicz,26,2,33
+SZKOLNA ULICA,360.,356,Wolf Szołym,10,1,15
+SZKOLNA ULICA,361.,357,Chackiel Miller,65,2,26
+SZKOLNA ULICA,362.,358,Michel Maszkowicz,27,,41
+SZKOLNA ULICA,363.,359,Leyb Izaak,24,,23
+SZKOLNA ULICA,364.,–,NN,,,44
+SZKOLNA ULICA,365.,360,Mortko Judel,19,5,31
+SZKOLNA ULICA,366.,361,Abram Moszkowicz,12,4,11
+SZKOLNA ULICA,367.,362,Moszko Chamowicz,35,,17
+SZKOLNA ULICA,368.,363,Boruch Leybowicz,12,5,9
+SZKOLNA ULICA,369.,364,Josiel Tabiiowicz,19,1,11
+SZKOLNA ULICA,370.,365,Leyb Moszkowicz,27,7,44
+SZKOLNA ULICA,371.,366,Srol Szacowicz,17,8,23
+SZKOLNA ULICA,372.,367,Meier Gildenfenig,14,4,84
+SZKOLNA ULICA,373.,368,Kalman Ickowicz,16,3,73
+SZKOLNA ULICA,374.,369,Jakub Rutkowski,30,8,8
+SZKOLNA ULICA,375.,370,Wdowa Lesiewiczowa,42,2,24
+SZKOLNA ULICA,376.,371,Michał Rudziewicz,42,3,77
+SZKOLNA ULICA,377.,372,Kazimierz Białkowski,7,1,50
+SZKOLNA ULICA,378.,373,Beniamin Mores,46,2,14
+SZKOLNA ULICA,379.,374,Wdowa Nosenowa,30,,36
+SZKOLNA ULICA,380.,375,Jankiel Szmoyłowicz,31,3,15
+SZKOLNA ULICA,381.,376,Wdowa Chayka Dam,14,,
+SZKOLNA ULICA,382.,377,Kadysz Chaymowicz,52,5,85
+SZKOLNA ULICA,383.,378,Wdowa Lizerowa,24,8,32
+SZKOLNA ULICA,384.,379,Jozyb Leyb,22,6,47
+SZKOLNA ULICA,385.,380,Izaak Liwczyk,27,6,25
+SZKOLNA ULICA,386.,381,Icko Leybowicz,24,6,19
+SZKOLNA ULICA,387.,382,Szmul Elesz,26,2,24
+SZKOLNA ULICA,388.,383,Aley Boruchawicz,27,,29
+SZKOLNA ULICA,389.,384,Zusko Todrysowicz,20,,31
+SZKOLNA ULICA,390.,385,Lozer Abramowicz,31,,44
+SZKOLNA ULICA,391.,386,Wdowa Leia,22,8,
+SZKOLNA ULICA,392.,387,Ber Marańc,20,8,
+SZKOLNA ULICA,393.,388,Skarbowy dom,24,8,
+SZKOLNA ULICA,394.,389,Szaia Meier,21,,16
+SZKOLNA ULICA,395.,390,Jankiel Freydka,41,3,20
+SZKOLNA ULICA,396.,391,Meier Weinreich,23,8,42
+SZKOLNA ULICA,397.,392,Jankiel Weynszteyn,28,,27
+SZKOLNA ULICA,398.,393,Przyszkółek Żydowski,21,3,15
+KONTY RYNKU,399.,394,Icko Hirzkowicz,49,2,37
+KONTY RYNKU,400.,395,Boruch Dawid,18,6,11
+KONTY RYNKU,401.,396,Chana Gierszonowa,60,4,64
+KONTY RYNKU,402.,397,Abram Rafałowski,90,6,51
+KONTY RYNKU,403.,398,Michlowa Słobodka,72,2,52
+KONTY RYNKU,404.,399,Caller Kurlandzki,87,1,79
+KONTY RYNKU,405.,400,Leyb Chone,65,,49
+KONTY RYNKU,406.,401,Hercko Horożyn,40,,144
+KONTY RYNKU,407.,402,Abram Leybowicz Bas,93,5,75
+KONTY RYNKU,408.,403,Wdowa Freydka Mark,69,4,40
+KONTY RYNKU,409.,404,Szmul Herszman,73,6,55
+KONTY RYNKU,410.,405,Icek Leybowicz Kantor,73,5,41
+KONTY RYNKU,411.,406,Wdowa Maryaszka,56,8,127
+KONTY RYNKU,412.,407,Caller Kurlandzki,37,,
+KONTY RYNKU,413.,408,Caller Kurlandzki,187,2,419
+KONTY RYNKU,414.,409,Henryg Szlegel,86,3,211
+KONTY RYNKU,415.,410,Martyn Zalegeber,87,,108
+KONTY RYNKU,416.,411,Motyc Ickowicz,71,4,38
+KONTY RYNKU,417.,412,Klasztor Sióstr Miłosierdzia,301,"""1","5"""
+KONTY RYNKU,418.,413,Skarbowy gubernia,156,,205
+KONTY RYNKU,419.,414,Wdowa Pacowa,76,4,104
+MŁYNOWA17,420.,415,Sukcesorów Michelisa,74,2,68
+MŁYNOWA17,421.,416,Szymon Jaworowski,32,,23
+MŁYNOWA17,422.,417,Karol Haupt,50,7,53
+MŁYNOWA17,423.,418,Sukcess[orów] So-wiet[nika] Milewicza,72,7,69
+MŁYNOWA17,424.,419,Moszko Charonowicz,46,4,34
+MŁYNOWA17,425.,420,Mortchiel Mosiełowicz,29,7,30
+MŁYNOWA17,426.,421,Nosel Meierowicz,80,3,55
+WARSZAWSKA,427.,422 Antoni Korbut,,,,
+WARSZAWSKA,428.,423,Sowietnik Wróbel,72,4,109
+WARSZAWSKA,429.,424,Sukcessorow So[wietnika] Reycha,89,7,61
+WARSZAWSKA,430.,425,Jakób Jebart,110,2,107
+WARSZAWSKA,431.,426,Wdowa Wernerowa,179,3,297
+WARSZAWSKA,432.,427,Żyd Abramowicz,34,,96
+WARSZAWSKA,433.,428,Sukcessorów Pragi,75,,54
+WARSZAWSKA,434.,429,Pawłowa Korbutowa,32,1,19
+WARSZAWSKA,435.,430,Józef Jabłoński,28,5,18
+WARSZAWSKA,436.,431,Wdowa Pawelska,18,5,20
+WARSZAWSKA,437.,432,Mateusz Woytulewicz,31,8,17
+WARSZAWSKA,438.,433,Jakub Burzyński,28,2,19
+WARSZAWSKA,439.,434,Józeff Medaliński,33,3,39
+WARSZAWSKA,440.,435,Chwiedor Kalinowicz,24,1,29
+WARSZAWSKA,441.,436,Wdowa Juchnicka,19,5,12
+WARSZAWSKA,442.,437,Antoni Grygotowicz,34,6,18
+WARSZAWSKA,443.,438,Stefan Skaskiewicz,22,3,20
+WARSZAWSKA,444.,439,Wdowa Kusznierska,21,3,20
+WARSZAWSKA,445.,440,Karol Pręczyński,34,,23
+WARSZAWSKA,446.,441,Wdowa Chuchlińska,18,6,108
+WARSZAWSKA,447.,442,Paulina Męczyńska,36,,31
+WARSZAWSKA,448.,443,Icek Nochimowicz,38,6,20
+ZA WARSZAWSKĄ BRAMĄ,449.,444,Icek Nochimowicz,24,,425
+ZA WARSZAWSKĄ BRAMĄ,450.,445,Browar skarbowy,275,4,939
+ZA WARSZAWSKĄ BRAMĄ,451.,446,Sukcessor[ów] Lankhamra,51,1,100
+ZA WARSZAWSKĄ BRAMĄ,452.,447,Sakowicz,106,,189
+ZA WARSZAWSKĄ BRAMĄ,453.,448,Joachim Ihnatiow,126,3,100
+ZA WARSZAWSKĄ BRAMĄ,454.,449,Skarbowa staynia żan-dar[mska],18,,80
+ZA WARSZAWSKĄ BRAMĄ,455.,450,Gotlib Kicel,175,,529
+ZA WARSZAWSKĄ BRAMĄ,456.,451,Henryk Beker,,,1776
+ZA WARSZAWSKĄ BRAMĄ,457.,452,Henryk Beker,,,
+ZA WARSZAWSKĄ BRAMĄ,458.,453,Krystian Szeel,,,682
+ZA WARSZAWSKĄ BRAMĄ,459.,454,Lauke,,,888
+ZA WARSZAWSKĄ BRAMĄ,460.,455,Wdowa Pragowa,25,,19
+ZA WARSZAWSKĄ BRAMĄ,461.,456,Godfryd Szulc,,,
+KONT WARSZAWSKIEY ULICY,462.,457,Leyzer Meierowicz,32,6,56
+KONT WARSZAWSKIEY ULICY,463.,458,Leyzer Meierowicz,29,3,40
+ULICA WARSZAWSKA,464.,459,Herszko Haymowicz,33,3,42
+ULICA WARSZAWSKA,465.,460,Józef Łuniewski,58,7,103
+ULICA WARSZAWSKA,466.,461,Klemens Januszewicz,33,6,57
+ULICA WARSZAWSKA,467.,462,Leyzer Herszkowicz,28,7,37
+ULICA WARSZAWSKA,468.,463,Godlib Szletker,31,,53
+ULICA WARSZAWSKA,469.,464,Josiel Dawidowicz,25,3,88
+ULICA WARSZAWSKA,470.,465,Chaym Zabłudowski,85,3,72
+ULICA WARSZAWSKA,471.,466,Józef Maliszewski,86,6,125
+ULICA WARSZAWSKA,472.,467,Mośko Leybowicz,45,,99
+ULICA WARSZAWSKA,473.,468,Czyż,180,8,380
+ULICA WARSZAWSKA,474.,469,Hercko Jankielowicz Segiel,76,2,121
+ULICA WARSZAWSKA,475.,470,Sowietnik Lachowicz,75,3,87
+ULICA WARSZAWSKA,476.,471,Wdowa Korbutowa,144,8,364
+ZA LITEWSKĄ BRAMĄ,477.,472,Sukcessor[ów] Pozarzec-kiego,91,6,243
+ZA LITEWSKĄ BRAMĄ,478.,473,Karol Kint,58,2,739
+ZA LITEWSKĄ BRAMĄ,479.,474,Frydrych Tylicki,17,7,59
+ZA LITEWSKĄ BRAMĄ,480.,475,Józef Słowiński,10,8,
+ZA LITEWSKĄ BRAMĄ,481.,476,Piotr Kropiwnicki,15,,42
+ZA LITEWSKĄ BRAMĄ,482.,477,Kazimierz Boraczewski,8,,11
+ZA LITEWSKĄ BRAMĄ,483.,478,Wdowa Furmańska,15,,7
+ZA LITEWSKĄ BRAMĄ,484.,479,Stanisł[aw] Gruszewski,12,,8
+ZA LITEWSKĄ BRAMĄ,485.,480,Johan Pik,6,,
+ZA LITEWSKĄ BRAMĄ,486.,481,Grzegorz Ostaszewski,13,4,
+ZA LITEWSKĄ BRAMĄ,487.,482,Wdowa Aryszowa,65,7,
+ZA LITEWSKĄ BRAMĄ,488.,483,Kazimierz Handzielewicz,10,6,7
+ZA LITEWSKĄ BRAMĄ,489.,484,Wdowa Śliwkowa,13,2,
+ZA LITEWSKĄ BRAMĄ,490.,485,Wdowa Zinowkowa,12,6,
+ZA LITEWSKĄ BRAMĄ,491.,Lit. A,Po Sawickim suk[cesor] August Zalewski,15,,
+ZA LITEWSKĄ BRAMĄ,492.,Lit. B,Józef Woytkiewicz,11,,21
+ZA LITEWSKĄ BRAMĄ,493.,XZ 522,Maciey Kodyński,80,,
+ULICA STARE BOIARY,494.,486,Symon Korbut,96,4,81
+ULICA STARE BOIARY,495.,487,Karol Guzowski,78,,
+ULICA STARE BOIARY,496.,488,Franciszek Pałczyński,107,3,5
+ULICA STARE BOIARY,497.,489,Jan Brzeziński19,61,,
+ULICA STARE BOIARY,498.,490,Woyciech Suplikowski20,66,3,
+ULICA STARE BOIARY,499.,491,Michał Jackowski21,50,2,
+ULICA STARE BOIARY,500.,492,Piotr Bernacki,66,8,
+ULICA STARE BOIARY,501.,493 Adam Jozowik,,60,6,
+ULICA BOIARY,502.,494,Gimnazjum22,231,3,357
+ULICA BOIARY,503.,495,Krystian Ehm,84,4,153
+ULICA BOIARY,504.,496,Sekretarz Kosiński,46,6,15
+ULICA BOIARY,505.,497,Aron Markus,67,3,137
+ULICA BOIARY,506.,498,Aron Markus,101,5,123
+ULICA BOIARY,507.,499,Dom skarbowy,85,6,197
+ULICA BOIARY,508.,500,Wdowa Hausreterowa,96,6,196
+ULICA BOIARY,509.,501,Marszał[ek] Ciecierski23,136,4,75
+ULICA BOIARY,510.,502,Sowietnik Arcimowicz,92,4,94
+ULICA BOIARY,511.,503,Sowietnik Janiewicz,89,3,83
+ULICA BOIARY,512.,504,Dom skarbowy24,173,,327
+ULICA BOIARY,513.,505,Wdowa Wolska,98,,104
+ULICA BOIARY,514.,506,Wdowa Sepiniowa,74,,174
+ZA WASILKOWSKĄ ULICĄ,515.,506 1/2 Sukcessor[owie] Birfrenda,,77,5,152
+ZA WASILKOWSKĄ ULICĄ,516.,507,Żyd Breyna,34,6,66
+ZA WASILKOWSKĄ ULICĄ,517.,508,Jankiel Mowszkowicz,24,3,16
+ZA WASILKOWSKĄ ULICĄ,518.,509,Wdowa Kreyna,3,1,
+ZA WASILKOWSKĄ ULICĄ,519.,510,Izrael Jarowski,73,3,47
+ZA WASILKOWSKĄ ULICĄ,520.,511,Leybko Sokolski,11,1,86
+ZA WASILKOWSKĄ ULICĄ,521.,512,Leybko Sokolski,18,7,54
+ULICA BOIARY,522.,513,Motie Zabłudowski,150,,237
+ULICA BOIARY,523.,514,Sukcessorowie Rukiewicza,140,4,112
+ULICA BOIARY,524.,515,Maciiey Kodyński,53,4,102
+ULICA BOIARY,525.,516,Maior Izenszmyt,105,1,124
+ULICA BOIARY,526.,517,Icek Zabłudowski,97,,
+ULICA BOIARY,527.,518,Skarbowy plac,,,
+ULICA BOIARY,528.,519,Łukasz Ostaszewski,9,,13
+ULICA BOIARY,529.,520,Jozef Szayba,54,,71
+ULICA BOIARY,530.,521,Eder,30,4,33
+ULICA BOIARY,531.,522,Eder,18,5,
+ULICA BOIARY,532.,523,J[aśnie] W[ielmożneg]o Generała Daure,208,,613
+ULICA BOIARY,533.,524,J[aśnie] W[ielmożneg]o Generała Daure,,,
+ULICA BOIARY,534.,525,Sukcessorów Birfrenda,32,8,42
+ULICA BOIARY,535.,526,Leyzer Dawidowicz,62,2,73
+ULICA BOIARY,536.,527,Jankiel Owsiey,11,,38
+MŁYNOWA,537.,528,Chackiel Moyżesz,38,2,18
+MŁYNOWA,538.,529,Judel Kalwaryński,24,,48
+MŁYNOWA,539.,530,Teodor Paiewski,54,5,105
+MŁYNOWA,540.,531,Ezra Izralowicz Wasilkowski,88,4,105
+MŁYNOWA,541.,532,Moszko Izraelowicz Za-błud [owski],62,3,60
+MŁYNOWA,542.,533,Szmerko Kuriański,26,4,
+MŁYNOWA,543.,534,Józeff Łazowski,82,3,111
+MŁYNOWA,544.,535,Młyn skarbowy,102,,100
+KONT MŁYNOWEY,545.,536,Dom skarbowy,41,8,38
+NAD KANAŁEM25,546.,537,Graffa Potockiego,78,1,39
+NAD KANAŁEM25,547.,538,Sukcessor[owie] Daszkow-skiego,119,8,496
+NAD KANAŁEM25,548.,539,"""Skarbowy dom"," policja26""",45,
+NAD KANAŁEM25,549.,540,Jozeff Ornani,116,1,230
+NAD KANAŁEM25,550.,541,Skarbowy Dom De-par[tamentu]27,95,5,
+NAD KANAŁEM25,551.,542,Sukcessorow Henikie,138,,242
+NAD KANAŁEM25,552.,543,Probostwo Rzym[sko]-Kat[olickie],299,7,470
+NAD KANAŁEM25,553.,544,[Probostwo] Rzymsko-Katolic[kie],101,3,601
+NAD KANAŁEM25,554.,545,Szkołka y Szpital,83,6,86
+NAD KANAŁEM25,555.,546,Hauptwach Głowny,66,,48
+Z POLA PRZYIĘTE ZA GUMIENNĄ ULICĄ,556.,Lit. C,Franciszek Wilczyński,21,,16
+Z POLA PRZYIĘTE ZA GUMIENNĄ ULICĄ,557.,D,Jan Puchalski,12,,49
+Z POLA PRZYIĘTE ZA GUMIENNĄ ULICĄ,558.,E,Jozef Woronowski,23,,44
+Z POLA PRZYIĘTE ZA GUMIENNĄ ULICĄ,559.,G,Szymon Krasota,24,,64
+Z POLA PRZYIĘTE ZA GUMIENNĄ ULICĄ,560.,J,Wincenty Wysocki,58,5,118
+ZA GUMIENNĄ ULICĄ,561.,Lit. K,Woyciech Wilczyński,,,112
+ZA GUMIENNĄ ULICĄ,562.,L,Jan Nierodzinski,66,3,21
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",1.,2.,3.,4.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",1.,2,Jan Rybek dom murowany na ulicy Wasilkowskiey,Z powodu utrzymywania poczty dom wspomniany żadnego przychodu nieprzynosi.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",2.,7,Wdowa Rutkowska na ulicy Wasilkowskiey,Sama zaymuie całe pomieszkanie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",3.,17,Szlik Kassyer dom murowany nad rzeczką,Zaarędowany W[ielmożnemu] Macieiewskiemu za rubli 36 rocznie za kontraktem.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",4.,100,Wdowa Teresa Piotrowska na ulicy Gumienney dom drewniany,Aręduie przysięgły Kłossowski za rubli srebrem 20 rocznie za kontraktem.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",5.,129,Dominika Szumowskiego plac pusty na ulicy Gumienney,–,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",6.,161,Plac pusty sukcessorow Topolskich1 na Nowey Lipie,–,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",7.,164,Bartłomiey Wrona2 dom murowany i drugi mały na ulicy Lipowey,Zostaią pod władaniem tradycyiney possessorki Maryanny Krassow-skiey.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",8.,166,Sukcessorowie Terpilowskich3 dom murowany na ulicy Lipowey,Sami zaymuią całe pomieszkanie na własną wygodę.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",9.,167,Kassyer Holland4 dom murowany na ulicy Lipowey,Aręduie za kontraktem za 100 rubli srebr[em] w rok.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",10.,168,Sukcessorowie Brezykiego5 dom murowany na ulicy Lipowey,Sami cały dom na własną wygodę zaymuią.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",11.,174,Sukcessorowie pruskiego konsyliiarza Weissa6 dom pruskiego muru na ulicy Lipowey,Zaarędowany W[ielmożnemu] Rawennemu za rubli srebr[em] 80 w rok za kontraktem.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",12.,175,Tegoż konsyliiarza dom murowany na ulicy Lipowey,Zaarędowany W[ielmożnemu] kaznaczeiowi Wiśniewskiemu7 za rubli srebr[em] 75 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",13.,176,J[aśnie] W[ielmożny] Biskup Jaworowski8 dom murowany na ulicy Lipowey,Część domu zaarędowana W[ielmożnej] Braunowey za rubli srebr[em] 60 i za naięcie pod kwaterunek rubli srebr[em] 200 rocznie z Kwaterniczey Kommissyi.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",14.,185,W[ielmożny] sekretarz Kniażyński9 dom drewniany na ulicy Lipowey,Aręduie część domu W[ielmożnemu] Dębskiemu za rubli srebr[em] 30 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",15.,186,Pruski oberforsztmeyster Mateas10 dom drewniany na ulicy Lipowey,Zaarędowany W[ielmożnemu] sekretarzowi Bumelowi za rubli srebr[em] 33 w rok.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",16.,188,Pruski urzędnik Eyke11 dom drewniany na ulicy Lipowey,Zaarędowany Feydze Bobrowskiey za rubli srebr[em] 12 w roku.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",17.,198,W[ielmożny] Major Topolski12 dom murowany w rynku,Aręduie część domu W[ielmożnemu] Lubatyńskiemu za rubli srebr[em] 30 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",18.,243,Wdowa Dziekanowa Krassowska dwa domy na gruncie funduszu Cerkwi Unickiej,Sama zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",19.,244,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",20.,294,Jozef Odachowski13 dom drewniany na Piaskach,Sam właściciel na własną potrzebę zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",21.,369,Jakub Rutkowski14 dom drewniany na ulicy Browarney,"""Część domu aręduie za rubli srebr[em] 8 w rok"," - za słowną umową.""",
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",22.,409,Aptekarz Henryk Szlegiel15 dom drewniany z apteką i officyną podobnież drewnianą,Sam z familią zaymuie całe pomieszkanie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",23.,414,Tradycyiny possesor adwokat W[ielmożny] Giewartowski16 dom pruskiego muru,Zaarędowany stolarzowi Puszmanowi za rubli srebr[em] 20 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",24.,415,Wdowa sowietnikowa de Michelis17 dom murowany na ulicy Młynowey,Na własną potrzebę całe zaymuie pomieszkanie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",25.,417,Pruski officyalista Haupt dom muru pruskiego na ulicy Mły-nowey,Za wydanym kontraktem od Białostockiego Sierockiego Sądu18 W[ielmożnemu] sowietnikowi Kardynałowskiemu19 na lat 6 z opłatą roczney arędy rubli srebr[rem] 29 i do Kwaterniczey Komissyi za kwaterunek rubli 21 kop[iejek] 4 w rok.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",26.,418,Wdowa sowietnikowa W[ielmożna] Milewiczowa dom pruskiego muru,Aręduie W[ielmożnemu] Markowskiemu za rubli srebr[em] 70 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",27.,423,W[ielmożny] sowietnik Wrubel20 dom murowany na ulicy Warszawskiey,Cały dom sam zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",28.,424,Sukcessorowie Reicha21 dom murowany na ulicy Warszaw-skiey,Zaarędowany J[aśnie] W[ielmożnemu] vice-gubernatorowi Arszeniew-skiemu22 za rubli srebr[em] 147 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",29.,425,Pruski kassyer Gebhard23 dom murowany na ulicy War-szawskiey,Zaarędowany W[ielmożnemu] Barankiewiczowi za rubli 100 srebrem rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",30.,437,Antoni Gregotowicz24 dom drewniany na ulicy Kleindorf,Z części domu ma dochodu rocznego rubli srebrem 10.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",31.,439,Wdowa Konstancya Kuśmierska25 dom drewniany na ulicy Kleindorf,Sama z familiią zaymuie cały dom.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",32.,446,Langhamer26 dom drewniany na ulicy Warszawskiey,Zaarędowany W[ielmożnemu] Sakowiczowi27 za rubli srebr[em] 40 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",33.,447,Tradycyiny possessor W[ielmożny] sędzia Sakowicz dom murowany sukcessorow Szulca,Cały dom na własne pomieszkanie zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",34.,448,Sztabs-kapitan Ignatiew28 dom murowany na ulicy War-szawskiey,–,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",35.,451,Place puste do Szkolnego Funduszu należące,–,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",36.,452,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",37.,453,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",38.,454,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",39.,456,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",40.,460,Jozef Łuniewski29 dom drewniany na ulicy Warszawskiey,Sam z familiią cały dom zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",41.,468,"""Pruski landrat Czyż30 dom murowany z frontu"," a drugi drewniany na ulicy Warszawskiey""",Obydwa domy aręduie za 140 rubli srebrem w rok.,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",42.,470,Obwodowy kaznaczey W[ielmożny] Lachowicz31 dom drewniany na ulicy Warszawskiey,Cały dom na własne pomieszkanie zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",43.,475,Jozef Sławiński dom drewniany pod Wiatrakiem,Sam mieszka.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",44.,476,Kropiewnicki dom drewniany pod Wiatrakiem,Sam z familiią zaymuie całe pomieszkanie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",45.,495,W[ielmożny] sowietnik Ehm32 murowany na ulicy Bojarskiey,W[ielmożny] plenipotent Wrubel prócz naturalnego kwaterunku pobiera dochodu za zaarędowanie części onego rubli srebr[em] 125 rocznie,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",46.,496,W[ielmożny] sekretarz Kosiński33 dom pruskiego muru na ulicy Bojarskiey,Sam właściciel cały dom na własne pomieszkanie zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",47.,497,W[ielmożny] Prasser34 dwa domy murowane na ulicy Bojar-skiey w tradycyiney possessyi u Aryi Markusa Doylickiego,"""Zaarędowany W[ielmożnemu] adwokatowi Sawickiemu35 za rubli srebr[em] 80"," - a drugi dom J[aśnie] W[ielmożnej] prezydentowey Daszkiewiczowey36 za rubli srebr[em] 120 w roku.""",
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",48.,498,,,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",49.,500,Hausleytera37 dom murowany na ulicy Bojarskiey,Aręduie W[ielmożny] Podwerbny38 za rubli srebr[em] 130 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",50.,501,Dom Rady Szlacheckiej39,Całe pomieszkanie zaięte na własne potrzeby.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",51.,502,W[ielmożny] sowietnik Arcimowicz40 dom murowany na ulicy Bojarskiey,Sam mieszka.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",52.,503,W[ielmożny] sowietnik Janiewicz41 dom murowany na ulicy Bojarskiey,Sam właściciel cały dom na własną wygodę zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",53.,505,W[ielmożna] Wolska dom murowany na ulicy Bojarskiey42,"""Starey intraty niema"," naywięcey 150 rubli srebr[em] w rok.""",
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",54.,506,W[ielmożna] Sempigniowa43 dom murowany na ulicy Bojar-skiey,Aręduie xiężney Woroneckiey za rubli 140 srebrem rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",55.,514,W[ielmożny] Rukiewicz44 dom murowany na ulicy Bojar-skiey,Aręduie część domu W[ielmożnemu] Żyrkiewiczowi podpułkownikowi za rubli srebr[em] 45 rocznie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",56.,515,Woyciech Kodyński45 dom murowany na ulicy Bojarskiey,Aręduie W[ielmożnemu] sekretarzowi Stefanowiczowi46 za 140 rubli srebr[em] w rok.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",57.,516,Kommissyoner Izenszmidt dom murowany na ulicy Bojarskiey,"""Zaymuie całkiem J[aśnie] W[ielmożny] prokurator Gartkiewicz47 bez żadnej opłaty", tylko za reparacyę," opłatę podatkow i kwaterunek z oney."""
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",58.,520,Szayba dom murowany na ulicy Bojarskiey,Prócz kwaterunku woyskowego nikt w nim niemieszka.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",59.,524,J[aśnie] W[ielmożny] Dowre48 dom murowany na ulicy Bojarskiej,Sam właściciel na własną wygodę cały dom zaymuie i oprócz tego z Kwaterniczey Komissyi pobiera dochód w rok rubli srebr[em] 250.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",60.,530,Teodor Paiewski49 dom pruskiego muru na ulicy Młynowey,Sam z familiią całe pomieszkanie zaymuie.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",61.,534,W[ielmożny] Łazowski dom murowany na ulicy Młynowey,Zaarędowany W[ielmożnemu] sowietnikowi Kelnerowi za rubli srebr[em] 130 w rok.,,
+"Lp.,Numer domu,Imię i nazwisko właściciela,Jakie właściciel ma z niego korzyści,,,,,,,,,,",62.,537,Graf Potocki50 kamienica dwupiętrowa na kanałami,Sam właściciel całą kamienicę zaymuie na własną potrzebę.,,

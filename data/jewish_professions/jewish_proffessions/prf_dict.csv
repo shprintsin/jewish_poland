@@ -1,0 +1,355 @@
+﻿id,prfd,profession
+1,cyrulik,Barber-Surgeon
+2,sekretarz kamery,Chamber Secretary
+3,bez zawodu,Without Profession
+4,kancelista kamery,Chamber Clerk
+5,kowal,Blacksmith
+6,polski adwokat,Polish Lawyer
+7,cyrulik,Barber-Surgeon
+8,mieszczanin rolnik,Burgher Farmer
+9,kontroler leśny,Forest Controller
+10,tłumacz rejencji,Regency Translator
+11,ślusarz,Locksmith
+12,sekretarz rejencji,Regency Secretary
+13,przymusowy lokator,Forced Tenant
+14,registrator,Registrar
+15,kancelista,Clerk
+16,sukiennik,Clothier
+17,rzeźnik,Butcher
+18,garncarz,Potter
+19,garbarz,Tanner
+20,stolarz,Carpenter
+21,szewc,Shoemaker
+22,introligator,Bookbinder
+23,szynkarz,Innkeeper
+24,stelmach,Wheelwright
+25,krawiec,Tailor
+26,sprzedawca tabaki,Snuff Seller
+27,handlarz solą,Salt Merchant
+28,po mieszczaninie rolniku,Former Burgher Farmer
+29,registrator rejencji,Regency Registrar
+30,kupiec,Merchant
+31,złotnik,Goldsmith
+32,łatacz ubrań,Clothes Mender
+34,radca rejencji,Regency Counselor
+35,szynkarz i karczmarz,Innkeeper And Tavern Keeper
+36,piekarz i karczmarz,Baker And Tavern Keeper
+37,szynkarka,Female Innkeeper
+38,sieczkarz,Chaff Cutter
+39,kramarz,Shopkeeper
+40,tłumacz,Translator
+41,nauczyciel,Teacher
+42,kalkulator kamery,Chamber Calculator
+43,handlarz ryb,Fish Merchant
+44,handlarz cytrynami,Lemon Merchant
+45,pracownik młyna,Mill Worker
+46,handlarz zbożem,Grain Merchant
+47,ingrossator rejencji,Regency Engrosser
+48,kowal mosiądzu,Brass Smith
+49,furman,Carter
+50,rendant kasy głównej,Chief Cashier
+51,piekarz,Baker
+52,położnik,Male Midwife
+53,mieszczanin rolnik oraz garncarz,Burgher Farmer And Potter
+54,robotnik dniówkowy,Day Laborer
+55,kancelista rejencji,Regency Clerk
+56,kupiec kolonialny,Colonial Merchant
+57,szynkarz wina,Wine Innkeeper
+58,strażnik pocztowy,Postal Guard
+59,właściciel bilardu,Billiard Hall Owner
+60,handlarz skórami,Leather Merchant
+61,protokolant hipoteki,Mortgage Clerk
+62,zegarmistrz,Watchmaker
+63,dyrektor kancelarii rejencji,Regency Chancellery Director
+64,bednarz,Cooper
+65,podatkobiorca,Tax Collector
+66,karczmarz,Tavern Keeper
+67,księgarz,Bookseller
+68,komisarz hipoteki,Mortgage Commissioner
+69,piwowar,Brewer
+70,szef posłańców rejencji,Chief Of Regency Messengers
+71,kramarz galanterii,Fancy Goods Shopkeeper
+72,murarz,Mason
+73,parasolnik,Umbrella Maker
+74,pośrednik handlowy,Trade Broker
+75,po handlarzu skórami,Former Leather Merchant
+76,posłaniec kamery,Chamber Messenger
+77,po gospodarzu rolnym,Former Farm Owner
+78,dzierżawca młyna,Mill Tenant
+79,drukarz,Printer
+80,polski żołnierz,Polish Soldier
+81,kuchmistrz dworski,Court Chef
+82,ogrodnik,Gardener
+83,siodlarz,Saddler
+84,ptasznik,Bird Catcher
+85,szklarz,Glazier
+86,kalkulator rejencji,Regency Calculator
+87,własność kościoła katolickiego,Catholic Church Property
+88,mistrz ciesielski,Master Carpenter
+89,aktuariusz sądu powiatowego,County Court Actuary
+90,główny pisarz kasy,Chief Cashier Clerk
+91,rendant,Accountant
+92,tłumacz hipoteki,Mortgage Translator
+93,kominiarz,Chimney Sweep
+94,egzekutor rejencji,Regency Executor
+95,radca leśny,Forest Counselor
+96,młockarz,Thresher
+97,fizylier,Fusilier
+98,muzyk,Musician
+99,radca powiatowy,County Counselor
+100,radca powiatowy i buchalter,County Counselor And Bookkeeper
+101,czyszczący tkaniny,Fabric Cleaner
+102,sekretarz powiatowy,County Secretary
+103,sekretarz poczty,Postal Secretary
+104,aptekarz,Pharmacist
+105,młynarz,Miller
+106,listonosz,Postman
+107,fryzjer,Hairdresser
+108,dyrektor poczty,Post Office Director
+109,landrat,District Administrator
+110,posługacz szpitalny,Hospital Attendant
+111,pracownik gorzelni,Distillery Worker
+112,golibroda,Barber
+113,handlarz mąką,Flour Merchant
+114,kuśnierz,Furrier
+115,posłaniec rejencji,Regency Messenger
+116,gorzelnik,Distiller
+117,handlarz rybami,Fish Merchant
+118,posłaniec rejencji,Regency Messenger
+119,posłaniec hipoteki,Mortgage Messenger
+120,kuśniarz,Furrier
+121,dzierżawca młyna wodnego,Water Mill Tenant
+122,wzornik tkanin,Fabric Pattern Maker
+123,pracownik warzelni piwa,Beer Brewery Worker
+124,robotnik rolny,Agricultural Worker
+125,po golibrodzie,Former Barber
+126,dyrektor kamery,Chamber Director
+127,kancelista hipoteki,Mortgage Clerk
+128,pisarz synagogi,Synagogue Scribe
+129,szynkarz piwa,Beer Innkeeper
+130,muzykant,Musician
+131,pisarz,Writer
+132,strażak,Firefighter
+133,pracownik słodowni,Malt House Worker
+134,słodownik,Maltster
+135,po garncarzu,Former Potter
+136,cieśla,Carpenter
+137,pielęgniarz,Male Nurse
+138,handlarz galanterią,Fancy Goods Merchant
+139,podrabin,Deputy Rabbi
+140,woźny szkolny,School Janitor
+141,przewoźnik piwa,Beer Transporter
+142,żebrak,Beggar
+143,kantor szkolny,School Cantor
+144,po piekarzu,Former Baker
+145,robotnik,Worker
+146,służący w sądzie powiatowym,County Court Servant
+147,służebny dworski,Court Servant
+148,posłaniec dworski,Court Messenger
+149,mistrz murarski,Master Mason
+150,protokolant sądu powiatowego,County Court Clerk
+151,kramarz pasmanterii,Haberdashery Merchant
+152,introligator kamery,Chamber Bookbinder
+153,egzekutor powiatowej komisji sądowej,County Court Commission Executor
+154,faktor,Factor
+155,kasjer rejencji,Regency Cashier
+156,kontroler ceł i podatków,Customs And Tax Controller
+157,handlarz suknem,Cloth Merchant
+158,kontroler podatków,Tax Controller
+159,blacharz,Tinsmith
+160,-,Not Specified
+161,radca finansowy kamery,Chamber Financial Counselor
+162,radca kamery,Chamber Counselor
+163,klasztor,Monastery
+164,radca tajny,Privy Counselor
+165,marszałek dworski,Court Marshal
+166,podskarbi dworski,Court Treasurer
+167,adwokat,Lawyer
+168,sekretarz,Secretary
+169,cukiernik,Confectioner
+170,kucharz nadworny,Court Cook
+171,koniuszy,Master Of The Horse
+172,dworski garderobiany,Court Wardrobe Keeper
+173,chirurg powiatowy,County Surgeon
+174,pomocnik,Assistant
+175,egzekutor kamery,Chamber Executor
+176,posłaniec kasy,Treasury Messenger
+177,służący administracyjny,Administrative Servant
+178,kowal dworski,Court Blacksmith
+179,stelmach dworski,Court Wheelwright
+180,pomocnik chirurga,Surgeon's Assistant
+181,dworski służący,Court Servant
+182,radca rejencji ds. małoletnich,Regency Counselor For Minors
+183,dworski vice koniuszy,Court Vice Master Of The Horse
+184,asystent registratora rejencji,Regency Registrar Assistant
+185,główny rendant,Chief Accountant
+186,registrator kamery,Chamber Registrar
+187,prenczinskij,Prenczinskij
+188,radca kryminalny,Criminal Counselor
+189,sługa dworski,Court Servant
+190,tłumacz kamery,Chamber Translator
+191,gospodarz rolny,Farmer
+192,dworski pisarz,Court Scribe
+193,kotlarz,Boilermaker
+194,kwestor,Questor
+195,rendant kasy budowlanej,Construction Fund Accountant
+196,sekretarz kancelarii,Chancellery Secretary
+197,główny kasjer,Chief Cashier
+198,architekt dworski,Court Architect
+199,malarz,Painter
+200,dworski robotnik dniówkowy,Court Day Laborer
+201,młynarz wiatraczny,Windmill Miller
+202,kucharz,Cook
+203,po piwowarze,Former Brewer
+204,pisarz miejski,Town Scribe
+205,służący rejencji,Regency Servant
+206,służący,Servant
+207,dworski piekarz,Court Baker
+208,służący parafialny,Parish Servant
+209,bez zawodu uprawia ¼ hufe gruntu dworskiego oraz ma  tygodnie zajęć tamże,Without Profession Cultivating Court Land
+210,marszałek dworu,Court Marshal
+211,leśniczy dworski,Court Forester
+212,fizyk powiatowy,County Physicist
+213,protokolant inkwizytoriatu,Inquisitorial Clerk
+214,radca celny,Customs Counselor
+215,komisarz dworski,Court Commissioner
+216,prezydent kamery,Chamber President
+217,wytwórca świec,Candle Maker
+218,prezydent rejencji,Regency President
+219,inspektor budowlany,Building Inspector
+220,dyrektor kancelarii kamery,Chamber Chancellery Director
+221,proboszcz,Parish Priest
+222,kalkulator,Calculator
+223,inspektor kancelarii kamery,Chamber Chancellery Inspector
+224,sługa kancelaryjny,Chancellery Servant
+225,asystent kasy rejencji,Regency Treasury Assistant
+226,kopista,Copyist
+227,asesor,Assessor
+228,cyrulik / właściciel szynku,Barber-Surgeon And Inn Owner
+229,kramarz artykułów żelaznych,Iron Goods Merchant
+230,po mistrzu ciesielskim,Former Master Carpenter
+231,gospodarz rolny / posiada  mórg,Farmer With Land
+232,rzeźnik / właściciel sło-downi i gorzelni,Butcher And Malt House And Distillery Owner
+233,szynkarz / właściciel szynku i gorzelni,Innkeeper And Inn And Distillery Owner
+234,po szynkarzu właściciel szynku / matka i syn podatkowa wspólnota rodzinna,Former Innkeeper And Inn Owner / Family Tax Community
+235,szynkarz / właściciel szynku oraz gorzelni,Innkeeper And Inn And Distillery Owner
+236,nauczyciel / wolny,Free Teacher
+237,szynkarz / właściciel szynku,Innkeeper And Inn Owner
+238,nauczyciel / wolny,Free Teacher
+239,urzędnik dworski,Court Official
+240,registrator rejencji / urzędnik,Regency Registrar And Official
+241,garncarz / właściciel  morgów  prętów,Potter And Land Owner
+242,właściciel szynku oraz młyna,Inn And Mill Owner
+243,pomocnik młynarza,Miller's Assistant
+244,bilardzista,Billiard Player
+245,poborca podatkowy,Tax Collector
+246,szynkarz / właściciel sło-downi oraz gorzelni,Innkeeper And Malt House And Distillery Owner
+247,handlarz cytrynami / wspólnota rodzina,Lemon Merchant / Family Community
+248,kramarz zamieszkany przez urzędników,Merchant Housing Officials
+249,rękodzielnik,Craftsman
+250,urzędnik dworski / mieszka pod nr,Court Official / Resident
+251,mieszczanin rolnik / właściciel  mórg  prętów,Burgher Farmer And Land Owner
+252,starszy łatacz,Senior Clothes Mender
+253,mieszczanin rolnik / właściciel  mórg  prętów,Burgher Farmer And Land Owner
+254,garncarz / właściciel  mórg,Potter And Land Owner
+255,robotnica dniówkowa,Female Day Laborer
+256,kramarz towarami łokciowymi,Cloth Goods Merchant
+257,posłaniec,Messenger
+258,mieszczanin rolnik / właściciel  mórg  prętów,Burgher Farmer And Land Owner
+259,gospodarz rolny / właściciel  mórg  prętów,Farmer And Land Owner
+260,garbarz / właściciel  mórg  prętów,Tanner And Land Owner
+261,tragarz skrzyń,Box Porter
+262,kramarz / handel rodzinny,Merchant / Family Business
+263,piwowar / właściciel szynku,Brewer And Inn Owner
+264,piwowar / właściciel sło-downi,Brewer And Malt House Owner
+265,zegarmistrz / wspólnota podatkowa rodzinna,Watchmaker / Family Tax Community
+266,-,Not Specified
+267,biedny,Poor Person
+268,ślusarz / właściciel  mórg,Locksmith And Land Owner
+269,gospodarz rolny / właściciel  mórg  prętów,Farmer And Land Owner
+270,- / rozpoczął budowę,Started Construction
+271,bez zawodu / bardzo biedna,Without Profession / Very Poor
+272,bez zawodu / bardzo biedna / dom zniszczony,Without Profession / Very Poor / House Destroyed
+273,kapelusznik,Hatter
+274,karczmarz / właściciel szynku,Tavern Keeper And Inn Owner
+275,szynkarz / właściciel szynku,Innkeeper And Inn Owner
+276,kantor / wolny,Free Cantor
+277,brukarz / właściciel  mórg,Paver And Land Owner
+278,powroźnik,Ropemaker
+279,mieszczanin rolnik / właściciel  mórg i  prętów,Burgher Farmer And Land Owner
+280,chirurg,Surgeon
+281,po mieszczaninie rolniku / właściciel  mórg,Former Burgher Farmer And Land Owner
+282,mieszczanin rolnik / właściciel  mórg,Burgher Farmer And Land Owner
+283,drukarz / wolny,Free Printer
+284,zamieszkały pod nr,Resident At Number
+285,po mieszczaninie rolniku mieszczanin rolnik / wspólnota podatkowa rodzinna,Former Burgher Farmer Now Burgher Farmer / Family Tax Community
+286,szewc / właściciel  morgów  prętów,Shoemaker And Land Owner
+287,mieszczanin rolnik / właściciel  morgów  prętów,Burgher Farmer And Land Owner
+288,szynkarz / zamieszkały pod nr,Innkeeper / Resident At Number
+289,rymarz,Harness Maker
+290,zamieszkały pod nr,Resident At Number
+291,zamieszkały pod nr,Resident At Number
+292,handlarz szkłem,Glass Merchant
+293,obcokrajowiec,Foreigner
+294,bez określenia,Unspecified
+295,brak określenia,Not Specified
+296,urzędnik,Official
+297,kontrolera kasy kadyien,Kadyien Treasury Controller
+298,bez zawodu / dworski plac budowlany,Without Profession / Court Construction Site
+299,dyrektora hufneigel,Director Hufneigel
+300,urzędnik ds. budowlanych,Construction Official
+301,gwoździarz,Nail Maker
+302,słodownik / właściciel słodowni / wolny,Maltster And Malt House Owner / Free
+303,szynkarz / właściciel młyna,Innkeeper And Mill Owner
+304,handlarz starzyzną,Second-Hand Goods Merchant
+305,pisarz dziesięciu przykazań,Ten Commandments Scribe
+306,robotnik stawowy,Pond Worker
+307,mieszka w grodnie,Resident In Grodno
+308,służebny,Servant
+309,budowniczy mostków,Bridge Builder
+310,pracownik warzelni,Brewery Worker
+311,słodownik / zamieszkały pod nr,Maltster / Resident At Number
+312,dzierżawca karczmy,Tavern Tenant
+313,słodownik / właściciel słodowni oraz młyna,Maltster And Malt House And Mill Owner
+314,mistrz ciesielski / właściciel  mórg  prętów,Master Carpenter And Land Owner
+315,farbiarz,Dyer
+316,szewc / biedny,Poor Shoemaker
+317,pracownik browaru,Brewery Worker
+318,po krawcu,Former Tailor
+319,rzemieślnik,Craftsman
+320,sprzedawca pieprzu,Pepper Seller
+321,piwowar / właściciel gorzelni,Brewer And Distillery Owner
+322,oficjant dworski,Court Official
+323,pracownik browaru / w browarze itziga mosesa,Brewery Worker At Itzig Moses Brewery
+324,pracownik browaru / w browarze wdowy po itzigu mosesie,Brewery Worker At Widow Of Itzig Moses Brewery
+325,pracownik browaru / w browarze pinkasa arona,Brewery Worker At Pinkas Aron Brewery
+326,pracownik browaru / w browarze chayma mosesa,Brewery Worker At Chaym Moses Brewery
+327,pracownik browaru/w browarze hirscha schmula i browarze hirscha marcusa,Brewery Worker At Hirsch Schmul And Hirsch Marcus Breweries
+328,pracownik browaru / w browarze peleta mosesa,Brewery Worker At Pelet Moses Brewery
+329,pracownik browaru / w browarze jankela abrama,Brewery Worker At Jankel Abram Brewery
+330,krawiec / kolonista,Tailor And Colonist
+331,strażnik gorzelni / łaźnia żydowska,Distillery Guard / Jewish Bathhouse
+332,pracownik warzelni / słodownia,Brewery Worker / Malt House
+333,pracownik browaru / browar leiba kantora,Brewery Worker At Leib Kantor Brewery
+334,pracownik browaru / browar leiba davida,Brewery Worker At Leib David Brewery
+335,pracownik browaru / browar orko mortche,Brewery Worker At Orko Mortche Brewery
+336,po karczmarzu,Former Tavern Keeper
+337,handlarz skórą,Leather Merchant
+338,kramarz pasmanterią,Haberdashery Merchant
+340,bez zawodu / właściciel gorzelni,Without Profession / Distillery Owner
+341,po sieczkarzu,Former Chaff Cutter
+342,apekarz,Pharmacist
+343,pocztmistrz,Postmaster
+344,radca medyczny/urzędnik,Medical Counselor/Official
+345,kołodziej,Wheelwright
+346,kucharz dworski,Court Cook
+347,ślusarz / kolonista,Locksmith And Colonist
+348,zegarmistrz / właściciel zamieszkały pod nr,Watchmaker / Owner Resident At Number
+349,zamieszkały pod nr,Resident At Number
+350,kuchmistrz,Master Cook
+351,piwniczy dworski,Court Cellar Master
+352,po szynkarzu / właścicielka szynku i gorzelni,Former Innkeeper / Female Inn And Distillery Owner
+353,gospodarz rolny / bardzo biedny,Very Poor Farmer
+354,leśniczy / właściciel  mórg,Forester And Land Owner
+355,gospodarz rolny / właściciel  mórg  prętów,Farmer And Land Owner
+356,oberamtmann / urzędnik,Chief Bailiff / Official

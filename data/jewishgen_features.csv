@@ -1,0 +1,994 @@
+id,index,viv.x,powiat,name,oname,rid,pow,grcode,code,geom,town,viv.y,jg_geom
+ciechanowiec_dro_pdl,10100,podl,drohicki,ciechanowiec,Ciechanowiec,2299,dro,podl_dro,ciechanowiec_podl_dro,"[2504600.174994879, 6922963.326648588]","Ciechanowiec, Poland",Białystok,"{'lat': '52.666666666667', 'long': '22.516666666667'}"
+debica_pil_snd,10200,san,pilznenski,debica,Dębica,2447,pil,san_pil,debica_san_pil,"[2385310.849584789, 6454292.243769127]","Dębica, Poland",Kraków,"{'lat': '50.05', 'long': '21.416666666667'}"
+grodzisk_soc_raw,10300,san,blonski,grodzisk,Grodzisk,23367,blo,san_blo,grodzisk_san_blo,"[2296685.537253689, 6818756.610441961]","Grodzisk Mazowiecki, Poland",Warszawa,"{'lat': '52.116666666667', 'long': '20.633333333333'}"
+"",10400,lub,lubelski,glusk,Głusk,2228,lub,lub_lub,glusk_lub_lub,"[2516139.738047637, 6654403.579330313]","Hlusk, Belarus",Belarus SSR,"{'lat': '52.883333333333', 'long': '28.683333333333'}"
+jablonka_dro_pdl,10500,rus,zambrowski,jablonka,Jabłonka,2302,zam,rus_zam,jablonka_rus_zam,"[2489112.3759931875, 6974827.587943699]",,,
+jozefow_blb_bel,10600,lub,urzedowski,jozefow,Józefów,2231,urz,lub_urz,jozefow_lub_urz,"[2431040.3363042274, 6628438.918302714]","Józefów, Poland",Lublin,"{'lat': '50.466666666667', 'long': '23.033333333333'}"
+kazimierz_krk,10700,lub,lubelski,kazimierz,Kazimierz,2232,lub,lub_lub,kazimierz_lub_lub,"[2444273.1994201136, 6677679.010009439]","Kazimierz, Poland",Kraków,"{'lat': '50.05', 'long': '19.95'}"
+jabłonka kościelna,10800,rus,zambrowski,koscielna_nur,Jabłonka Kościelna,2302,zam,rus_zam,koscielna_nur_rus_zam,"[2489112.3759931875, 6974827.587943699]",,,
+"",10900,lub,lubelski,lublin,Lublin,22464,lub,lub_lub,lublin_lub_lub,"[2512670.4411465563, 6666133.309452958]","Lublin, Poland",Lublin,"{'lat': '51.25', 'long': '22.566666666667'}"
+"",11000,wol,krzemieniecki,miedzyrzecz_korecki,Międzyrzec Korecki,22635,krz,wol_krz,miedzyrzecz_korecki_wol_krz,"[2990423.5958559574, 6559717.469328957]",,,
+miedzyrzec_mie_pdl,11100,rus,"",miedzyrzecz_podlaski,Międzyrzecz Podlaski,23168,"",rus_,miedzyrzecz_podlaski_rus_,"[2536420.132561915, 6797290.301438517]",,,
+poznan_poz,11200,poz,poznanski,poznan,Poznań,2397,poz,poz_poz,poznan_poz_poz,"[1885272.4725942702, 6874565.896006693]","Poznań, Poland",Poznań,"{'lat': '52.416666666667', 'long': '16.966666666667'}"
+przemysl_prz_rus,11300,rus,przemyski,przemysl,Przemyśl,2019,prz,rus_prz,przemysl_rus_prz,"[2534974.150612664, 6408841.243308483]","Przemyśl, Poland",Lwów,"{'lat': '49.783333333333', 'long': '22.783333333333'}"
+siemiatycze_dro_pdl,11400,podl,drohicki,siemiatycze,Siemiatycze,2318,dro,podl_dro,siemiatycze_podl_dro,"[2545058.9962253277, 6877724.336326926]","Siemiatycze, Poland",Białystok,"{'lat': '52.45', 'long': '22.883333333333'}"
+wysokie_mazowieckie_dro_pdl,11500,podl,drohicki,wysokie_mazowieckie,Wysokie Mazowieckie,23169,dro,podl_dro,wysokie_mazowieckie_podl_dro,"[2503027.5739481477, 6968722.273832482]",,,
+blaszki_srd,20100,rus,przemyski,blazow,Błażów,4379,prz,rus_prz,blazow_rus_prz,"[2580698.4992907965, 6345542.697236698]",,,
+czudec_pil_snd,20200,san,pilznenski,czudec,Czudec,2445,pil,san_pil,czudec_san_pil,"[2431083.496483992, 6436999.562189987]","Czudec, Poland",Lwów,"{'lat': '49.95', 'long': '21.833333333333'}"
+frysztak_pil_snd,20300,san,pilznenski,frysztak,Frysztak,22482,pil,san_pil,frysztak_san_pil,"[2405489.4228248443, 6418092.589445642]","Frysztak, Poland",Lwów,"{'lat': '49.833333333333', 'long': '21.616666666667'}"
+glogow_pil_snd,20400,san,pilznenski,glogow,Głogów,2448,pil,san_pil,glogow_san_pil,"[2445070.861750352, 6472411.752985596]","Głogów Małopolski, Poland",Lwów,"{'lat': '50.15', 'long': '21.966666666667'}"
+"",20500,san,"",krasnobrod,krasnobrod,,"",san_,krasnobrod_san_,,"Krasnobród, Poland",Lublin,"{'lat': '50.55', 'long': '23.2'}"
+niebylec,20600,san,pilznenski,niebylec,Niebylec,8569,pil,san_pil,niebylec_san_pil,"[2438456.5440019676, 6421417.873486458]","Niebylec, Poland",Lwów,"{'lat': '49.866666666667', 'long': '21.9'}"
+ropczyce_pil_snd,20700,san,pilznenski,ropczyce,Ropczyce,22483,pil,san_pil,ropczyce_san_pil,"[2405548.8209074833, 6455267.495607515]","Ropczyce, Poland",Kraków,"{'lat': '50.05', 'long': '21.616666666667'}"
+rozwadow_san_snd,20800,san,sandomierski,rozwadow,Rozwadów,2486,san,san_san,rozwadow_san_san,"[2454062.591111514, 6549342.770837424]","Rozwadów, Poland",Lwów,"{'lat': '50.583333333333', 'long': '22.05'}"
+rzeszow_prz_rus,20900,rus,przemyski,rzeszow,Rzeszów,2031,prz,rus_prz,rzeszow_rus_prz,"[2448223.7687811833, 6452051.000009344]","Rzeszów, Poland",Lwów,"{'lat': '50.05', 'long': '22'}"
+sedziszow_pil_snd,21000,san,pilznenski,sedrzyszow,Sędziszów,2492,pil,san_pil,sedrzyszow_san_pil,"[2415612.2334027668, 6458277.254775555]",,,
+strzyzow_pil_snd,21100,san,pilznenski,strzyzow,Strzyżów,2499,pil,san_pil,strzyzow_san_pil,"[2425270.456940926, 6423667.066594061]","Strzyżów, Poland",Lwów,"{'lat': '49.866666666667', 'long': '21.8'}"
+tyczyn_prz_rus,21200,rus,przemyski,tyczyn,Tyczyn,2069,prz,rus_prz,tyczyn_rus_prz,"[2451159.4477241505, 6439790.194620899]","Tyczyn, Poland",Lwów,"{'lat': '49.966666666667', 'long': '22.033333333333'}"
+wielopole,21300,san,pilznenski,wielopole,Wielopole,22484,pil,san_pil,wielopole_san_pil,"[2405974.196111766, 6436712.073773463]","Wielopole Skrzyńskie, Poland",Kraków,"{'lat': '49.95', 'long': '21.616666666667'}"
+goworowo_nur_maz,30101,maz,ostrolecki,goworowo,Goworowo,14617,ost,maz_ost,goworowo_maz_ost,"[2401491.7945175543, 6965025.64054548]","Goworowo, Poland",Białystok,"{'lat': '52.9', 'long': '21.566666666667'}"
+"",30102,maz,wasoski,grajew,Grajewo,2266,was,maz_was,grajew_maz_was,"[2499680.344094913, 7101415.450215883]",,,
+jablonna_lom_maz,30103,podl,drohicki,jablonna,Jabłonna Lacka,9256,dro,podl_dro,jablonna_podl_dro,"[2498235.8478549877, 6886345.36935044]",,,
+jedwabne,30104,maz,wiski,jedwabne,Jedwabne,2267,wis,maz_wis,jedwabne_maz_wis,"[2484278.4719839953, 7035303.902177381]","Jedwabne, Poland",Białystok,"{'lat': '53.283333333333', 'long': '22.3'}"
+"",30105,maz,ostrolecki,kleczkowo,Kleczków,14650,ost,maz_ost,kleczkowo_maz_ost,"[2432241.4291664786, 6992432.872586707]",,,
+lipniki_kiv_kiv,30106,kij,kijowski,lipniki,Lipniki,19314,kij,kij_kij,lipniki_kij_kij,"[3167586.146202499, 6651771.620801497]",,,
+"",30107,maz,ostrolecki,myszyniec,Myszyniec,22916,ost,maz_ost,myszyniec_maz_ost,"[2377060.333341842, 7052817.150037352]","Myszyniec, Poland",Białystok,"{'lat': '53.383333333333', 'long': '21.35'}"
+nowogród,30108,maz,lomzynski,nowogrod,Nowogród,14716,lom,maz_lom,nowogrod_maz_lom,"[2435520.402810365, 7024042.949211606]","Nowogród, Poland",Białystok,"{'lat': '53.233333333333', 'long': '21.866666666667'}"
+rudka_lom_maz,30109,podl,drohicki,rudka,Rudka,9296,dro,podl_dro,rudka_podl_dro,"[2529920.9589220863, 6931544.665994226]",,,
+sniadowo_lom_maz,30110,maz,lomzynski,sniadow,Śniadowo,2281,lom,maz_lom,sniadow_maz_lom,"[2448046.918005752, 6988608.0137306275]",,,
+stawiski_lom_maz,30111,maz,kolnenski,stawiski,Stawiski,2277,kol,maz_kol,stawiski_maz_kol,"[2467430.8348127697, 7051856.047759576]","Stawiski, Poland",Białystok,"{'lat': '53.366666666667', 'long': '22.15'}"
+stawiski_lom_maz,30112,maz,kolnenski,stawiski_and_jedwabne,Stawiski,2277,kol,maz_kol,stawiski_and_jedwabne_maz_kol,"[2467430.8348127697, 7051856.047759576]",,,
+szczuczyn,30113,maz,wasoski,szczucin,Szczuczyn,2280,was,maz_was,szczucin_maz_was,"[2481174.5285775317, 7086046.723690543]",,,
+"",30114,maz,ostrolecki,troszyn,Troszyn,14800,ost,maz_ost,troszyn_maz_ost,"[2419404.962796548, 6988372.75898933]",,,
+"",30115,maz,wiski,wizna,Wizna_villages,2283,wis,maz_wis,wizna_maz_wis,"[2491522.5178241404, 7018210.548316479]",,,
+zambrow_lom_maz,30116,maz,zambrowski,zambrow,Zambrów,24544,zam,maz_zam,zambrow_maz_zam,"[2476175.5091300267, 6976948.398853082]","Zambrów, Poland",Białystok,"{'lat': '52.983333333333', 'long': '22.25'}"
+"",30117,maz,"",zawadow,zawadow_villages,,"",maz_,zawadow_maz_,,,,
+augustow_bia_pdl,30201,podl,bielski,augustow,Augustów,2294,bie,podl_bie,augustow_podl_bie,"[2557901.5355516747, 7139431.042333999]","Augustów, Poland",Białystok,"{'lat': '53.85', 'long': '23'}"
+bialystok_bia_pdl,30202,podl,bielski,bialystok,Białystok,2295,bie,podl_bie,bialystok_podl_bie,"[2577793.413094851, 7004996.454190841]","Białystok, Poland",Białystok,"{'lat': '53.133333333333', 'long': '23.15'}"
+boczki_bia_pdl,30203,podl,bielski,boczki,Boczki,2296,bie,podl_bie,boczki_podl_bie,"[2566005.373685477, 6918447.543858674]",,,
+drohiczyn_dro_pdl,30204,podl,drohicki,drohiczyn,Drohiczyn,2300,dro,podl_dro,drohiczyn_podl_dro,"[2520507.3492658106, 6874355.570847608]","Drahichyn, Belarus",Polesie,"{'lat': '52.183333333333', 'long': '25.15'}"
+goniadz_bia_pdl,30205,podl,bielski,goniadz,Goniądz,2301,bie,podl_bie,goniadz_podl_bie,"[2530999.1571100084, 7072209.389095814]","Goniądz, Poland",Białystok,"{'lat': '53.483333333333', 'long': '22.75'}"
+jasionowka_bia_pdl,30206,podl,bielski,jasionowka,Jasionówka,2304,bie,podl_bie,jasionowka_podl_bie,"[2564904.3845842844, 7056189.596562764]","Jasionówka, Poland",Białystok,"{'lat': '53.383333333333', 'long': '23.033333333333'}"
+knyszyn,30207,podl,bielski,knyszyn,Knyszyn,9264,bie,podl_bie,knyszyn_podl_bie,"[2551949.4163575657, 7040013.365272438]","Knyszyn, Poland",Białystok,"{'lat': '53.316666666667', 'long': '22.916666666667'}"
+konstantynow_mie_pdl,30208,podl,mielnicki,konstantynow,Konstantynów,2305,mie,podl_mie,konstantynow_podl_mie,"[2566995.5015832, 6839317.460190658]","Konstantynów, Poland",Lublin,"{'lat': '52.216666666667', 'long': '23.083333333333'}"
+losice_mie_pdl,30209,podl,mielnicki,losice,Łosice,2307,mie,podl_mie,losice_podl_mie,"[2530975.5792157594, 6837465.782045961]","Łosice, Poland",Lublin,"{'lat': '52.216666666667', 'long': '22.716666666667'}"
+mielnik_mie_pdl,30210,podl,mielnicki,mielnik,Mielnik,9335,mie,podl_mie,mielnik_podl_mie,"[2565486.6330818054, 6860028.802953584]","Mielnik, Poland",Białystok,"{'lat': '52.333333333333', 'long': '23.05'}"
+niemirow_mie_pdl,30211,podl,mielnicki,niemirow,Niemirów,2313,mie,podl_mie,niemirow_podl_mie,"[2577388.1309020934, 6852179.56311012]",,,
+orla_bia_pdl,30212,podl,bielski,orly,Orla,2314,bie,podl_bie,orly_podl_bie,"[2596604.2875101212, 6930281.833565936]",,,
+osowie_bia_pdl,30213,podl,bielski,osowiec,osowiec,,bie,podl_bie,osowiec_podl_bie,,,,
+rajgrod_bia_pdl,30214,podl,bielski,rajgrod,Rajgród,2316,bie,podl_bie,rajgrod_podl_bie,"[2525756.6296677105, 7116592.6570289]","Rajgród, Poland",Białystok,"{'lat': '53.733333333333', 'long': '22.7'}"
+rajgrod_bia_pdl,30215,podl,bielski,rajgrod_and_augustow,Rajgród,2316,bie,podl_bie,rajgrod_and_augustow_podl_bie,"[2525756.6296677105, 7116592.6570289]",,,
+rossosz_mie_pdl,30216,podl,"",rososz,Rossosz,2115,"",podl_,rososz_podl_,"[2577373.484005636, 6773312.187255595]",,,
+"",30217,podl,mielnicki,sarnaki,Sarnaki_villages,2317,mie,podl_mie,sarnaki_podl_mie,"[2548076.8392047985, 6857819.597960098]",,,
+sokolow_dro_pdl,30219,podl,bielski,sokoly,Sokoły,2322,bie,podl_bie,sokoly_podl_bie,"[2527437.359058609, 6981324.974615144]","Sokoły, Poland",Białystok,"{'lat': '52.983333333333', 'long': '22.7'}"
+suraz_bia_pdl,30220,podl,bielski,suraz,Suraż,9308,bie,podl_bie,suraz_podl_bie,"[2554558.3741528615, 6973652.678691339]","Suraż, Poland",Białystok,"{'lat': '52.95', 'long': '22.95'}"
+tykocin_bia_pdl,30221,podl,bielski,tykocin,Tykocin,2323,bie,podl_bie,tykocin_podl_bie,"[2537112.5802756883, 7018986.35110098]","Tykocin, Poland",Białystok,"{'lat': '53.2', 'long': '22.783333333333'}"
+wiszna_bia_pdl,30222,podl,bielski,wiszna,wiszna,,bie,podl_bie,wiszna_podl_bie,,"Wizna, Poland",Białystok,"{'lat': '53.2', 'long': '22.383333333333'}"
+czyzewo_nur_maz,40101,maz,nurski,czyzew,Czyżewo,2265,nur,maz_nur,czyzew_maz_nur,"[2486011.759010492, 6944450.862487566]",,,
+dobra_srd,40102,maz,liwski,dobre,Dobre,14603,liw,maz_liw,dobre_maz_liw,"[2413839.6814476964, 6857934.962181655]","Dobre, Poland",Warszawa,"{'lat': '52.333333333333', 'long': '21.683333333333'}"
+"",40104,maz,kamieniecki,jadow_and_strachowka,Jadów_villages,14628,kam,maz_kam,jadow_and_strachowka_maz_kam,"[2408888.786873526, 6887042.395541418]",,,
+kaluszyn_liw_maz,40105,maz,liwski,kaluszyn,Kałuszyn,2268,liw,maz_liw,kaluszyn_maz_liw,"[2427082.004453444, 6838040.103922449]","Kałuszyn, Poland",Warszawa,"{'lat': '52.216666666667', 'long': '21.816666666667'}"
+Kamieńczyk_liw_maz,40106,maz,kamieniecki,kamienczyk,Kamieńczyk,14642,kam,maz_kam,kamienczyk_maz_kam,"[2398637.8718966227, 6909553.961028283]","Kamieńczyk, Poland",Warszawa,"{'lat': '52.6', 'long': '21.55'}"
+Karczew_liw_maz,40107,maz,czerski,karczew,Karczew,14645,cze,maz_cze,karczew_maz_cze,"[2364797.77212949, 6813663.868590709]","Karczew, Poland",Warszawa,"{'lat': '52.083333333333', 'long': '21.25'}"
+Liw_liw_maz,40108,maz,liwski,liw,Liw,14677,liw,maz_liw,liw_maz_liw,"[2445175.1550134337, 6867548.451205203]","Liw, Poland",Lublin,"{'lat': '52.383333333333', 'long': '21.966666666667'}"
+"",40109,maz,garwolinski,minsk_mazowiecki,Mińsk Mazowiecki,14694,gar,maz_gar,minsk_mazowiecki_maz_gar,"[2400792.8607968744, 6832335.45511791]",,,
+Niegów_nur_maz,40110,maz,kamieniecki,niegow,Niegów,14711,kam,maz_kam,niegow_maz_kam,"[2381921.6491371347, 6891807.054054671]",,,
+ostrow_nur_maz,40111,maz,ostrowski,ostrow_mazowiecka,Ostrów Mazowiecka,2273,ost,maz_ost,ostrow_mazowiecka_maz_ost,"[2437560.8064382477, 6945810.114285121]",,,
+radzymin,40112,maz,warszawski,radzymin,Radzymin,14759,war,maz_war,radzymin_maz_war,"[2358099.713894646, 6875375.165853042]","Radzymin, Poland",Warszawa,"{'lat': '52.416666666667', 'long': '21.183333333333'}"
+siennica,40113,maz,garwolinski,siennica,Siennica,14774,gar,maz_gar,siennica_maz_gar,"[2406850.2586450647, 6816254.56589286]","Siennica, Poland",Warszawa,"{'lat': '52.1', 'long': '21.616666666667'}"
+stoczek_nur_maz,40114,maz,kamieniecki,stoczek,Stoczek,2279,kam,maz_kam,stoczek_maz_kam,"[2438184.3674830557, 6899290.4298574645]","Stoczek Łukowski, Poland",Lublin,"{'lat': '51.95', 'long': '21.966666666667'}"
+wasewo_nur_maz,40115,maz,ostrowski,wasewo,Wąsewo,2282,ost,maz_ost,wasewo_maz_ost,"[2415157.457731088, 6958526.740590454]","Wąsewo, Poland",Białystok,"{'lat': '52.883333333333', 'long': '21.666666666667'}"
+zaręby_nur_maz,40116,maz,przasnyski,zareby,Zaręby,14836,prz,maz_prz,zareby_maz_prz,"[2340891.858477452, 7039602.608204136]",,,
+zareby_nur_maz,40117,maz,nurski,zareby_koscielne,Zaręby Kościelne,2287,nur,maz_nur,zareby_koscielne_maz_nur,"[2462754.1925500925, 6936724.113974733]",,,
+wolka_brzezinska_nur_maz,40118,maz,ostrowski,wolka_brzezinska,Wólka Brzezińska,2284,ost,maz_ost,wolka_brzezinska_maz_ost,"[2402483.5936861783, 6963430.178752749]",,,
+goworowo_nur_maz,40119,maz,ostrolecki,wolka_goworowska,Goworowo,14617,ost,maz_ost,wolka_goworowska_maz_ost,"[2401491.7945175543, 6965025.64054548]",,,
+kosow_dro_pdl,40202,podl,drohicki,kosow_lacki,Kosów Lacki,2306,dro,podl_dro,kosow_lacki_podl_dro,"[2466974.297542566, 6907913.897571158]",,,
+mokobody_dro_pdl,40203,podl,drohicki,mokobody,Mokobody,2308,dro,podl_dro,mokobody_podl_dro,"[2462153.548559751, 6848952.129190681]","Mokobody, Poland",Lublin,"{'lat': '52.283333333333', 'long': '22.116666666667'}"
+mordy_dro_pdl,40204,podl,drohicki,mordy,Mordy,2309,dro,podl_dro,mordy_podl_dro,"[2506068.95041411, 6838623.188175015]","Mordy, Poland",Lublin,"{'lat': '52.216666666667', 'long': '22.516666666667'}"
+sokolow_dro_pdl,40205,podl,drohicki,sokolow_podlaski,Sokołów,2320,dro,podl_dro,sokolow_podlaski_podl_dro,"[2478882.2792211967, 6874505.62084527]",,,
+"",40206,podl,drohicki,sterdyn,Sterdyń_villages,9305,dro,podl_dro,sterdyn_podl_dro,"[2482738.152074351, 6904953.591890303]",,,
+wegrow_dro_pdl,40207,podl,drohicki,wegrow,Węgrów,2325,dro,podl_dro,wegrow_podl_dro,"[2451567.5516757285, 6872118.501549028]","Węgrów, Poland",Lublin,"{'lat': '52.4', 'long': '22.016666666667'}"
+belz_blb_bel,50101,bel,belski,belz,Bełz,2671,bel,bel_bel,belz_bel_bel,"[2672096.0720156515, 6512628.909086242]","Belz, Ukraine",Lwów,"{'lat': '50.383333333333', 'long': '24.016666666667'}"
+busk_bug_bel,50102,bel,buski,busk,Busk,6392,bus,bel_bus,busk_bel_bus,"[2741965.7315387884, 6439163.81684232]","Busko-Zdrój, Poland",Kielce,"{'lat': '50.466666666667', 'long': '20.716666666667'}"
+cieszanow_blb_bel,50103,bel,belski,cieszanow,Cieszanów,2084,bel,bel_bel,cieszanow_bel_bel,"[2576127.2756388783, 6488460.680748145]","Cieszanów, Poland",Lwów,"{'lat': '50.233333333333', 'long': '23.133333333333'}"
+cholojow_bug_bel,50104,bel,buski,dobrotwor,Chołojów,6367,bus,bel_bus,dobrotwor_bel_bus,"[2732632.3387812423, 6485564.907218505]",,,
+dubienka_bug_bel,50105,bel,grabowiecki,dubienka,Dubienka,6364,gra,bel_gra,dubienka_bel_gra,"[2659125.4663836593, 6630730.2784649]","Dubienka, Poland",Lublin,"{'lat': '51.05', 'long': '23.883333333333'}"
+grabowiec_bug_bel,50106,bel,grabowiecki,grabowiec,Grabowiec,4600,gra,bel_gra,grabowiec_bel_gra,"[2622105.4214299493, 6591138.587033117]","Grabowiec, Poland",Lublin,"{'lat': '50.833333333333', 'long': '23.566666666667'}"
+horodlo_bug_bel,50107,bel,grabowiecki,horodlo,Horodło,6369,gra,bel_gra,horodlo_bel_gra,"[2676551.7058706866, 6600933.409560783]","Horodło, Poland",Lublin,"{'lat': '50.883333333333', 'long': '24.033333333333'}"
+jaryczow_blb_bel,50108,bel,belski,jaroczew,Jarczów,6365,bel,bel_bel,jaroczew_bel_bel,"[2626322.2381413635, 6520111.832732089]",,,
+komarow_bug_bel,50109,bel,grabowiecki,komorow,Komarów,5245,gra,bel_gra,komorow_bel_gra,"[2613392.0468511633, 6554977.125601953]",,,
+korytnica_bug_bel,50110,bel,grabowiecki,korytnica,Korytnica,5267,gra,bel_gra,korytnica_bel_gra,"[2672473.668115242, 6612305.640896855]",,,
+krystynopol_blb_bel,50111,bel,belski,krystynpol,Krystynopol,6373,bel,bel_bel,krystynpol_bel_bel,"[2697057.169892656, 6514145.2927461555]",,,
+izbica_brz,50112,bel,belski,libicza,libicza,,bel,bel_bel,libicza_bel_bel,,,,
+lipsko_blb_bel,50113,bel,belski,lipsko,Lipsko,22410,bel,bel_bel,lipsko_bel_bel,"[2599150.4071613145, 6506789.010819176]",,,
+lubaczow_blb_bel,50114,bel,belski,lubaczow,Lubaczów,2086,bel,bel_bel,lubaczow_bel_bel,"[2574267.753754399, 6473953.956897392]","Lubaczów, Poland",Lwów,"{'lat': '50.166666666667', 'long': '23.133333333333'}"
+lubella_blb_bel,50115,bel,belski,lubela,Lubella,5339,bel,bel_bel,lubela_bel_bel,"[2667036.720429385, 6481649.785541992]",,,
+mosty_blb_bel,50116,bel,belski,mosty_krolewkie,mosty_krolewkie,,bel,bel_bel,mosty_krolewkie_bel_bel,,,,
+mosty_szlacheckie_blb_bel,50117,bel,belski,mosty_szlacheckie,mosty_szlacheckie,,bel,bel_bel,mosty_szlacheckie_bel_bel,,,,
+narol_blb_bel,50118,bel,belski,narol,Narol,6378,bel,bel_bel,narol_bel_bel,"[2595385.299014622, 6507395.395671526]","Narol, Poland",Lwów,"{'lat': '50.35', 'long': '23.316666666667'}"
+niemirow_blb_bel,50119,bel,belski,niemierow,Niemirów,6380,bel,bel_bel,niemierow_bel_bel,"[2608155.571283628, 6465367.802189959]",,,
+oleszyce_blb_bel,50120,bel,belski,oleszczyce,Oleszyce,2088,bel,bel_bel,oleszczyce_bel_bel,"[2563014.5145711214, 6474057.584394217]",,,
+potok_blb_bel,50121,bel,belski,potok,Potok,6385,bel,bel_bel,potok_bel_bel,"[2620386.50401875, 6500063.546539294]","Zolotyy Potik, Ukraine",Tarnopol,"{'lat': '48.916666666667', 'long': '25.35'}"
+potylicz_blb_bel,50122,bel,belski,potylicz,Potylicz,6515,bel,bel_bel,potylicz_bel_bel,"[2622651.9693625057, 6483900.12843487]","Potelych, Ukraine",Lwów,"{'lat': '50.233333333333', 'long': '23.566666666667'}"
+przewały,50123,rus,chelmski,przewale,Przewały,4493,che,rus_che,przewale_rus_che,"[2710848.222673424, 6643930.024723458]",,,
+Rachanie_blb_bel,50124,bel,belski,rachanie,Rachanie,6431,bel,bel_bel,rachanie_bel_bel,"[2620890.8704019743, 6540023.693679641]",,,
+radziechow_bug_bel,50125,bel,buski,radziechow,Radziechów,6379,bus,bel_bus,radziechow_bel_bus,"[2744116.2529378952, 6494458.473772065]","Radekhiv, Ukraine",Tarnopol,"{'lat': '50.283333333333', 'long': '24.65'}"
+rawa_blb_bel,50126,bel,belski,rawa_ruska,Rawa Ruska,6382,bel,bel_bel,rawa_ruska_bel_bel,"[2629514.182660585, 6486258.759502788]",,,
+sokal_blb_bel,50127,bel,belski,sokal,Sokal,6384,bel,bel_bel,sokal_bel_bel,"[2703922.553439667, 6531691.017761936]","Sokal, Ukraine",Lwów,"{'lat': '50.483333333333', 'long': '24.283333333333'}"
+stojanow_blb_bel,50128,bel,belski,stojanow,Stojanów,6386,bel,bel_bel,stojanow_bel_bel,"[2744303.4906409616, 6511151.874618375]","Stoyaniv, Ukraine",Tarnopol,"{'lat': '50.366666666667', 'long': '24.65'}"
+szczurowice_bug_bel,50129,bel,buski,szczurowice,Szczurowice,22412,bus,bel_bus,szczurowice_bel_bus,"[2784684.046515387, 6492758.547456137]","Shchurovychi, Ukraine",Tarnopol,"{'lat': '50.266666666667', 'long': '25.033333333333'}"
+tartakow_blb_bel,50130,bel,belski,tartakow,Tartaków,22414,bel,bel_bel,tartakow_bel_bel,"[2715905.768137828, 6525755.024016172]","Tartakiv, Ukraine",Lwów,"{'lat': '50.466666666667', 'long': '24.4'}"
+toporow_lwo_rus,50131,rus,lwowski,toporow,Toporów,2673,lwo,rus_lwo,toporow_rus_lwo,"[2754289.502972865, 6465945.717941188]","Toporiv, Ukraine",Tarnopol,"{'lat': '50.116666666667', 'long': '24.716666666667'}"
+tyszowce_bug_bel,50132,bel,grabowiecki,tyszowce,Tyszowce,6389,gra,bel_gra,tyszowce_bel_gra,"[2638926.9529772573, 6554830.890719498]","Tyszowce, Poland",Lublin,"{'lat': '50.616666666667', 'long': '23.7'}"
+uhnow_blb_bel,50133,bel,belski,uhnow,Uhnów,6391,bel,bel_bel,uhnow_bel_bel,"[2644938.980535722, 6509275.4712446295]","Uhniv, Ukraine",Lwów,"{'lat': '50.366666666667', 'long': '23.75'}"
+warez_blb_bel,50134,bel,belski,warez,Waręż,6394,bel,bel_bel,warez_bel_bel,"[2681266.7879647976, 6535504.798763981]","Varyazh, Ukraine",Lwów,"{'lat': '50.516666666667', 'long': '24.1'}"
+witkow_bug_bel,50135,bel,buski,witkow,Witków Nowy,6395,bus,bel_bus,witkow_bel_bus,"[2726016.6056051073, 6499313.532718875]","Witkowo, Poland",Poznań,"{'lat': '52.45', 'long': '17.8'}"
+biłgoraj,50201,lub,"",bilgoraj,Biłgoraj,6399,"",lub_,bilgoraj_lub_,"[2526753.41431658, 6541336.813016815]","Biłgoraj, Poland",Lublin,"{'lat': '50.55', 'long': '22.7'}"
+Chełm_chl_rus,50202,rus,chelmski,chelm,Chełm,2675,che,rus_che,chelm_rus_che,"[2613202.6725561814, 6644891.76249944]","Chełm, Poland",Lublin,"{'lat': '51.133333333333', 'long': '23.5'}"
+gorzków_chl_rus,50203,rus,chelmski,gorzkow,Gorzków,2768,che,rus_che,gorzkow_rus_che,"[2563043.418127177, 6611491.137559402]","Gorzków, Poland",Lublin,"{'lat': '50.95', 'long': '23.016666666667'}"
+holeszów_chl_rus,50204,rus,chelmski,holeszow,Holeszów,5266,che,rus_che,holeszow_rus_che,"[2701627.623282307, 6327542.773100986]",,,
+hrubieszów_chl_rus,50205,rus,chelmski,hrubieszow,Hrubieszów,2608,che,rus_che,hrubieszow_rus_che,"[2660315.073988744, 6586302.416469096]","Hrubieszów, Poland",Lublin,"{'lat': '50.8', 'long': '23.916666666667'}"
+Kraśniczyn_chl_rus,50207,rus,chelmski,krasniczyn,Kraśniczyn,2683,che,rus_che,krasniczyn_rus_che,"[2602328.193230874, 6608883.621858531]","Kraśniczyn, Poland",Lublin,"{'lat': '50.933333333333', 'long': '23.366666666667'}"
+Kraśniczyn_chl_rus,50208,rus,chelmski,krosniczyn,Kraśniczyn,2683,che,rus_che,krosniczyn_rus_che,"[2602328.193230874, 6608883.621858531]",,,
+Kryłów_chl_rus,50209,rus,chelmski,krylow,Kryłów,6372,che,rus_che,krylow_rus_che,"[2677080.3404501597, 6564176.773673683]","Kryłów, Poland",Lublin,"{'lat': '50.683333333333', 'long': '24.066666666667'}"
+luboml_chl_rus,50210,rus,chelmski,lubomla,Luboml,2684,che,rus_che,lubomla_rus_che,"[2674967.559299331, 6661971.073165791]",,,
+Maciejów_chl_rus,50211,rus,chelmski,maciejow,Maciejów,2685,che,rus_che,maciejow_rus_che,"[2710536.216898862, 6661118.4549517045]","Lukov, Ukraine",Wołyń,"{'lat': '51.216666666667', 'long': '24.333333333333'}"
+modrzejow_krk,50212,lub,urzedowski,modliborzyce,Modliborzyce,2226,urz,lub_urz,modliborzyce_lub_urz,"[2485835.7219519555, 6577982.661266669]","Modliborzyce, Poland",Lublin,"{'lat': '50.75', 'long': '22.333333333333'}"
+"",50213,rus,chelmski,opalin,Opalin,2688,che,rus_che,opalin_rus_che,"[2639649.8063748004, 6673104.604714301]","Opalin, Ukraine",Wołyń,"{'lat': '51.283333333333', 'long': '23.7'}"
+pila_poz,50214,lub,"",pilaszkowiec,pilaszkowiec,,"",lub_,pilaszkowiec_lub_,,,,
+"",50215,rus,chelmski,ratno,Ratno,2693,che,rus_che,ratno_rus_che,"[2730851.4820028394, 6739088.343464375]","Ratne, Ukraine",Wołyń,"{'lat': '51.666666666667', 'long': '24.516666666667'}"
+rzejowice,50216,sier,radomszczanski,rejowice,Rzejowice,16609,rad,sier_rad,rejowice_sier_rad,"[2192940.3992587742, 6636819.06178482]",,,
+siedliszcze_chl_rus,50217,rus,chelmski,siedliszcze,Siedliszcze,2034,che,rus_che,siedliszcze_rus_che,"[2578573.7203090144, 6655668.861913414]","Siedliszcze, Poland",Lublin,"{'lat': '51.2', 'long': '23.166666666667'}"
+sieniawa_prz_rus,50218,rus,przemyski,sieniawa,Sieniawa,2044,prz,rus_prz,sieniawa_rus_prz,"[2517607.8646405414, 6475621.303913995]","Sieniawa, Poland",Lwów,"{'lat': '50.166666666667', 'long': '22.633333333333'}"
+skierbieszów_chl_rus,50219,rus,chelmski,skierbieszow,Skierbieszów,2968,che,rus_che,skierbieszow_rus_che,"[2601923.399084451, 6594328.322564049]","Skierbieszów, Poland",Lublin,"{'lat': '50.85', 'long': '23.366666666667'}"
+swirz_lwo_rus,50220,rus,lwowski,swierz,Świrz,2059,lwo,rus_lwo,swierz_rus_lwo,"[2719137.4788733036, 6386581.152085448]",,,
+szczebrzeszyn_chl_rus,50221,rus,chelmski,szczebreszyn,Szczebrzeszyn,2696,che,rus_che,szczebreszyn_rus_che,"[2557805.9197211065, 6567364.664829613]",,,
+tarnogóra_chl_rus,50222,rus,chelmski,tarnogora,Tarnogóra,4234,che,rus_che,tarnogora_rus_che,"[2576988.0837697163, 6601929.84233398]","Tarnogóra, Poland",Lublin,"{'lat': '50.883333333333', 'long': '23.133333333333'}"
+turobin_chl_rus,50223,rus,chelmski,turobin,Turobin,2700,che,rus_che,turobin_rus_che,"[2532618.4576401846, 6590154.161135532]","Turobin, Poland",Lublin,"{'lat': '50.833333333333', 'long': '22.733333333333'}"
+uchanie_chl_rus,50224,rus,chelmski,uchanie,Uchanie,2701,che,rus_che,uchanie_rus_che,"[2633740.2138871704, 6604138.052386814]","Uchanie, Poland",Lublin,"{'lat': '50.9', 'long': '23.633333333333'}"
+Wojsławice_chl_rus,50225,rus,chelmski,wojslawice,Wojsławice,2703,che,rus_che,wojslawice_rus_che,"[2621807.292489793, 6608455.88037138]","Wojsławice, Poland",Lublin,"{'lat': '50.916666666667', 'long': '23.55'}"
+krasnystaw_chl_rus,50226,rus,chelmski,suburb_of_krasnostaw,Krasnystaw,1984,che,rus_che,suburb_of_krasnostaw_rus_che,"[2578931.095372184, 6617809.444142439]",,,
+bratjan_chl,60101,che,michalowski,bratian,Bratjan,24539,mic,che_mic,bratian_che_mic,"[2181623.333380266, 7066412.927574822]",,,
+ciborz_chl,60102,che,michalowski,ciborz_and_lidzbark,Cibórz,24542,mic,che_mic,ciborz_and_lidzbark_che_mic,"[2212026.300953061, 7030517.771026274]",,,
+filow_chl,60103,pom,"",fijewo,fijewo,,"",pom_,fijewo_pom_,,,,
+ostromecko_chl,60104,che,chelminski,ostromecko,Ostromecko,2122,che,che_che,ostromecko_che_che,"[2028422.2557813362, 7011265.7866247045]",,,
+pokrzywno_chl,60105,che,chelminski,pokrzywno,Pokrzywno,24536,che,che_che,pokrzywno_che_che,"[2098518.771358264, 7064782.525741613]",,,
+plowez_chl,60106,che,michalowski,plowez,Płowęż,24537,mic,che_mic,plowez_che_mic,"[2139686.834707168, 7063665.652475842]",,,
+szembruk_chl,60107,che,chelminski,szembruk,Szembruk,24541,che,che_che,szembruk_che_che,"[2117467.854791483, 7086972.370425137]",,,
+torun_chl,60108,che,chelminski,torun,Toruń,24535,che,che_che,torun_che_che,"[2074285.1798876014, 6986411.89857125]","Torun, Ukraine",Subcarpathia,"{'lat': '48.666666666667', 'long': '23.566666666667'}"
+wlewsk_chl,60109,che,michalowski,wlewsk,Wlewsk,24540,mic,che_mic,wlewsk_che_mic,"[2200294.5953064607, 7031558.516435402]",,,
+czluchow_pom,60110,pom,czluchowski,suburb_of_czluchow,Człuchów,15441,czl,pom_czl,suburb_of_czluchow_pom_czl,"[1933016.2975732111, 7108063.422801838]",,,
+hamersztyn_pom,60111,malb,"",suburb_of_hammerstein,suburb_of_hammerstein,,"",malb_,suburb_of_hammerstein_malb_,,,,
+koscierzyna_pom,60112,pom,tczewski,suburb_of_koscierzyna,Kościerzyna,15576,tcz,pom_tcz,suburb_of_koscierzyna_pom_tcz,"[2000555.870983686, 7193931.244986007]",,,
+tuchola_pom,60113,pom,tucholski,suburb_of_tuchola,Tuchola,24529,tuc,pom_tuc,suburb_of_tuchola_pom_tuc,"[1988428.6423692799, 7092190.49166107]",,,
+gdańsk,60114,pom,gdanski,suburb_of_gdansk,Gdańsk,15264,gda,pom_gda,suburb_of_gdansk_pom_gda,"[2073861.7184440978, 7238309.782951484]",,,
+brzesc_kujawski_brz,60201,brzkuj,brzeski,brzesc,Brześć Kujawski,2091,brz,brzkuj_brz,brzesc_brzkuj_brz,"[2103894.532548953, 6908001.379458094]",,,
+dobrzyn_dbr,60202,in,dobrzynski,dobrzyn,Dobrzyń,2139,dob,in_dob,dobrzyn_in_dob,"[2153150.380260286, 6916670.73160157]","Dobrzyń nad Wisłą, Poland",Warszawa,"{'lat': '52.65', 'long': '19.333333333333'}"
+fordon_inw,60203,in,bydgoski,fordon,Fordon,23378,byd,in_byd,fordon_in_byd,"[2022795.385687021, 7012515.350720854]","Fordon, Poland",Poznań,"{'lat': '53.15', 'long': '18.183333333333'}"
+inowroclaw_inw,60204,in,inowroclawski,inowroclaw,Inowrocław,23379,ino,in_ino,inowroclaw_in_ino,"[2035552.9395183865, 6945834.601720368]","Inowrocław, Poland",Poznań,"{'lat': '52.8', 'long': '18.266666666667'}"
+izbica_brz,60205,kuj,przedecki,izbica,Izbica,2092,prz,kuj_prz,izbica_kuj_prz,"[2089284.496558223, 6875227.014866421]","Izbica Kujawska, Poland",Łódż,"{'lat': '52.416666666667', 'long': '18.783333333333'}"
+kikol_dbr,60206,in,lipnowski,kikol,Kikół,23380,lip,in_lip,kikol_in_lip,"[2129572.8597276085, 6965937.597209567]","Kikół, Poland",Warszawa,"{'lat': '52.9', 'long': '19.116666666667'}"
+kowal_brz,60207,brzkuj,kowalski,kowal,Kowal,2093,kow,brzkuj_kow,kowal_brzkuj_kow,"[2131090.1907023075, 6896589.279989798]","Kowal, Poland",Warszawa,"{'lat': '52.533333333333', 'long': '19.166666666667'}"
+lipno_dbr,60208,in,lipnowski,lipno,Lipno,24477,lip,in_lip,lipno_in_lip,"[2136245.858810014, 6953150.858841645]","Lipno, Poland",Warszawa,"{'lat': '52.833333333333', 'long': '19.2'}"
+lubraniec_brz,60209,kuj,"",lubrabiec,lubrabiec,,"",kuj_,lubrabiec_kuj_,,"Lubraniec, Poland",Warszawa,"{'lat': '52.55', 'long': '18.85'}"
+lubraniec_brz,60210,brzkuj,brzeski,lubraniec,Lubraniec,2094,brz,brzkuj_brz,lubraniec_brzkuj_brz,"[2095283.6209722746, 6898863.1401074445]","Lubraniec, Poland",Warszawa,"{'lat': '52.55', 'long': '18.85'}"
+piotrkow_brz,60211,kuj,radziejowski,piotrkow,Piotrków,2095,rad,kuj_rad,piotrkow_kuj_rad,"[2058910.1099803895, 6899375.805193968]","Piotrków Trybunalski, Poland",Łódż,"{'lat': '51.4', 'long': '19.683333333333'}"
+przedecz_brz,60212,brzkuj,przedecki,przedecz,Przedecz,2096,prz,brzkuj_prz,przedecz_brzkuj_prz,"[2105418.160472769, 6859161.853131473]","Przedecz, Poland",Warszawa,"{'lat': '52.333333333333', 'long': '18.9'}"
+radziki_dbr,60213,in,rypinski,radziki,Radziki Duże,24478,ryp,in_ryp,radziki_in_ryp,"[2144997.0354062314, 7012358.458691517]",,,
+"",60214,brzkuj,kruszwicki,strzelno,Strzelno,13410,kru,brzkuj_kru,strzelno_brzkuj_kru,"[2023736.6187271303, 6914898.584771615]","Strzelno, Poland",Poznań,"{'lat': '52.633333333333', 'long': '18.2'}"
+zoledowo_inw,60215,in,bydgoski,zoledowo,Żołędowo_villages,24479,byd,in_byd,zoledowo_in_byd,"[2010517.3413420944, 7023668.660985138]",,,
+barcin_kcy_poz,60301,kal,gnieznienski,barcin,Barcin,24469,gni,kal_gni,barcin_kal_gni,"[1999406.0346004525, 6956359.432924399]",,,
+borek_pyz_poz,60302,kal,pyzdrski,borek,Borek,2144,pyz,kal_pyz,borek_kal_pyz,"[1920687.9166790764, 6785772.882010285]",,,
+chodziez_kcy_poz,60303,kal,kcynski,chodziez,Chodzież,14189,kcy,kal_kcy,chodziez_kal_kcy,"[1881990.2144735742, 6981676.581745204]","Chodzież, Poland",Poznań,"{'lat': '52.983333333333', 'long': '16.916666666667'}"
+czerniejow_gni_poz,60304,rus,lwowski,czerniejow,Czerniejów,5561,lwo,rus_lwo,czerniejow_rus_lwo,"[2750519.7894707113, 6250368.86977167]",,,
+debrzno_nak_poz,60305,gn,nakielski,debrzno_frydland,Debrzno,2123,nak,gn_nak,debrzno_frydland_gn_nak,"[1919604.2707927355, 7081066.96810277]",,,
+dzialyn_gni_poz,60306,gn,gnieznienski,dzialyn,Działyń,23377,gni,gn_gni,dzialyn_gn_gni,"[1948307.14154652, 6907395.046045967]",,,
+gniezno_gni_poz,60307,gn,gnieznienski,gniezno,Gniezno,2126,gni,gn_gni,gniezno_gn_gni,"[1957669.0865140704, 6898431.3237711815]","Gniezno, Poland",Poznań,"{'lat': '52.55', 'long': '17.6'}"
+golina_kon_poz,60308,kal,koninski,golina,Golina,2146,kon,kal_kon,golina_kal_kon,"[2016715.700289054, 6843678.767199632]","Golina, Poland",Łódż,"{'lat': '52.25', 'long': '18.1'}"
+golancz_kcy_poz,60309,gn,kcynski,golancza,Gołańcz,14265,kcy,gn_kcy,golancza_gn_kcy,"[1925761.9480986693, 6970626.227870546]",,,
+grodzisko_poz,60310,poz,koscianski,granowo,Granowo,15704,kos,poz_kos,granowo_poz_kos,"[1841035.9969141288, 6839896.752621839]",,,
+jarocin_pyz_poz,60311,kal,pyzdrski,jarocin,Jarocin,2149,pyz,kal_pyz,jarocin_kal_pyz,"[1946962.073859054, 6794669.643578178]","Jarocin, Poland",Poznań,"{'lat': '51.966666666667', 'long': '17.516666666667'}"
+kalisz_kal_poz,60313,kal,kaliski,kalisz,Kalisz,13852,kal,kal_kal,kalisz_kal_kal,"[2014240.1340187737, 6756008.467432676]","Kalisz, Poland",Łódż,"{'lat': '51.75', 'long': '18.083333333333'}"
+karmin_kal_poz,60314,kal,kaliski,karmin,Karmin,24461,kal,kal_kal,karmin_kal_kal,"[1969167.9670247962, 6769782.374424206]",,,
+kcynia_kcy_poz,60316,gn,kcynski,kcynia,Kcynia,23310,kcy,gn_kcy,kcynia_gn_kcy,"[1947158.6042648274, 6979529.105143271]",,,
+kleczew_kon_poz,60317,kal,koninski,kleczew,Kleczew,2151,kon,kal_kon,kleczew_kal_kon,"[2023554.4022674053, 6866925.828497454]","Kleczew, Poland",Łódż,"{'lat': '52.366666666667', 'long': '18.166666666667'}"
+kobylin_pyz_poz,60318,kal,pyzdrski,kobylin,Kobylin,13871,pyz,kal_pyz,kobylin_kal_pyz,"[1916503.9194073603, 6749317.020115243]","Kobylin, Poland",Poznań,"{'lat': '51.716666666667', 'long': '17.233333333333'}"
+konin_kon_poz,60319,kal,koninski,konin,Konin,24465,kon,kal_kon,konin_kal_kon,"[2032825.6034045978, 6836247.6236909665]","Konin, Poland",Łódż,"{'lat': '52.216666666667', 'long': '18.266666666667'}"
+kozmin_kal_poz,60320,kal,pyzdrski,kozmin,Koźmin,2153,pyz,kal_pyz,kozmin_kal_pyz,"[1944260.8265503536, 6766986.386228076]","Koźmin, Poland",Poznań,"{'lat': '51.816666666667', 'long': '17.45'}"
+kolo_kon_poz,60321,kal,koninski,kolo,Koło,13872,kon,kal_kon,kolo_kal_kon,"[2074810.7997923011, 6832754.736733805]","Koło, Poland",Łódż,"{'lat': '52.183333333333', 'long': '18.616666666667'}"
+kozminek_kal_poz,60322,kal,kaliski,koωminek,Koźminek,24460,kal,kal_kal,koωminek_kal_kal,"[2041568.577718781, 6763046.104160673]",,,
+"",60323,gn,nakielski,krajenka,Krajenka,2127,nak,gn_nak,krajenka_gn_nak,"[1889403.7939980384, 7038507.180467587]","Krajenka, Poland",Preußen,"{'lat': '53.3', 'long': '16.983333333333'}"
+krotoszyn_kal_poz,60324,kal,pyzdrski,krotoszyn,Krotoszyn,22842,pyz,kal_pyz,krotoszyn_kal_pyz,"[1941665.0034586922, 6743499.56241791]","Krotoszyn, Poland",Poznań,"{'lat': '51.7', 'long': '17.45'}"
+kurnik_pyz_poz,60325,rus,lwowski,kurnik,Kurniki,3764,lwo,rus_lwo,kurnik_rus_lwo,"[2617793.765250588, 6449022.287084962]",,,
+ledyczek_nak_poz,60326,pom,nakielski,ledyczek,Lędyczek,24473,nak,pom_nak,ledyczek_pom_nak,"[1888071.3086486002, 7081980.895629968]","Lędyczek, Poland",Preußen,""
+margonin_kcy_poz,60327,gn,kcynski,margonin,Margonin,23311,kcy,gn_kcy,margonin_gn_kcy,"[1904497.4517787225, 6975017.82730434]","Margonin, Poland",Poznań,"{'lat': '52.966666666667', 'long': '17.1'}"
+miloslaw_pyz_poz,60328,kal,pyzdrski,miloslaw,Miłosław,2159,pyz,kal_pyz,miloslaw_kal_pyz,"[1946322.2212767003, 6837681.026987833]","Miłosław, Poland",Poznań,"{'lat': '52.2', 'long': '17.5'}"
+mrocza_nak_poz,60329,in,nakielski,mrocza,Mrocza,2140,nak,in_nak,mrocza_in_nak,"[1961019.1977929184, 7028840.600186066]","Mrocza, Poland",Poznań,"{'lat': '53.25', 'long': '17.616666666667'}"
+naklo_nak_poz,60330,kal,nakielski,naklo,Nakło,2130,nak,kal_nak,naklo_kal_nak,"[1957481.2207078733, 7009156.390381426]","Nakło nad Notecią, Poland",Poznań,"{'lat': '53.15', 'long': '17.6'}"
+nowe_miasto_pyz_poz,60331,kal,pyzdrski,nowemiasto_on_warta,Nowemiasto,2161,pyz,kal_pyz,nowemiasto_on_warta_kal_pyz,"[1938596.6657109526, 6815199.561213626]",,,
+odolanow_kal_poz,60332,kal,kaliski,odolanow,Odolanów,22843,kal,kal_kal,odolanow_kal_kal,"[1970424.2106254867, 6722022.137727652]","Odolanów, Poland",Poznań,"{'lat': '51.566666666667', 'long': '17.7'}"
+ostrow_kal_poz,60333,kal,kaliski,ostrow,Ostrów,22844,kal,kal_kal,ostrow_kal_kal,"[1984785.5527160706, 6735830.08937655]","Ostrów Mazowiecka, Poland",Białystok,"{'lat': '52.8', 'long': '21.9'}"
+pogorzela_pyz_poz,60334,kal,pyzdrski,pogorzel,Pogorzela,24467,pyz,kal_pyz,pogorzel_kal_pyz,"[1918147.7812268878, 6766768.552048008]",,,
+pyzdry_pyz_poz,60335,kal,pyzdrski,pyzdry,Pyzdry,2163,pyz,kal_pyz,pyzdry_kal_pyz,"[1970027.6964480751, 6831637.640816606]","Pyzdry, Poland",Łódż,"{'lat': '52.166666666667', 'long': '17.7'}"
+raszkow_kal_poz,60336,kal,kaliski,raszkow,Raszków,24464,kal,kal_kal,raszkow_kal_kal,"[1973492.4066145367, 6749172.010277271]","Raszków, Poland",Poznań,"{'lat': '51.716666666667', 'long': '17.733333333333'}"
+russocice_kon_poz,60337,kal,koninski,russocice,Russocice,24466,kon,kal_kon,russocice_kal_kon,"[2058352.2955355437, 6817485.226164434]","Russocice, Poland",Łódż,"{'lat': '52.1', 'long': '18.483333333333'}"
+rychwal_kon_poz,60338,kal,koninski,rychwal,Rychwał,22845,kon,kal_kon,rychwal_kal_kon,"[2023554.4022674053, 6812788.382026296]","Rychwał, Poland",Łódż,"{'lat': '52.066666666667', 'long': '18.166666666667'}"
+rychwal_kon_poz,60339,kal,koninski,rychwal_and_slaszyce,Rychwał,22845,kon,kal_kon,rychwal_and_slaszyce_kal_kon,"[2023554.4022674053, 6812788.382026296]",,,
+sepolno_nak_poz,60340,kal,nakielski,sempelborg,sempelborg,,nak,kal_nak,sempelborg_kal_nak,,,,
+skoki_gni_poz,60341,gn,gnieznienski,skoki,Skoki,2132,gni,gn_gni,skoki_gn_gni,"[1911920.63645567, 6920382.566975627]","Skoki, Poland",Poznań,"{'lat': '52.666666666667', 'long': '17.166666666667'}"
+stawiszyn_kal_poz,60342,kal,kaliski,stawiszyn,Stawiszyn,24462,kal,kal_kal,stawiszyn_kal_kal,"[2016155.0550753123, 6783975.595144929]","Stawiszyn, Poland",Łódż,"{'lat': '51.916666666667', 'long': '18.116666666667'}"
+wilczyn_kon_poz,60343,gn,gnieznienski,wilczyn,Wilczyn,23312,gni,gn_gni,wilczyn_gn_gni,"[2024567.992830388, 6887548.432116624]","Wilczyn, Poland",Łódż,"{'lat': '52.483333333333', 'long': '18.166666666667'}"
+wrzesnia_gni_poz,60345,gn,pyzdrski,wrzesnia,Września,2135,pyz,gn_pyz,wrzesnia_gn_pyz,"[1957388.700936707, 6859070.706685553]","Września, Poland",Poznań,"{'lat': '52.316666666667', 'long': '17.583333333333'}"
+zaniemysl_pyz_poz,60346,kal,pyzdrski,zaniemysl,Zaniemyśl,24468,pyz,kal_pyz,zaniemysl_kal_pyz,"[1910939.1809662636, 6827407.77077967]","Zaniemyśl, Poland",Poznań,"{'lat': '52.166666666667', 'long': '17.166666666667'}"
+zduny_kal_poz,60347,kal,kaliski,zduny,Zduny,24463,kal,kal_kal,zduny_kal_kal,"[1935545.171919161, 6735881.907774557]","Zduny, Poland",Poznań,"{'lat': '51.65', 'long': '17.383333333333'}"
+zlotow_nak_poz,60348,che,michalowski,zlotowo,Złotowo,13252,mic,che_mic,zlotowo_che_mic,"[2205662.029375366, 7078950.322364389]","Złotów, Poland",Preußen,"{'lat': '53.35', 'long': '17.05'}"
+labiszyn_kcy_poz,60349,in,kcynski,labuszyn,Łabiszyn,23381,kcy,in_kcy,labuszyn_in_kcy,"[1994957.6704835221, 6973519.437506841]",,,
+lobzenica_nak_poz,60350,gn,nakielski,lobzenica,Łobżenica,2128,nak,gn_nak,lobzenica_gn_nak,"[1918469.0664893663, 7030405.993936059]","Łobżenica, Poland",Poznań,"{'lat': '53.266666666667', 'long': '17.266666666667'}"
+zerkow_pyz_poz,60351,kal,pyzdrski,zerkow,Żerków,2166,pyz,kal_pyz,zerkow_kal_pyz,"[1955895.2763239613, 6811123.883793967]","Żerków, Poland",Poznań,"{'lat': '52.066666666667', 'long': '17.566666666667'}"
+zydow_gni_poz,60352,gn,gnieznienski,zydow,Żydowo,24471,gni,gn_gni,zydow_gn_gni,"[1957621.2987715506, 6882707.309687508]",,,
+bielawy_lcz,60401,lecz,orlowski,bielawy,Bielawy,24474,orl,lecz_orl,bielawy_lecz_orl,"[2188283.3554355428, 6812736.050675906]","Bielawy, Poland",Warszawa,"{'lat': '52.066666666667', 'long': '19.65'}"
+brzeziny_lcz,60402,lecz,brzezinski,bratoszowice_and_brzeziny,Brzeziny,14429,brz,lecz_brz,bratoszowice_and_brzeziny_lecz_brz,"[2198816.975786714, 6764496.236399337]",,,
+brzeziny_lcz,60403,lecz,brzezinski,brzeziny,Brzeziny,14429,brz,lecz_brz,brzeziny_lecz_brz,"[2198816.975786714, 6764496.236399337]","Brzeziny, Poland",Łódż,"{'lat': '51.8', 'long': '19.75'}"
+brzeziny_lcz,60404,lecz,brzezinski,brzeziny_and_glowno,Brzeziny,14429,brz,lecz_brz,brzeziny_and_glowno_lecz_brz,"[2198816.975786714, 6764496.236399337]",,,
+kalow_lcz,60405,lecz,leczycki,kalow,Kałów,24476,lec,lecz_lec,kalow_lecz_lec,"[2119277.860300408, 6770344.569976401]",,,
+krosniewice_lcz,60406,lecz,leczycki,krosniewice,Krośniewice,22852,lec,lecz_lec,krosniewice_lecz_lec,"[2133201.0771320905, 6846759.976590057]","Krośniewice, Poland",Warszawa,"{'lat': '52.25', 'long': '19.183333333333'}"
+leczyca_lcz,60407,lecz,leczycki,leczyca,Łęczyca,2264,lec,lecz_lec,leczyca_lecz_lec,"[2135677.0361420247, 6811019.281073824]","Łęczyca, Poland",Łódż,"{'lat': '52.066666666667', 'long': '19.216666666667'}"
+parzeczew_lcz,60408,lecz,leczycki,parzeczew,Parzęczew,24475,lec,lecz_lec,parzeczew_lecz_lec,"[2138923.3361094003, 6789139.893609408]","Parzęczew, Poland",Łódż,"{'lat': '51.95', 'long': '19.216666666667'}"
+piatek_lcz,60409,lecz,leczycki,piatek,Piątek,22853,lec,lecz_lec,piatek_lecz_lec,"[2168242.2132982593, 6812822.325493747]","Piątek, Poland",Łódż,"{'lat': '52.066666666667', 'long': '19.483333333333'}"
+sobota_lcz,60410,lecz,orlowski,sobota,Sobota,22854,orl,lecz_orl,sobota_lecz_orl,"[2190630.191498919, 6821839.206875259]","Sobota, Poland",Warszawa,"{'lat': '52.116666666667', 'long': '19.683333333333'}"
+strykow_lcz,60411,lecz,brzezinski,strykow,Stryków,22855,brz,lecz_brz,strykow_lecz_brz,"[2182988.5712945336, 6781208.084515142]","Stryków, Poland",Łódż,"{'lat': '51.9', 'long': '19.6'}"
+ujazd_lcz,60412,lecz,brzezinski,ujazd,Ujazd,22856,brz,lecz_brz,ujazd_lecz_brz,"[2217357.3308693734, 6727540.772302288]","Ujazd, Poland",Łódż,"{'lat': '51.6', 'long': '19.916666666667'}"
+ujazd_lcz,60413,lecz,brzezinski,ujazd_and_inowlodz,Ujazd,22856,brz,lecz_brz,ujazd_and_inowlodz_lecz_brz,"[2217357.3308693734, 6727540.772302288]",,,
+"",60501,san,wislicki,boleslaw,Bolesław,8387,wis,san_wis,boleslaw_san_wis,"[2326338.549377003, 6493964.119860108]",,,
+boleslaw_wln_srd,60502,sier,wielunski,burzenin,Bolesławiec,2516,wie,sier_wie,burzenin_sier_wie,"[2025801.9774132387, 6654800.153498171]",,,
+blaszki_srd,60503,sier,sieradzki,blaszkow,Błaszki,2514,sie,sier_sie,blaszkow_sier_sie,"[2053313.175797805, 6736250.190523571]",,,
+ciechanow_cie_maz,60504,maz,ciechanowski,ciechanow,Ciechanów,2612,cie,maz_cie,ciechanow_maz_cie,"[2294647.081806701, 6960243.37345784]","Ciechanów, Poland",Warszawa,"{'lat': '52.883333333333', 'long': '20.616666666667'}"
+dobra_srd,60505,sier,sieradzki,dobra,Dobra,2517,sie,sier_sie,dobra_sier_sie,"[2073912.2454064577, 6784744.58595313]",,,
+grabow_wln_srd,60506,sier,ostrzeszowski,grabow,Grabów,16690,ost,sier_ost,grabow_sier_ost,"[2018406.5274839338, 6712006.879692457]","Grabów nad Prosną, Poland",Poznań,"{'lat': '51.516666666667', 'long': '18.116666666667'}"
+kepno_wln_srd,60507,sier,ostrzeszowski,kepno,Kępno,2519,ost,sier_ost,kepno_sier_ost,"[2002563.8264875452, 6670146.394118431]","Kępno, Poland",Poznań,"{'lat': '51.283333333333', 'long': '17.983333333333'}"
+lutomiersk_srd,60508,sier,szadkowski,lutomiersk,Lutomiersk,2521,sza,sier_sza,lutomiersk_sier_sza,"[2139685.4996126005, 6754103.159334837]","Lutomiersk, Poland",Łódż,"{'lat': '51.75', 'long': '19.216666666667'}"
+"",60509,maz,makowski,makow,Maków Mazowiecki,2271,mak,maz_mak,makow_maz_mak,"[2348220.3147107335, 6957077.176828051]","Maków Mazowiecki, Poland",Warszawa,"{'lat': '52.866666666667', 'long': '21.1'}"
+nasielsk_zak_maz,60510,maz,nowomiejski,nasielsk,Nasielsk,2272,now,maz_now,nasielsk_maz_now,"[2316328.5806397134, 6905025.5600535385]","Nasielsk, Poland",Warszawa,"{'lat': '52.583333333333', 'long': '20.8'}"
+rozan_roz_maz,60512,maz,rozanski,rozan,Rożan,2275,roz,maz_roz,rozan_maz_roz,"[2382216.1103714807, 6961584.065559131]","Różan, Poland",Warszawa,"{'lat': '52.883333333333', 'long': '21.416666666667'}"
+"",60513,sier,piotrkowski,tuszyn,Tuszyn,16772,pio,sier_pio,tuszyn_sier_pio,"[2175517.5488656624, 6728254.698340114]","Tuszyn, Poland",Łódż,"{'lat': '51.6', 'long': '19.55'}"
+warta_srd,60514,sier,sieradzki,warta,Warta,2524,sie,sier_sie,warta_sier_sie,"[2074717.9967039726, 6748502.602453682]","Warta, Poland",Łódż,"{'lat': '51.7', 'long': '18.633333333333'}"
+"",60515,sier,sieradzki,widawa,Widawa,16786,sie,sier_sie,widawa_sier_sie,"[2107742.68846339, 6698428.4331876]","Widawa, Poland",Łódż,"{'lat': '51.433333333333', 'long': '18.95'}"
+wielun_wsc,60516,sier,wielunski,wieruszow,Wieruszów,16791,wie,sier_wie,wieruszow_sier_wie,"[2022244.3452253093, 6672782.224302016]",,,
+wyszogrod_wys_maz,60517,maz,wyszogrodzki,wyszogrod,Wyszogród,2285,wys,maz_wys,wyszogrod_maz_wys,"[2248561.3726038737, 6871065.473074088]","Wyszogród, Poland",Warszawa,"{'lat': '52.383333333333', 'long': '20.2'}"
+"",60518,sier,sieradzki,zloczew,Złoczew,22794,sie,sier_sie,zloczew_sier_sie,"[2072977.0890465702, 6695346.712560314]","Złoczew, Poland",Łódż,"{'lat': '51.416666666667', 'long': '18.616666666667'}"
+lask_srd,60519,sier,szadkowski,lask,Łask,2522,sza,sier_sza,lask_sier_sza,"[2130444.6000965266, 6727003.978097971]","Łask, Poland",Łódż,"{'lat': '51.583333333333', 'long': '19.133333333333'}"
+biezun_plc,60601,pl,sierpecki,biezun,Bieżuń,2636,sie,pl_sie,biezun_pl_sie,"[2213964.101922494, 6974173.946073086]","Bieżuń, Poland",Warszawa,"{'lat': '52.966666666667', 'long': '19.916666666667'}"
+drobin_plc,60602,pl,bielski,drobin,Drobin,2289,bie,pl_bie,drobin_pl_bie,"[2225378.736724442, 6932968.067833004]","Drobin, Poland",Warszawa,"{'lat': '52.75', 'long': '19.983333333333'}"
+kuczbork_plc,60603,pl,szrenski,kuczbork,Kuczbork,2641,szr,pl_szr,kuczbork_pl_szr,"[2231845.4102358795, 6997740.239448612]","Kuczbork, Poland",Warszawa,"{'lat': '53.083333333333', 'long': '20.05'}"
+mlawa_plc,60604,pl,mlawski,mlawa,Mława,2643,mla,pl_mla,mlawa_pl_mla,"[2270461.158297901, 7003908.125373589]","Mława, Poland",Warszawa,"{'lat': '53.116666666667', 'long': '20.383333333333'}"
+plock_plc,60605,pl,plocki,plock,Płock,2290,plo,pl_plo,plock_pl_plo,"[2191534.25355031, 6899321.586239456]","Płock, Poland",Warszawa,"{'lat': '52.55', 'long': '19.7'}"
+plonsk_plc,60606,pl,plonski,plonsk,Płońsk,2645,plo,pl_plo,plonsk_pl_plo,"[2269411.5638303785, 6912020.482486676]","Płońsk, Poland",Warszawa,"{'lat': '52.633333333333', 'long': '20.383333333333'}"
+radzanow_plc,60607,pl,raciaski,radzanow,Radzanów,2648,rac,pl_rac,radzanow_pl_rac,"[2235339.8546883645, 6971363.341074006]","Radzanów, Poland",Warszawa,"{'lat': '52.933333333333', 'long': '20.1'}"
+sierpc_plc,60608,pl,sierpecki,sierpc,Sierpc,2652,sie,pl_sie,sierpc_pl_sie,"[2190432.080423665, 6954729.925057448]","Sierpc, Poland",Warszawa,"{'lat': '52.883333333333', 'long': '19.666666666667'}"
+szreńsk,60609,pl,szrenski,szrensk,Szreńsk,2654,szr,pl_szr,szrensk_pl_szr,"[2240383.230890999, 6985734.418594572]","Szreńsk, Poland",Warszawa,"{'lat': '53.016666666667', 'long': '20.116666666667'}"
+babimost_poz,60701,poz,koscianski,babimost,Babimost,2372,kos,poz_kos,babimost_poz_kos,"[1761980.4314374167, 6831056.076504606]","Babimost, Poland",Preußen,"{'lat': '52.166666666667', 'long': '15.816666666667'}"
+"",60702,poz,koscianski,bojanow,Bojanowo,16117,kos,poz_kos,bojanow_poz_kos,"[1864263.1971811242, 6746797.215550308]",,,
+brojec_poz,60703,poz,"",broice,broice,,"",poz_,broice_poz_,,,,
+czarnkow_poz,60704,poz,poznanski,charnkow,Czarnków,13836,poz,poz_poz,charnkow_poz_poz,"[1843557.965129021, 6963500.211335969]",,,
+czempin_poz,60705,poz,koscianski,czempin,Czempiń,2373,kos,poz_kos,czempin_poz_kos,"[1866681.2553740419, 6826798.020197526]","Czempiń, Poland",Poznań,"{'lat': '52.15', 'long': '16.766666666667'}"
+czlopa_poz,60706,poz,poznanski,czlop,Człopa,2375,poz,poz_poz,czlop_poz_poz,"[1795259.4931510354, 7001753.20593018]",,,
+"",60707,poz,walecki,frydlandek,Mirosławiec,2376,wal,poz_wal,frydlandek_poz_wal,"[1793176.9730759396, 7047550.441998687]",,,
+murowana_goslina_poz,60708,poz,poznanski,goslina,goslina,,poz,poz_poz,goslina_poz_poz,,"Golina, Poland",Łódż,"{'lat': '52.25', 'long': '18.1'}"
+grodzisko_poz,60709,poz,koscianski,grodzisko,Grodzisk,15875,kos,poz_kos,grodzisko_poz_kos,"[1822339.3479684563, 6839820.449624224]",,,
+"",60710,poz,"",heinrichdorf,heinrichdorf,,"",poz_,heinrichdorf_poz_,,,,
+"",60711,poz,"",heinrichsdorf,heinrichsdorf,,"",poz_,heinrichsdorf_poz_,,,,
+jutrosin_poz,60712,kal,pyzdrski,jutrosin,Jutrosin,15590,pyz,kal_pyz,jutrosin_kal_pyz,"[1910917.124174808, 6735733.182696998]",,,
+kargowa_poz,60713,poz,koscianski,kargowa,Kargowa,2381,kos,poz_kos,kargowa_poz_kos,"[1766558.9084090572, 6813490.568478147]","Kargowa, Poland",Preußen,"{'lat': '52.066666666667', 'long': '15.85'}"
+leszno_poz,60714,poz,wschowski,leszno,Leszno,2382,wsc,poz_wsc,leszno_poz_wsc,"[1845716.1359913182, 6769800.201865672]",,,
+lwowek_poz,60715,poz,poznanski,lwowek,Lwówek,2384,poz,poz_poz,lwowek_poz_poz,"[1800864.8182267933, 6881931.749113658]","Lwówek, Poland",Poznań,"{'lat': '52.45', 'long': '16.183333333333'}"
+miedzychod_poz,60716,poz,poznanski,miedzychod,Międzychód,2385,poz,poz_poz,miedzychod_poz_poz,"[1770986.850064078, 6911849.655914741]","Międzychód, Poland",Poznań,""
+miedzyrzec_poz,60717,poz,poznanski,miedzyrzecz,Międzyrzecz,2387,poz,poz_poz,miedzyrzecz_poz_poz,"[1736702.866992216, 6879808.156875157]",,,
+"",60718,poz,poznanski,mosina,Mosina,15927,poz,poz_poz,mosina_poz_poz,"[1876332.1519609385, 6845384.839063381]",,,
+oborniki_poz,60719,poz,poznanski,oborniki,Oborniki,2390,poz,poz_poz,oborniki_poz_poz,"[1874392.957231263, 6918145.034178778]","Oborniki, Poland",Poznań,"{'lat': '52.65', 'long': '16.816666666667'}"
+obrzycko_poz,60720,poz,poznanski,obrzysko,Obrzycko,2391,poz,poz_poz,obrzysko_poz_poz,"[1839094.072128296, 6927339.7031920105]",,,
+osieczna_poz,60721,poz,koscianski,osieczna,Osieczna,2392,kos,poz_kos,osieczna_poz_kos,"[1855844.7919054336, 6783035.479296342]",,,
+pila_poz,60722,poz,nakielski,pila,Piła,2395,nak,poz_nak,pila_poz_nak,"[1864058.765530308, 7011131.92269586]","Piła, Poland",Preußen,"{'lat': '53.15', 'long': '16.75'}"
+pniewy_poz,60723,poz,poznanski,pniewy,Pniewy,2396,poz,poz_poz,pniewy_poz_poz,"[1810999.3577272873, 6892329.596810682]","Pniewy, Poland",Poznań,"{'lat': '52.516666666667', 'long': '16.266666666667'}"
+"",60724,poz,koscianski,rakoniewice,Rakoniewice,15775,kos,poz_kos,rakoniewice_poz_kos,"[1813409.3430830757, 6825876.074536804]",,,
+rawicz_poz,60725,poz,koscianski,rawicz,Rawicz,2398,kos,poz_kos,rawicz_poz_kos,"[1875621.6220589224, 6728534.278400493]","Rawicz, Poland",Poznań,"{'lat': '51.616666666667', 'long': '16.866666666667'}"
+restarzew_poz,60726,poz,"",restarzew,restarzew,,"",poz_,restarzew_poz_,,,,
+rogozno_poz,60727,poz,poznanski,rogozno,Rogoźno,2399,poz,poz_poz,rogozno_poz_poz,"[1893436.2614398396, 6935929.666330973]","Rogoźno, Poland",Poznań,"{'lat': '52.75', 'long': '17.016666666667'}"
+samowa_poz,60728,poz,"",samowa,samowa,,"",poz_,samowa_poz_,,,,
+sierakow_poz,60729,poz,poznanski,sierakow,Sieraków,2408,poz,poz_poz,sierakow_poz_poz,"[1788758.3841908597, 6918840.297618328]","Sieraków, Poland",Poznań,"{'lat': '52.65', 'long': '16.1'}"
+skwierzyna_poz,60730,poz,poznanski,skwirzyna,Skwierzyna,2409,poz,poz_poz,skwirzyna_poz_poz,"[1727092.0160343566, 6908262.369182847]",,,
+steszew_wsc,60731,poz,poznanski,steszew,Stęszew,15994,poz,poz_poz,steszew_poz_poz,"[1858858.8077425654, 6849431.154324315]",,,
+szamotuly_wsc,60732,poz,poznanski,szamotuly,Szamotuły,2404,poz,poz_poz,szamotuly_poz_poz,"[1845561.3894217536, 6911840.26435699]","Szamotuły, Poland",Poznań,"{'lat': '52.616666666667', 'long': '16.583333333333'}"
+szliszkowce_wsc,60733,poz,wschowski,szlichtyczkow,Szlichtyngowa,2413,wsc,poz_wsc,szlichtyczkow_poz_wsc,"[1807791.4397265713, 6747904.839999737]",,,
+srem_wsc,60734,poz,koscianski,szrem,Śrem,2414,kos,poz_kos,szrem_poz_kos,"[1894855.0322814935, 6814567.935986076]",,,
+trzcianka_wsc,60735,poz,poznanski,trzcianka,Trzcianka,2420,poz,poz_poz,trzcianka_poz_poz,"[1833280.0101822454, 6988894.17256835]","Trzcianka, Poland",Preußen,"{'lat': '53.033333333333', 'long': '16.45'}"
+trzciel_wsc,60736,poz,poznanski,trzciel,Trzciel,2421,poz,poz_poz,trzciel_poz_poz,"[1766232.8187683183, 6865833.7146366155]","Trzciel, Poland",Preußen,"{'lat': '52.366666666667', 'long': '15.866666666667'}"
+tuczno_wsc,60737,poz,walecki,tuczno,Tuczno,2423,wal,poz_wal,tuczno_poz_wal,"[1799788.5902444152, 7020675.69677516]","Tuczno, Poland",Preußen,"{'lat': '53.183333333333', 'long': '16.15'}"
+walcz_wsc,60738,poz,walecki,walcz,Wałcz,2424,wal,poz_wal,walcz_poz_wal,"[1833019.6952729712, 7033644.2141693635]","Wałcz, Poland",Preußen,"{'lat': '53.266666666667', 'long': '16.466666666667'}"
+wielun_wsc,60739,poz,poznanski,wielen,Wieleń,2525,poz,poz_poz,wielen_poz_poz,"[1799847.8703054234, 6962609.352321697]","Wieleń, Poland",Poznań,"{'lat': '52.9', 'long': '16.183333333333'}"
+wolsztyn_wsc,60740,poz,koscianski,wolsztyn,Wolsztyn,2425,kos,poz_kos,wolsztyn_poz_kos,"[1794830.3182115627, 6820506.451988873]","Wolsztyn, Poland",Poznań,"{'lat': '52.116666666667', 'long': '16.133333333333'}"
+wronki_wsc,60741,poz,poznanski,wronki,Wronki,2427,poz,poz_poz,wronki_poz_poz,"[1825102.9399688602, 6929578.10759453]","Wronki, Poland",Poznań,"{'lat': '52.716666666667', 'long': '16.4'}"
+wschowa_wsc,60742,poz,wschowski,wschowa,Wschowa,2428,wsc,poz_wsc,wschowa_poz_wsc,"[1815709.9108514541, 6766024.038659836]","Wschowa, Poland",Preußen,"{'lat': '51.8', 'long': '16.316666666667'}"
+zbaszyn_wsc,60743,poz,koscianski,zbaszyn,Zbąszyń,2430,kos,poz_kos,zbaszyn_poz_kos,"[1770810.7835666132, 6846993.103440766]","Zbąszyń, Poland",Poznań,"{'lat': '52.25', 'long': '15.933333333333'}"
+"",60744,poz,"",lagowice,lagowice,,"",poz_,lagowice_poz_,,,,
+gabin_gos_raw,60801,raw,gabinski,gabin,Gąbin,2433,gab,raw_gab,gabin_raw_gab,"[2198154.786199215, 6873067.553999442]","Gąbin, Poland",Warszawa,"{'lat': '52.4', 'long': '19.733333333333'}"
+gostynin_gos_raw,60802,raw,gostyninski,gostynin,Gostynin,2435,gos,raw_gos,gostynin_raw_gos,"[2167378.674410487, 6876516.651356711]","Gostynin, Poland",Warszawa,"{'lat': '52.433333333333', 'long': '19.483333333333'}"
+"",60804,raw,rawski,gluchow,Głuchów,16362,raw,raw_raw,gluchow_raw_raw,"[2235339.29175819, 6760276.428778606]","Hlukhiv, Ukraine",Ukraine SSR,"{'lat': '51.683333333333', 'long': '33.916666666667'}"
+glowno_raw_raw,60805,raw,rawski,glowno,Głowno,2434,raw,raw_raw,glowno_raw_raw,"[2196277.7368381144, 6792225.131306212]","Głowno, Poland",Łódż,"{'lat': '51.966666666667', 'long': '19.733333333333'}"
+ilow_soc_raw,60806,raw,gabinski,ilowo,Iłów,23366,gab,raw_gab,ilowo_raw_gab,"[2230991.2225162596, 6860914.487648364]",,,
+kutno_gos_raw,60807,raw,gostyninski,jakubek_in_kutno,Kutno,2436,gos,raw_gos,jakubek_in_kutno_raw_gos,"[2155744.78176055, 6842612.483279029]",,,
+kutno_gos_raw,60808,raw,gostyninski,kutno,Kutno,2436,gos,raw_gos,kutno_raw_gos,"[2155744.78176055, 6842612.483279029]","Kutno, Poland",Warszawa,"{'lat': '52.233333333333', 'long': '19.366666666667'}"
+mszczonow_soc_raw,60809,raw,mszczonowski,mszczonow,Mszczonów,23368,msz,raw_msz,mszczonow_raw_msz,"[2283567.451024684, 6794017.471316005]","Mszczonów, Poland",Warszawa,"{'lat': '51.983333333333', 'long': '20.516666666667'}"
+rawa_raw_raw,60810,raw,rawski,rawa,Rawa Mazowiecka,2438,raw,raw_raw,rawa_raw_raw,"[2254386.540682675, 6757459.121699484]",,,
+sochaczew_soc_raw,60811,raw,sochaczewski,sochaczew,Sochaczew,23369,soc,raw_soc,sochaczew_raw_soc,"[2255144.502582393, 6841765.016655403]","Sochaczew, Poland",Warszawa,"{'lat': '52.233333333333', 'long': '20.25'}"
+zychlin_gos_raw,60812,lecz,orlowski,zychlin,Żychlin,2439,orl,lecz_orl,zychlin_lecz_orl,"[2183763.9690127647, 6844348.812115269]","Żychlin, Poland",Warszawa,"{'lat': '52.25', 'long': '19.616666666667'}"
+bedzin_krk,70101,kr,ksiestwo siewierskie,bedzin,Będzin,2558,ksi,kr_ksi,bedzin_kr_ksi,"[2129347.2242802447, 6502995.98490046]",,,
+biala_osw_krk,70102,kr,slaski,biala,Biała,8244,sla,kr_sla,biala_kr_sla,"[2121357.740990721, 6415381.102949428]","Bielsko Biała, Poland",Kraków,"{'lat': '49.816666666667', 'long': '19.033333333333'}"
+bobowa_bie_krk,70103,kr,biecki,bobow,Bobowa,2560,bie,kr_bie,bobow_kr_bie,"[2331377.7799756513, 6395814.604870316]",,,
+"",70104,kr,szczyrzycki,brzesko,Brzesko,7428,szc,kr_szc,brzesko_kr_szc,"[2294071.6734901, 6440815.610792608]","Brzesko, Poland",Kraków,"{'lat': '49.966666666667', 'long': '20.616666666667'}"
+chrzanow_krk,70105,kr,proszowicki,chrzanow,Chrzanów,2561,pro,kr_pro,chrzanow_kr_pro,"[2160412.4441625895, 6471049.822459312]",,,
+czestochowa_lel_krk,70106,kr,lelowski,czestochowa,Częstochowa,7458,lel,kr_lel,czestochowa_kr_lel,"[2129359.636799039, 6588057.842280935]","Częstochowa, Poland",Kielce,"{'lat': '50.8', 'long': '19.116666666667'}"
+dukla_bie_krk,70107,kr,biecki,dukla,Dukla,2563,bie,kr_bie,dukla_kr_bie,"[2414077.340931622, 6369429.480514573]","Dukla, Poland",Lwów,"{'lat': '49.566666666667', 'long': '21.683333333333'}"
+dzialoszyce_krk,70108,kr,proszowicki,dzialoszyce,Działoszyce,2564,pro,kr_pro,dzialoszyce_kr_pro,"[2265559.4954117024, 6509611.875857584]","Działoszyce, Poland",Kielce,"{'lat': '50.366666666667', 'long': '20.35'}"
+"",70109,kr,biecki,gorlice,Gorlice,7868,bie,kr_bie,gorlice_kr_bie,"[2355440.965841384, 6387202.4940827135]","Gorlice, Poland",Kraków,"{'lat': '49.666666666667', 'long': '21.166666666667'}"
+"",70110,kr,biecki,grybow,Grybów,7496,bie,kr_bie,grybow_kr_bie,"[2331708.4103126787, 6381689.857664971]","Grybów, Poland",Kraków,"{'lat': '49.633333333333', 'long': '20.95'}"
+janow_lel_krk,70111,kr,lelowski,janow,Janów,2566,lel,kr_lel,janow_kr_lel,"[2163668.571430064, 6572639.079768409]","Ivanava, Belarus",Polesie,"{'lat': '52.133333333333', 'long': '25.55'}"
+"",70112,kr,biecki,jaslo,Jasło,7511,bie,kr_bie,jaslo_kr_bie,"[2390764.515673876, 6402680.9355306]","Jasło, Poland",Kraków,"{'lat': '49.75', 'long': '21.466666666667'}"
+"",70113,kr,proszowicki,koscielec,Kościelec,7539,pro,kr_pro,koscielec_kr_pro,"[2270697.6875911783, 6480481.578329206]",,,
+kromlow_lel_krk,70114,kr,lelowski,kromolow,Kromołów,7924,lel,kr_lel,kromolow_kr_lel,"[2170104.5082524996, 6532074.322528777]","Kromołów, Poland",Kielce,"{'lat': '50.483333333333', 'long': '19.516666666667'}"
+"",70115,kr,"",ksiaz,ksiaz,,"",kr_,ksiaz_kr_,,,,
+"",70116,kr,"",kuznice,kuznice,,"",kr_,kuznice_kr_,,"Kuźnica, Poland",Białystok,"{'lat': '53.516666666667', 'long': '23.65'}"
+lelow_lel_krk,70117,kr,lelowski,lelow,Lelów,2576,lel,kr_lel,lelow_kr_lel,"[2184518.1115755117, 6565293.894655707]","Lelów, Poland",Kielce,"{'lat': '50.683333333333', 'long': '19.616666666667'}"
+"",70118,kr,szczyrzycki,makow_podhalanski,Maków Podhalański,7596,szc,kr_szc,makow_podhalanski_kr_szc,"[2190373.6777853095, 6400071.833952673]",,,
+sacz_sac_krk,70120,kr,sadecki,nowy_sacz,Nowy Sącz,2579,sad,kr_sad,nowy_sacz_kr_sad,"[2303250.0737073235, 6382056.942103947]",,,
+"",70121,kr,sadecki,nowy_targ,Nowy Targ,7638,sad,kr_sad,nowy_targ_kr_sad,"[2229704.3596521374, 6357274.90148206]",,,
+oksa,70122,san,checinski,oksza,Oksa,8862,che,san_che,oksza_san_che,"[2238948.53882635, 6572711.103414554]",,,
+olkusz_krk,70123,kr,proszowicki,olkusz,Olkusz,2582,pro,kr_pro,olkusz_kr_pro,"[2177523.5984666483, 6494894.55145998]","Olkusz, Poland",Kielce,"{'lat': '50.283333333333', 'long': '19.566666666667'}"
+olsztyn_lel_krk,70124,kr,lelowski,olsztyn,Olsztyn,7643,lel,kr_lel,olsztyn_kr_lel,"[2145277.832962987, 6577513.272413052]",,,
+oswiecim_osw_krk,70125,kr,slaski,oswiecim,Oświęcim,2584,sla,kr_sla,oswiecim_kr_sla,"[2139558.5848693103, 6453017.685755832]","Oświęcim, Poland",Kraków,"{'lat': '50.033333333333', 'long': '19.233333333333'}"
+pilica_lel_krk,70126,kr,lelowski,pilca,Pilica,2586,lel,kr_lel,pilca_kr_lel,"[2188447.6060257195, 6527732.043071885]",,,
+proszowice_ksi_krk,70127,kr,proszowicki,proszowice,Proszowice_villages,7992,pro,kr_pro,proszowice_kr_pro,"[2258306.0366626284, 6479154.813462019]",,,
+szczekociny_lel_krk,70128,kr,lelowski,szczekociny,Szczekociny,2589,lel,kr_lel,szczekociny_kr_lel,"[2206095.7508292026, 6555540.909298662]","Szczekociny, Poland",Kielce,"{'lat': '50.633333333333', 'long': '19.833333333333'}"
+wisnicz_czs_krk,70129,kr,szczyrzycki,wisnicz,Wiśnicz Nowy,2592,szc,kr_szc,wisnicz_kr_szc,"[2277730.565739148, 6431409.223479604]",,,
+wodzislaw_ksi_krk,70130,kr,ksiaski,wodzislaw,Wodzisław,2595,ksi,kr_ksi,wodzislaw_kr_ksi,"[2247430.5425578356, 6537105.899328875]","Wodzisław Śląski, Poland",Sląsk,"{'lat': '50', 'long': '18.466666666667'}"
+wolbrom_ksi_krk,70131,kr,ksiaski,wolbrom,Wolbrom,2599,ksi,kr_ksi,wolbrom_kr_ksi,"[2199396.8131582015, 6513417.361712832]","Wolbrom, Poland",Kielce,"{'lat': '50.366666666667', 'long': '19.766666666667'}"
+zator_zat_krk,70132,kr,slaski,zator,Zator_villages,2600,sla,kr_sla,zator_kr_sla,"[2163676.9489053376, 6445636.350264212]",,,
+zarki_lel_krk,70133,kr,lelowski,zarki,Żarki,2602,lel,kr_lel,zarki_kr_lel,"[2155661.7029198613, 6555530.588460496]","Żarki, Poland",Kielce,"{'lat': '50.633333333333', 'long': '19.383333333333'}"
+zarnowiec_ksi_krk,70134,kr,ksiaski,zarnowiec,Żarnowiec,2605,ksi,kr_ksi,zarnowiec_kr_ksi,"[2211311.8052060613, 6530920.210713933]","Żarnowiec, Poland",Kielce,"{'lat': '50.483333333333', 'long': '19.866666666667'}"
+zmigrod_bie_krk,70135,kr,biecki,zmigrod,Żmigród Nowy,2607,bie,kr_bie,zmigrod_kr_bie,"[2396210.9757480924, 6378343.672320738]",,,
+"",70136,kr,slaski,zywiec,Żywiec,8240,sla,kr_sla,zywiec_kr_sla,"[2137530.302480523, 6392495.936021604]","Żywiec, Poland",Kraków,"{'lat': '49.683333333333', 'long': '19.216666666667'}"
+bukowsko_san_rus,70201,maz,"",bukowsko,Bukowsko,1937,"",maz_,bukowsko_maz_,"[2456098.95615211, 6355707.638467924]","Bukowsko, Poland",Lwów,"{'lat': '49.483333333333', 'long': '22.066666666667'}"
+dzialoszyn_wln_srd,70202,maz,wielunski,dzialoszyn,Działoszyn,2518,wie,maz_wie,dzialoszyn_maz_wie,"[2099679.843919825, 6641371.369751782]","Działoszyn, Poland",Łódż,"{'lat': '51.116666666667', 'long': '18.866666666667'}"
+Jaćmierz_san_rus,70203,rus,sanocki,jacmierz,Jaćmierz,2789,san,rus_san,jacmierz_rus_san,"[2450903.9559140904, 6380758.15271163]",,,
+kaminsku_srd,70204,maz,radomszczanski,kaminsk,Kamieńsk,24585,rad,maz_rad,kaminsk_maz_rad,"[2170322.007822242, 6657766.650063696]",,,
+koniecpol_srd,70205,sier,radomszczanski,koniecpol,Koniecpol,2520,rad,sier_rad,koniecpol_sier_rad,"[2190161.6592438803, 6580906.84945237]","Koniecpol, Poland",Łódż,"{'lat': '50.783333333333', 'long': '19.683333333333'}"
+Nowotaniec_san_rus,70206,rus,sanocki,nowotaniec,Nowotaniec,2899,san,rus_san,nowotaniec_rus_san,"[2452096.251027704, 6361600.171736689]",,,
+"",70207,sier,wielunski,praszka,Praszka_villages,16594,wie,sier_wie,praszka_sier_wie,"[2054967.2193152297, 6630648.663088082]",,,
+rymanow_san_rus,70208,maz,sanocki,rymanow,Rymanów,22841,san,maz_san,rymanow_maz_san,"[2433189.8566827453, 6373483.225062]","Rymanów, Poland",Lwów,"{'lat': '49.583333333333', 'long': '21.866666666667'}"
+warsaw_war_maz,70210,maz,warszawski,warsaw,Warszawa,23080,war,maz_war,warsaw_maz_war,"[2338788.960089877, 6845166.0336247105]",,,
+baranow_san_snd,70301,san,sandomierski,baranow,Baranów,2440,san,san_san,baranow_san_san,"[2397988.560907783, 6533393.0616849745]","Baranów, Poland",Lublin,"{'lat': '51.566666666667', 'long': '22.15'}"
+bogoria,70302,san,sandomierski,bogoria,Bogoria,2441,san,san_san,bogoria_san_san,"[2366774.2198941214, 6560004.509083134]","Bogoria, Poland",Kielce,"{'lat': '50.666666666667', 'long': '21.266666666667'}"
+checiny_opo_snd,70303,san,checinski,checiny,Chęciny,2470,che,san_che,checiny_san_che,"[2277007.6219303147, 6585021.251805472]","Chęciny, Poland",Kielce,"{'lat': '50.733333333333', 'long': '20.45'}"
+chmielnik_wis_snd,70304,san,wislicki,chmielnik,Chmielnik,2442,wis,san_wis,chmielnik_san_wis,"[2310081.619185382, 6553598.580361382]","Chmielnik, Poland",Kielce,"{'lat': '50.633333333333', 'long': '20.75'}"
+dabrowa_pil_snd,70305,san,pilznenski,dabrow,Dąbrowa,2446,pil,san_pil,dabrow_san_pil,"[2336400.6321029114, 6476767.133076983]",,,
+drzewica_opo_snd,70306,san,opoczynski,drzewica,Drzewica,2477,opo,san_opo,drzewica_san_opo,"[2281444.4720579186, 6701983.845062877]","Drzewica, Poland",Kielce,"{'lat': '51.45', 'long': '20.483333333333'}"
+dzikow_san_snd,70307,san,sandomierski,dzikow,Dzików,2467,san,san_san,dzikow_san_san,"[2412690.7196391597, 6546221.583804803]",,,
+Gielniów_opo_snd,70308,san,opoczynski,gielniow,Gielniów,8443,opo,san_opo,gielniow_san_opo,"[2279706.087224693, 6691734.142076655]","Gielniów, Poland",Kielce,"{'lat': '51.4', 'long': '20.483333333333'}"
+Gowarczów_opo_snd,70309,san,opoczynski,gowarczow,Gowarczów,8454,opo,san_opo,gowarczow_san_opo,"[2276009.6354352892, 6670652.669123012]","Gowarczów, Poland",Kielce,"{'lat': '51.283333333333', 'long': '20.433333333333'}"
+Iwaniska_san_snd,70310,san,sandomierski,iwaniska,Iwaniska,2451,san,san_san,iwaniska_san_san,"[2368475.648274659, 6574069.861405168]","Iwaniska, Poland",Kielce,"{'lat': '50.733333333333', 'long': '21.283333333333'}"
+Janików_san_snd,70311,san,sandomierski,janikow,Janików,8471,san,san_san,janikow_san_san,"[2416097.802429593, 6596646.266059642]",,,
+klimontow_san_snd,70312,san,sandomierski,klimontow,Klimontów,2455,san,san_san,klimontow_san_san,"[2388014.1410206333, 6560660.77490075]","Klimontów, Poland",Kielce,"{'lat': '50.666666666667', 'long': '21.45'}"
+kolbuszowa_pil_snd,70313,san,pilznenski,kolbuszowa,Kolbuszowa,2456,pil,san_pil,kolbuszowa_san_pil,"[2424109.6448850413, 6488516.86561293]","Kolbuszowa, Poland",Lwów,"{'lat': '50.25', 'long': '21.766666666667'}"
+Końskie_opo_snd,70314,san,opoczynski,konskie,Końskie,8504,opo,san_opo,konskie_san_opo,"[2273037.978016253, 6654301.470603845]","Końskie, Poland",Kielce,"{'lat': '51.2', 'long': '20.416666666667'}"
+kurow_wis_snd,70315,san,wislicki,kurozweki,Kurozwęki,2462,wis,san_wis,kurozweki_san_wis,"[2349120.6456069266, 6549127.93912267]","Kurozwęki, Poland",Kielce,"{'lat': '50.583333333333', 'long': '21.1'}"
+staszow_san_snd,70316,san,sandomierski,malopolski_staszow,Staszów_villages,2494,san,san_san,malopolski_staszow_san_san,"[2356092.7577458797, 6544532.7586622825]",,,
+mielec_san_snd,70317,san,sandomierski,mielec,Mielec,2457,san,san_san,mielec_san_san,"[2384567.144567644, 6496197.799309985]","Mielec, Poland",Kraków,"{'lat': '50.283333333333', 'long': '21.416666666667'}"
+nowe_miasto_korczyn_wis_snd,70318,san,wislicki,nowemiasto,Nowy Korczyn,2460,wis,san_wis,nowemiasto_san_wis,"[2316922.2091957103, 6498231.371861689]",,,
+olesnica_wis_snd,70319,san,wislicki,olesnica,Oleśnica,2472,wis,san_wis,olesnica_san_wis,"[2344766.4874301795, 6524550.7560418]",,,
+opatow_san_snd,70320,san,sandomierski,opatow,Opatów,2443,san,san_san,opatow_san_san,"[2384759.0805047103, 6586024.700395668]","Opatów, Poland",Kielce,"{'lat': '50.8', 'long': '21.433333333333'}"
+opoczno_opo_snd,70321,san,opoczynski,opoczno,Opoczno,2482,opo,san_opo,opoczno_san_opo,"[2259975.6311846618, 6688749.999270634]","Opoczno, Poland",Kielce,"{'lat': '51.366666666667', 'long': '20.283333333333'}"
+ostrowiec_san_snd,70322,san,sandomierski,ostrowiec,Ostrowiec,2474,san,san_san,ostrowiec_san_san,"[2380638.500706274, 6610565.864505167]","Astravyets, Belarus",Wilno,"{'lat': '54.616666666667', 'long': '25.966666666667'}"
+ozarow_san_snd,70323,san,sandomierski,ozarow,Ożarów,2475,san,san_san,ozarow_san_san,"[2411946.093917334, 6601547.204319941]","Ożarów, Poland",Kielce,"{'lat': '50.883333333333', 'long': '21.666666666667'}"
+pacanow_wis_snd,70324,san,wislicki,pacanow,Pacanów,2476,wis,san_wis,pacanow_san_wis,"[2342070.412699421, 6515945.297979145]","Pacanów, Poland",Kielce,"{'lat': '50.4', 'long': '21.05'}"
+Pierzchnica_wis_snd,70325,san,wislicki,pierzchnica,Pierzchnica,8875,wis,san_wis,pierzchnica_san_wis,"[2308842.1240233975, 6569156.424163554]","Pierzchnica, Poland",Kielce,"{'lat': '50.7', 'long': '20.75'}"
+pinczow_wis_snd,70326,san,wislicki,pinczow,Pińczów,2480,wis,san_wis,pinczow_san_wis,"[2284989.712509942, 6536633.700679987]","Pińczów, Poland",Kielce,"{'lat': '50.533333333333', 'long': '20.533333333333'}"
+polaniec_san_snd,70327,san,sandomierski,polaniec,Połaniec,2484,san,san_san,polaniec_san_san,"[2369106.4449441386, 6521410.749714307]","Połaniec, Poland",Kielce,"{'lat': '50.433333333333', 'long': '21.283333333333'}"
+przysucha_rad_snd,70328,san,radomski,prysucha,Przysucha,2495,rad,san_rad,prysucha_san_rad,"[2297536.0312383645, 6684219.432042863]",,,
+przeclaw_pil_snd,70329,san,pilznenski,przeclaw,Przecław,2464,pil,san_pil,przeclaw_san_pil,"[2391056.690487624, 6479912.205110647]","Przecław, Poland",Kraków,"{'lat': '50.2', 'long': '21.466666666667'}"
+przedborz_opo_snd,70330,san,checinski,przedborz,Przedbórz,2452,che,san_che,przedborz_san_che,"[2214175.307856773, 6636730.450540903]","Przedbórz, Poland",Kielce,"{'lat': '51.083333333333', 'long': '19.883333333333'}"
+rakow_wis_snd,70331,san,sandomierski,rakow,Raków,2491,san,san_san,rakow_san_san,"[2342451.7242661845, 6563737.232488568]","Raków, Poland",Kielce,"{'lat': '50.683333333333', 'long': '21.05'}"
+rudnik_snd_snd,70332,san,sandomierski,rudnik,Rudnik,2489,san,san_san,rudnik_san_san,"[2476916.15166794, 6523382.920853755]","Rudnik nad Sanem, Poland",Lwów,"{'lat': '50.433333333333', 'long': '22.25'}"
+zochow_pil_snd,70333,san,pilznenski,rzochow,Rzochów,22481,pil,san_pil,rzochow_san_pil,"[2392348.6609822693, 6488098.333055838]","Rzochów, Poland",Kraków,"{'lat': '50.25', 'long': '21.483333333333'}"
+sandomierz_san_snd,70334,san,sandomierski,sandomierz,Sandomierz,22485,san,san_san,sandomierz_san_san,"[2421005.7000202676, 6564922.951951313]","Sandomierz, Poland",Kielce,"{'lat': '50.683333333333', 'long': '21.75'}"
+secemin_opo_snd,70335,san,checinski,secemin,Secemin,2463,che,san_che,secemin_san_che,"[2208314.1154923206, 6579861.289266148]","Secemin, Poland",Kielce,"{'lat': '50.766666666667', 'long': '19.833333333333'}"
+sienno_rad_snd,70336,san,radomski,sienno,Sienno,2493,rad,san_rad,sienno_san_rad,"[2390140.1331082107, 6636355.056420302]","Sienno, Poland",Kielce,"{'lat': '51.083333333333', 'long': '21.466666666667'}"
+sobkow_opo_snd,70337,san,checinski,sobkow,Sobków,2512,che,san_che,sobkow_san_che,"[2276552.8469435754, 6568282.760787871]","Sobków, Poland",Kielce,"{'lat': '50.7', 'long': '20.466666666667'}"
+sokolow_prz_rus,70338,rus,przemyski,sokolow,Sokołów,2039,prz,rus_prz,sokolow_rus_prz,"[2674901.8639567443, 6302944.390826651]","Sokołów Podlaski, Poland",Lublin,"{'lat': '52.4', 'long': '22.25'}"
+stopnica_wis_snd,70339,san,wislicki,stopnica,Stopnica,2497,wis,san_wis,stopnica_san_wis,"[2331440.453807104, 6522749.690015711]","Stopnica, Poland",Kielce,"{'lat': '50.433333333333', 'long': '20.95'}"
+szydlow_wis_snd,70340,san,wislicki,szydlow,Szydłów,2501,wis,san_wis,szydlow_san_wis,"[2337818.7500734124, 6549542.2208777405]","Szydłów, Poland",Kielce,"{'lat': '50.6', 'long': '21'}"
+tarnow_pil_snd,70341,san,pilznenski,tarnow,Tarnów,2504,pil,san_pil,tarnow_san_pil,"[2336559.9462981396, 6448584.386809711]","Tarnów, Poland",Kraków,"{'lat': '50.016666666667', 'long': '20.983333333333'}"
+tarlow_san_snd,70342,san,sandomierski,tarlow,Tarłów,2444,san,san_san,tarlow_san_san,"[2417106.714009713, 6621466.900749027]","Tarłów, Poland",Kielce,"{'lat': '51', 'long': '21.716666666667'}"
+wislica_wis_snd,70343,san,wislicki,wislica,Wiślica,2507,wis,san_wis,wislica_san_wis,"[2301262.0036441637, 6507166.0849856315]","Wiślica, Poland",Kielce,"{'lat': '50.35', 'long': '20.683333333333'}"
+wloszczowa_opo_snd,70344,san,checinski,wloszczowa,Włoszczowa,2468,che,san_che,wloszczowa_san_che,"[2223035.904843544, 6595031.646669316]","Włoszczowa, Poland",Kielce,"{'lat': '50.866666666667', 'long': '19.966666666667'}"
+zawichost,70345,san,sandomierski,zawichost,Zawichost,8749,san,san_san,zawichost_san_san,"[2433558.9598090495, 6586654.722372837]","Zawichost, Poland",Kielce,"{'lat': '50.8', 'long': '21.85'}"
+zabno_wis_snd,70346,san,wislicki,zabno,Żabno,2509,wis,san_wis,zabno_san_wis,"[2325206.607094699, 6469733.944787991]","Żabno, Poland",Kraków,"{'lat': '50.133333333333', 'long': '20.9'}"
+żarnów,70347,san,opoczynski,zarnow,Żarnów,8762,opo,san_opo,zarnow_san_opo,"[2246346.1434677476, 6664851.856478172]","Żarnów, Poland",Kielce,"{'lat': '51.25', 'long': '20.183333333333'}"
+bełżyce,80102,lub,lubelski,belzyce,Bełżyce,2220,lub,lub_lub,belzyce_lub_lub,"[2481498.1864960794, 6652220.757251261]","Bełżyce, Poland",Lublin,"{'lat': '51.183333333333', 'long': '22.283333333333'}"
+"",80103,lub,lubelski,biskupce,Biskupice,2221,lub,lub_lub,biskupce_lub_lub,"[2555604.067853669, 6647506.353476801]",,,
+bychawa,80104,lub,lubelski,bychawa,Bychawa,2222,lub,lub_lub,bychawa_lub_lub,"[2510121.829305483, 6622446.994807832]","Bychawa, Poland",Lublin,"{'lat': '51.016666666667', 'long': '22.533333333333'}"
+"",80105,lub,lubelski,czemierniki,Czemierniki,2225,lub,lub_lub,czemierniki_lub_lub,"[2520240.240951666, 6740127.090447013]","Czemierniki, Poland",Lublin,"{'lat': '51.683333333333', 'long': '22.616666666667'}"
+grodek_kac_pod,80106,pod,kamieniecki,grodek,Gródek,2336,kam,pod_kam,grodek_pod_kam,"[2956815.815158193, 6302486.254182245]","Gródek, Poland",Białystok,"{'lat': '53.1', 'long': '23.666666666667'}"
+kamionka_strumilowa_lwo_rus,80109,lub,lubelski,kamionka,Kamionka,9064,lub,lub_lub,kamionka_lub_lub,"[2501158.2398238643, 6704461.522554696]","Kamionka, Poland",Lublin,"{'lat': '51.466666666667', 'long': '22.466666666667'}"
+kock,80111,lub,lukowski,kock,Kock,2234,luk,lub_luk,kock_lub_luk,"[2499438.4028540216, 6733556.167541779]","Kock, Poland",Lublin,"{'lat': '51.633333333333', 'long': '22.45'}"
+końskowola_villages,80112,lub,lubelski,konskowola,Końskowola_villages,2235,lub,lub_lub,konskowola_lub_lub,"[2455725.751568595, 6693249.772668309]",,,
+"",80113,lub,urzedowski,krasnik,Kraśnik,2230,urz,lub_urz,krasnik_lub_urz,"[2474108.4627769697, 6605547.6107425215]","Kraśnik, Poland",Lublin,"{'lat': '50.916666666667', 'long': '22.233333333333'}"
+kurow_wis_snd,80114,lub,lubelski,kurow,Kurów,2237,lub,lub_lub,kurow_lub_lub,"[2470783.7368156933, 6691698.410328808]","Kurów, Poland",Lublin,"{'lat': '51.383333333333', 'long': '22.2'}"
+"",80115,lub,lubelski,lubartow,Lubartów,2239,lub,lub_lub,lubartow_lub_lub,"[2517210.051909457, 6704052.479876255]","Lubartów, Poland",Lublin,"{'lat': '51.466666666667', 'long': '22.633333333333'}"
+"",80116,lub,lubelski,markuszow,Markuszów_villages,2244,lub,lub_lub,markuszow_lub_lub,"[2479408.4982966366, 6687187.032236675]",,,
+"",80117,lub,lubelski,mnichow,mnichow,,lub,lub_lub,mnichow_lub_lub,,"Michów, Poland",Lublin,"{'lat': '51.516666666667', 'long': '22.3'}"
+opole,80118,lub,lubelski,opole,Opole,2246,lub,lub_lub,opole_lub_lub,"[2446779.4821759285, 6648469.19488369]","Opole Lubelskie, Poland",Lublin,"{'lat': '51.15', 'long': '21.966666666667'}"
+ostrow_kal_poz,80119,lub,lubelski,ostrow_lubelski,Ostrów,2248,lub,lub_lub,ostrow_lubelski_lub_lub,"[2545464.517143381, 6709207.917800487]",,,
+"",80120,lub,lubelski,parczew,Parczew,2249,lub,lub_lub,parczew_lub_lub,"[2548822.294103571, 6735280.521024755]","Parczew, Poland",Lublin,"{'lat': '51.633333333333', 'long': '22.9'}"
+piaski,80121,lub,lubelski,piaski,Piaski,2250,lub,lub_lub,piaski_lub_lub,"[2544363.5087205647, 6645722.434394488]","Piaski Luterskie, Poland",Lublin,"{'lat': '51.133333333333', 'long': '22.866666666667'}"
+"",80122,lub,lubelski,piaski_near_lublin,Piaski,2250,lub,lub_lub,piaski_near_lublin_lub_lub,"[2544363.5087205647, 6645722.434394488]",,,
+"",80123,lub,urzedowski,rachow,rachow,,urz,lub_urz,rachow_lub_urz,,"Rachów, Poland",Lublin,"{'lat': '50.9', 'long': '21.883333333333'}"
+radomysl_zhy_kiv,80124,kij,zytomierski,radomysl,Radomyśl,2202,zyt,kij_zyt,radomysl_kij_zyt,"[3253557.7582408865, 6532408.486341577]","Radomyśl nad Sanem, Poland",Lwów,"{'lat': '50.683333333333', 'long': '21.95'}"
+radzyń,80125,lub,lukowski,radzyn,Radzyń,2253,luk,lub_luk,radzyn_lub_luk,"[2516625.296705806, 6761129.671955658]","Radzyń Podlaski, Poland",Lublin,"{'lat': '51.783333333333', 'long': '22.616666666667'}"
+"",80126,maz,garwolinski,seroczyn,Seroczyn,2276,gar,maz_gar,seroczyn_maz_gar,"[2441120.2324342546, 6801896.552760583]","Seroczyn, Poland",Lublin,"{'lat': '52.016666666667', 'long': '21.933333333333'}"
+siedlce,80127,lub,lukowski,siedlce,Siedlce,2255,luk,lub_luk,siedlce_lub_luk,"[2481482.292403456, 6830259.164948089]","Siedlce, Poland",Lublin,"{'lat': '52.166666666667', 'long': '22.3'}"
+"",80128,lub,lubelski,wawelnica,Wąwolnica,9176,lub,lub_lub,wawelnica_lub_lub,"[2466824.8298210683, 6673316.068113737]",,,
+"",80129,maz,garwolinski,wodynie,Wodynie,14822,gar,maz_gar,wodynie_maz_gar,"[2444534.494226333, 6807507.040267729]",,,
+włostowice,80130,lub,lubelski,wlostowice,Włostowice,2260,lub,lub_lub,wlostowice_lub_lub,"[2447030.2953484957, 6693179.249807482]",,,
+"",80131,lub,urzedowski,zaklikow,Zaklików,2263,urz,lub_urz,zaklikow_lub_urz,"[2460200.178016546, 6578469.507468603]","Zaklików, Poland",Lublin,"{'lat': '50.766666666667', 'long': '22.116666666667'}"
+zbuczyn,80132,lub,lukowski,zbuczyn,Zbuczyn,9123,luk,lub_luk,zbuczyn_lub_luk,"[2498876.7647287613, 6815736.360080089]","Zbuczyn, Poland",Lublin,"{'lat': '52.083333333333', 'long': '22.433333333333'}"
+cape_between_san_and_vistula,80133,lub,"",cape_between_san_and_vistula,cape_between_san_and_vistula,,"",lub_,cape_between_san_and_vistula_lub_,,,,
+łęczna,80134,lub,lubelski,leczna,Łęczna,2242,lub,lub_lub,leczna_lub_lub,"[2548589.958916169, 6673685.438305858]","Łęczna, Poland",Lublin,"{'lat': '51.283333333333', 'long': '22.866666666667'}"
+łuków,80135,lub,lukowski,lukow,Łuków,2243,luk,lub_luk,lukow_lub_luk,"[2492089.739399788, 6788302.894140069]","Łuków, Poland",Lublin,"{'lat': '51.916666666667', 'long': '22.383333333333'}"
+duczymin,80202,maz,przasnyski,drwalew,Duczymin,2614,prz,maz_prz,drwalew_maz_prz,"[2315644.590747885, 7028958.813366074]",,,
+garwolin,80203,maz,garwolinski,garwolin,Garwolin,14610,gar,maz_gar,garwolin_maz_gar,"[2406623.8511934592, 6781967.829098029]","Garwolin, Poland",Lublin,"{'lat': '51.9', 'long': '21.633333333333'}"
+"",80204,maz,grojecki,goszczyn,Goszczyn,14616,gro,maz_gro,goszczyn_maz_gro,"[2321013.2375744106, 6751374.42931036]","Goszczyn, Poland",Warszawa,"{'lat': '51.733333333333', 'long': '20.85'}"
+"",80205,maz,grojecki,grojec,Grójec,14624,gro,maz_gro,grojec_maz_gro,"[2322328.091986915, 6775335.616307927]","Grójec, Poland",Warszawa,"{'lat': '51.866666666667', 'long': '20.866666666667'}"
+kosnica_pom,80207,maz,"",kobylnica,kobylnica,,"",maz_,kobylnica_maz_,,,,
+"",80208,maz,garwolinski,kolbiel,Kołbiel,14657,gar,maz_gar,kolbiel_maz_gar,"[2391182.5219122553, 6810959.027265874]","Kołbiel, Poland",Warszawa,"{'lat': '52.066666666667', 'long': '21.483333333333'}"
+latowicz,80209,maz,garwolinski,latowicz,Latowicz,14673,gar,maz_gar,latowicz_maz_gar,"[2427818.3566622143, 6804344.22283399]",,,
+latowicz,80210,maz,garwolinski,latowicz_and_roza,Latowicz,14673,gar,maz_gar,latowicz_and_roza_maz_gar,"[2427818.3566622143, 6804344.22283399]",,,
+maciejowice,80211,san,stezycki,maciejowice,Maciejowice,8551,ste,san_ste,maciejowice_san_ste,"[2399013.5837869328, 6744686.128107267]","Maciejowice, Poland",Lublin,"{'lat': '51.7', 'long': '21.55'}"
+maciejowice,80212,san,stezycki,maciejowice_and_godzisz,Maciejowice,8551,ste,san_ste,maciejowice_and_godzisz_san_ste,"[2399013.5837869328, 6744686.128107267]",,,
+"",80213,maz,makowski,magnuszew,Maków Mazowiecki,2271,mak,maz_mak,magnuszew_maz_mak,"[2348220.3147107335, 6957077.176828051]",,,
+nowe_miasto_raw_raw,80215,raw,bialski,nowemiasto_on_pilica,Nowemiasto,2437,bia,raw_bia,nowemiasto_on_pilica_raw_bia,"[2292086.5035698605, 6730080.732610535]",,,
+"",80216,maz,garwolinski,osieck,Osieck,14724,gar,maz_gar,osieck_maz_gar,"[2385330.476645809, 6793837.985877511]","Osieck, Poland",Lublin,"{'lat': '51.966666666667', 'long': '21.416666666667'}"
+ozarow_mazowiecki,80217,maz,warszawski,ozarow_mazowiecki,ozarow_mazowiecki,,war,maz_war,ozarow_mazowiecki_maz_war,,,,
+parysów,80218,maz,garwolinski,parysow,Parysów,14730,gar,maz_gar,parysow_maz_gar,"[2414003.504439189, 6796555.827977921]","Parysów, Poland",Lublin,"{'lat': '51.966666666667', 'long': '21.683333333333'}"
+piaseczno,80219,maz,warszawski,piaseczno,Piaseczno,14733,war,maz_war,piaseczno_maz_war,"[2340043.8966273777, 6812800.487041052]","Piaseczno, Poland",Warszawa,"{'lat': '52.083333333333', 'long': '21.033333333333'}"
+"",80220,maz,grojecki,przebyszew,Przybyszew,14751,gro,maz_gro,przebyszew_maz_gro,"[2321743.71220353, 6739347.009816274]",,,
+rogozno_poz,80222,maz,garwolinski,roza,roza,,gar,maz_gar,roza_maz_gar,,"Różan, Poland",Warszawa,"{'lat': '52.883333333333', 'long': '21.416666666667'}"
+sobików,80223,maz,czerski,sobikow,Sobików,14783,cze,maz_cze,sobikow_maz_cze,"[2354162.9922353695, 6793186.819825748]",,,
+rawa stara,80224,raw,rawski,stara_rawa,Rawa Stara,16420,raw,raw_raw,stara_rawa_raw_raw,"[2256737.350394344, 6778567.670121103]",,,
+"",80225,maz,warecki,warka,Warka,23086,war,maz_war,warka_maz_war,"[2359886.047103635, 6761372.109648325]","Warka, Poland",Warszawa,"{'lat': '51.783333333333', 'long': '21.2'}"
+"",80227,san,stezycki,laskarzew,Łaskarzew,8540,ste,san_ste,laskarzew_san_ste,"[2403702.738456618, 6762300.114562956]","Łaskarzew, Poland",Lublin,"{'lat': '51.8', 'long': '21.6'}"
+"",80228,maz,wyszogrodzki,letow,Łętowo,14682,wys,maz_wys,letow_maz_wys,"[2234010.3029229157, 6895921.589225243]",,,
+"",80301,san,stezycki,adamow,Adamów,8765,ste,san_ste,adamow_san_ste,"[2477661.85351682, 6753917.173344838]","Adamów, Poland",Lublin,"{'lat': '51.733333333333', 'long': '22.266666666667'}"
+białobrzegi,80302,san,opoczynski,bialobrzegi,Białobrzegi,8374,opo,san_opo,bialobrzegi_san_opo,"[2233864.8788280524, 6714327.204946648]","Białobrzegi, Poland",Kielce,"{'lat': '51.65', 'long': '20.95'}"
+bobrowniki_ste_snd,80303,san,stezycki,bobrowniki,Bobrowniki,22480,ste,san_ste,bobrowniki_san_ste,"[2441907.8183965976, 6719182.671123204]","Bobrowniki, Poland",Lublin,"{'lat': '51.566666666667', 'long': '21.933333333333'}"
+"",80304,san,radomski,ciepelow,Ciepielów,8414,rad,san_rad,ciepelow_san_rad,"[2401280.2558982843, 6665226.948267234]",,,
+gniewoszow_rad_snd,80305,san,radomski,gniewoszow,Gniewoszów,2449,rad,san_rad,gniewoszow_san_rad,"[2427264.3202466825, 6705740.192375317]","Gniewoszów, Poland",Kielce,"{'lat': '51.466666666667', 'long': '21.8'}"
+granica_rad_snd,80306,san,radomski,granica,Granica,2502,rad,san_rad,granica_san_rad,"[2429497.9932297566, 6704611.911777069]","Granica, Poland",Kielce,"{'lat': '51.466666666667', 'long': '21.816666666667'}"
+"",80307,maz,warecki,glowaczow,Głowaczów,14614,war,maz_war,glowaczow_maz_war,"[2373303.130644901, 6731852.45670364]","Głowaczów, Poland",Kielce,"{'lat': '51.633333333333', 'long': '21.316666666667'}"
+janowiec_rad_snd,80308,san,radomski,janowiec,Janowiec,2453,rad,san_rad,janowiec_san_rad,"[2437467.310241713, 6678596.387454725]","Janowiec, Poland",Kielce,"{'lat': '51.333333333333', 'long': '21.883333333333'}"
+"",80309,san,radomski,jedlinsk,Jedlińsk,8482,rad,san_rad,jedlinsk_san_rad,"[2350736.94825373, 6712289.528100231]","Jedlińsk, Poland",Kielce,"{'lat': '51.516666666667', 'long': '21.116666666667'}"
+kazanów,80310,san,radomski,kazanow,Kazanów,8490,rad,san_rad,kazanow_san_rad,"[2389085.3381079556, 6669743.650057698]","Kazanów, Poland",Kielce,"{'lat': '51.283333333333', 'long': '21.466666666667'}"
+klwow_rad_snd,80311,san,radomski,klwow,Klwów,2488,rad,san_rad,klwow_san_rad,"[2298840.661305238, 6715624.828241838]","Klwów, Poland",Kielce,"{'lat': '51.533333333333', 'long': '20.633333333333'}"
+kozienice_rad_snd,80313,san,radomski,kozienice,Kozienice,2461,rad,san_rad,kozienice_san_rad,"[2399819.2708124984, 6725760.559054334]","Kozienice, Poland",Kielce,"{'lat': '51.583333333333', 'long': '21.566666666667'}"
+"",80315,maz,garwolinski,miastkow,Miastków Kościelny,14692,gar,maz_gar,miastkow_maz_gar,"[2429915.8818347505, 6779022.3792258045]",,,
+odrzywół,80316,san,opoczynski,odrzywol,Odrzywół,8581,opo,san_opo,odrzywol_san_opo,"[2288987.5783810373, 6713912.694981789]","Odrzywół, Poland",Kielce,"{'lat': '51.533333333333', 'long': '20.55'}"
+przysucha_rad_snd,80317,san,radomski,przysucha,Przysucha,2495,rad,san_rad,przysucha_san_rad,"[2297536.0312383645, 6684219.432042863]","Przysucha, Poland",Kielce,"{'lat': '51.366666666667', 'long': '20.616666666667'}"
+przytyk_rad_snd,80318,san,radomski,przytuk,Przytyk,2483,rad,san_rad,przytuk_san_rad,"[2328902.3641495625, 6705268.255214431]",,,
+radom_rad_snd,80319,san,radomski,radom,Radom,22479,rad,san_rad,radom_san_rad,"[2353526.641583088, 6692546.874321778]","Radom, Poland",Kielce,"{'lat': '51.416666666667', 'long': '21.15'}"
+ryczywol_rad_snd,80320,san,radomski,ryczywol,Ryczywół,2490,rad,san_rad,ryczywol_san_rad,"[2386392.3081120234, 6743287.075359647]",,,
+"",80321,san,stezycki,ryki,Ryki,8645,ste,san_ste,ryki_san_ste,"[2441984.6897501657, 6733427.013445508]","Ryki, Poland",Lublin,"{'lat': '51.633333333333', 'long': '21.933333333333'}"
+skaryszew,80323,maz,warszawski,skaryszew,Skaryszew,2630,war,maz_war,skaryszew_maz_war,"[2341194.2045384594, 6845260.3633955885]","Skaryszew, Poland",Kielce,"{'lat': '51.316666666667', 'long': '21.25'}"
+skrzynno,80324,san,radomski,skrzynno,Skrzynno,8663,rad,san_rad,skrzynno_san_rad,"[2307248.2772027617, 6685736.268153509]","Skrzynno, Poland",Kielce,"{'lat': '51.366666666667', 'long': '20.716666666667'}"
+stara_sol_prz_rus,80325,san,radomski,solec_on_vistula,Solec,8673,rad,san_rad,solec_on_vistula_san_rad,"[2423285.213371931, 6645051.571388643]",,,
+"",80326,san,stezycki,stezyca,Stężyca,8678,ste,san_ste,stezyca_san_ste,"[2423689.2993930303, 6724954.400483952]","Stężyca, Poland",Lublin,"{'lat': '51.583333333333', 'long': '21.783333333333'}"
+suchowola,80327,san,"",suchowola,suchowola,,"",san_,suchowola_san_,,"Suchowola, Poland",Białystok,"{'lat': '53.583333333333', 'long': '23.1'}"
+szydlowiec_rad_snd,80328,san,radomski,szydlowiec,Szydłowiec,2500,rad,san_rad,szydlowiec_san_rad,"[2322109.4169841805, 6661672.291054768]","Szydłowiec, Poland",Kielce,"{'lat': '51.233333333333', 'long': '20.85'}"
+ulanow_rad_snd,80329,san,"",ulenice,ulenice,,"",san_,ulenice_san_,,,,
+"",80330,san,stezycki,wojcieszkow,Wojcieszków,8733,ste,san_ste,wojcieszkow_san_ste,"[2484264.4453819282, 6758014.398018331]",,,
+zwolen_rad_snd,80332,san,radomski,zwolen,Zwoleń,2513,rad,san_rad,zwolen_san_rad,"[2401761.5357791497, 6685011.426535394]","Zwoleń, Poland",Kielce,"{'lat': '51.35', 'long': '21.6'}"
+lysoboki_ste_snd,80333,san,stezycki,lysobyki,Łysobyki,2503,ste,san_ste,lysobyki_san_ste,"[2481011.5777624, 6728877.621095363]","Jeziorzany, Poland",Lublin,"{'lat': '51.6', 'long': '22.266666666667'}"
+zelechow_ste_snd,80334,san,stezycki,zelechow,Żelechów,2511,ste,san_ste,zelechow_san_ste,"[2437987.3775628833, 6765084.766235002]","Żelechów, Poland",Lublin,"{'lat': '51.816666666667', 'long': '21.9'}"
+"",90100,lub,"",bilgoray,Biłgoraj,6399,"",lub_,bilgoray_lub_,"[2526753.41431658, 6541336.813016815]",,,
+ekonomia,90200,lub,"",ekonomia,ekonomia,,"",lub_,ekonomia_lub_,,,,
+frampol,90300,lub,lubelski,frannopol,Frampol,2217,lub,lub_lub,frannopol_lub_lub,"[2523523.5805483023, 6563250.423296576]",,,
+"",90400,lub,lubelski,goray,Goraj,2229,lub,lub_lub,goray_lub_lub,"[2523152.1510037603, 6572120.251812825]",,,
+"",91100,rus,przemyski,tarnogrod,Tarnogród,2061,prz,rus_prz,tarnogrod_rus_prz,"[2530643.3897465784, 6508253.95747618]","Tarnogród, Poland",Lublin,"{'lat': '50.366666666667', 'long': '22.75'}"
+tomaszow_blb_bel,91200,bel,belski,tomaszow,Tomaszów Lubelski,6388,bel,bel_bel,tomaszow_bel_bel,"[2606827.4091871968, 6525044.576440413]",,,
+ulanow_rad_snd,91400,san,sandomierski,ulanow,Ulanów,2505,san,san_san,ulanow_san_san,"[2478534.6022823956, 6531609.544995501]","Ulanów, Poland",Lwów,"{'lat': '50.483333333333', 'long': '22.266666666667'}"
+wysokie_mazowieckie_dro_pdl,91500,lub,lubelski,wysokie,Wysokie,9120,lub,lub_lub,wysokie_lub_lub,"[2523259.436591332, 6605024.207914631]","Wysokie, Poland",Lublin,"{'lat': '50.916666666667', 'long': '22.666666666667'}"
+"",91600,rus,chelmski,zamosc,Zamość,2080,che,rus_che,zamosc_rus_che,"[2588652.1576843373, 6571578.391059462]","Zamość, Poland",Lublin,"{'lat': '50.716666666667', 'long': '23.25'}"
+laszczow_blb_bel,91700,bel,belski,laszczow,Łaszczów,6374,bel,bel_bel,laszczow_bel_bel,"[2639473.5010099257, 6537527.975449486]","Łaszczów, Poland",Lublin,"{'lat': '50.533333333333', 'long': '23.733333333333'}"
+_chel+,91800,rus,chelmski,zolkiewka,Żółkiewka,22384,che,rus_che,zolkiewka_rus_che,"[2542921.035545354, 6604557.684862319]","Żółkiewka, Poland",Lublin,"{'lat': '50.9', 'long': '22.833333333333'}"
+balin,100100,pod,kamieniecki,balin,Balin,9467,kam,pod_kam,balin_pod_kam,"[2967839.7572996127, 6254199.919056332]","Balin, Ukraine",Ukraine SSR,"{'lat': '48.866666666667', 'long': '26.683333333333'}"
+bar_lat_pod,100200,pod,latyczewski,bar,Bar,2337,lat,pod_lat,bar_pod_lat,"[3082151.928549745, 6288376.925396201]","Bar, Ukraine",Ukraine SSR,"{'lat': '49.066666666667', 'long': '27.666666666667'}"
+"",100300,pod,czerwonogrodzki,borszczow,Borszczów,2330,cze,pod_cze,borszczow_pod_cze,"[2899273.335284455, 6240509.047612359]","Borshchiv, Ukraine",Tarnopol,"{'lat': '48.8', 'long': '26.05'}"
+czarnokozince_lat_pod,100500,pod,kamieniecki,czarnokozince,Czarnokozińce,9621,kam,pod_kam,czarnokozince_pod_kam,"[2925883.3216080456, 6216932.593155968]",,,
+czarnokozince_lat_pod,100600,pod,latyczewski,czarnoostrow,Czarnoostrów,9717,lat,pod_lat,czarnoostrow_pod_lat,"[2979006.03557909, 6361173.519081132]",,,
+"",100700,pod,czerwonogrodzki,czercze,Czercze,2331,cze,pod_cze,czercze_pod_cze,"[2952633.879194, 6251157.976180435]",,,
+czerwonogród,100800,pod,czerwonogrodzki,czerwonogrod,Czerwonogród,2332,cze,pod_cze,czerwonogrod_pod_cze,"[2848487.1429302883, 6240500.531373775]",,,
+deraznia_lat_pod,100900,pod,latyczewski,deraznia,Derażnia,9795,lat,pod_lat,deraznia_pod_lat,"[3051218.5613215594, 6323214.015891789]",,,
+_kac_pod,101000,pod,kamieniecki,dunajowiec,Dunajowce,2333,kam,pod_kam,dunajowiec_pod_kam,"[2987092.827330336, 6255604.261371641]",,,
+_kac_pod,101100,pod,kamieniecki,dωwinogrod,Dźwinogród,9880,kam,pod_kam,dωwinogrod_pod_kam,"[2924262.1249610195, 6197635.123720627]",,,
+franpol_kac_pod,101200,pod,kamieniecki,franpol,Franpol,2334,kam,pod_kam,franpol_pod_kam,"[2978836.931375556, 6290367.131613977]","Frampol, Poland",Lublin,"{'lat': '50.683333333333', 'long': '22.666666666667'}"
+felsztyn_prz_rus,101300,pod,kamieniecki,fulsztyn,Felsztyn,2335,kam,pod_kam,fulsztyn_pod_kam,"[2972298.2382418197, 6330456.606157321]",,,
+grodek_kac_pod,101500,pod,kamieniecki,grodek_on_dnister,Gródek,2343,kam,pod_kam,grodek_on_dnister_pod_kam,"[2878612.4167390694, 6212016.7751294635]",,,
+husiatyn_kac_pod,101600,pod,kamieniecki,husiatyn,Husiatyn,9468,kam,pod_kam,husiatyn_pod_kam,"[2915442.785760235, 6286832.789294407]","Husyatyn, Ukraine",Tarnopol,"{'lat': '49.066666666667', 'long': '26.216666666667'}"
+jagielnica_kac_pod,101700,pod,czerwonogrodzki,jagielnica,Jagielnica,2338,cze,pod_cze,jagielnica_pod_cze,"[2865948.6740244734, 6265844.684104729]","Yahilnytsya, Ukraine",Tarnopol,"{'lat': '48.95', 'long': '25.733333333333'}"
+jarmolince_kac_pod,101900,pod,latyczewski,jarmolnica,Jarmolińce,2339,lat,pod_lat,jarmolnica_pod_lat,"[2986878.7725068717, 6306604.73492626]",,,
+jaruga_lat_pod,102000,pod,latyczewski,jaruha,Jaruga,9876,lat,pod_lat,jaruha_pod_lat,"[3121669.6369103477, 6161548.172528291]",,,
+jaryszow_lat_pod,102100,pod,latyczewski,jaryszow,Jaryszów,10101,lat,pod_lat,jaryszow_pod_lat,"[3075923.221529664, 6193138.810104518]","Yaryshiv, Ukraine",Ukraine SSR,"{'lat': '48.533333333333', 'long': '27.633333333333'}"
+jazlowiec_kac_pod,102200,pod,czerwonogrodzki,jazlowiec,Jazłowiec,2340,cze,pod_cze,jazlowiec_pod_cze,"[2831741.248254601, 6267802.961177077]","Yazlovets, Ukraine",Tarnopol,"{'lat': '48.966666666667', 'long': '25.433333333333'}"
+jezierzany_kac_pod,102300,pod,kamieniecki,jezierzany,Jezierzany,2341,kam,pod_kam,jezierzany_pod_kam,"[2889154.8320357283, 6254245.16741571]",,,
+kasperowce_kac_pod,102400,pod,kamieniecki,kasperowce,Kasperowce,10195,kam,pod_kam,kasperowce_pod_kam,"[2878700.9088014243, 6217721.176194106]",,,
+kalusz_kac_pod,102500,pod,kamieniecki,kalusz,Kalus,2342,kam,pod_kam,kalusz_pod_kam,"[3043333.373655812, 6211068.601206162]","Kalush, Ukraine",Stanisławów,"{'lat': '49.016666666667', 'long': '24.366666666667'}"
+kitajgrod_kac_pod,102600,pod,kamieniecki,kitajgrod,Kitajgród,2344,kam,pod_kam,kitajgrod_pod_kam,"[2983623.8056373415, 6213458.409848175]",,,
+kolendziany_kac_pod,102700,pod,kamieniecki,kolendziany,Kolędziany,10196,kam,pod_kam,kolendziany_pod_kam,"[2889994.0612100214, 6267585.352306128]",,,
+kopajgrod_lat_pod,102800,pod,latyczewski,kopajgrod,Kopajgród,22947,lat,pod_lat,kopajgrod_pod_lat,"[3094615.566957768, 6250590.777981381]",,,
+krzywcza_kac_pod,102900,pod,kamieniecki,krzywcza,Krzywcza,2346,kam,pod_kam,krzywcza_pod_kam,"[2906932.091872152, 6223806.99409588]","Krzywcza, Poland",Lwów,"{'lat': '49.8', 'long': '22.55'}"
+kudrynce_kac_pod,103000,pod,kamieniecki,kudryniec,Kudryńce,2347,kam,pod_kam,kudryniec_pod_kam,"[2925380.1916797296, 6209500.976465031]",,,
+kupin_kac_pod,103100,pod,kamieniecki,kupin,Kupin,9472,kam,pod_kam,kupin_pod_kam,"[2958394.1204905747, 6291937.147172283]","Kupyn, Ukraine",Ukraine SSR,"{'lat': '49.1', 'long': '26.583333333333'}"
+kuzmin_kac_pod,103200,pod,latyczewski,kuzmin,Kuźmin,2349,lat,pod_lat,kuzmin_pod_lat,"[2953358.575154194, 6318747.243583136]",,,
+lanckorona_kac_pod,103300,pod,kamieniecki,lanckorona,Lanckoroń,2350,kam,pod_kam,lanckorona_pod_kam,"[2936113.911031534, 6256808.316850943]",,,
+latyczow_lat_pod,103400,pod,latyczewski,latyczew,Latyczów,22948,lat,pod_lat,latyczew_pod_lat,"[3075325.3375289943, 6340327.702465841]",,,
+lityn_bra_brac,103500,brac,braclawski,lityn,Lityn,23267,bra,brac_bra,lityn_brac_bra,"[3125158.831085412, 6331666.781039431]","Lityn, Ukraine",Ukraine SSR,"{'lat': '49.333333333333', 'long': '28.066666666667'}"
+michalpol_lat_pod,103700,pod,latyczewski,michalpol,Michałpol,22951,lat,pod_lat,michalpol_pod_lat,"[3021153.5762028918, 6316309.948366245]",,,
+miedzyborz_lat_pod,103800,pod,latyczewski,miedzyborz,Międzyboż,9473,lat,pod_lat,miedzyborz_pod_lat,"[3048992.793588013, 6349645.34391773]",,,
+mikolajow_lat_pod,103900,pod,latyczewski,mikolajow,Mikołajów,22952,lat,pod_lat,mikolajow_pod_lat,"[2988682.5499437917, 6372851.634495328]","Mikolayuv, Ukraine",Tarnopol,"{'lat': '50.35', 'long': '24.983333333333'}"
+minkowce_kac_pod,104000,pod,kamieniecki,minkowce,Mińkowce,2352,kam,pod_kam,minkowce_pod_kam,"[3018260.3958349144, 6249518.114931829]",,,
+minkowce_kac_pod,104100,pod,kamieniecki,minkowiec,Mińkowce,2352,kam,pod_kam,minkowiec_pod_kam,"[3018260.3958349144, 6249518.114931829]",,,
+konstantynow_nowy_lat_pod,104200,pod,latyczewski,nowy_konstantynow,Konstantynów Nowy,10139,lat,pod_lat,nowy_konstantynow_pod_lat,"[3089070.3091242206, 6357647.980076971]",,,
+okopy_kac_pod,104300,pod,kamieniecki,okop,Okopy Świętej Trójcy,2353,kam,pod_kam,okop_pod_kam,"[2942394.0993823437, 6196478.947977046]",,,
+olchowiec_lat_pod,104400,pod,latyczewski,olchowiec,Olchowiec,24582,lat,pod_lat,olchowiec_pod_lat,"[3046078.9177525123, 6222104.088109501]",,,
+orynin_kac_pod,104500,pod,kamieniecki,orynin,Orynin,2354,kam,pod_kam,orynin_pod_kam,"[2940082.768164835, 6232548.900664646]","Orynyn, Ukraine",Ukraine SSR,"{'lat': '48.766666666667', 'long': '26.4'}"
+ozarzynce_lat_pod,104600,pod,latyczewski,ozarzynce,Ozarzyńce,22955,lat,pod_lat,ozarzynce_pod_lat,"[3093403.5801002444, 6196970.795946515]",,,
+pikow_lat_pod_bra_brac,104700,brac,braclawski,pikow,Pików,23276,bra,brac_bra,pikow_brac_bra,"[3145649.590946821, 6372048.826748988]","Novyy Pikov, Ukraine",Ukraine SSR,"{'lat': '49.566666666667', 'long': '28.266666666667'}"
+pobuzany_kac_pod,104800,pod,czerwonogrodzki,pobuzniany,Probużna,2355,cze,pod_cze,pobuzniany_pod_cze,"[2892686.126139519, 6279616.535856324]",,,
+proskurow_lat_pod,104900,pod,latyczewski,ploskirow,Proskurów,22956,lat,pod_lat,ploskirow_pod_lat,"[3003413.3989785668, 6346395.511622138]",,,
+satanow_kac_pod,105000,pod,kamieniecki,satanow,Satanów,2356,kam,pod_kam,satanow_pod_kam,"[2922919.830831149, 6318447.217683303]","Sataniv, Ukraine",Ukraine SSR,"{'lat': '49.25', 'long': '26.266666666667'}"
+sawince_kac_pod,105100,pod,latyczewski,sawince,Sawińce,2357,lat,pod_lat,sawince_pod_lat,"[2983338.47722673, 6288693.648525376]",,,
+sidorow_kac_pod,105200,pod,czerwonogrodzki,sidorow,Sidorów,2358,cze,pod_cze,sidorow_pod_cze,"[2911550.1992079667, 6276716.892319551]",,,
+skala_kac_pod,105300,pod,czerwonogrodzki,skala,Skała,2359,cze,pod_cze,skala_pod_cze,"[2916044.335064024, 6248589.746195515]","Skala-Podilska, Ukraine",Tarnopol,"{'lat': '48.85', 'long': '26.2'}"
+smotrycz_kac_pod,105400,pod,kamieniecki,smotrycz,Smotrycz,2360,kam,pod_kam,smotrycz_pod_kam,"[2954640.419113184, 6266168.285681335]","Smotrych, Ukraine",Ukraine SSR,"{'lat': '48.95', 'long': '26.55'}"
+sniekow_lat_pod,105500,pod,latyczewski,snidkow,Snitków,22957,lat,pod_lat,snidkow_pod_lat,"[3077269.0052659707, 6242625.664764664]",,,
+snitowka_lat_pod,105600,pod,latyczewski,snitowka,Snitówka,22960,lat,pod_lat,snitowka_pod_lat,"[3061669.7420858154, 6331628.575865915]","Snitivka, Ukraine",Ukraine SSR,"{'lat': '49.333333333333', 'long': '27.533333333333'}"
+sniekow_lat_pod,105700,pod,latyczewski,snydkow,Snitków,22957,lat,pod_lat,snydkow_pod_lat,"[3077269.0052659707, 6242625.664764664]",,,
+_kac_pod,105800,pod,kamieniecki,sokolec,Sokolec,2361,kam,pod_kam,sokolec_pod_kam,"[3014245.689375629, 6230386.240346975]",,,
+solobkowce_kac_pod,105900,pod,latyczewski,solobkowiec,Sołodkowce,2362,lat,pod_lat,solobkowiec_pod_lat,"[2996887.67256041, 6288842.53492614]",,,
+sieniawa_stara_lat_pod,106000,pod,latyczewski,stara_sieniawa,Sieniawa Stara,22958,lat,pod_lat,stara_sieniawa_pod_lat,"[3073174.903527717, 6376930.943007765]",,,
+studenica_kac_pod,106100,pod,kamieniecki,studenica,Studzienica,2363,kam,pod_kam,studenica_pod_kam,"[2995245.0281036524, 6201762.418158762]",,,
+szarawka_lat_pod,106200,pod,latyczewski,szarawka,Szarawka,2364,lat,pod_lat,szarawka_pod_lat,"[3003413.3989785668, 6311249.800437837]",,,
+szarogrod_lat_pod,106300,pod,latyczewski,szarogrod,Szarogród,22959,lat,pod_lat,szarogrod_pod_lat,"[3127149.838716987, 6230684.366410132]","Sharhorod, Ukraine",Ukraine SSR,"{'lat': '48.75', 'long': '28.083333333333'}"
+szatawa,106400,pod,kamieniecki,szatawa,Szatawa,24580,kam,pod_kam,szatawa_pod_kam,"[2972964.4567394727, 6235598.891673097]","Shatava, Ukraine",Ukraine SSR,"{'lat': '48.766666666667', 'long': '26.716666666667'}"
+tluste_kac_pod,106500,pod,czerwonogrodzki,tluste,Tłuste,2366,cze,pod_cze,tluste_pod_cze,"[2865018.346570298, 6249760.455230872]",,,
+ulanow_lat_pod,106600,pod,latyczewski,ulanowiec,Ułanów,22961,lat,pod_lat,ulanowiec_pod_lat,"[3131140.7427306487, 6392085.957444244]",,,
+ulaszkowce_kac_pod,106800,pod,czerwonogrodzki,ulaszkowiec,Ułaszkowce,2367,cze,pod_cze,ulaszkowiec_pod_cze,"[2875251.948866542, 6258813.130127662]",,,
+wierzbowiec_lat_pod,106900,pod,latyczewski,wierzbowiec,Wierzbowiec,22962,lat,pod_lat,wierzbowiec_pod_lat,"[3053483.7633998473, 6226947.081655775]",,,
+wonkowce_lat_pod,107000,pod,latyczewski,wonkowce,Wońkowce,22963,lat,pod_lat,wonkowce_pod_lat,"[3030533.2526726928, 6279956.490774709]",,,
+zaleszczyki_kac_pod,107100,pod,czerwonogrodzki,zaleszcze,Zaleszczyki,2369,cze,pod_cze,zaleszcze_pod_cze,"[2864875.219246553, 6213213.679654817]",,,
+zamiechow_lat_pod,107200,pod,latyczewski,zamiechow,Zamiechów,22964,lat,pod_lat,zamiechow_pod_lat,"[3046439.0899469266, 6250131.048589833]","Zamikhiv, Ukraine",Ukraine SSR,"{'lat': '48.866666666667', 'long': '27.366666666667'}"
+zbryz_kac_pod,107300,pod,kamieniecki,zbrzyszcze,Zbrzyż,2370,kam,pod_kam,zbrzyszcze_pod_kam,"[2917833.2417539004, 6260187.428211777]",,,
+zinkow_lat_pod,107400,pod,latyczewski,zinkow,Zińków,22965,lat,pod_lat,zinkow_pod_lat,"[3013836.9382996312, 6290611.405291854]",,,
+luczyniec_lat_pod,107500,pod,latyczewski,luczyniec,Łuczyniec,22950,lat,pod_lat,luczyniec_pod_lat,"[3097342.537362162, 6226335.821579259]",,,
+zwaniec_kac_pod,107600,pod,kamieniecki,zwaniec,Żwaniec,2371,kam,pod_kam,zwaniec_pod_kam,"[2950033.561370711, 6197354.142958135]",,,
+babice_bachow_and_skopow,110100,rus,przemyski,babice_bachow_and_skopow,babice_bachow_and_skopow,,prz,rus_prz,babice_bachow_and_skopow_rus_prz,,,,
+balice,110200,rus,przemyski,balicz,Balice,3342,prz,rus_prz,balicz_rus_prz,"[2563106.4806224247, 6405441.890964536]",,,
+bircza_prz_rus,110300,rus,przemyski,bircza,Bircza,1934,prz,rus_prz,bircza_rus_prz,"[2502461.3488880503, 6391512.870223576]","Bircza, Poland",Lwów,"{'lat': '49.683333333333', 'long': '22.466666666667'}"
+bobrka_lwo_rus,110400,rus,lwowski,bybel,Bóbrka,1951,lwo,rus_lwo,bybel_rus_lwo,"[2706013.222036614, 6384420.706958323]",,,
+chodnowice,110500,rus,przemyski,chodnowicz,Chodnowice,3438,prz,rus_prz,chodnowicz_rus_prz,"[2554638.3411718635, 6397233.382619694]",,,
+chyrow_prz_rus,110600,rus,przemyski,chyrow,Chyrów,1940,prz,rus_prz,chyrow_rus_prz,"[2543785.730627431, 6366247.90540434]","Khyriv, Ukraine",Lwów,"{'lat': '49.533333333333', 'long': '22.85'}"
+czarna,110700,rus,przemyski,czarna,Czarna,3451,prz,rus_prz,czarna_rus_prz,"[2523951.620551993, 6330573.787606512]",,,
+czupnowicz,110800,rus,przemyski,czupnowicz,czupnowicz,,prz,rus_prz,czupnowicz_rus_prz,,,,
+dobromil_prz_rus,110900,rus,przemyski,dobromil,Dobromil,1942,prz,rus_prz,dobromil_rus_prz,"[2536082.8630554234, 6372387.761517025]","Dobromil, Ukraine",Lwów,"{'lat': '49.566666666667', 'long': '22.783333333333'}"
+dubiecko_san_rus,111000,rus,przemyski,dubiecko,Dubiecko,1952,prz,rus_prz,dubiecko_rus_prz,"[2493145.2693117354, 6415250.247636277]","Dubiecko, Poland",Lwów,"{'lat': '49.816666666667', 'long': '22.383333333333'}"
+dydnia,111100,rus,sanocki,dydnia,Dydnia,2757,san,rus_san,dydnia_rus_san,"[2467766.41567845, 6391210.874024361]",,,
+dynow_san_rus,111200,rus,przemyski,dynow,Dynów,1954,prz,rus_prz,dynow_rus_prz,"[2475601.497953764, 6414390.506400627]","Dynów, Poland",Lwów,"{'lat': '49.816666666667', 'long': '22.233333333333'}"
+felsztyn_kac_pod,111300,pod,kamieniecki,felsztyn,Felsztyn,9644,kam,pod_kam,felsztyn_pod_kam,"[2973667.5558230635, 6330969.054518209]","Skelevka, Ukraine",Lwów,"{'lat': '49.533333333333', 'long': '22.966666666667'}"
+fredropol_kac_pod,111400,"",przemyski,fredropol,fredropol,1956,prz,_prz,fredropol__prz,,,,
+husakow_prz_rus,111600,rus,przemyski,husakow,Husaków,1964,prz,rus_prz,husakow_rus_prz,"[2559014.8214184637, 6397233.382619694]","Husakiv, Ukraine",Lwów,"{'lat': '49.716666666667', 'long': '23'}"
+_prz_rus,111700,rus,przemyski,husow,Hussów,2785,prz,rus_prz,husow_rus_prz,"[2481699.4495998644, 6442257.591363088]",,,
+_prz_rus,111800,rus,przemyski,iskan,Iskań,3610,prz,rus_prz,iskan_rus_prz,"[2497744.121992942, 6408890.257438715]",,,
+_san_rus,111900,rus,sanocki,izdebki,Izdebki,2788,san,rus_san,izdebki_rus_san,"[2461123.62851675, 6404080.508961803]",,,
+jaroslaw_prz_rus,112000,rus,przemyski,jaroslaw,Jarosław,1969,prz,rus_prz,jaroslaw_rus_prz,"[2528660.9310851367, 6447922.677674539]","Jarosław, Poland",Lwów,"{'lat': '50.016666666667', 'long': '22.683333333333'}"
+jawornik,112100,rus,sanocki,jawornik,Jawornik,5929,san,rus_san,jawornik_rus_san,"[2456461.5554635595, 6338884.42937478]",,,
+"",112200,rus,przemyski,jawornik_ruski,Jawornik Ruski_villages,3636,prz,rus_prz,jawornik_ruski_rus_prz,"[2483606.908202563, 6399445.157853684]",,,
+klucz_niklowiecki_villages,112300,rus,przemyski,klucz_niklowiecki,klucz_niklowiecki_villages,,prz,rus_prz,klucz_niklowiecki_rus_prz,,,,
+Krakowiec_prz_rus,112400,rus,przemyski,krakowiec,Krakowiec,1979,prz,rus_prz,krakowiec_rus_prz,"[2577816.4333648705, 6438941.425291948]","Krakovets, Ukraine",Lwów,"{'lat': '49.966666666667', 'long': '23.166666666667'}"
+krasiczyn_prz_rus,112500,rus,przemyski,krasiczyn,Krasiczyn,1981,prz,rus_prz,krasiczyn_rus_prz,"[2522492.9760738295, 6406709.14460614]","Krasiczyn, Poland",Lwów,"{'lat': '49.766666666667', 'long': '22.666666666667'}"
+krukienice_prz_rus,112600,rus,przemyski,krukienice,Krukienice,2832,prz,rus_prz,krukienice_rus_prz,"[2577816.4333648705, 6391465.772679004]",,,
+krzeszów_prz_rus,112700,rus,przemyski,krzeszow,Krzeszów,1989,prz,rus_prz,krzeszow_rus_prz,"[2487671.629550968, 6515523.138400654]","Krzeszów, Poland",Lublin,"{'lat': '50.4', 'long': '22.35'}"
+lezajsk_prz_rus,112900,rus,przemyski,lezajsk,Leżajsk,1998,prz,rus_prz,lezajsk_rus_prz,"[2497143.2984015495, 6489372.941475844]","Leżajsk, Poland",Lwów,"{'lat': '50.266666666667', 'long': '22.416666666667'}"
+lubomierz_prz_rus,113000,rus,przemyski,lubomierz,lubomierz,2007,prz,rus_prz,lubomierz_rus_prz,,,,
+Manasterz_prz_rus,113100,rus,przemyski,manasterz,Manasterz,2868,prz,rus_prz,manasterz_rus_prz,"[2489704.85984867, 6437169.953850415]",,,
+Medyka_prz_rus,113200,rus,przemyski,medyka,Medyka,2873,prz,rus_prz,medyka_rus_prz,"[2553301.92418133, 6412583.862520099]",,,
+mosciska_prz_rus,113300,rus,przemyski,mosciska,Mościska,2012,prz,rus_prz,mosciska_rus_prz,"[2575987.216449755, 6410439.03154261]","Mostyska, Ukraine",Lwów,"{'lat': '49.8', 'long': '23.15'}"
+nowe_miasto_prz_rus,113400,rus,przemyski,nowomiasto,Nowe Miasto,2015,prz,rus_prz,nowomiasto_rus_prz,"[2545338.1672010627, 6380134.202011437]",,,
+Nowosiółki_prz_rus,113500,rus,przemyski,nowosiolki,Nowosiółki,22393,prz,rus_prz,nowosiolki_rus_prz,"[2675272.825529319, 6383848.693398758]",,,
+kanczuga_prz_rus,113600,rus,przemyski,polski_kanczuga,Kańczuga,1976,prz,rus_prz,polski_kanczuga_rus_prz,"[2493622.401036383, 6442775.1523079295]",,,
+pruchnik_prz_rus,113700,rus,przemyski,pruchnik,Pruchnik,2018,prz,rus_prz,pruchnik_rus_prz,"[2506056.3359929095, 6430104.15477912]","Pruchnik, Poland",Lwów,"{'lat': '49.916666666667', 'long': '22.516666666667'}"
+przeworsk_prz_rus,113800,rus,przemyski,przeworsk,Przeworsk,2022,prz,rus_prz,przeworsk_rus_prz,"[2504213.793961001, 6457076.354653335]","Przeworsk, Poland",Lwów,"{'lat': '50.066666666667', 'long': '22.5'}"
+Radymno_prz_rus,113900,rus,przemyski,radymno,Radymno,2934,prz,rus_prz,radymno_rus_prz,"[2540101.4356555976, 6438176.660632385]","Radymno, Poland",Lwów,"{'lat': '49.95', 'long': '22.833333333333'}"
+rybotycze_prz_rus,114000,rus,przemyski,rybotycze,Rybotycze,2028,prz,rus_prz,rybotycze_rus_prz,"[2520727.8512527267, 6386836.300453643]","Rybotycze, Poland",Lwów,"{'lat': '49.65', 'long': '22.65'}"
+SądowaWisznia_lwo_rus,114100,rus,lwowski,sadowa,Sądowa Wisznia,24072,lwo,rus_lwo,sadowa_rus_lwo,"[2602568.22403312, 6408320.790957506]",,,
+stary_sambor_prz_rus,114200,rus,przemyski,sambor,Sambor,2037,prz,rus_prz,sambor_rus_prz,"[2581679.391149245, 6362172.414936501]","Sambir, Ukraine",Lwów,"{'lat': '49.516666666667', 'long': '23.2'}"
+Sośnica_prz_rus,114400,rus,przemyski,sosnica,Sośnica,4156,prz,rus_prz,sosnica_rus_prz,"[2546447.2263362403, 6428529.049083193]",,,
+stanislawczyk_lwo_rus,114500,rus,lwowski,stanislawczyk,Stanisławczyk,2672,lwo,rus_lwo,stanislawczyk_rus_lwo,"[2774136.7025012774, 6474569.969184772]",,,
+stara_sol_prz_rus,114600,rus,przemyski,starosol,Stara Sól,2051,prz,rus_prz,starosol_rus_prz,"[2556353.7003290257, 6359196.6480384255]",,,
+stary_sambor_prz_rus,114700,rus,przemyski,stary_sambor,Stary Sambor,2052,prz,rus_prz,stary_sambor_rus_prz,"[2561325.884435739, 6348489.40736381]",,,
+"",114800,in,lipnowski,szumin,Sumin,13358,lip,in_lip,szumin_in_lip,"[2126168.543268826, 6964897.964442075]",,,
+TarnawaGórna_san_rus,114900,rus,sanocki,tarnawa,Tarnawa Górna,4228,san,rus_san,tarnawa_rus_san,"[2477229.7851382843, 6353557.799467637]",,,
+turka_prz_rus,115000,rus,przemyski,turka_w_gorach,Turka,2065,prz,rus_prz,turka_w_gorach_rus_prz,"[2562333.3418329502, 6300038.449046538]",,,
+Twierdza_prz_rus,115100,rus,przemyski,twierza,Twierdza,4279,prz,rus_prz,twierza_rus_prz,"[2585436.4519873844, 6411270.024013341]",,,
+ustrzyki_prz_rus,115200,rus,przemyski,ustrzyki,Ustrzyki Dolne,2075,prz,rus_prz,ustrzyki_rus_prz,"[2515705.196600629, 6349196.506359573]",,,
+Walawa_prz_rus,115300,rus,przemyski,walawa,Walawa,4314,prz,rus_prz,walawa_rus_prz,"[2547014.985914158, 6422359.72044198]",,,
+wielkie_oczy_blb_bel,115400,bel,belski,wielkie_oczy,Wielkie Oczy,2089,bel,bel_bel,wielkie_oczy_bel_bel,"[2578086.653662725, 6448613.191521832]",,,
+Wietlin_prz_rus,115500,rus,przemyski,wietlin,Wietlin,4327,prz,rus_prz,wietlin_rus_prz,"[2539865.868942037, 6446734.62671438]",,,
+wiszenki_prz_rus,115600,"",przemyski,wisznia,wisznia,2076,prz,_prz,wisznia__prz,,,,
+wyszatyce_prz_rus,115700,rus,przemyski,wyszatyce,Wyszatyce,3029,prz,rus_prz,wyszatyce_rus_prz,"[2547351.625810291, 6419023.333509898]",,,
+niżankowice_prz_rus,115800,rus,przemyski,suburb_of_nizankowicy,Niżankowice,2893,prz,rus_prz,suburb_of_nizankowicy_rus_prz,"[2538730.695066069, 6390127.238952837]",,,
+przemysl_prz_rus,115900,rus,przemyski,suburb_of_przemysl,Przemyśl,2019,prz,rus_prz,suburb_of_przemysl_rus_prz,"[2534974.150612664, 6408841.243308483]",,,
+lancut_prz_rus,116000,rus,przemyski,lancut,Łańcut,2004,prz,rus_prz,lancut_rus_prz,"[2475033.019971631, 6459217.62835093]","Łańcut, Poland",Lwów,"{'lat': '50.066666666667', 'long': '22.233333333333'}"
+"",116100,rus,przemyski,zulin,Żulin_villages,3651,prz,rus_prz,zulin_rus_prz,"[2646664.8266324755, 6304132.982837421]",,,
+berszada_bra_brac,120101,brac,braclawski,berszada,Berszada,18322,bra,brac_bra,berszada_brac_bra,"[3285112.152377043, 6167851.342987904]","Bershad, Ukraine",Ukraine SSR,"{'lat': '48.366666666667', 'long': '29.516666666667'}"
+_zhy_kiv,120102,kij,zytomierski,borszczejowka,Barszczówka,19925,zyt,kij_zyt,borszczejowka_kij_zyt,"[3336260.8433299204, 6715450.729577795]",,,
+bosówka_kiv_kiv,120103,kij,kijowski,bosowka,Bosówka,18911,kij,kij_kij,bosowka_kij_kij,"[3410073.4389690943, 6313000.783662164]",,,
+braclaw_bra_brac,120104,brac,braclawski,braclaw,Bracław,18420,bra,brac_bra,braclaw_brac_bra,"[3219926.226354873, 6244760.377295674]","Bratslav, Ukraine",Ukraine SSR,"{'lat': '48.833333333333', 'long': '28.95'}"
+_bra_brac,120105,brac,braclawski,brailow,Brahiłów,18441,bra,brac_bra,brailow_brac_bra,"[3133596.2027930506, 6295075.670425932]",,,
+cekinowka_bra_brac,120106,brac,braclawski,cekinowka,Cekinówka,18464,bra,brac_bra,cekinowka_brac_bra,"[3153185.610736931, 6131295.352161107]","Ceikiniai, Lithuania",Wilno,"{'lat': '55.266666666667', 'long': '26.266666666667'}"
+"",120107,kij,"",chaszejowka,chaszejowka,,"",kij_,chaszejowka_kij_,,,,
+"",120109,rus,chelmski,chwaszczow,Chaszczów,3424,che,rus_che,chwaszczow_rus_che,"[2537104.9957852424, 6319492.921307064]",,,
+czeczelnik_bra_brac,120110,brac,braclawski,czekielnik,Czeczelnik,18678,bra,brac_bra,czekielnik_brac_bra,"[3266999.477060086, 6142725.226600203]",,,
+czerniowce_bra,120111,pod,kamieniecki,czerniejowce,Czerniejowce,9598,kam,pod_kam,czerniejowce_pod_kam,"[3129832.211897067, 6197204.623127012]","Chernyatyn, Ukraine",Stanisławów,"{'lat': '48.666666666667', 'long': '25.45'}"
+daszow_bra_brac,120112,brac,braclawski,daszow,Daszów,22989,bra,brac_bra,daszow_brac_bra,"[3274227.6667500804, 6276264.939341517]","Dashiv, Ukraine",Ukraine SSR,"{'lat': '49', 'long': '29.45'}"
+dziunkow_bra_brac,120113,brac,braclawski,dziunkow,Dziuńków,23004,bra,brac_bra,dziunkow_brac_bra,"[3277361.392696576, 6352232.336851555]",,,
+"",120114,pod,kamieniecki,dωwinogrodka,Dźwinogród,9880,kam,pod_kam,dωwinogrodka_pod_kam,"[2924262.1249610195, 6197635.123720627]",,,
+gologory_lwo_rus,120115,rus,lwowski,gologorz,Gołogóry,3535,lwo,rus_lwo,gologorz_rus_lwo,"[2750385.568417082, 6403413.298270774]",,,
+granow_bra_brac,120116,brac,braclawski,granow,Granów,23114,bra,brac_bra,granow_brac_bra,"[3291224.2485572314, 6250460.35909597]","Hraniv, Ukraine",Ukraine SSR,"{'lat': '48.866666666667', 'long': '29.566666666667'}"
+hajsyn_bra_brac,120117,brac,braclawski,hajsan,Hajsyn,23157,bra,brac_bra,hajsan_brac_bra,"[3271666.0536547634, 6242577.391150965]",,,
+ilince_bra_brac,120118,brac,braclawski,ilince,Ilińce,23265,bra,brac_bra,ilince_brac_bra,"[3253347.1073279227, 6293019.784823154]",,,
+jahorlik_bra_brac,120119,brac,braclawski,jahorlik,Jahorłyk,22996,bra,brac_bra,jahorlik_brac_bra,"[3244530.5161033613, 6001119.149231687]",,,
+Bałta_bra_brac,120122,brac,braclawski,jozefgrod,Bałta,18206,bra,brac_bra,jozefgrod_brac_bra,"[3298428.885981665, 6095292.986612973]",,,
+kalnik_bra_brac,120123,brac,braclawski,kalnik,Kalnik,18007,bra,brac_bra,kalnik_brac_bra,"[3271450.463712814, 6279715.92114734]","Kalnik, Ukraine",Subcarpathia,"{'lat': '48.516666666667', 'long': '22.6'}"
+kochanowka_bra_brac,120125,brac,braclawski,kochanowka,Kochanówka,23221,bra,brac_bra,kochanowka_brac_bra,"[3199663.836441979, 6322334.847649853]","Kokhanovo, Belarus",Belarus SSR,"{'lat': '54.466666666667', 'long': '29.983333333333'}"
+Kalityna_bra_brac,120127,brac,braclawski,kolatynka,Kalityna,18006,bra,brac_bra,kolatynka_brac_bra,"[3144761.522599568, 6211297.406884158]",,,
+krasne_bra_brac,120128,brac,braclawski,krasne,Krasne,23229,bra,brac_bra,krasne_brac_bra,"[3162141.469364252, 6259651.892267669]",,,
+krute_bra_brac,120129,brac,braclawski,kruty,Krute,23263,bra,brac_bra,kruty_brac_bra,"[3251707.3962549437, 6097176.855775356]",,,
+kublicz_bra_brac,120130,brac,braclawski,kublicz,kublicz,19936,bra,brac_bra,kublicz_brac_bra,,,,
+kuźmicze_zhy_kiv,120131,kij,zytomierski,kuzminka,Kuźmicze,23345,zyt,kij_zyt,kuzminka_kij_zyt,"[3229224.1003509723, 6737171.415127554]",,,
+kuznica,120132,podl,"",kuznica,kuznica,,"",podl_,kuznica_podl_,,"Kuźnica, Poland",Białystok,"{'lat': '53.516666666667', 'long': '23.65'}"
+_bra_brac,120133,brac,braclawski,komajgrod,Komargród,23264,bra,brac_bra,komajgrod_brac_bra,"[3185217.9693299397, 6195982.666095097]",,,
+lipowiec_bra_brac,120134,brac,braclawski,lipowiec,Lipowiec,23266,bra,brac_bra,lipowiec_brac_bra,"[3234972.214972353, 6311927.772984574]",,,
+_hal_rus,120136,rus,halicki,markowka,Markówka,22439,hal,rus_hal,markowka_rus_hal,"[2765904.1587881413, 6191251.7861446105]",,,
+miastkowka_bra_brac,120137,brac,braclawski,miastkowka,Miastkówka,23269,bra,brac_bra,miastkowka_brac_bra,"[3194694.0683398577, 6168741.379637082]",,,
+monasterzyska_bra_brac,120138,brac,braclawski,monasterzyska,Monasterzyska,23271,bra,brac_bra,monasterzyska_brac_bra,"[3318728.681368082, 6273563.367267379]","Monastyryska, Ukraine",Tarnopol,"{'lat': '49.083333333333', 'long': '25.166666666667'}"
+morachwa_bra_brac,120139,brac,braclawski,murachwa,Morachwa,23272,bra,brac_bra,murachwa_brac_bra,"[3141655.806308454, 6237498.255770516]",,,
+peczara_bra_brac,120142,brac,braclawski,pieczara,Peczara,23275,bra,brac_bra,pieczara_brac_bra,"[3196251.60892717, 6248854.903265653]",,,
+przyluka_bra_brac,120143,brac,braclawski,przyluka,Przyłuka,23278,bra,brac_bra,przyluka_brac_bra,"[3198006.495533295, 6341009.082482021]","Nova Pryluka, Ukraine",Ukraine SSR,"{'lat': '49.383333333333', 'long': '28.716666666667'}"
+rozdziałowice,120146,rus,lwowski,roznialowka,Rozdziałowice,4086,lwo,rus_lwo,roznialowka_rus_lwo,"[2602486.758236317, 6386398.061685905]",,,
+sawran_bra_brac,120147,brac,braclawski,sawran,Sawrań,23281,bra,brac_bra,sawran_brac_bra,"[3349176.449192476, 6130567.628435214]","Savran, Ukraine",Ukraine SSR,"{'lat': '48.133333333333', 'long': '30.083333333333'}"
+"",120148,bel,belski,salasze,Sałasze,24234,bel,bel_bel,salasze_bel_bel,"[2653767.7465893873, 6498067.9905733755]",,,
+sieliszcze_zhy_kiv,120149,kij,zytomierski,sieliszcza,Sieliszcze,19625,zyt,kij_zyt,sieliszcza_kij_zyt,"[3465919.8781116623, 6329408.213238726]",,,
+sokolowka_bra_brac,120150,brac,braclawski,sokolowka,Sokołówka,23283,bra,brac_bra,sokolowka_brac_bra,"[3355699.813366223, 6277923.846436532]",,,
+strzyzawka_bra_brac,120151,brac,braclawski,strzyzawka,Strzyżawka,23284,bra,brac_bra,strzyzawka_brac_bra,"[3169078.3640643526, 6326171.728314006]",,,
+szopkowice,120152,"","",szopkowice,szopkowice,19938,"",_,szopkowice__,,,,
+teplik_bra_brac,120153,brac,braclawski,teplic,Teplik,23285,bra,brac_bra,teplic_brac_bra,"[3310976.7544809845, 6218176.559381315]",,,
+terłówka_bra_brac,120154,brac,braclawski,terlowka,Terłówka,18560,bra,brac_bra,terlowka_brac_bra,"[3325048.654155534, 6184584.693287484]","Terlytsia, Ukraine",Ukraine SSR,"{'lat': '48.933333333333', 'long': '29.7'}"
+tomaszpol_bra_brac,120155,brac,braclawski,tomaszpol,Tomaszpol,23287,bra,brac_bra,tomaszpol_brac_bra,"[3175302.687577316, 6198206.244674549]",,,
+trostianiec_bra_brac,120156,brac,braclawski,trostianiec,Trościaniec,23288,bra,brac_bra,trostianiec_brac_bra,"[3255011.347560048, 6193054.054077671]",,,
+tulczyn_bra_brac,120157,brac,braclawski,tulczyn,Tulczyn,23289,bra,brac_bra,tulczyn_brac_bra,"[3212527.908414969, 6218037.090608123]",,,
+turya_zhy_kiv,120158,kij,zytomierski,turia,Turya,19783,zyt,kij_zyt,turia_kij_zyt,"[3521502.5757090156, 6253558.345664695]",,,
+tywrow_bra_brac,120159,brac,braclawski,tywrow,Tywrów,23290,bra,brac_bra,tywrow_brac_bra,"[3175331.059137836, 6275904.407024046]","Tyvriv, Ukraine",Ukraine SSR,"{'lat': '49.016666666667', 'long': '28.5'}"
+uman_bra_brac,120160,kij,braclawski,uman,Urmań,23200,bra,kij_bra,uman_kij_bra,"[3362929.5721127023, 6232459.589533879]",,,
+uladowka_lat_pod,120161,pod,latyczewski,uladowka,Uładówka,23291,lat,pod_lat,uladowka_pod_lat,"[3143377.0327337184, 6357185.824570592]",,,
+winnica_bra_brac,120162,brac,braclawski,winnica,Winnica,23292,bra,brac_bra,winnica_brac_bra,"[3166517.019069158, 6312111.708236068]",,,
+woroszylowka_bra_brac,120164,brac,braclawski,woroszylowka,Woroszyłówka,23293,bra,brac_bra,woroszylowka_brac_bra,"[3154840.299376533, 6281217.076753666]","Voroshylivka, Ukraine",Ukraine SSR,"{'lat': '49.05', 'long': '28.333333333333'}"
+zadyby_wlo_wol,120165,wol,wlodzimierski,zadykowicz,Zadyby,12802,wlo,wol_wlo,zadykowicz_wol_wlo,"[2743039.584562519, 6644609.690506666]",,,
+zorniszcze_bra_brac,120167,brac,braclawski,zorniszcza,Żorniszcze,23295,bra,brac_bra,zorniszcza_brac_bra,"[3237553.8114380357, 6284411.792540129]",,,
+Wierzchówka_bra_brac,120168,brac,braclawski,zwierzchowka,Wierzchówka,18614,bra,brac_bra,zwierzchowka_brac_bra,"[3247200.931897749, 6180620.253974445]",,,
+ladyzyn_bra_brac,120169,brac,braclawski,ladyzyn,Ładyżyn,23268,bra,brac_bra,ladyzyn_brac_bra,"[3256889.084090402, 6220988.54940567]",,,
+barysz_hal_rus,120201,rus,halicki,barysz,Barysz,4449,hal,rus_hal,barysz_rus_hal,"[2814759.5386961773, 6281773.326294286]","Barysh, Ukraine",Tarnopol,"{'lat': '49.033333333333', 'long': '25.266666666667'}"
+Baworów_tre_rus,120202,rus,trembowelski,baworow,Baworów,4452,tre,rus_tre,baworow_rus_tre,"[2863158.195826336, 6351015.860082522]",,,
+Białobożnica_tre_rus,120203,rus,trembowelski,bialoboznica,Białobożnica,4854,tre,rus_tre,bialoboznica_rus_tre,"[2858028.8985394263, 6282658.869691625]",,,
+białobożnica_tre_rus,120204,rus,trembowelski,biloboznica,Białobożnica,4854,tre,rus_tre,biloboznica_rus_tre,"[2858028.8985394263, 6282658.869691625]",,,
+Bohorodczany_hal_rus,120205,rus,halicki,bohorodczany,Bohorodczany,1939,hal,rus_hal,bohorodczany_rus_hal,"[2731661.9498803196, 6242448.406058243]","Bohorodchany, Ukraine",Stanisławów,"{'lat': '48.8', 'long': '24.533333333333'}"
+bołszowce_hal_rus,120206,rus,halicki,bolszowiec,Bołszowce,2003,hal,rus_hal,bolszowiec_rus_hal,"[2753871.5656132847, 6305769.912400876]",,,
+buczacz_hal_rus,120207,rus,halicki,buczacz,Buczacz,2660,hal,rus_hal,buczacz_rus_hal,"[2824715.577273983, 6284525.893386741]","Buchach, Ukraine",Tarnopol,"{'lat': '49.083333333333', 'long': '25.4'}"
+budzanów_tre_rus,120208,rus,trembowelski,budzanow,Budzanów,6220,tre,rus_tre,budzanow_rus_tre,"[2863117.4403026076, 6302253.086431821]","Budaniv, Ukraine",Tarnopol,"{'lat': '49.166666666667', 'long': '25.716666666667'}"
+bukaczowce_hal_rus,120209,rus,halicki,bukaszowce,Bukaszowce,22360,hal,rus_hal,bukaszowce_rus_hal,"[2728114.7597817807, 6317139.204531528]","Bukachivtsi, Ukraine",Stanisławów,"{'lat': '49.25', 'long': '24.5'}"
+bursztyn_hal_rus,120210,rus,halicki,bursztyn,Bursztyn,2674,hal,rus_hal,bursztyn_rus_hal,"[2742740.742423976, 6318607.736556161]","Burshtyn, Ukraine",Stanisławów,"{'lat': '49.266666666667', 'long': '24.633333333333'}"
+chorostków_tre_rus,120211,rus,trembowelski,chorostkow,Chorostków,5151,tre,rus_tre,chorostkow_rus_tre,"[2884995.6608555517, 6312159.234441529]","Khorostkiv, Ukraine",Tarnopol,"{'lat': '49.233333333333', 'long': '25.916666666667'}"
+kol_rus,120212,rus,kolomyjski,czernelica,Czernelica,4461,kol,rus_kol,czernelica_rus_kol,"[2830730.355812032, 6242843.8599667065]",,,
+Czortków_tre_rus,120213,rus,trembowelski,czortkow,Czortków,3407,tre,rus_tre,czortkow_rus_tre,"[2872923.763982213, 6277608.984423526]","Chortkiv, Ukraine",Tarnopol,"{'lat': '49.016666666667', 'long': '25.8'}"
+chomiaków_hal_rus,120214,rus,halicki,delatyn,Chomiaków,5606,hal,rus_hal,delatyn_rus_hal,"[2748954.514324952, 6244936.897012516]",,,
+_tre_rus,120215,rus,trembowelski,grzymalow,Grzymałów,2664,tre,rus_tre,grzymalow_rus_tre,"[2896962.3211218785, 6331801.624242898]","Hrymayliv, Ukraine",Tarnopol,"{'lat': '49.333333333333', 'long': '26.033333333333'}"
+kol_rus,120216,rus,kolomyjski,gwoωdziec,Gwoździec,3495,kol,rus_kol,gwoωdziec_rus_kol,"[2816759.2178350626, 6205166.16304524]",,,
+halicz_hal_rus,120217,rus,halicki,halicz,Halicz,24172,hal,rus_hal,halicz_rus_hal,"[2755527.3169425167, 6292413.24470933]","Halych, Ukraine",Stanisławów,"{'lat': '49.116666666667', 'long': '24.733333333333'}"
+_kol_rus,120218,rus,kolomyjski,horodenka,Horodenka,22364,kol,rus_kol,horodenka_rus_kol,"[2837293.541564006, 6220806.68016728]","Horodenka, Ukraine",Stanisławów,"{'lat': '48.666666666667', 'long': '25.5'}"
+_hal_rus,120219,rus,halicki,horozanka,Horożanka,2782,hal,rus_hal,horozanka_rus_hal,"[2775419.9322115453, 6299287.460047563]",,,
+jezupol_hal_rus,120221,rus,halicki,jezupol,Jezupol,2666,hal,rus_hal,jezupol_rus_hal,"[2758669.9921072116, 6280103.278526264]","Yezupil', Ukraine",Stanisławów,"{'lat': '49.033333333333', 'long': '24.783333333333'}"
+kakielniki_hal_rus,120222,rus,halicki,kakielniki,kakielniki,,hal,rus_hal,kakielniki_rus_hal,,,,
+kopyczyńce_tre_rus,120225,rus,trembowelski,kopyczynce,Kopyczyńce,22368,tre,rus_tre,kopyczynce_rus_tre,"[2885200.382931482, 6293086.903555133]","Kopychyntsi, Ukraine",Tarnopol,"{'lat': '49.1', 'long': '25.933333333333'}"
+kosów_kol_rus,120226,rus,kolomyjski,kosow,Kosów,22369,kol,rus_kol,kosow_rus_kol,"[2793950.52286342, 6161147.727125681]","Kosiv, Ukraine",Stanisławów,"{'lat': '48.316666666667', 'long': '25.1'}"
+_tre_rus,120227,rus,trembowelski,kozlow,Kozłów,2820,tre,rus_tre,kozlow_rus_tre,"[2822050.3805220416, 6369711.247920042]","Kozliv, Ukraine",Tarnopol,"{'lat': '49.55', 'long': '25.35'}"
+_kol_rus,120228,rus,kolomyjski,kolomyja,Kołomyja,22367,kol,rus_kol,kolomyja_rus_kol,"[2787582.283243707, 6196344.259817851]","Kolomyya, Ukraine",Stanisławów,"{'lat': '48.533333333333', 'long': '25.033333333333'}"
+kupczyńce_tre_rus,120229,rus,trembowelski,kupczynce,Kupczyńce,24211,tre,rus_tre,kupczynce_rus_tre,"[2823502.3500279086, 6351548.5011084005]","Kopychyntsi, Ukraine",Tarnopol,"{'lat': '49.1', 'long': '25.933333333333'}"
+_kol_rus,120230,rus,kolomyjski,kuty,Kuty,1988,kol,rus_kol,kuty_rus_kol,"[2803590.8170815124, 6149322.177066036]","Kuty, Ukraine",Stanisławów,"{'lat': '48.25', 'long': '25.183333333333'}"
+_kol_rus,120231,rus,kolomyjski,kulaczkowce,Kułaczkowce,1987,kol,rus_kol,kulaczkowce_rus_kol,"[2817312.2089804704, 6200022.847535466]","Kulchyny, Ukraine",Ukraine SSR,"{'lat': '49.75', 'long': '26.9'}"
+martynow_hal_rus,120232,rus,halicki,martynow,Martynów Nowy,2001,hal,rus_hal,martynow_rus_hal,"[2734415.975371508, 6312082.502738907]",,,
+mariampol_hal_rus,120233,rus,halicki,maryampol,Mariampol,1999,hal,rus_hal,maryampol_rus_hal,"[2768098.0177013874, 6278916.971157738]",,,
+mariampol_hal_rus,120234,rus,halicki,maryampol_and_jezupol,Mariampol,1999,hal,rus_hal,maryampol_and_jezupol_rus_hal,"[2768098.0177013874, 6278916.971157738]",,,
+michalcze_kol_rus,120235,rus,kolomyjski,michalcze,Michalcze,4484,kol,rus_kol,michalcze_rus_kol,"[2844766.475833081, 6237657.348843831]",,,
+mikulińce_tre_rus,120236,rus,trembowelski,mikulince,Mikulińce,2002,tre,rus_tre,mikulince_rus_tre,"[2852138.0510358545, 6340726.719344575]","Mikulintsy, Ukraine",Tarnopol,"{'lat': '49.4', 'long': '25.6'}"
+nadwórna_hal_rus,120238,rus,halicki,nadworna,Nadwórna,2011,hal,rus_hal,nadworna_rus_hal,"[2735186.5410805484, 6212425.995000599]","Nadvirna, Ukraine",Stanisławów,"{'lat': '48.633333333333', 'long': '24.583333333333'}"
+niżniów_hal_rus,120239,rus,halicki,nizniow,Niżniów,4973,hal,rus_hal,nizniow_rus_hal,"[2795805.5602832776, 6266054.995832755]","Nyzhniv, Ukraine",Stanisławów,"{'lat': '48.95', 'long': '25.083333333333'}"
+obertyn_kol_rus,120240,rus,kolomyjski,obertyn,Obertyn,6371,kol,rus_kol,obertyn_rus_kol,"[2802122.841657834, 6224133.772801006]","Obertyn, Ukraine",Stanisławów,"{'lat': '48.7', 'long': '25.166666666667'}"
+ottynia_hal_rus,120241,rus,halicki,otynia,Ottynia,22372,hal,rus_hal,otynia_rus_hal,"[2768035.9646361456, 6229565.184434591]",,,
+pistyń_kol_rus,120242,rus,kolomyjski,pistynia,Pistyń,2690,kol,rus_kol,pistynia_rus_kol,"[2786152.678474021, 6166808.472843168]",,,
+_hal_rus,120243,rus,halicki,podhajce,Podhajce,2692,hal,rus_hal,podhajce_rus_hal,"[2797206.558729638, 6320429.353080722]","Pidhaytsi, Ukraine",Tarnopol,"{'lat': '49.266666666667', 'long': '25.133333333333'}"
+podkamien_lwo_rus_hal_rus,120244,rus,halicki,podkamien,Podkamień,22373,hal,rus_hal,podkamien_rus_hal,"[2818489.8037377857, 6436391.078480446]","Pidkamin, Ukraine",Tarnopol,"{'lat': '49.933333333333', 'long': '25.316666666667'}"
+rohatyn_hal_rus,120246,rus,halicki,rohatyn,Rohatyn,2024,hal,rus_hal,rohatyn_rus_hal,"[2742074.1965598483, 6344143.636819413]","Rohatyn, Ukraine",Stanisławów,"{'lat': '49.416666666667', 'long': '24.616666666667'}"
+skałat_tre_rus,120247,rus,trembowelski,skalat,Skałat,2035,tre,rus_tre,skalat_rus_tre,"[2890809.970378758, 6348848.677303573]","Skalat, Ukraine",Tarnopol,"{'lat': '49.433333333333', 'long': '25.983333333333'}"
+_kol_rus,120248,rus,kolomyjski,sniatyn,Śniatyn,2058,kol,rus_kol,sniatyn_rus_kol,"[2844943.022468042, 6181387.1570044095]","Snyatyn, Ukraine",Stanisławów,"{'lat': '48.45', 'long': '25.566666666667'}"
+_hal_rus,120249,rus,halicki,solotwina,Sołotwina,2049,hal,rus_hal,solotwina_rus_hal,"[2720261.18981043, 6223835.32280405]","Solotvyn, Ukraine",Stanisławów,"{'lat': '48.7', 'long': '24.416666666667'}"
+stanislawow_hal_rus,120250,rus,halicki,stanislawow,Stanisławów,2669,hal,rus_hal,stanislawow_rus_hal,"[2749923.4941484868, 6260034.3214325905]","Stanisławów, Poland",Warszawa,"{'lat': '52.3', 'long': '21.55'}"
+_hal_rus,120251,rus,halicki,stratyn,Stratyn Miasto,6124,hal,rus_hal,stratyn_rus_hal,"[2750328.377895205, 6354765.51475566]",,,
+_tre_rus,120252,rus,trembowelski,strusow,Strusów,2050,tre,rus_tre,strusow_rus_tre,"[2852273.267503798, 6334369.998470289]",,,
+stupczate_kol_rus,120253,rus,kolomyjski,stupczate,stupczate,,kol,rus_kol,stupczate_rus_kol,,,,
+suchostaw_tre_rus,120254,rus,trembowelski,suchostaw,Suchostaw,2056,tre,rus_tre,suchostaw_rus_tre,"[2878612.9288123096, 6302253.086431821]","Sukhostav, Ukraine",Tarnopol,"{'lat': '49.133333333333', 'long': '25.866666666667'}"
+tarnopol_tre_rus,120255,rus,trembowelski,tarnopol,Tarnopol,2064,tre,rus_tre,tarnopol_rus_tre,"[2848799.98654277, 6370296.9643937275]","Ternopil, Ukraine",Tarnopol,"{'lat': '49.55', 'long': '25.583333333333'}"
+tluste_kac_pod,120256,rus,trembowelski,towste,Touste,22379,tre,rus_tre,towste_rus_tre,"[2905751.3937407616, 6321603.459250359]",,,
+_tre_rus,120257,rus,trembowelski,trembowla,Trembowla,2699,tre,rus_tre,trembowla_rus_tre,"[2861197.5565906307, 6324911.442844942]","Terebovlya, Ukraine",Tarnopol,"{'lat': '49.3', 'long': '25.716666666667'}"
+tysmienica_hal_rus,120258,rus,halicki,tysmenica,Tyśmienica,2067,hal,rus_hal,tysmenica_rus_hal,"[2764681.803423607, 6258447.826395161]",,,
+tłumacz_hal_rus,120259,rus,halicki,tlumacz,Tłumacz,22378,hal,rus_hal,tlumacz_rus_hal,"[2785729.39803314, 6252583.851049883]","Tlumach, Ukraine",Stanisławów,"{'lat': '48.866666666667', 'long': '25'}"
+uscie_hal_rus,120260,pod,czerwonogrodzki,uscie,Uścieczko,10317,cze,pod_cze,uscie_pod_cze,"[2850061.543291253, 6236452.4937054105]",,,
+wiśniowczyk_tre_rus,120261,rus,trembowelski,wisniowczyk,Wiśniowczyk,5499,tre,rus_tre,wisniowczyk_rus_tre,"[2823592.715787772, 6314564.859391703]","Vyshnivchyk, Ukraine",Tarnopol,"{'lat': '49.233333333333', 'long': '25.366666666667'}"
+wojniłów_hal_rus,120262,rus,halicki,wojnilow,Wojniłów,2702,hal,rus_hal,wojnilow_rus_hal,"[2726196.5721685044, 6294855.031896317]","Voinyliv, Ukraine",Stanisławów,"{'lat': '49.133333333333', 'long': '24.5'}"
+zabłotów_kol_rus,120263,rus,kolomyjski,zablotow,Zabłotów,6226,kol,rus_kol,zablotow_rus_kol,"[2814159.9363719276, 6183878.497871357]","Zabolotiv, Ukraine",Stanisławów,"{'lat': '48.466666666667', 'long': '25.283333333333'}"
+zarwanica_tre_rus,120264,rus,trembowelski,zarwanica,Zarwanica,5497,tre,rus_tre,zarwanica_rus_tre,"[2823068.7137942426, 6312548.974064509]",,,
+zawalow_hal_rus,120265,rus,halicki,zawalow,Zawałów,22380,hal,rus_hal,zawalow_rus_hal,"[2785146.3916872484, 6310144.600319381]","Zavalov, Ukraine",Tarnopol,"{'lat': '49.2', 'long': '25.033333333333'}"
+złotniki_hal_rus,120266,rus,halicki,zlotniki,Złotniki,4510,hal,rus_hal,zlotniki_rus_hal,"[2824790.434673024, 6324950.581379647]","Zolotnyky, Ukraine",Tarnopol,"{'lat': '49.283333333333', 'long': '25.383333333333'}"
+_kol_rus,120267,rus,kolomyjski,dniatyn,Datyń,4063,kol,rus_kol,dniatyn_rus_kol,"[2756796.684835188, 6713223.417775052]",,,
+_hal_rus,120268,rus,halicki,lysiec,Łysiec,2862,hal,rus_hal,lysiec_rus_hal,"[2738817.4937470215, 6252029.334169096]","Lysets', Ukraine",Stanisławów,"{'lat': '48.866666666667', 'long': '24.6'}"
+bialy_kamien_lwo_rus,120301,rus,lwowski,bialykamien,Biały Kamień,1931,lwo,rus_lwo,bialykamien_rus_lwo,"[2763778.0293946336, 6429092.376388077]",,,
+bialy_kamien_lwo_rus,120302,rus,lwowski,bialykamien_bobrka,Biały Kamień,1931,lwo,rus_lwo,bialykamien_bobrka_rus_lwo,"[2763778.0293946336, 6429092.376388077]",,,
+bolechow_zyd_rus,120303,rus,zydaczowski,bolechow,Bolechów,1944,zyd,rus_zyd,bolechow_rus_zyd,"[2655923.840726898, 6283955.649293438]","Bolekhiv, Ukraine",Stanisławów,"{'lat': '49.066666666667', 'long': '23.866666666667'}"
+brody_lwo_rus,120304,rus,lwowski,brody,Brody,2658,lwo,rus_lwo,brody_rus_lwo,"[2798554.018041672, 6461936.102144017]","Brody, Ukraine",Tarnopol,"{'lat': '50.083333333333', 'long': '25.15'}"
+brzezany_lwo_rus,120305,rus,lwowski,brzezany,Brzeżany,1982,lwo,rus_lwo,brzezany_rus_lwo,"[2776866.1312576756, 6351432.282082548]","Berezhany, Ukraine",Tarnopol,"{'lat': '49.45', 'long': '24.933333333333'}"
+brzozdowce_zyd_rus,120306,rus,zydaczowski,brzozdowce,Brzozdowce,2021,zyd,rus_zyd,brzozdowce_rus_zyd,"[2690253.2673705244, 6353568.297149791]","Berezdivtsi, Ukraine",Lwów,"{'lat': '49.45', 'long': '24.15'}"
+bobrka_lwo_rus,120307,rus,lwowski,bobrka,Bóbrka,1951,lwo,rus_lwo,bobrka_rus_lwo,"[2706013.222036614, 6384420.706958323]","Bobrka, Ukraine",Lwów,"{'lat': '49.633333333333', 'long': '24.3'}"
+chodorow_zyd_rus,120308,rus,zydaczowski,chodorow,Chodorów,1938,zyd,rus_zyd,chodorow_rus_zyd,"[2707314.801188142, 6345099.164279353]","Khodoriv, Ukraine",Lwów,"{'lat': '49.4', 'long': '24.316666666667'}"
+dolina_zyd_rus,120309,rus,zydaczowski,dolina,Dolina,22362,zyd,rus_zyd,dolina_rus_zyd,"[2672821.385567211, 6268446.433473415]",,,
+dunajow_lwo_rus,120310,rus,lwowski,dunajow,Dunajów,1953,lwo,rus_lwo,dunajow_rus_lwo,"[2763598.5692982026, 6379589.662828675]","Dunayev, Ukraine",Tarnopol,"{'lat': '49.616666666667', 'long': '24.833333333333'}"
+gliniany_lwo_rus,120311,rus,lwowski,gliniany,Gliniany,2663,lwo,rus_lwo,gliniany_rus_lwo,"[2730511.834785086, 6414637.554145779]","Hlyniany, Ukraine",Tarnopol,"{'lat': '49.816666666667', 'long': '24.516666666667'}"
+gologory_lwo_rus,120312,rus,lwowski,gologory,Gołogóry,1955,lwo,rus_lwo,gologory_rus_lwo,"[2750056.886874844, 6402419.290653218]","Holohory, Ukraine",Tarnopol,"{'lat': '49.75', 'long': '24.716666666667'}"
+jaryczow_lwo_rus,120315,rus,lwowski,jaryczow,Jaryczów Nowy,1972,lwo,rus_lwo,jaryczow_rus_lwo,"[2704422.4029957703, 6430712.204598033]",,,
+jaworow_lwo_rus,120316,rus,lwowski,jaworow,Jaworów,1974,lwo,rus_lwo,jaworow_rus_lwo,"[2601144.3647952667, 6434780.495227762]","Yavoriv, Ukraine",Lwów,"{'lat': '49.933333333333', 'long': '23.383333333333'}"
+knihynicze_lwo_rus,120318,rus,lwowski,knichynicze,Knihynicze,1977,lwo,rus_lwo,knichynicze_rus_lwo,"[2723103.6798331547, 6339948.56465124]",,,
+komarno_lwo_rus,120319,rus,lwowski,komarno,Komarno,2681,lwo,rus_lwo,komarno_rus_lwo,"[2636886.387368048, 6382513.691847744]","Komarno, Ukraine",Lwów,"{'lat': '49.633333333333', 'long': '23.7'}"
+kozowa_lwo_rus,120320,rus,lwowski,kozowa,Kozowa,22370,lwo,rus_lwo,kozowa_rus_lwo,"[2798438.511337803, 6348501.428063638]","Kozova, Ukraine",Tarnopol,"{'lat': '49.433333333333', 'long': '25.15'}"
+kukizów_lwo_rus,120321,rus,lwowski,kukizow,Kukizów,24173,lwo,rus_lwo,kukizow_rus_lwo,"[2700695.9975748067, 6435425.236203557]","Kukeziv, Ukraine",Lwów,"{'lat': '49.933333333333', 'long': '24.266666666667'}"
+kulikow_lwo_rus,120322,rus,lwowski,kulikow,Kulików,1985,lwo,rus_lwo,kulikow_rus_lwo,"[2679785.7214863556, 6440982.564053986]","Kulykiv, Ukraine",Lwów,"{'lat': '49.983333333333', 'long': '24.083333333333'}"
+lwow_lwo_rus,120323,rus,lwowski,lwow,Lwów,1991,lwo,rus_lwo,lwow_rus_lwo,"[2675554.2806039285, 6418719.782354218]","Lviv, Ukraine",Lwów,"{'lat': '49.833333333333', 'long': '24'}"
+narajow_lwo_rus,120325,rus,lwowski,narajow,Narajów,2687,lwo,rus_lwo,narajow_rus_lwo,"[2757993.233110002, 6365498.821824714]","Narayiv, Ukraine",Tarnopol,"{'lat': '49.533333333333', 'long': '24.766666666667'}"
+nawarja_lwo_rus,120326,rus,lwowski,nawarya,Nawarja,2013,lwo,rus_lwo,nawarya_rus_lwo,"[2664319.5327762826, 6401790.4505252065]",,,
+olesko_lwo_rus,120327,rus,lwowski,olesko,Olesko,22371,lwo,rus_lwo,olesko_rus_lwo,"[2769056.6561482768, 6440214.464486881]","Olesko, Ukraine",Tarnopol,"{'lat': '49.966666666667', 'long': '24.883333333333'}"
+_lwo_rus,120329,rus,lwowski,podwysokie,Podwysokie,3164,lwo,rus_lwo,podwysokie_rus_lwo,"[2760741.0113076596, 6343466.870451399]",,,
+pomorzany_lwo_rus,120330,rus,lwowski,pomorzany,Pomorzany,22374,lwo,rus_lwo,pomorzany_rus_lwo,"[2777144.5246048393, 6382006.323757154]","Pomoryany, Ukraine",Tarnopol,"{'lat': '49.633333333333', 'long': '24.933333333333'}"
+przemyslany_lwo_rus,120331,rus,lwowski,przemysliany,Przemyślany,22376,lwo,rus_lwo,przemysliany_rus_lwo,"[2732899.706685986, 6389243.29397041]",,,
+rozdol_zyd_rus,120332,rus,zydaczowski,rozdol,Rozdół,2027,zyd,rus_zyd,rozdol_rus_zyd,"[2678083.5020384314, 6353966.86759931]","Rozdil, Ukraine",Stanisławów,"{'lat': '49.466666666667', 'long': '24.066666666667'}"
+rozniatow_zyd_rus,120333,rus,zydaczowski,rozniatow,Rożniatów,22377,zyd,rus_zyd,rozniatow_rus_zyd,"[2688563.303542146, 6264167.750112158]","Rozhnyativ, Ukraine",Stanisławów,"{'lat': '48.933333333333', 'long': '24.166666666667'}"
+sasow_lwo_rus,120334,rus,lwowski,sasow,Sasów,2030,lwo,rus_lwo,sasow_rus_lwo,"[2775998.411789953, 6424340.74598882]","Sasiv, Ukraine",Tarnopol,"{'lat': '49.866666666667', 'long': '24.95'}"
+strzeliska_lwo_rus,120338,rus,lwowski,strzeliska,Strzeliska Nowe,2055,lwo,rus_lwo,strzeliska_rus_lwo,"[2716512.627485943, 6362527.65711889]",,,
+lwow_lwo_rus,120339,rus,lwowski,suburb_of_lwow,Lwów,1991,lwo,rus_lwo,suburb_of_lwow_rus_lwo,"[2675554.2806039285, 6418719.782354218]",,,
+szczerzec_lwo_rus,120341,rus,lwowski,szczerzec,Szczerzec,2697,lwo,rus_lwo,szczerzec_rus_lwo,"[2654751.0366324806, 6385892.415638327]","Shchyrets, Ukraine",Lwów,"{'lat': '49.65', 'long': '23.866666666667'}"
+_lwo_rus,120342,rus,lwowski,winniki,Winniki,3016,lwo,rus_lwo,winniki_rus_lwo,"[2687370.492150577, 6413415.523866906]","Vynnyky, Ukraine",Lwów,"{'lat': '49.816666666667', 'long': '24.1'}"
+wybranowka_lwo_rus,120343,rus,lwowski,wybranowka,Wybranówka,5582,lwo,rus_lwo,wybranowka_rus_lwo,"[2694559.3251827997, 6370431.320791926]","Vybranivka, Ukraine",Lwów,"{'lat': '49.55', 'long': '24.216666666667'}"
+zborow_lwo_rus,120344,rus,lwowski,zborow,Zborów,22381,lwo,rus_lwo,zborow_rus_lwo,"[2797842.4892214164, 6388047.024516345]","Zboriv, Ukraine",Tarnopol,"{'lat': '49.666666666667', 'long': '25.15'}"
+zloczow_lwo_rus,120345,rus,lwowski,zloczow,Złoczów,22382,lwo,rus_lwo,zloczow_rus_lwo,"[2770509.0478267474, 6414119.576521197]","Zolochiv, Ukraine",Tarnopol,"{'lat': '49.8', 'long': '24.9'}"
+zurawno_zyd_rus,120346,rus,zydaczowski,zurawno,Żurawno,22385,zyd,rus_zyd,zurawno_rus_zyd,"[2703457.065149245, 6318012.292182937]","Zhuravno, Ukraine",Stanisławów,"{'lat': '49.25', 'long': '24.283333333333'}"
+zurow_zyd_rus,120347,rus,zydaczowski,zurow,Żurów,22386,zyd,rus_zyd,zurow_rus_zyd,"[2724058.1712376336, 6326350.87246901]","Zhuriv, Ukraine",Stanisławów,"{'lat': '49.316666666667', 'long': '24.45'}"
+zydaczow_zyd_rus,120348,rus,zydaczowski,zydaczow,Żydaczów,22387,zyd,rus_zyd,zydaczow_rus_zyd,"[2688980.612197919, 6338834.476173463]","Zhydachiv, Ukraine",Stanisławów,"{'lat': '49.383333333333', 'long': '24.133333333333'}"
+zolkiew_lwo_rus,120349,rus,lwowski,zolkiew,Żółkiew,22383,lwo,rus_lwo,zolkiew_rus_lwo,"[2670157.3492142777, 6458011.867430966]","Zhovkva, Ukraine",Lwów,"{'lat': '50.066666666667', 'long': '23.966666666667'}"
+bircza_prz_rus,130100,rus,przemyski,biercza,Bircza,1934,prz,rus_prz,biercza_rus_prz,"[2502461.3488880503, 6391512.870223576]",,,
+nowe_miasto_prz_rus,130400,rus,przemyski,nowomiasto_bybel,Nowe Miasto,2015,prz,rus_prz,nowomiasto_bybel_rus_prz,"[2545338.1672010627, 6380134.202011437]",,,
+_prz_rus,131100,rus,przemyski,uszkow,uszkow_villages,,prz,rus_prz,uszkow_rus_prz,,,,
+"",131200,rus,przemyski,laszki,Laszki Murowane,1993,prz,rus_prz,laszki_rus_prz,"[2551910.148499202, 6362768.798447167]",,,
+_luk_wol,140101,wol,lucki,dubno,Dubno,22579,luc,wol_luc,dubno_wol_luc,"[2862834.6474303985, 6520033.698874783]","Dubno, Ukraine",Wołyń,"{'lat': '50.416666666667', 'long': '25.75'}"
+kamień koszyrski_luk_wol,140102,wol,lucki,kamien_korzecki,Kamień Koszyrski,22616,luc,wol_luc,kamien_korzecki_wol_luc,"[2779083.2646254892, 6731294.5786032425]",,,
+kowel_luk_wol,140103,wol,lucki,kowel,Kowel,11469,luc,wol_luc,kowel_wol_luc,"[2750871.692508228, 6658093.727232839]","Kovel, Ukraine",Wołyń,"{'lat': '51.216666666667', 'long': '24.716666666667'}"
+michnów_luk_wol,140104,wol,lucki,michnowka,Michnów,12148,luc,wol_luc,michnowka_wol_luc,"[2973508.47413923, 6456154.841669321]",,,
+milanowicze_luk_wol,140106,wol,lucki,milianowiec,Milanowicze,12157,luc,wol_luc,milianowiec_wol_luc,"[2721141.650441239, 6654204.873318992]",,,
+niesuchojeże_wlo_wol,140107,wol,wlodzimierski,niesuchojeze,Niesuchojeże,22638,wlo,wol_wlo,niesuchojeze_wol_wlo,"[2764777.6798523776, 6688633.84910933]","Nesukhoyezhe, Ukraine",Wołyń,"{'lat': '51.383333333333', 'long': '24.816666666667'}"
+ołyka_luk_wol,140108,wol,lucki,olyka,Ołyka,22640,luc,wol_luc,olyka_wol_luc,"[2873465.9454267113, 6569540.986553337]","Olyka, Ukraine",Wołyń,"{'lat': '50.716666666667', 'long': '25.816666666667'}"
+warkowicze_luk_wol,140109,wol,lucki,warkowicze,Warkowicze,22658,luc,wol_luc,warkowicze_wol_luc,"[2893602.0461653112, 6527853.200019225]","Varkovychi, Ukraine",Wołyń,"{'lat': '50.466666666667', 'long': '25.966666666667'}"
+wyżwa nowa_wlo_wol,140110,wol,wlodzimierski,wyzwa,Wyżwa Nowa,12797,wlo,wol_wlo,wyzwa_wol_wlo,"[2718664.1469022837, 6692778.281748981]",,,
+"",140301,pod,"",borowce,borowce,,"",pod_,borowce_pod_,,,,
+czartorysk_luk_pod,140302,pod,lucki,czartorysk,Czartorysk,22607,luc,pod_luc,czartorysk_pod_luc,"[2880194.027671904, 6661098.395450979]","Staryi Chortoryisk, Ukraine",Wołyń,"{'lat': '51.216666666667', 'long': '25.883333333333'}"
+czetwertnia_luk_wol,140303,wol,lucki,czetwertnie,Czetwertnia,11648,luc,wol_luc,czetwertnie_wol_luc,"[2834803.30757396, 6629102.636720077]",,,
+horochów_wlo_wol,140304,wol,wlodzimierski,derewicz,Horochów,22610,wlo,wol_wlo,derewicz_wol_wlo,"[2756246.6247709743, 6533499.766170222]",,,
+_luk_pod,140306,pod,lucki,janowka,Janówka,22614,luc,pod_luc,janowka_pod_luc,"[2811822.1517411727, 6637652.649079367]",,,
+kaszówka_luk_pod,140307,pod,lucki,kaszowka,Kaszówka,22617,luc,pod_luc,kaszowka_pod_luc,"[2818910.858186785, 6649808.342687679]","Kashivka, Ukraine",Wołyń,"{'lat': '51.166666666667', 'long': '25.35'}"
+_luk_wol,140308,wol,lucki,kilikiew,Kilikijów,11860,luc,wol_luc,kilikiew_wol_luc,"[3011473.406846619, 6538570.386282447]",,,
+_luk_wol,140309,wol,lucki,klewan,Klewań,22500,luc,wol_luc,klewan_wol_luc,"[2891841.897468545, 6575138.936866691]","Klevan, Ukraine",Wołyń,"{'lat': '50.75', 'long': '25.983333333333'}"
+kołki_luk_wol,140310,wol,lucki,kolki,Kołki,22619,luc,wol_luc,kolki_wol_luc,"[2858362.549444607, 6638656.328311129]","Kolky, Ukraine",Wołyń,"{'lat': '51.1', 'long': '25.666666666667'}"
+krasnystaw_luk_wol,140311,wol,lucki,krasnostaw,Krasnystaw,11965,luc,wol_luc,krasnostaw_wol_luc,"[3025419.114155251, 6516380.2852274105]",,,
+leszniów_luk_pod,140312,pod,lucki,leszniowek,Leszniów,22628,luc,pod_luc,leszniowek_pod_luc,"[2792981.637745908, 6488264.703746524]",,,
+"",140313,wol,krzemieniecki,mielnica,Mielnica,22634,krz,wol_krz,mielnica_wol_krz,"[2792974.532091492, 6647408.851990659]","Melnytsya, Ukraine",Wołyń,"{'lat': '51.15', 'long': '25.1'}"
+morawica,140314,pod,"",morawica,morawica,,"",pod_,morawica_pod_,,,,
+_luk_wol,140315,wol,lucki,okonsk,Okońsk,12269,luc,wol_luc,okonsk_wol_luc,"[2842369.648907491, 6665860.924098545]",,,
+_luk_pod,140316,pod,lucki,ostrozec,Ostrożec,22641,luc,pod_luc,ostrozec_pod_luc,"[2844247.477440836, 6561894.2391814785]","Ostrozhets, Ukraine",Wołyń,"{'lat': '50.666666666667', 'long': '25.55'}"
+rafalowka_prz_rus_luk_wol,140317,wol,lucki,rafalowka,Rafałówka,12447,luc,wol_luc,rafalowka_wol_luc,"[2879086.8740698737, 6686892.004390191]","Rafalivka, Ukraine",Polesie,"{'lat': '51.316666666667', 'long': '25.983333333333'}"
+targowica_luk_wol,140318,wol,lucki,targowica,Targowica,22654,luc,wol_luc,targowica_wol_luc,"[2827842.8918432663, 6543161.3668740615]",,,
+trojanówka_luk_wol,140319,wol,lucki,trojanowka,Trojanówka,12674,luc,wol_luc,trojanowka_wol_luc,"[2814157.2549702385, 6679653.854510281]","Troyanivka, Ukraine",Wołyń,"{'lat': '51.333333333333', 'long': '25.283333333333'}"
+wiszenki_prz_rus_bra_brac,140320,brac,braclawski,wisienki,Wiszenka,18620,bra,brac_bra,wisienki_brac_bra,"[3158466.3214234244, 6396154.928776354]",,,
+łuck_luk_wol,140321,wol,lucki,luck,Łuck,24175,luc,wol_luc,luck_wol_luc,"[2820923.230535072, 6578645.293589909]",,,
+tetyjow_bra_brac,140405,brac,braclawski,tetyjow,Tetyjów,23286,bra,brac_bra,tetyjow_brac_bra,"[3303764.1672571586, 6335812.437127382]","Tetiyev, Ukraine",Ukraine SSR,"{'lat': '49.383333333333', 'long': '29.666666666667'}"
+zywotow_bra_brac,140408,brac,braclawski,zywotow,Żywotów,23296,bra,brac_bra,zywotow_brac_bra,"[3289489.457547107, 6321170.299643795]","Zhyvotiv, Ukraine",Ukraine SSR,"{'lat': '49.266666666667', 'long': '29.533333333333'}"
+berdyczow_zhy_kiv,140501,kij,zytomierski,berdyczow,Berdyczów,2168,zyt,kij_zyt,berdyczow_kij_zyt,"[3183527.3630823973, 6429011.842864756]","Berdychiv, Ukraine",Ukraine SSR,"{'lat': '49.9', 'long': '28.583333333333'}"
+biala_cerkiew_kiv_kiv,140502,kij,kijowski,bialocerkiew,Białacerkiew,2169,kij,kij_kij,bialocerkiew_kij_kij,"[3353168.5929940166, 6408763.180760986]",,,
+bialopole_wlo_wol,140503,wol,wlodzimierski,bialopole,Białopole,2170,wlo,wol_wlo,bialopole_wol_wlo,"[3214052.5684942305, 6417798.097505686]",,,
+bilylow_kiv_kiv,140504,kij,kijowski,biylowka,Białołówka,2171,kij,kij_kij,biylowka_kij_kij,"[3231767.886489917, 6390312.8713075565]",,,
+bilylow_kiv_kiv,140505,kij,kijowski,bilylowka,Białołówka,2171,kij,kij_kij,bilylowka_kij_kij,"[3231767.886489917, 6390312.8713075565]",,,
+bohuslaw_kiv_kiv,140506,kij,kijowski,bohuslaw,Bohusław,2172,kij,kij_kij,bohuslaw_kij_kij,"[3438599.0486353924, 6365892.758706811]","Bohuslav, Ukraine",Ukraine SSR,"{'lat': '49.55', 'long': '30.883333333333'}"
+borodzianka_kiv_kiv,140507,kij,kijowski,borodianka,Borodzianka,2174,kij,kij_kij,borodianka_kij_kij,"[3332013.1192192542, 6557889.702681606]",,,
+borowica_kiv_kiv,140508,kij,kijowski,borowica,Borowica,24400,kij,kij_kij,borowica_kij_kij,"[3623333.283997436, 6314189.712713109]","Bobrovytsia, Ukraine",Ukraine SSR,"{'lat': '50.75', 'long': '31.383333333333'}"
+brusilow_kiv_kiv_zhy_kiv,140510,kij,zytomierski,brusylow,Brusiłów,2175,zyt,kij_zyt,brusylow_kij_zyt,"[3286786.6545969425, 6495266.036922951]",,,
+buzyn_kiv_kiv,140511,kij,kijowski,buzyn,Bużyn,24399,kij,kij_kij,buzyn_kij_kij,"[3637857.639973766, 6310144.940042617]",,,
+byszow_kiv_kiv,140512,kij,kijowski,bystryk,Bystrzyk,18941,kij,kij_kij,bystryk_kij_kij,"[3244762.0357778356, 6399343.264256343]",,,
+byszow_kiv_kiv,140513,kij,kijowski,byszow,Byszów,2176,kij,kij_kij,byszow_kij_kij,"[3326711.3485571845, 6490875.128585068]",,,
+chabne_zhy_kiv,140514,kij,owrucki,chabnoje,Chabne,2177,owr,kij_owr,chabnoje_kij_owr,"[3271363.054462609, 6662963.365917565]",,,
+chodorkow_kiv_kiv_zhy_kiv,140515,kij,zytomierski,chodarkow,Chodorków,2178,zyt,kij_zyt,chodarkow_kij_zyt,"[3261840.702474838, 6462441.567262236]",,,
+cudnow_zhy_kiv,140516,kij,zytomierski,cudnow,Cudnów,2179,zyt,kij_zyt,cudnow_kij_zyt,"[3128048.4547718666, 6454880.2288802955]",,,
+czajkowka_zhy_kiv_kiv,140517,kij,kijowski,czajkowka,Czajki,2180,kij,kij_kij,czajkowka_kij_kij,"[3426840.5662135566, 6365892.758706811]",,,
+czehryn_kiv_kiv,140518,kij,kijowski,czehryn,Czehryn,24398,kij,kij_kij,czehryn_kij_kij,"[3638187.9263124894, 6285523.4308345085]","Chyhyryn, Ukraine",Ukraine SSR,"{'lat': '49.066666666667', 'long': '32.666666666667'}"
+czerkasy_kiv_kiv,140519,kij,kijowski,czerkasy,Czerkasy,23403,kij,kij_kij,czerkasy_kij_kij,"[3571483.3522412186, 6349626.911131045]","Cherkasy, Ukraine",Ukraine SSR,"{'lat': '49.433333333333', 'long': '32.066666666667'}"
+czerniechow_zhy_kiv,140520,kij,zytomierski,czerniechow,Czerniachów,2181,zyt,kij_zyt,czerniechow_kij_zyt,"[3192686.990718746, 6523797.257631197]",,,
+czerwone_kiv_kiv,140521,kij,kijowski,czerwone,Czerwona,2182,kij,kij_kij,czerwone_kij_kij,"[3211566.5571311987, 6437754.250189607]",,,
+_luk_wol,140522,wol,lucki,dolbysz,Bereżce,11514,luc,wol_luc,dolbysz_wol_luc,"[2849696.1064032856, 6462553.98804726]",,,
+dzwinogrod_kiv_kiv,140523,kij,kijowski,dymer_near_kiev,Dymir,19041,kij,kij_kij,dymer_near_kiev_kij_kij,"[3373892.340673416, 6582045.538076864]",,,
+uszomierz_zhy_kiv,140524,wol,zytomierski,dymer_near_uszomier,Uszomierz,2210,zyt,wol_zyt,dymer_near_uszomier_wol_zyt,"[3169229.1824978986, 6594755.447018426]",,,
+_kiv_kiv,140525,kij,kijowski,fastow,Chwastów,2183,kij,kij_kij,fastow_kij_kij,"[3328266.1195440707, 6458310.063313584]",,,
+hermanowka_kiv_kiv,140526,kij,kijowski,hermanowka,Hermanówka,23404,kij,kij_kij,hermanowka_kij_kij,"[3399913.407431563, 6444798.516237361]","Hermanivka, Ukraine",Ukraine SSR,"{'lat': '49.983333333333', 'long': '30.566666666667'}"
+_kiv_kiv,140527,kij,kijowski,hornostajpol,Hornostajpol,19093,kij,kij_kij,hornostajpol_kij_kij,"[3368923.690022228, 6632646.136759099]","Hornostaipil, Ukraine",Ukraine SSR,"{'lat': '51.066666666667', 'long': '30.25'}"
+horodyszcze_kiv_kiv,140528,kij,kijowski,horodyszcze,Horodyszcze,19095,kij,kij_kij,horodyszcze_kij_kij,"[3499206.3971734066, 6322141.420143343]","Haradzishcha, Belarus",Nowogródek,"{'lat': '53.316666666667', 'long': '26'}"
+horoszki_zhy_kiv_kiv,140529,kij,kijowski,horoszkow,Horoszki,2184,kij,kij_kij,horoszkow_kij_kij,"[3165521.075360932, 6548110.253544818]",,,
+husia,140530,wol,"",husia,husia,,"",wol_,husia_wol_,,,,
+iwnica_kiv_kiv_zhy_kiv,140531,kij,zytomierski,iwnica,Iwnica,2185,zyt,kij_zyt,iwnica_kij_zyt,"[3233321.9285608158, 6471444.270235219]","Ivnytsia, Ukraine",Ukraine SSR,"{'lat': '50.15', 'long': '29.05'}"
+jasnogrodka_kiv_kiv,140532,kij,kijowski,jasnohorodka,Jasnohorodka,2186,kij,kij_kij,jasnohorodka_kij_kij,"[3342925.0120271547, 6508200.151867755]","Yasnohorodka, Ukraine",Ukraine SSR,"{'lat': '50.35', 'long': '30.016666666667'}"
+_kiv_kiv,140533,kij,kijowski,kahorlik,Kahorlik,19170,kij,kij_kij,kahorlik_kij_kij,"[3431401.291112658, 6421729.08000409]","Kaharlyk, Ukraine",Ukraine SSR,"{'lat': '49.85', 'long': '30.833333333333'}"
+_kiv_kiv,140534,kij,kijowski,kalnibloto,Ekaterynopol,19046,kij,kij_kij,kalnibloto_kij_kij,"[3448015.2628072873, 6265632.198166727]",,,
+kaniow_kiv_kiv,140536,kij,kijowski,kaniow,Kaniów,23405,kij,kij_kij,kaniow_kij_kij,"[3507041.4152768827, 6399127.535111384]","Kaniv, Ukraine",Ukraine SSR,"{'lat': '49.75', 'long': '31.466666666667'}"
+kodnia_zhy_kiv,140537,kij,zytomierski,kodnia,Kodnia,2187,zyt,kij_zyt,kodnia_kij_zyt,"[3196694.9504253804, 6458411.833562037]","Kodnya, Ukraine",Ukraine SSR,"{'lat': '50.083333333333', 'long': '28.716666666667'}"
+korosteszow_zhy_kiv,140538,kij,zytomierski,korostaszow,Korosteszów,2188,zyt,kij_zyt,korostaszow_kij_zyt,"[3233655.6784768403, 6501143.116656515]",,,
+korsun_kiv_kiv,140539,kij,kijowski,korsun,Korsuń,2189,kij,kij_kij,korsun_kij_kij,"[3478383.70693285, 6345831.24836923]","Korsun’-Shevchenkivs’kyy, Ukraine",Ukraine SSR,"{'lat': '49.433333333333', 'long': '31.25'}"
+koszowata_kiv_kiv,140540,kij,kijowski,koszowata,Koszowata,23406,kij,kij_kij,koszowata_kij_kij,"[3407315.6786970096, 6355263.916479703]",,,
+kotelnia_kiv_kiv_zhy_kiv,140541,kij,zytomierski,kotelnia,Kotelnia,2190,zyt,kij_zyt,kotelnia_kij_zyt,"[3225235.8800415844, 6462533.935110934]",,,
+krasnopol_zhy_kiv,140542,kij,zytomierski,krasnopol,Krasnopol,2191,zyt,kij_zyt,krasnopol_kij_zyt,"[3123945.958936848, 6417288.393947211]","Krasnopol, Poland",Białystok,"{'lat': '54.116666666667', 'long': '23.2'}"
+ksawerow_zhy_kiv,140544,kij,zytomierski,ksawerow,Ksawerów,2192,zyt,kij_zyt,ksawerow_kij_zyt,"[3245873.5575698377, 6613386.440246758]","Ksaveriv, Ukraine",Ukraine SSR,"{'lat': '50.966666666667', 'long': '29.15'}"
+leszczyn_kiv_kiv_zhy_kiv,140545,kij,zytomierski,leszczyn,Leszczyn,2193,zyt,kij_zyt,leszczyn_kij_zyt,"[3211002.481377143, 6471005.378856586]",,,
+machnowka_zhy_kiv,140546,kij,zytomierski,machnowka,Machnówka,2196,zyt,kij_zyt,machnowka_kij_zyt,"[3191753.8004598054, 6397206.507515885]","Makhnivka, Ukraine",Ukraine SSR,"{'lat': '49.716666666667', 'long': '28.666666666667'}"
+makarow_kiv_kiv,140547,kij,kijowski,makarow,Makarów,2197,kij,kij_kij,makarow_kij_kij,"[3317788.76968485, 6526588.468763702]","Makariv, Ukraine",Ukraine SSR,"{'lat': '50.466666666667', 'long': '29.816666666667'}"
+medwedowka_kiv_kiv,140548,kij,kijowski,medwedowka,Medwedówka,24397,kij,kij_kij,medwedowka_kij_kij,"[3605252.5593476254, 6303242.814601527]","Medvedivka, Ukraine",Ukraine SSR,"{'lat': '49.166666666667', 'long': '32.383333333333'}"
+_kiv_kiv,140549,kij,kijowski,medwincy,Medwin,19375,kij,kij_kij,medwincy_kij_kij,"[3426528.147176367, 6341579.406194583]",,,
+_zhy_kiv,140551,kij,zytomierski,miropol,Miropol Stary,12170,zyt,kij_zyt,miropol_kij_zyt,"[3086089.58155161, 6463491.1438785475]",,,
+moszny_kiv_kiv,140552,kij,kijowski,moszna,Moszny,2198,kij,kij_kij,moszna_kij_kij,"[3535547.495581051, 6362621.066998873]",,,
+_kiv_kiv,140553,kij,kijowski,motowilowka,Motowidłówka,19415,kij,kij_kij,motowilowka_kij_kij,"[3349300.1933177207, 6471005.429937417]",,,
+_kiv_kiv,140554,kij,kijowski,motowolowka,Motowidłówka,19415,kij,kij_kij,motowolowka_kij_kij,"[3349300.1933177207, 6471005.429937417]",,,
+nowy_lubar_zhy_kiv,140555,wol,krzemieniecki,nowy_lubar,Lubar,2194,krz,wol_krz,nowy_lubar_wol_krz,"[3087039.9911867585, 6431579.497897128]",,,
+olewsk_owr_kiv,140556,kij,owrucki,olewsk,Olewsk,23411,owr,kij_owr,olewsk_kij_owr,"[3077426.976706948, 6657995.581041401]","Olevsk, Ukraine",Ukraine SSR,"{'lat': '51.216666666667', 'long': '27.65'}"
+_kiv_kiv,140557,kij,kijowski,olszanaja,Olszana,19460,kij,kij_kij,olszanaja_kij_kij,"[3473243.0643454515, 6310731.741278427]",,,
+pawolocz_kiv_kiv_zhy_kiv,140558,kij,zytomierski,pawolocz,Pawołocz,2200,zyt,kij_zyt,pawolocz_kij_zyt,"[3279786.952687372, 6423713.56058302]","Pavoloch, Ukraine",Ukraine SSR,"{'lat': '49.866666666667', 'long': '29.45'}"
+_zhy_kiv,140559,kij,zytomierski,piatka,Piatka,19504,zyt,kij_zyt,piatka_kij_zyt,"[3159480.5434933454, 6449438.606749327]","Pyatka, Ukraine",Ukraine SSR,"{'lat': '50.016666666667', 'long': '28.366666666667'}"
+_bra_brac,140560,brac,braclawski,pohrebyszcze,Pohrebyszcze,17733,bra,brac_bra,pohrebyszcze_brac_bra,"[3257140.986582406, 6355627.695316074]","Pohrebyshche, Ukraine",Ukraine SSR,"{'lat': '49.483333333333', 'long': '29.266666666667'}"
+"",140561,wol,"",pradzow,pradzow,,"",wol_,pradzow_wol_,,,,
+_kiv_kiv,140562,kij,kijowski,przyborsk,Przyborsk,19563,kij,kij_kij,przyborsk_kij_kij,"[3343315.7406279133, 6623305.506912472]",,,
+rajgrod_bia_pdl,140564,podl,bielski,rejgrod,Rajgród,9293,bie,podl_bie,rejgrod_podl_bie,"[2525857.0353667736, 7117544.43981732]",,,
+rokitna_kiv_kiv,140565,kij,kijowski,rokitna,Rokitna,19585,kij,kij_kij,rokitna_kij_kij,"[3392864.941733419, 6390236.384143781]",,,
+_kiv_kiv,140566,kij,kijowski,rozow,Rożów,2203,kij,kij_kij,rozow_kij_kij,"[3300961.510625886, 6513569.839963352]",,,
+ruzyn_kiv_kiv_zhy_kiv,140567,kij,zytomierski,ruzyn,Rużyn,19607,zyt,kij_zyt,ruzyn_kij_zyt,"[3252436.942644947, 6397123.026383398]","Ruzhin, Ukraine",Ukraine SSR,"{'lat': '49.716666666667', 'long': '29.233333333333'}"
+rzeszow_prz_rus,140568,rus,przemyski,rzeszczow,Rzeszów,2031,prz,rus_prz,rzeszczow_rus_prz,"[2448223.7687811833, 6452051.000009344]",,,
+skwira_kiv_kiv_zhy_kiv,140569,kij,zytomierski,skwira,Skwira,2204,zyt,kij_zyt,skwira_kij_zyt,"[3302287.75238595, 6398664.843242965]","Skvira, Ukraine",Ukraine SSR,"{'lat': '49.733333333333', 'long': '29.666666666667'}"
+smila_kiv_kiv,140570,kij,kijowski,smyla,Smiła,2207,kij,kij_kij,smyla_kij_kij,"[3549194.0234735757, 6313939.562480386]",,,
+_kiv_kiv,140571,kij,kijowski,stawiszcze,Stawiszcze,2206,kij,kij_kij,stawiszcze_kij_kij,"[3361588.247067669, 6340362.540665154]","Stavishche, Ukraine",Ukraine SSR,"{'lat': '49.383333333333', 'long': '30.2'}"
+steblów_kiv_kiv,140572,kij,kijowski,steblow,Steblów,19687,kij,kij_kij,steblow_kij_kij,"[3461833.5012209853, 6342917.343484968]","Stebliv, Ukraine",Ukraine SSR,"{'lat': '49.4', 'long': '31.1'}"
+slobodyszcze_zhy_kiv,140573,kij,zytomierski,slobodyszcze,Słobodyszcze,2205,zyt,kij_zyt,slobodyszcze_kij_zyt,"[3171564.1058255723, 6450394.309812071]",,,
+taraszca_kiv_kiv,140574,kij,kijowski,taraszcza,Taraszcza,2208,kij,kij_kij,taraszcza_kij_kij,"[3395144.617013717, 6366787.82051413]","Tarashcha, Ukraine",Ukraine SSR,"{'lat': '49.566666666667', 'long': '30.5'}"
+trechtymyrow_owr_kiv_kiv,140575,kij,kijowski,traktamirow,Trechtymirów,2209,kij,kij_kij,traktamirow_kij_kij,"[3490134.8835762334, 6442087.271251306]",,,
+trojanow_zhy_kiv,140576,kij,zytomierski,trojanow,Trojanów,2211,zyt,kij_zyt,trojanow_kij_zyt,"[3178161.879196629, 6464006.609562539]",,,
+uszomierz_zhy_kiv,140577,kij,zytomierski,uszomier,Uszomierz,19791,zyt,kij_zyt,uszomier_kij_zyt,"[3169229.1824978986, 6596301.2851062715]",,,
+_zhy_kiv,140578,kij,zytomierski,wernyhorodok,Wernyhorodek,19813,zyt,kij_zyt,wernyhorodok_kij_zyt,"[3216463.2461249875, 6409205.765333155]",,,
+wilsk_zhy_kiv,140579,kij,zytomierski,wilsk,Wilsk,19823,zyt,kij_zyt,wilsk_kij_zyt,"[3174498.766528675, 6511742.357649757]",,,
+wolodarka_kiv_kiv,140580,kij,kijowski,wolodarka,Wołodarka,2212,kij,kij_kij,wolodarka_kij_kij,"[3331175.8758679857, 6363052.228650772]","Volodarka, Ukraine",Ukraine SSR,"{'lat': '49.516666666667', 'long': '29.916666666667'}"
+"",140581,wol,"",lowkow,lowkow,,"",wol_,lowkow_wol_,,,,
+lisianka_kiv_kiv,140582,kij,kijowski,lysianka,Lisianka,23407,kij,kij_kij,lysianka_kij_kij,"[3430781.4318117583, 6319887.826594994]",,,
+_kiv_kiv,140583,kij,kijowski,zabotyn,Żabotyn,19886,kij,kij_kij,zabotyn_kij_kij,"[3580233.9382763365, 6300352.891064587]","Zhabotyn, Ukraine",Ukraine SSR,"{'lat': '49.15', 'long': '32.15'}"
+zhytomyr_zhy_kiv,140584,kij,zytomierski,zytomierz,Żytomierz,2214,zyt,kij_zyt,zytomierz_kij_zyt,"[3192691.807010338, 6488121.9357834915]","Zhytomyr, Ukraine",Ukraine SSR,"{'lat': '50.25', 'long': '28.666666666667'}"
+_luk_wol,140601,wol,lucki,aleksandryja,Aleksandrja,12805,luc,wol_luc,aleksandryja_wol_luc,"[2932395.722909415, 6572729.226257657]",,,
+_zhy_kiv,140602,kij,zytomierski,annopol,Annopol,9034,zyt,kij_zyt,annopol_kij_zyt,"[2993885.060989772, 6525438.829767051]","Annopol, Poland",Lublin,"{'lat': '50.883333333333', 'long': '21.85'}"
+baranówka,140603,wol,krzemieniecki,baranowka,Baranówka,22515,krz,wol_krz,baranowka_wol_krz,"[3080476.444130322, 6497947.27325951]",,,
+berezdów_luk_wol,140604,wol,lucki,berezdow,Berezdów,22477,luc,wol_luc,berezdow_wol_luc,"[3018970.2321605086, 6526055.9173635505]","Berezdiv, Ukraine",Ukraine SSR,"{'lat': '50.466666666667', 'long': '27.116666666667'}"
+bereźnica_luk_wol,140605,wol,lucki,bereznica,Bereźnica,24577,luc,wol_luc,bereznica_wol_luc,"[2946047.594483918, 6698034.663717378]","Berezhnytsia, Ukraine",Polesie,"{'lat': '51.433333333333', 'long': '26.466666666667'}"
+berezno_luk_wol,140606,wol,lucki,berezno,Berezno,2240,luc,wol_luc,berezno_wol_luc,"[2976999.135156345, 6619722.67267112]","Berezne, Ukraine",Wołyń,"{'lat': '51', 'long': '26.75'}"
+białogródka,140607,wol,krzemieniecki,bialogrodka,Białogródka,11520,krz,wol_krz,bialogrodka_wol_krz,"[2967465.4324620343, 6447113.073071332]","Bilohorodka, Ukraine",Ukraine SSR,"{'lat': '50', 'long': '26.633333333333'}"
+_zhy_kiv,140608,kij,zytomierski,czartoryja,Czartorya Nowa,11634,zyt,kij_zyt,czartoryja_kij_zyt,"[3082901.8932970613, 6451276.594653653]",,,
+czerniejow_gni_poz,140609,kij,"",czernilowka,czernilowka,,"",kij_,czernilowka_kij_,,,,
+deraźne_luk_wol,140610,wol,lucki,derazna,Deraźne,22501,luc,wol_luc,derazna_wol_luc,"[2900457.5474496274, 6596997.536948486]",,,
+derno_luk_wol,140611,wol,lucki,derman,Derno,11667,luc,wol_luc,derman_wol_luc,"[2867953.472694415, 6578558.176987459]",,,
+gupkow_luk_wol,140612,kij,"",gupkow,gupkow,,"",kij_,gupkow_kij_,,,,
+hoszcza_luk_wol,140613,wol,lucki,hoszcza,Hoszcza,22612,luc,wol_luc,hoszcza_wol_luc,"[2969650.890871348, 6549783.503750119]","Hoshcha, Ukraine",Wołyń,"{'lat': '50.6', 'long': '26.666666666667'}"
+hryców,140614,wol,krzemieniecki,hrycow,Hryców,22507,krz,wol_krz,hrycow_wol_krz,"[3030841.0691575636, 6439889.797088581]",,,
+hulewicze_wlo_wol,140615,wol,wlodzimierski,hulewiczow,Hulewicze,22613,wlo,wol_wlo,hulewiczow_wol_wlo,"[2807402.134657304, 6667039.128702794]",,,
+janow_lwo_rus,140616,rus,lwowski,janow_and_chartoryja,Janów,1966,lwo,rus_lwo,janow_and_chartoryja_rus_lwo,"[2863192.2977016484, 6310981.396734821]",,,
+korzec_luk_wol,140619,kij,lucki,korzec,Korzec,22462,luc,kij_luc,korzec_kij_luc,"[3020018.175479649, 6551994.033355634]","Korets, Ukraine",Wołyń,"{'lat': '50.616666666667', 'long': '27.166666666667'}"
+kozin,140620,wol,krzemieniecki,kozin,Kozin,22622,krz,wol_krz,kozin_wol_krz,"[2833475.3676128485, 6491916.415339542]","Kozin, Ukraine",Wołyń,"{'lat': '50.266666666667', 'long': '25.466666666667'}"
+krasiłów,140621,wol,krzemieniecki,krasylow,Krasiłów,2559,krz,wol_krz,krasylow_wol_krz,"[3001614.6332520065, 6385904.140797239]",,,
+krupa_luk_wol,140622,wol,lucki,krupa,Krupa,22623,luc,wol_luc,krupa_wol_luc,"[2949997.2095767306, 6559912.906073712]",,,
+kulczyny,140623,wol,krzemieniecki,kulczyn,Kulczyny,12132,krz,wol_krz,kulczyn_wol_krz,"[2996295.981392299, 6402703.191434162]",,,
+kuniów_krz_kij,140624,kij,krzemieniecki,kuniow,Kuniów,22626,krz,kij_krz,kuniow_kij_krz,"[2936434.825378791, 6487592.332674908]",,,
+nowy_lubar_zhy_kiv,140626,wol,krzemieniecki,lubar,Lubar,12054,krz,wol_krz,lubar_wol_krz,"[3088019.3290055385, 6432722.625576493]","Lyubar, Ukraine",Ukraine SSR,"{'lat': '49.916666666667', 'long': '27.75'}"
+"",140627,pod,latyczewski,lubomirka,Lubomirka,22824,lat,pod_lat,lubomirka_pod_lat,"[3048535.0401563747, 6345258.288217916]",,,
+"",140628,kij,"",maryan,maryan,,"",kij_,maryan_kij_,,,,
+misicz_maly,140630,kij,"",misicz_maly,misicz_maly,,"",kij_,misicz_maly_kij_,,,,
+mizocz_luk_wol,140631,wol,lucki,misocz,Mizocz,24578,luc,wol_luc,misocz_wol_luc,"[2910089.6014432, 6515678.780972864]",,,
+ostropol_krz_kij_krz_kij,140632,kij,krzemieniecki,ostropol,Ostropol,12294,krz,kij_krz,ostropol_kij_krz,"[3067453.235511966, 6411410.033893359]","Ostropil, Ukraine",Ukraine SSR,"{'lat': '49.8', 'long': '27.566666666667'}"
+ostróg_luk_wol,140633,kij,lucki,ostrog,Ostróg,22642,luc,kij_luc,ostrog_kij_luc,"[2952921.9589846423, 6503539.600226832]","Ostroh, Ukraine",Wołyń,"{'lat': '50.333333333333', 'long': '26.516666666667'}"
+połonne_krz_wol,140634,wol,krzemieniecki,polonne,Połonne,22514,krz,wol_krz,polonne_wol_krz,"[3063467.517804112, 6466648.805341054]",,,
+równe_luk_wol,140635,wol,lucki,rowno,Równe,2556,luc,wol_luc,rowno_wol_luc,"[2923524.573609868, 6552699.214858109]",,,
+sarny_bra_brac,140636,brac,braclawski,sarny,Sarny,18435,bra,brac_bra,sarny_brac_bra,"[3331027.411469661, 6262607.998857]",,,
+stepań_luk_wol,140637,kij,lucki,stepan,Stepań,22503,luc,kij_luc,stepan_kij_luc,"[2927690.8155053486, 6644633.692229666]","Stepan, Ukraine",Wołyń,"{'lat': '51.133333333333', 'long': '26.3'}"
+sudyłków_krz_kij_krz_kij,140638,kij,krzemieniecki,sudylkow,Sudyłków,22508,krz,kij_krz,sudylkow_kij_krz,"[3020098.7865195987, 6475705.201611836]","Sudylkiv, Ukraine",Ukraine SSR,"{'lat': '50.166666666667', 'long': '27.133333333333'}"
+szepetówka_krz_wol,140639,wol,krzemieniecki,szepetowka,Szepetówka,22651,krz,wol_krz,szepetowka_wol_krz,"[3010828.5186271253, 6476988.321479082]","Shepetivka, Ukraine",Ukraine SSR,"{'lat': '50.183333333333', 'long': '27.066666666667'}"
+_krz_wol,140640,wol,krzemieniecki,szumsk,Szumsk,22652,krz,wol_krz,szumsk_wol_krz,"[2908382.245745509, 6467833.569885156]","Shums'k, Ukraine",Wołyń,"{'lat': '50.116666666667', 'long': '26.116666666667'}"
+_krz_kij,140641,kij,krzemieniecki,slawuta,Sławuta,22499,krz,kij_krz,slawuta_kij_krz,"[2992359.83357541, 6498066.008370213]","Slavuta, Ukraine",Ukraine SSR,"{'lat': '50.3', 'long': '26.866666666667'}"
+tuczyn_luk_wol,140642,kij,lucki,tuczyn,Tuczyn,2557,luc,kij_luc,tuczyn_kij_luc,"[2958657.1410286673, 6566708.030710861]","Tuchin, Ukraine",Wołyń,"{'lat': '50.7', 'long': '26.566666666667'}"
+_luk_wol,140644,wol,lucki,wolynska_derewicz,Derewicze,11664,luc,wol_luc,wolynska_derewicz_wol_luc,"[3072726.5927666696, 6442178.490796088]",,,
+włodzimierzec_luk_wol,140645,wol,lucki,wlodzimirzec,Włodzimierzec,22662,luc,wol_luc,wlodzimirzec_wol_luc,"[2910322.6717535346, 6697251.958550076]",,,
+zasław_krz_wol,140646,wol,krzemieniecki,zaslaw,Zasław,22664,krz,wol_krz,zaslaw_wol_krz,"[2984733.6961031584, 6466796.816281644]","Izyaslav, Ukraine",Ukraine SSR,"{'lat': '50.116666666667', 'long': '26.8'}"
+zwiahel_luk_wol,140647,wol,lucki,zwiahel,Zwiahel,22665,luc,wol_luc,zwiahel_wol_luc,"[3073624.5069358214, 6548514.728719371]","Ovruch, Ukraine",Ukraine SSR,"{'lat': '51.316666666667', 'long': '28.8'}"
+łabuń_krz_wol,140648,wol,krzemieniecki,labun,Łabuń,22505,krz,wol_krz,labun_wol_krz,"[3046539.202617963, 6448006.081077837]","Yurovshchyna, Ukraine",Ukraine SSR,"{'lat': '50.016666666667', 'long': '27.366666666667'}"
+brahin_owr_kiv,140701,kij,owrucki,brahin,Brahin,2173,owr,kij_owr,brahin_kij_owr,"[3368887.8767310693, 6761308.184900227]","Brahin, Belarus",Belarus SSR,"{'lat': '51.783333333333', 'long': '30.266666666667'}"
+chojniki_owr_kiv,140702,kij,owrucki,chojniki,Chojniki,23401,owr,kij_owr,chojniki_kij_owr,"[3335394.0173624256, 6780139.288263684]","Khoyniki, Belarus",Belarus SSR,"{'lat': '51.9', 'long': '29.966666666667'}"
+"",140703,kij,"",choszczomel,choszczomel,,"",kij_,choszczomel_kij_,,,,
+czarnobyl_owr_kiv,140704,kij,owrucki,czarnobyl,Czarnobyl,23402,owr,kij_owr,czarnobyl_kij_owr,"[3364091.4177396675, 6669069.123220924]","Chornobyl, Ukraine",Ukraine SSR,"{'lat': '51.266666666667', 'long': '30.233333333333'}"
+_kiv_kiv,140705,kij,kijowski,dymidow,Demidów,19022,kij,kij_kij,dymidow_kij_kij,"[3376735.494939725, 6572217.934255495]",,,
+narodycze_owr_kiv,140706,kij,owrucki,narodycze,Narodycze,23409,owr,kij_owr,narodycze_kij_owr,"[3237020.285182578, 6656796.174424397]","Narodychi, Ukraine",Ukraine SSR,"{'lat': '51.2', 'long': '29.083333333333'}"
+norynsk_owr_kiv,140707,kij,owrucki,nordzynsk,Noryńsk,23410,owr,kij_owr,nordzynsk_kij_owr,"[3183531.23962199, 6667872.152419407]",,,
+owrucz_owr_kiv,140708,kij,owrucki,owrucz,Owrucz,2199,owr,kij_owr,owrucz_kij_owr,"[3206479.4754024525, 6678711.290997246]",,,
+sylweszna,140709,wol,"",sylweszna,sylweszna,,"",wol_,sylweszna_wol_,,,,
+wieledniki_owr_kiv,140710,kij,owrucki,wieledniki,Wieledniki,23412,owr,kij_owr,wieledniki_kij_owr,"[3169645.8939851737, 6676476.09373083]","Novi Velednyky, Ukraine",Ukraine SSR,"{'lat': '51.316666666667', 'long': '28.466666666667'}"
+lubianka_zhy_kiv_kiv,140711,kij,kijowski,lubianka,Łubianka,19343,kij,kij_kij,lubianka_kij_kij,"[3312293.5390542066, 6677542.59470703]","Luhyny, Ukraine",Ukraine SSR,"{'lat': '51.083333333333', 'long': '28.4'}"
+luhiny_owr_kiv,140712,kij,owrucki,luhyny,Łuhiny,23408,owr,kij_owr,luhyny_kij_owr,"[3161835.5253755474, 6634308.952085604]",,,
+_luk_wol,140801,wol,lucki,bersteczko,Beresteczko,22580,luc,wol_luc,bersteczko_wol_luc,"[2796301.0277338354, 6509619.177407647]",,,
+luk_wol_luk_wol,140802,wol,lucki,boromel,Boremel,11558,luc,wol_luc,boromel_wol_luc,"[2803587.219654374, 6526656.706357452]",,,
+błudów_wlo_wol,140803,wol,wlodzimierski,bludow,Błudów,11542,wlo,wol_wlo,bludow_wol_wlo,"[2986145.943742419, 6554661.061466814]",,,
+drużkopol_wlo_wol,140804,wol,wlodzimierski,druszkopol,Drużkopol,22609,wlo,wol_wlo,druszkopol_wol_wlo,"[2748113.286713513, 6519981.702285212]",,,
+horochów_wlo_wol,140805,wol,wlodzimierski,horochow,Horochów,22610,wlo,wol_wlo,horochow_wol_wlo,"[2756246.6247709743, 6533499.766170222]","Horokhiv, Ukraine",Wołyń,"{'lat': '50.5', 'long': '24.766666666667'}"
+hulowka_wlo_wol,140806,wol,wlodzimierski,hulowka,hulowka,,wlo,wol_wlo,hulowka_wol_wlo,,,,
+jeziorzany_luk_wol,140807,wol,lucki,jeziorzany,Jeziorzany,22644,luc,wol_luc,jeziorzany_wol_luc,"[2761580.9011215055, 6624504.210644152]",,,
+kisielin_wlo_wol,140808,wol,wlodzimierski,kisielin,Kisielin,22618,wlo,wol_wlo,kisielin_wol_wlo,"[2758808.632608188, 6594222.827676696]","Kiselin, Ukraine",Wołyń,"{'lat': '50.866666666667', 'long': '24.816666666667'}"
+"",140809,kr,lelowski,lesniow,Leśniów,8089,lel,kr_lel,lesniow_kr_lel,"[2156974.3638785565, 6556582.368310056]",,,
+"",140810,wol,wlodzimierski,michalowka,Michałówka,22633,wlo,wol_wlo,michalowka_wol_wlo,"[2823477.723159386, 6472780.963633036]",,,
+milatyn_wlo_wol,140811,wol,wlodzimierski,milatyn,Milatyn,22636,wlo,wol_wlo,milatyn_wol_wlo,"[2964058.3900516913, 6523516.9573189905]",,,
+orychow_wlo_wol,140812,wol,wlodzimierski,orychow,orychow,,wlo,wol_wlo,orychow_wol_wlo,,"Orikhiv, Ukraine",Ukraine SSR,"{'lat': '47.566666666667', 'long': '35.783333333333'}"
+oździutycze_wlo_wol,140813,wol,wlodzimierski,ozdiutycze,Oździutycze,22643,wlo,wol_wlo,ozdiutycze_wol_wlo,"[2749905.344631026, 6592897.034654087]",,,
+poryck_wlo_wol,140814,wol,wlodzimierski,poryck,Poryck,22645,wlo,wol_wlo,poryck_wol_wlo,"[2722108.7987144412, 6554692.491959543]",,,
+"",140815,wol,"",rozenpol,rozenpol,,"",wol_,rozenpol_wol_,,,,
+sokolow_dro_pdl,140816,pod,"",sokol,Sokół,10208,"",pod_,sokol_pod_,"[2966856.8678049133, 6195658.961002282]",,,
+_wlo_wol,140817,wol,wlodzimierski,stobuchwa,Stobychwa,22650,wlo,wol_wlo,stobuchwa_wol_wlo,"[2802565.1349826716, 6690541.405981199]",,,
+stolowka,140818,wol,"",stolowka,stolowka,,"",wol_,stolowka_wol_,,,,
+strzemilce_bug_bel,140819,wol,buski,stremilche,Strzemilcze,22413,bus,wol_bus,stremilche_wol_bus,"[2788204.3438088065, 6504627.666967565]",,,
+świniuchy_wlo_wol,140820,wol,wlodzimierski,swiniuchy,Świniuchy,22653,wlo,wol_wlo,swiniuchy_wol_wlo,"[2755154.278945491, 6556283.46669175]","Pryvitne, Ukraine",Wołyń,"{'lat': '50.633333333333', 'long': '24.75'}"
+torczyn_luk_wol,140821,wol,lucki,torczyn,Torczyn,22655,luc,wol_luc,torczyn_wol_luc,"[2780650.9185341513, 6579017.4449559]","Torchin, Ukraine",Wołyń,"{'lat': '50.766666666667', 'long': '25'}"
+turzysk_wlo_wol,140822,wol,wlodzimierski,turzysk,Turzysk,22656,wlo,wol_wlo,turzysk_wol_wlo,"[2732090.61745182, 6638905.489693988]","Turiysk, Ukraine",Wołyń,"{'lat': '51.1', 'long': '24.533333333333'}"
+uściług_wlo_wol,140823,wol,wlodzimierski,uscilug,Uściług,22657,wlo,wol_wlo,uscilug_wol_wlo,"[2689300.8562948634, 6597280.359233366]","Ustyluh, Ukraine",Wołyń,"{'lat': '50.866666666667', 'long': '24.15'}"
+włodzimierz_wlo_wol,140824,wol,wlodzimierski,wlodzimierz,Włodzimierz,22661,wlo,wol_wlo,wlodzimierz_wol_wlo,"[2705878.0469149514, 6595231.860319854]","Volodymyr Volynskyy, Ukraine",Wołyń,"{'lat': '50.85', 'long': '24.333333333333'}"
+łobaczówka_wlo_wol,140825,wol,wlodzimierski,lobaczowka,Łobaczówka,22629,wlo,wol_wlo,lobaczowka_wol_wlo,"[2781347.179262554, 6519116.44632335]",,,
+łokacze_wlo_wol,140826,wol,wlodzimierski,lokacze,Łokacze,22630,wlo,wol_wlo,lokacze_wol_wlo,"[2742124.4505165946, 6574400.853167022]","Lokachi, Ukraine",Wołyń,"{'lat': '50.733333333333', 'long': '24.65'}"
