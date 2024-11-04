@@ -5,7 +5,7 @@
    1. [`results/result_full.csv`](results/result_full.csv) - Main processed dataset containing tax payments, community locations and hierarchical relationships
    2. [`results/all_with_poviats.csv`](results/all_with_poviats.csv) - Dataset with assigned powiats (districts) for each settlement
    3. [`results/PinkasLitaSummery.pdf`](results/PinkasLitaSummery.pdf) - Summary of economic structure of Lithuanian Jewish communities
-   4. [`results/סיווג נושאי - פנקס ליטא.xlsx`](results/TopicsFilter.xlsx) - Thematic classification of Lithuanian Pinkas topics records
+   4. [`results/Pinkastopic.xlsx`](results/TopicsFilter.xlsx) - Thematic classification of Lithuanian Pinkas topics records
    5. [`results/table_spis_census.csv`](results/table_spis_census.csv) - Processed version of 1765 census publication
    
 2. Data Directory Contents
