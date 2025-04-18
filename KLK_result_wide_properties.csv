@@ -1,1065 +1,1065 @@
-﻿table,index,id,community,community_code,land,table_abbr,potential,lon,lat,newname
-100,maz_cchnwc,1,ciechanowiec,cchnwc,Autonomous,ext,0,22.5,52.6833333333333,""
-100,snd_dbc,2,debica,dbc,Autonomous,ext,500,21.4276119355814,50.0462665069964,""
-100,maz_jblnk,3,ciechanowiec,cchnwc,Autonomous,ext,100,22.3600769124574,52.9558069811952,""
-100,maz_grdzsk,4,ciechanowiec,cchnwc,Autonomous,ext,80,20.6166666666667,52.1,""
-100,lbl_jzfw,5,jezefow,jzfw,Autonomous,ext,400,23.05,50.4833333333333,""
-100,krk_kzmrz,6,krakow,krkw,Autonomous,ext,2375,19.9466672325367,50.0516214964871,""
-100,lbl_lbln,7,lublin,lbln,Autonomous,ext,30,22.5717026123729,51.2527987607334,""
-100,pdl_mdzyrzcz_pdlsk,8,miedzyrzecz_podlaski,mdzyrzczpdlsk,Autonomous,ext,600,22.7833333333333,51.9833333333333,""
-100,pzn_pznn,9,poznan,pznn,Autonomous,ext,3417,16.9356907686123,52.4098079881286,""
-100,maz_wysk_mzwck,10,ciechanowiec,cchnwc,Autonomous,ext,280,22.5166666666667,52.9166666666667,""
-100,rus_przmysl,11,przemysl,przmysl,Autonomous,ext,2000,22.7720602434326,49.7833567820999,""
-100,pdl_smtycz,12,siemiatycze,smtycz,Autonomous,ext,0,22.862653952951,52.4271122417998,""
-100,maz_kscln_nr,13,ciechanowiec,cchnwc,Autonomous,ext,40,22.36666667,52.95,""
-100,wol_mdzyrzcz_krck,14,miedzyrzecz_korecki,mdzyrzczkrck,Autonomous,ext,0,26.86666667,50.65,""
-100,lbl_glsk,15,lublin,lbln,Autonomous,ext,700,22.6028678366868,51.1868019407681,""
-1000,pod_bchtyn,16,podolia,pdl,Podolia,podolia,180,27.4833333333333,48.8166666666667,""
-1000,pod_bln,17,podolia,pdl,Podolia,podolia,230,26.6605581479981,48.8780831610185,""
-1000,pod_br,18,podolia,pdl,Podolia,podolia,1710,27.687441853947,49.0795898090702,""
-1000,pod_blcz,19,podolia,pdl,Podolia,podolia,100,25.8833333333333,48.7833333333333,""
-1000,pod_brk,20,podolia,pdl,Podolia,podolia,0,,,""
-1000,pod_brszczw,21,podolia,pdl,Podolia,podolia,590,26.0446154992621,48.7971335771734,""
-1000,pod_chmlnk,22,podolia,pdl,Podolia,podolia,1482,27.96666667,49.55,""
-1000,pod_czrnstrw,24,podolia,pdl,Podolia,podolia,0,26.76086653245,49.5060832846021,""
-1000,brc_cznjwc,25,podolia,pdl,Podolia,podolia,150,26.3667,49,Chemerivtsi
-1000,pod_czrcz,26,podolia,pdl,Podolia,podolia,260,26.5239614208908,48.8601084646789,""
-1000,pod_czrwngrd,27,podolia,pdl,Podolia,podolia,325,25.5883953711223,48.7970831827642,""
-1000,pod_drzn,28,podolia,pdl,Podolia,podolia,560,27.4095626882433,49.2841503182117,""
-1000,pod_dnjwc,29,podolia,pdl,Podolia,podolia,1140,26.83333333,48.9,""
-1000,pod_dωwngrd,30,podolia,pdl,Podolia,podolia,176,24.25,49.73333333,""
-1000,pod_flsztyn,32,podolia,pdl,Podolia,podolia,360,,,""
-1000,pod_grdk,33,podolia,pdl,Podolia,podolia,460,26.5615283908293,49.1625405022417,""
-1000,pod_grdk_n_dnstr,34,podolia,pdl,Podolia,podolia,84,26.0017,49.0017,Gorodnitsa  (horodnica)
-1000,pod_hstyn,35,podolia,pdl,Podolia,podolia,1000,26.1898681442441,49.0705031959831,""
-1000,pod_jglnc,36,podolia,pdl,Podolia,podolia,540,25.7452549737826,48.946831863226,""
-1000,pod_jnw,37,podolia,pdl,Podolia,podolia,0,28.35,49.4833333333333,""
-1000,pod_jrmlnc,38,podolia,pdl,Podolia,podolia,216,26.8333,49.2,Yarmolyntsi
-1000,pod_jrh,39,podolia,pdl,Podolia,podolia,366,28.05,48.3333333333333,""
-1000,pod_jryszw,40,podolia,pdl,Podolia,podolia,720,27.6314884267825,48.516039231793,""
-1000,pod_jzlwc,41,podolia,pdl,Podolia,podolia,448,25.4333333333333,49,""
-1000,pod_jzrzny,42,podolia,pdl,Podolia,podolia,0,25.9537194380546,48.8783504826931,""
-1000,pod_klsz,44,podolia,pdl,Podolia,podolia,170,24.3666666666667,49.0333333333333,""
-1000,pod_kmnc_pdlsk,45,podolia,pdl,Podolia,podolia,500,26.5833333333333,48.6833333333333,""
-1000,pod_ksprwc,46,podolia,pdl,Podolia,podolia,70,25.8598102478508,48.662106294711,""
-1000,pod_ktjgrd,47,podolia,pdl,Podolia,podolia,320,26.8023486666688,48.6368074298325,""
-1000,pod_klndzny,48,podolia,pdl,Podolia,podolia,100,25.95,48.9666666666667,""
-1000,pod_kpjgrd,49,podolia,pdl,Podolia,podolia,340,27.7994046227236,48.8567562031438,""
-1000,pod_krlwk,50,podolia,pdl,Podolia,podolia,181,,,""
-1000,pod_krzywcz,51,podolia,pdl,Podolia,podolia,566,26.1,48.7,""
-1000,pod_kdrync,52,podolia,pdl,Podolia,podolia,210,26.7667,49.3833,Kudryntsi
-1000,pod_kpn,53,podolia,pdl,Podolia,podolia,254,26.5757065488601,49.1005339327516,""
-1000,pod_kzmn,54,podolia,pdl,Podolia,podolia,280,,,""
-1000,pod_lnckrn,55,podolia,pdl,Podolia,podolia,560,,,""
-1000,pod_ltyczw,56,podolia,pdl,Podolia,podolia,400,27.6261175434232,49.3843308586413,""
-1000,pod_ltnwc,57,podolia,pdl,Podolia,podolia,134,27.2781673285881,48.8300364526266,""
-1000,pod_ltyn,58,podolia,pdl,Podolia,podolia,0,28.0833333333333,49.3333333333333,""
-1000,pod_mchlpl,59,podolia,pdl,Podolia,podolia,290,27.1394843317541,49.2436773806912,""
-1000,pod_mdzybrz,60,podolia,pdl,Podolia,podolia,2500,27.3895682765039,49.4387889992553,""
-1000,pod_mktync,61,podolia,pdl,Podolia,podolia,0,25.0666666666667,48.4,""
-1000,pod_mkljw,62,podolia,pdl,Podolia,podolia,530,26.8477921399581,49.5741585825679,""
-1000,pod_mnkwc,63,podolia,pdl,Podolia,podolia,600,27.1134944503114,48.8504159234821,Mynkivtsi
-1000,pod_mhylw_pdlsk,65,podolia,pdl,Podolia,podolia,1300,27.8,48.45,Mohyliv-Podilskyy
-1000,pod_mztw,66,podolia,pdl,Podolia,podolia,216,,,""
-1000,pod_nwy_knstntynw,67,podolia,pdl,Podolia,podolia,0,27.7333333333333,49.4833333333333,""
-1000,pod_kp,68,podolia,pdl,Podolia,podolia,158,26.5333333333333,49.9666666666667,""
-1000,pod_lchwc,69,podolia,pdl,Podolia,podolia,60,27.3633924845133,48.6881049715231,""
-1000,pod_rynn,70,podolia,pdl,Podolia,podolia,439,26.411212872189,48.7500077187815,""
-1000,pod_zrzync,71,podolia,pdl,Podolia,podolia,890,27.788517159541,48.5388364606765,""
-1000,pod_pkw,72,podolia,pdl,Podolia,podolia,352,28.2833333333333,49.5666666666667,""
-1000,pod_plw,73,podolia,pdl,Podolia,podolia,280,27.45,49.6,""
-1000,pod_pbznny,74,podolia,pdl,Podolia,podolia,391,25.5853,48.7433,Potochyshche
-1000,pod_plskrw,75,podolia,pdl,Podolia,podolia,400,27,49.41666667,""
-1000,pod_slch,76,podolia,pdl,Podolia,podolia,60,26.8833333333333,49.8666666666667,""
-1000,pod_stnw,78,podolia,pdl,Podolia,podolia,750,26.2570355829167,49.256210001541,""
-1000,pod_swnc,79,podolia,pdl,Podolia,podolia,183,26.7997855179463,49.0814533904746,""
-1000,pod_srbr,80,podolia,pdl,Podolia,podolia,107,29.9333333333333,48.5666666666667,""
-1000,pod_sdrw,81,podolia,pdl,Podolia,podolia,160,26.1549004442975,49.0109341390287,""
-1000,pod_skl,82,podolia,pdl,Podolia,podolia,360,26.1952719535816,48.8449278881399,""
-1000,pod_smtrycz,83,podolia,pdl,Podolia,podolia,340,26.5419864756668,48.9487410006871,""
-1000,pod_sndkw,84,podolia,pdl,Podolia,podolia,0,27.6333333333333,48.8166666666667,""
-1000,pod_sntwk,85,podolia,pdl,Podolia,podolia,100,27.5034472424196,49.3334331663167,""
-1000,pod_snydkw,86,podolia,pdl,Podolia,podolia,474,27.6333333333333,48.8166666666667,""
-1000,pod_sklc,87,podolia,pdl,Podolia,podolia,430,27.0774297285751,48.7371966417511,""
-1000,pod_slbkwc,88,podolia,pdl,Podolia,podolia,118,26.9166666666667,49.0833333333333,""
-1000,pod_stdnc,90,podolia,pdl,Podolia,podolia,360,28.4166666666667,49.1333333333333,""
-1000,pod_sdkwc,91,podolia,pdl,Podolia,podolia,170,26.9166666666667,49.1833333333333,""
-1000,pod_szrwk,92,podolia,pdl,Podolia,podolia,810,26.9801216083181,49.2139927623949,""
-1000,pod_szrgrd,93,podolia,pdl,Podolia,podolia,1333,28.0916649585137,48.7389628625526,""
-1000,pod_sztw,94,podolia,pdl,Podolia,podolia,200,26.7065941063316,48.7680695783116,""
-1000,pod_trnwdy,95,podolia,pdl,Podolia,podolia,394,26.2333,49.4167,Tarnoruda
-1000,pod_ttrzysk,96,podolia,pdl,Podolia,podolia,200,26.9,48.9833333333333,""
-1000,pod_ttls,,podolia,pdl,Podolia,podolia,37776,,,""
-1000,pod_tlst,97,podolia,pdl,Podolia,podolia,252,25.7368977000694,48.8518484148717,""
-1000,pod_lnwc,98,podolia,pdl,Podolia,podolia,120,25.8256,48.9003,Ulashkivtsi
-1000,pod_trylcz,99,podolia,pdl,Podolia,podolia,50,48.9333333333333,53.3666666666667,""
-1000,pod_szyc,100,podolia,pdl,Podolia,podolia,260,27.0833333333333,48.6,""
-1000,pod_lnw,101,podolia,pdl,Podolia,podolia,594,28.13333333,49.7,""
-1000,pod_wrzbwc,102,podolia,pdl,Podolia,podolia,180,27.4299113447288,48.7168171708956,""
-1000,pod_lszkwc,103,podolia,pdl,Podolia,podolia,185,25.83333333,48.9,""
-1000,pod_wrzbwk,104,podolia,pdl,Podolia,podolia,66,26.2333333333333,48.75,""
-1000,pod_wnkwc,105,podolia,pdl,Podolia,podolia,582,27.2237433990833,49.0300187921068,""
-1000,pod_zmchw,107,podolia,pdl,Podolia,podolia,560,27.3666279663849,48.8540389403032,""
-1000,pod_zbrzyszcz,108,podolia,pdl,Podolia,podolia,880,26.1833,48.9333,Zbryzh
-1000,pod_znkw,109,podolia,pdl,Podolia,podolia,540,27.0737578551854,49.0927358718654,""
-1000,pod_lczync,110,podolia,pdl,Podolia,podolia,160,27.8239014146597,48.7131941540745,""
-1000,pod_mkw,111,podolia,pdl,Podolia,podolia,350,26.6880852450822,48.7902836831939,""
-1000,pod_zwnc,112,podolia,pdl,Podolia,podolia,1320,26.5,48.55,""
-1100,rus_bbc_bchw,113,przemysl,przmysl,Autonomous,przemysl,60,24.65,49.5333333333333,""
-1100,rus_blcz,114,przemysl,przmysl,Autonomous,przemysl,60,,,""
-1100,rus_brcz,115,przemysl,przmysl,Autonomous,przemysl,140,22.4799927762449,49.6827438179612,""
-1100,rus_bybl,116,przemysl,przmysl,Autonomous,przemysl,0,,,""
-1100,rus_chdnwcz,117,przemysl,przmysl,Autonomous,przemysl,50,,,""
-1100,rus_chyrw,118,przemysl,przmysl,Autonomous,przemysl,550,22.8512160134777,49.5356750820732,""
-1100,rus_czrn,119,przemysl,przmysl,Autonomous,przemysl,80,,,""
-1100,rus_czpnwcz,120,przemysl,przmysl,Autonomous,przemysl,50,,,""
-1100,rus_dbrml,121,przemysl,przmysl,Autonomous,przemysl,2600,22.7820199767628,49.5714563340374,""
-1100,rus_dbck,122,przemysl,przmysl,Autonomous,przemysl,40,22.3963050095301,49.8205162710256,""
-1100,rus_dydn,123,przemysl,przmysl,Autonomous,przemysl,40,22.1666666666667,49.6833333333333,""
-1100,rus_dynw,124,przemysl,przmysl,Autonomous,przemysl,1030,22.2387066300105,49.8155331366544,""
-1100,rus_flsztyn,125,przemysl,przmysl,Autonomous,przemysl,150,22.9666666666667,49.5333333333333,""
-1100,rus_frdrpl,126,przemysl,przmysl,Autonomous,przemysl,40,22.75,49.7,""
-1100,rus_hskw,128,przemysl,przmysl,Autonomous,przemysl,120,22.9880212636859,49.7159816387095,""
-1100,rus_hsw,129,przemysl,przmysl,Autonomous,przemysl,50,22.2833333333333,49.9833333333333,""
-1100,rus_skn,130,przemysl,przmysl,Autonomous,przemysl,30,22.4333333333333,49.7833333333333,""
-1100,rus_zdbk,131,przemysl,przmysl,Autonomous,przemysl,120,22.1166666666667,49.75,""
-1100,rus_jrslw,132,przemysl,przmysl,Autonomous,przemysl,1977,22.7153476274968,50.0095083215402,""
-1100,rus_jwrnk,133,przemysl,przmysl,Autonomous,przemysl,110,22.3166666666667,49.7333333333333,""
-1100,rus_jwrnk_rsk,134,przemysl,przmysl,Autonomous,przemysl,30,22.3166666666667,49.7333333333333,""
-1100,rus_krkwc,135,przemysl,przmysl,Autonomous,przemysl,410,23.1569190174614,49.9576305264845,""
-1100,rus_krknc,136,przemysl,przmysl,Autonomous,przemysl,0,23.1666666666667,49.6833333333333,""
-1100,rus_krzszw,137,przemysl,przmysl,Autonomous,przemysl,40,22.3471344669615,50.398190472345,""
-1100,rus_krzywcz,138,przemysl,przmysl,Autonomous,przemysl,50,22.5360033562236,49.7969008245707,""
-1100,rus_lzjsk,139,przemysl,przmysl,Autonomous,przemysl,1050,22.4322199159075,50.2482101130387,""
-1100,rus_lbmrz,140,przemysl,przmysl,Autonomous,przemysl,480,,,""
-1100,rus_mdyk,141,przemysl,przmysl,Autonomous,przemysl,230,22.9333333333333,49.8,""
-1100,rus_mscsk,142,przemysl,przmysl,Autonomous,przemysl,1200,23.1404868823332,49.7926234475512,""
-1100,rus_nwmst,143,przemysl,przmysl,Autonomous,przemysl,218,22.8666666666667,49.6166666666667,""
-1100,rus_nwslk,144,przemysl,przmysl,Autonomous,przemysl,50,22.7333333333333,49.6333333333333,""
-1100,rus_plsk_knczg,145,przemysl,przmysl,Autonomous,przemysl,340,22.41666667,49.98333333,""
-1100,rus_prchnk,146,przemysl,przmysl,Autonomous,przemysl,310,22.51228709487,49.9065297870308,""
-1100,rus_przwrsk,147,przemysl,przmysl,Autonomous,przemysl,1705,22.495735258181,50.0623245222614,""
-1100,rus_rdymn,148,przemysl,przmysl,Autonomous,przemysl,130,22.83333333,49.95,""
-1100,rus_rybtycz,149,przemysl,przmysl,Autonomous,przemysl,100,22.6440835588608,49.6555547118457,""
-1100,rus_sdw,150,przemysl,przmysl,Autonomous,przemysl,270,,,""
-1100,rus_smbr,151,przemysl,przmysl,Autonomous,przemysl,740,23.1916205576575,49.5119098625276,""
-1100,rus_ssnc,153,przemysl,przmysl,Autonomous,przemysl,100,22.6666666666667,49.9666666666667,""
-1100,rus_stnslwczyk,154,przemysl,przmysl,Autonomous,przemysl,40,24.9204940009383,50.1631001278898,""
-1100,rus_strsl,155,przemysl,przmysl,Autonomous,przemysl,200,22.9666666666667,49.4833333333333,""
-1100,rus_stry_smbr,156,przemysl,przmysl,Autonomous,przemysl,260,23.0087818959958,49.4320362635312,""
-1100,rus_szmn,157,przemysl,przmysl,Autonomous,przemysl,50,22.9333333333333,49.5,""
-1100,rus_trnw,158,przemysl,przmysl,Autonomous,przemysl,80,22.8,49.55,""
-1100,rus_trk_w_grch,159,przemysl,przmysl,Autonomous,przemysl,600,23.03333333,49.15,""
-1100,rus_wlw,160,przemysl,przmysl,Autonomous,przemysl,80,,,""
-1100,blz_wlk_czy,161,przemysl,przmysl,Autonomous,przemysl,500,23.1593464476978,50.0134945736297,""
-1100,rus_wszn,162,przemysl,przmysl,Autonomous,przemysl,0,23.3666666666667,49.7833333333333,""
-1100,rus_wysztyc,163,przemysl,przmysl,Autonomous,przemysl,70,22.8833333333333,49.8333333333333,""
-1100,rus_ttls,,przemysl,przmysl,Autonomous,przemysl,21793,,,""
-1100,rus_twrz,164,przemysl,przmysl,Autonomous,przemysl,120,23.2333333333333,49.8,""
-1100,rus_strzyk,165,przemysl,przmysl,Autonomous,przemysl,220,22.5833333333333,49.4333333333333,""
-1100,rus_wtln,166,przemysl,przmysl,Autonomous,przemysl,400,22.8166666666667,50,""
-1100,rus_lnct,167,przemysl,przmysl,Autonomous,przemysl,280,22.2335999054101,50.0746711669128,""
-1100,rus_krsczyn,168,przemysl,przmysl,Autonomous,przemysl,60,22.6599399449126,49.7709885240422,""
-1100,rus_klcz_nklwck,169,przemysl,przmysl,Autonomous,przemysl,50,,,""
-1100,rus_mnstrz,170,przemysl,przmysl,Autonomous,przemysl,100,22.6666666666667,50.1166666666667,""
-1100,rus_zln,171,przemysl,przmysl,Autonomous,przemysl,219,23.7666666666667,49.1833333333333,""
-1201,brc_brszd,172,rus,rs,Rus,rus_brc_kij_pod,0,29.5106645652708,48.3653417998653,""
-1201,kij_brszczjwk,173,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,brc_bswk,174,rus,rs,Rus,rus_brc_kij_pod,0,30.6333333333333,49.2333333333333,""
-1201,kij_brclw,175,rus,rs,Rus,rus_brc_kij_pod,0,28.9250894287188,48.8222842841435,""
-1201,kij_brlw,176,rus,rs,Rus,rus_brc_kij_pod,0,28.1495736322789,49.1189899552346,""
-1201,kij_cknwk,177,rus,rs,Rus,rus_brc_kij_pod,0,28.3166666666667,48.15,""
-1201,kij_chszjwk,178,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_chmlnk,179,rus,rs,Rus,rus_brc_kij_pod,0,27.95,49.55,""
-1201,kij_chwszczw,180,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_czklnk,181,rus,rs,Rus,rus_brc_kij_pod,0,29.3667,48.2167,Chechelnyk
-1201,kij_czrnjwc,182,rus,rs,Rus,rus_brc_kij_pod,0,28.1166666666667,48.5333333333333,""
-1201,kij_dszw,183,rus,rs,Rus,rus_brc_kij_pod,0,29.412887567286,49.0082710774274,""
-1201,kij_dznkw,184,rus,rs,Rus,rus_brc_kij_pod,0,29.4410383064258,49.4538982937316,""
-1201,kij_dωwngrdk,185,rus,rs,Rus,rus_brc_kij_pod,0,29.45,49.45,Dzyunkiv
-1201,kij_glgrz,186,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_grnw,187,rus,rs,Rus,rus_brc_kij_pod,0,29.5667,48.8667,Hraniv
-1201,kij_grygrycz,188,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_grnwc,189,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_hjsn,190,rus,rs,Rus,rus_brc_kij_pod,0,29.4,48.8,Haysyn
-1201,kij_lnc,191,rus,rs,Rus,rus_brc_kij_pod,0,29.2253143105871,49.1069011372157,""
-1201,kij_jhrlk,192,rus,rs,Rus,rus_brc_kij_pod,0,29.15,47.3666666666667,""
-1201,kij_jnw,194,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_jzfgrd,195,rus,rs,Rus,rus_brc_kij_pod,0,29.6219444444444,47.94,balta
-1201,kij_klnk,196,rus,rs,Rus,rus_brc_kij_pod,0,29.3833333333333,49.0333333333333,""
-1201,pod_ktjgrd,197,rus,rs,Rus,rus_brc_kij_pod,0,26.8023486666688,48.6368074298325,""
-1201,kij_kchnwk,198,rus,rs,Rus,rus_brc_kij_pod,0,28.7430692832033,49.2789983136466,""
-1201,kij_krty,201,rus,rs,Rus,rus_brc_kij_pod,0,29.2105845354031,47.9417938099241,""
-1201,kij_kblcz,202,rus,rs,Rus,rus_brc_kij_pod,0,29.5666666666667,48.7166666666667,""
-1201,kij_kzmnk,203,rus,rs,Rus,rus_brc_kij_pod,0,29.2833,49.3,Kozhanka
-1201,kij_kznc,204,rus,rs,Rus,rus_brc_kij_pod,0,28.7333333333333,48.4333333333333,""
-1201,kij_kmjgrd,205,rus,rs,Rus,rus_brc_kij_pod,0,28.6166666666667,48.5333333333333,""
-1201,kij_krsn,206,rus,rs,Rus,rus_brc_kij_pod,0,28.4060001247807,48.9102824563786,""
-1201,kij_ltyn,207,rus,rs,Rus,rus_brc_kij_pod,0,28.0737794326512,49.3336568160142,""
-1201,kij_mrkwk,208,rus,rs,Rus,rus_brc_kij_pod,0,28.6166666666667,49.0833333333333,""
-1201,kij_mstkwk,209,rus,rs,Rus,rus_brc_kij_pod,0,28.6984250967567,48.3706534511778,""
-1201,kij_mnstrzysk,210,rus,rs,Rus,rus_brc_kij_pod,0,25.16666667,49.08333333,""
-1201,kij_mrchw,211,rus,rs,Rus,rus_brc_kij_pod,0,28.21666667,48.78333333,""
-1201,kij_nmrw,212,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_pczr,214,rus,rs,Rus,rus_brc_kij_pod,0,28.7166666666667,48.85,""
-1201,kij_przylk,215,rus,rs,Rus,rus_brc_kij_pod,0,28.7281811365107,49.3883153183818,""
-1201,kij_rjgrd,216,rus,rs,Rus,rus_brc_kij_pod,0,22.7,53.73333333,""
-1201,kij_rszkw,217,rus,rs,Rus,rus_brc_kij_pod,0,25.4166666666667,48.7333333333333,""
-1201,kij_swrn,219,rus,rs,Rus,rus_brc_kij_pod,0,30.0861639352275,48.1423384208255,""
-1201,kij_slszcz,220,rus,rs,Rus,rus_brc_kij_pod,0,25.28333333,48.58333333,""
-1201,kij_slsz,221,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_sklwk,222,rus,rs,Rus,rus_brc_kij_pod,0,30.144764312639,49.0180452276019,""
-1201,kij_strzyzwk,223,rus,rs,Rus,rus_brc_kij_pod,0,28.468315310115,49.3014788264923,""
-1201,kij_szpkwc,224,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_tplc,225,rus,rs,Rus,rus_brc_kij_pod,0,29.75,48.6666666666667,""
-1201,kij_trlwk,226,rus,rs,Rus,rus_brc_kij_pod,0,27.5666666666667,49.35,""
-1201,kij_tmszpl,227,rus,rs,Rus,rus_brc_kij_pod,0,28.524229359565,48.5461841977478,""
-1201,kij_ttls,,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_trstnc,228,rus,rs,Rus,rus_brc_kij_pod,0,29.2333333333333,48.5166666666667,""
-1201,kij_tlczyn,229,rus,rs,Rus,rus_brc_kij_pod,0,28.8586292078969,48.6639806931607,""
-1201,kij_tr,230,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,kij_tywrw,231,rus,rs,Rus,rus_brc_kij_pod,0,28.5244842256295,49.0061465955078,""
-1201,kij_mn,232,rus,rs,Rus,rus_brc_kij_pod,0,30.2097103404636,48.7494787258727,""
-1201,kij_wnnc,233,rus,rs,Rus,rus_brc_kij_pod,0,28.4453063565441,49.2190502787917,""
-1201,pod_ldwk,234,rus,rs,Rus,rus_brc_kij_pod,0,28.2333333333333,49.5,""
-1201,kij_wrszylwk,236,rus,rs,Rus,rus_brc_kij_pod,0,28.3404125988615,49.0374429958322,""
-1201,kij_zdykwcz,237,rus,rs,Rus,rus_brc_kij_pod,0,,,""
-1201,pod_znkw,238,rus,rs,Rus,rus_brc_kij_pod,0,27.0737578551854,49.0927358718654,""
-1201,kij_zrnszcz,239,rus,rs,Rus,rus_brc_kij_pod,0,29.083440719742,49.056253268457,""
-1201,kij_zwrzchwk,240,rus,rs,Rus,rus_brc_kij_pod,0,29.1745333583559,48.4433278352367,""
-1201,kij_ldyzyn,241,rus,rs,Rus,rus_brc_kij_pod,0,29.2571324292044,48.6814890613505,""
-1201,kij_lpwc,242,rus,rs,Rus,rus_brc_kij_pod,0,29.0602498441165,49.2179710240081,""
-1202,hlc_bwrw,244,rus,rs,Rus,rus_halicz,150,25.7166666666667,49.45,""
-1202,hlc_blbznc,246,rus,rs,Rus,rus_halicz,0,25.6833333333333,49.05,""
-1202,hlc_bhrdczny,247,rus,rs,Rus,rus_halicz,1100,24.5389368062523,48.808608313829,""
-1202,hlc_blszwc,248,rus,rs,Rus,rus_halicz,384,24.7463888888889,49.1855555555556,""
-1202,hlc_bczcz,249,rus,rs,Rus,rus_halicz,1250,25.3748517635572,49.0569249549936,""
-1202,hlc_bdznw,250,rus,rs,Rus,rus_halicz,510,25.7198215685299,49.1611708042141,""
-1202,hlc_brsztyn,252,rus,rs,Rus,rus_halicz,800,24.6384592929678,49.2571511312529,""
-1202,hlc_czrnlc,254,rus,rs,Rus,rus_halicz,300,25.4333333333333,48.8166666666667,""
-1202,hlc_czrtkw,255,rus,rs,Rus,rus_halicz,1000,25.8,49.0166666666667,""
-1202,hlc_dltyn,256,rus,rs,Rus,rus_halicz,450,24.6166666666667,48.5333333333333,""
-1202,hlc_gwωdzc,257,rus,rs,Rus,rus_halicz,722,25.28333333,48.58333333,""
-1202,hlc_hlcz,258,rus,rs,Rus,rus_halicz,280,24.7533230461832,49.1033340564261,""
-1202,hlc_hrdnk,259,rus,rs,Rus,rus_halicz,850,25.4878415392055,48.6804103695425,""
-1202,hlc_jnw,1300,rus,rs,Rus,rus_halicz,500,,0.7944444444444,""
-1202,hlc_kklnk,263,rus,rs,Rus,rus_halicz,40,,,""
-1202,hlc_klsz,264,rus,rs,Rus,rus_halicz,2800,24.3748590363421,49.0139183035606,""
-1202,hlc_kmnk,265,rus,rs,Rus,rus_halicz,150,,,""
-1202,hlc_kpyczync,266,rus,rs,Rus,rus_halicz,1000,25.9166666666667,49.1,""
-1202,hlc_klmyj,268,rus,rs,Rus,rus_halicz,1850,25.0412777077861,48.5351097772064,""
-1202,hlc_ksw,270,rus,rs,Rus,rus_halicz,1650,25.0984845776194,48.3253174774479,""
-1202,hlc_klczkwc,271,rus,rs,Rus,rus_halicz,200,25.3083461746369,48.5569863674305,""
-1202,hlc_mrtynw,272,rus,rs,Rus,rus_halicz,150,24.5636766381681,49.2188789147777,""
-1202,hlc_kty,273,rus,rs,Rus,rus_halicz,900,25.1833333333333,48.2666666666667,""
-1202,hlc_mrympl,274,rus,rs,Rus,rus_halicz,0,24.85,49.0333333333333,""
-1202,hlc_mklnc,276,rus,rs,Rus,rus_halicz,800,25.6211920366437,49.3866642018069,""
-1202,hlc_mnstrzysk,277,rus,rs,Rus,rus_halicz,1700,25.1801270737996,49.097857454165,""
-1202,hlc_ndwrn,278,rus,rs,Rus,rus_halicz,2400,24.5705987477066,48.6306782965941,""
-1202,hlc_brtyn,280,rus,rs,Rus,rus_halicz,100,25.1718977664166,48.7001401656673,""
-1202,hlc_pstyn,282,rus,rs,Rus,rus_halicz,375,,,""
-1202,hlc_pdhjc,283,rus,rs,Rus,rus_halicz,3500,25.127734045462,49.2678300974148,""
-1202,hlc_pdkmn,284,rus,rs,Rus,rus_halicz,180,25.3189246883268,49.9428889324104,""
-1202,hlc_ptk,285,rus,rs,Rus,rus_halicz,200,25.3428,48.9089,Zolotyy Potik
-1202,hlc_rhtyn,286,rus,rs,Rus,rus_halicz,2000,24.6324716095947,49.4066408771173,""
-1202,hlc_sklt,287,rus,rs,Rus,rus_halicz,700,25.9685877987634,49.4341351417527,""
-1202,hlc_sntyn,288,rus,rs,Rus,rus_halicz,0,25.5666666666667,48.45,""
-1202,hlc_sltwn,289,rus,rs,Rus,rus_halicz,900,24.4365220360386,48.6983706605418,""
-1202,hlc_stnslww,290,rus,rs,Rus,rus_halicz,200,24.7029830495295,48.9125403005606,""
-1202,hlc_strsw,292,rus,rs,Rus,rus_halicz,100,25.6224067068419,49.3494786316431,""
-1202,hlc_stpczt,293,rus,rs,Rus,rus_halicz,892,24.9630461143333,48.4075681023789,""
-1202,hlc_schstw,294,rus,rs,Rus,rus_halicz,300,25.8590199101616,49.1611708042141,""
-1202,hlc_trnpl,295,rus,rs,Rus,rus_halicz,4200,25.5912056931086,49.5592747346345,""
-1202,hlc_ttls,,rus,rs,Rus,rus_halicz,47006,,,""
-1202,hlc_twst,296,rus,rs,Rus,rus_halicz,600,25.7333333333333,48.85,""
-1202,hlc_tysmnc,297,rus,rs,Rus,rus_halicz,1300,24.85,48.9,""
-1202,hlc_tlmcz,298,rus,rs,Rus,rus_halicz,250,25.0246329567424,48.8685346957074,""
-1202,hlc_sc,299,rus,rs,Rus,rus_halicz,880,24.9666666666667,49.0333333333333,""
-1202,hlc_trmbwl,301,rus,rs,Rus,rus_halicz,600,25.7025749597079,49.2940958692724,""
-1202,hlc_wjnlw,302,rus,rs,Rus,rus_halicz,800,24.4898404829322,49.1176927191802,""
-1202,hlc_zbltw,303,rus,rs,Rus,rus_halicz,1700,25.2800288279972,48.4609054638133,""
-1202,hlc_zwlw,305,rus,rs,Rus,rus_halicz,500,25.0193957216299,49.2075068941877,""
-1202,hlc_dntyn,307,rus,rs,Rus,rus_halicz,2900,24.6166666666667,48.5333333333333,dniatyn
-1202,hlc_lysc,308,rus,rs,Rus,rus_halicz,68,24.6166666666667,48.8666666666667,""
-1202,hlc_grzymlw,309,rus,rs,Rus,rus_halicz,500,26.0238553058215,49.3344461680464,""
-1202,hlc_mrympl,274,rus,rs,Rus,rus_halicz,650,24.85,49.0333333333333,""
-1203,lww_blykmn,311,rus,rs,Rus,rus_lwow,200,24.8333333333333,49.9,""
-1203,lww_blykmn_bbrk,312,rus,rs,Rus,rus_lwow,0,24.83333333,49.9,""
-1203,lww_brdy,313,rus,rs,Rus,rus_lwow,10897,25.1398384784093,50.0903413847266,""
-1203,lww_brzzny,314,rus,rs,Rus,rus_lwow,2000,24.9450128766262,49.449226082865,""
-1203,lww_brzzdwc,315,rus,rs,Rus,rus_lwow,150,24.1669562823142,49.4616991272277,""
-1203,lww_chdrw,316,rus,rs,Rus,rus_lwow,1600,24.3202226483031,49.4122258216027,""
-1203,lww_blchw,317,rus,rs,Rus,rus_lwow,300,23.8585697958239,49.0535679630246,""
-1203,lww_dln,318,rus,rs,Rus,rus_lwow,1000,24.0103630237654,48.962179218136,""
-1203,lww_glnny,320,rus,rs,Rus,rus_lwow,600,24.5286051465668,49.8169650992427,""
-1203,lww_glgry,321,rus,rs,Rus,rus_lwow,1100,24.7041813367782,49.7460936085389,""
-1203,lww_grdk,322,rus,rs,Rus,rus_lwow,1500,23.6444444444444,49.7833333333333,""
-1203,lww_jnw,323,rus,rs,Rus,rus_lwow,550,23.733333333333,49.916666666667,Ivano-Frankove
-1203,lww_jryczw,324,rus,rs,Rus,rus_lwow,1360,24.3,49.9,""
-1203,lww_jwrw,325,rus,rs,Rus,rus_lwow,2760,23.3664773909695,49.9335770643359,""
-1203,lww_kmnk,326,rus,rs,Rus,rus_lwow,625,,,""
-1203,lww_knchyncz,327,rus,rs,Rus,rus_lwow,500,24.4667,49.3833,Knyahynychi
-1203,lww_kmrn,328,rus,rs,Rus,rus_lwow,1350,23.6875534425943,49.6304099838989,""
-1203,lww_kzw,329,rus,rs,Rus,rus_lwow,345,25.1388008640343,49.4321064906891,""
-1203,lww_klkw,331,rus,rs,Rus,rus_lwow,730,24.0729247177645,49.9694255297011,""
-1203,lww_lww,332,rus,rs,Rus,rus_lwow,1500,24.0349130375792,49.8406207795665,""
-1203,lww_mkljw,333,rus,rs,Rus,rus_lwow,100,23.9833333333333,49.5333333333333,""
-1203,lww_nwry,334,rus,rs,Rus,rus_lwow,200,23.9333333333333,49.75,""
-1203,lww_lsk,335,rus,rs,Rus,rus_lwow,500,24.8748591681089,49.9649872990441,""
-1203,lww_pdkmn,336,rus,rs,Rus,rus_lwow,1000,25.3189246883268,49.9428889324104,""
-1203,lww_pdwysk,337,rus,rs,Rus,rus_lwow,832,24.8,49.4,""
-1203,lww_pmrzny,338,rus,rs,Rus,rus_lwow,1125,24.9475137266137,49.6274577587889,""
-1203,lww_przmyslny,339,rus,rs,Rus,rus_lwow,1000,24.55,49.6666666666667,""
-1203,lww_rzdl,340,rus,rs,Rus,rus_lwow,900,24.0576334202946,49.4640261877296,""
-1203,lww_rzntw,341,rus,rs,Rus,rus_lwow,500,24.1517750789478,48.9369373621803,""
-1203,lww_ssw,342,rus,rs,Rus,rus_lwow,125,24.9372180200243,49.8731741874722,""
-1203,lww_sklw,343,rus,rs,Rus,rus_lwow,300,,,""
-1203,lww_sklwk,344,rus,rs,Rus,rus_lwow,150,,,""
-1203,lww_stnslwczyk,345,rus,rs,Rus,rus_lwow,150,24.9204940009383,50.1631001278898,""
-1203,lww_strzlsk,346,rus,rs,Rus,rus_lwow,1350,24.402848127743,49.5139818294366,""
-1203,lww_swrz,347,rus,rs,Rus,rus_lwow,1000,24.4333333333333,49.65,""
-1203,lww_szczrzc,348,rus,rs,Rus,rus_lwow,450,23.848034317391,49.6500652172344,""
-1203,lww_wnnk,349,rus,rs,Rus,rus_lwow,904,24.1166666666667,49.8166666666667,""
-1203,lww_zbrw,350,rus,rs,Rus,rus_lwow,1300,25.1334467062661,49.6625951976747,""
-1203,lww_zlczw,351,rus,rs,Rus,rus_lwow,325,24.8879062245419,49.8139626973594,""
-1203,lww_bbrk,353,rus,rs,Rus,rus_lwow,1150,24.30853036385,49.6415047417087,""
-1203,lww_ttls,,rus,rs,Rus,rus_lwow,46149,,,""
-1203,lww_zrw,355,rus,rs,Rus,rus_lwow,125,24.4706309005344,49.3025281923083,""
-1203,lww_zydczw,356,rus,rs,Rus,rus_lwow,880,24.1555238263846,49.3755978904523,""
-1203,lww_zlkw,357,rus,rs,Rus,rus_lwow,460,23.9864315780325,50.0677191063534,""
-1203,lww_zrwn,358,rus,rs,Rus,rus_lwow,1000,24.2855680158447,49.2536599226656,""
-1300,prz_brcz,359,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.4833333333333,49.7,""
-1300,prz_frdrpl,360,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.75,49.7,""
-1300,prz_krknc,361,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.1666666666667,49.6833333333333,""
-1300,prz_rybtycz,362,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.6440835588608,49.6555547118457,""
-1300,prz_smbr,363,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.1916205576575,49.5119098625276,""
-1300,prz_stnslww,364,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,24.7029830495295,48.9125403005606,""
-1300,prz_strsl,365,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.9666666666667,49.4833333333333,""
-1300,prz_stry_smbr,366,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.0087818959958,49.4320362635312,""
-1300,prz_szkw,367,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,350,87.3166666666667,54.1,""
-1300,prz_ttls,,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,1076,,,""
-1300,prz_lszk,368,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,826,22.9,50.0166666666667,""
-1300,prz_nwmst_bybl,369,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.8667,49.6167,Nove Misto
-1401,wol_dbn,370,dubno,dbn,Wolyn,dubno,972,25.7172811969365,50.4240122390242,""
-1401,wol_kmn_krzck,371,kamien_korzecki,kmnkrzck,Wolyn,dubno,870,24.9667,51.6333,Kamen Kashirskiy
-1401,wol_kwl,372,kowel,kwl,Wolyn,dubno,1600,24.7115008603188,51.2075745997114,""
-1401,wol_mchnwk,373,kamien_korzecki,kmnkrzck,Wolyn,dubno,50,26.45,49.8166666666667,""
-1401,wol_mdzyrzcz_krck,374,miedzyrzecz_korecki,mdzyrzczkrck,Wolyn,dubno,0,26.86666667,50.65,""
-1401,wol_mlnwc,375,kamien_korzecki,kmnkrzck,Wolyn,dubno,130,24.45,51.1833,Mylianovychi
-1401,wol_nschjz,376,kowel,kwl,Wolyn,dubno,700,24.836420470039,51.3791323582925,""
-1401,wol_lyk,377,olyka,lyk,Wolyn,dubno,1000,25.8127837717377,50.7065041092544,""
-1401,wol_wyzw,378,kowel,kwl,Wolyn,dubno,818,24.4333333333333,51.4333333333333,""
-1401,wol_wrkwcz,379,dubno,dbn,Wolyn,dubno,360,25.9936694422982,50.468743476246,""
-1401,wol_ttl,,dubno_kowel_olyka_MiedKorecki,dbnkwllykMdKrck,Wolyn,dubno,4303,,,""
-1402,wol_bzl,380,krzemieniec,krzmnc,Wolyn,krzemieniec,394,26.4805463729352,49.7113979121374,""
-1402,wol_jmpl,381,krzemieniec,krzmnc,Wolyn,krzemieniec,1018,26.2363451004231,49.951793850072,""
-1402,wol_krnc,382,krzemieniec,krzmnc,Wolyn,krzemieniec,130,26.5333333333333,50.05,""
-1402,wol_kzn,383,krzemieniec,krzmnc,Wolyn,krzemieniec,185,25.453542299028,50.2628185894661,""
-1402,wol_krzmnc,384,krzemieniec,krzmnc,Wolyn,krzemieniec,680,25.727400675079,50.0959831627669,""
-1402,wol_lchwc,385,krzemieniec,krzmnc,Wolyn,krzemieniec,1694,26.4022078177175,49.9927387149213,""
-1402,wol_lnwc,386,krzemieniec,krzmnc,Wolyn,krzemieniec,150,26.0737278348844,49.8538397548952,""
-1402,wol_lksync,387,krzemieniec,krzmnc,Wolyn,krzemieniec,462,25.55,49.8333333333333,""
-1402,wol_lszyc,388,krzemieniec,krzmnc,Wolyn,krzemieniec,62,,,""
-1402,wol_zchwc,389,krzemieniec,krzmnc,Wolyn,krzemieniec,448,,,""
-1402,wol_ptycz,390,krzemieniec,krzmnc,Wolyn,krzemieniec,87,,,""
-1402,wol_prntyn,391,krzemieniec,krzmnc,Wolyn,krzemieniec,80,,,""
-1402,wol_rdzwlw,392,krzemieniec,krzmnc,Wolyn,krzemieniec,539,25.25,50.1333333333333,""
-1402,wol_rchmnw,393,krzemieniec,krzmnc,Wolyn,krzemieniec,60,26.0833333333333,50.1333333333333,""
-1402,wol_szmsk,394,krzemieniec,krzmnc,Wolyn,krzemieniec,0,26.1264422341505,50.1243188079118,""
-1402,wol_tfpl,395,krzemieniec,krzmnc,Wolyn,krzemieniec,748,26.4166666666667,49.8333333333333,""
-1402,wol_tstchw,396,krzemieniec,krzmnc,Wolyn,krzemieniec,30,,,""
-1402,wol_wrb,397,krzemieniec,krzmnc,Wolyn,krzemieniec,175,25.6072318724741,50.2745051290501,""
-1402,wol_wsnwc,398,krzemieniec,krzmnc,Wolyn,krzemieniec,870,25.75,49.9,""
-1402,wol_wlczysk,399,krzemieniec,krzmnc,Wolyn,krzemieniec,508,,,""
-1402,wol_wyzgrdk,400,krzemieniec,krzmnc,Wolyn,krzemieniec,622,25.9722719308116,49.7760388944262,""
-1402,wol_zbkryk,401,krzemieniec,krzmnc,Wolyn,krzemieniec,30,,,""
-1402,wol_zbrz,402,krzemieniec,krzmnc,Wolyn,krzemieniec,946,25.7792442275492,49.6762540754747,""
-1402,pod_czrnstrw,403,krzemieniec,krzmnc,Wolyn,krzemieniec,180,26.76086653245,49.5060832846021,""
-1402,wol_ttls,,krzemieniec,krzmnc,Wolyn,krzemieniec,10889,,,""
-1402,wol_zmsk,404,krzemieniec,krzmnc,Wolyn,krzemieniec,0,,,""
-1402,wol_hrynk,406,krzemieniec,krzmnc,Wolyn,krzemieniec,200,25.7837510306115,49.9860074810875,""
-1402,wol_klcz,407,krzemieniec,krzmnc,Wolyn,krzemieniec,200,,,""
-1402,wol_krpc,408,krzemieniec,krzmnc,Wolyn,krzemieniec,91,25.3131345401382,50.1572367497069,""
-1403,wol_brwc,409,luck,lck,Wolyn,luck,31,,,""
-1403,wol_czrtrysk,410,luck,lck,Wolyn,luck,100,25.8732231628744,51.2244816245351,""
-1403,wol_cztwrtn,411,luck,lck,Wolyn,luck,32,48.0166666666667,58.75,""
-1403,wol_drwcz,412,luck,lck,Wolyn,luck,0,27.5833333333333,49.9666666666667,""
-1403,wol_grdk,413,luck,lck,Wolyn,luck,50,26.1833333333333,50.6833333333333,""
-1403,wol_jnwk,414,luck,lck,Wolyn,luck,44,25.2590281513494,51.0923894629769,""
-1403,wol_kszwk,415,luck,lck,Wolyn,luck,400,25.3227070847967,51.1609212424157,""
-1403,wol_klkw,416,luck,lck,Wolyn,luck,0,27.05,50.5333333333333,""
-1403,wol_klwn,417,luck,lck,Wolyn,luck,500,25.9778577575319,50.7383398545835,""
-1403,wol_klk,418,luck,lck,Wolyn,luck,400,25.6771076572093,51.0980518912497,""
-1403,wol_krsnstw,419,luck,lck,Wolyn,luck,250,27.18333333,50.4,""
-1403,wol_lsznwk,420,luck,lck,Wolyn,luck,127,25.08333333,50.23333333,""
-1403,wol_mrwc,421,luck,lck,Wolyn,luck,400,25.5833333333333,50.5166666666667,""
-1403,wol_knsk,422,luck,lck,Wolyn,luck,20,25.55,51.25,""
-1403,wol_strzc,423,luck,lck,Wolyn,luck,250,25.550309808035,50.6629818243413,""
-1403,wol_rflwk,424,luck,lck,Wolyn,luck,150,25.8666666666667,51.3666666666667,""
-1403,wol_trgwc,425,luck,lck,Wolyn,luck,360,25.4029449083155,50.5561910313742,""
-1403,wol_ttls,,luck,lck,Wolyn,luck,5834,,,""
-1403,wol_trjnwk,426,luck,lck,Wolyn,luck,264,25.2833333333333,51.3333333333333,""
-1403,wol_wsnk,427,luck,lck,Wolyn,luck,36,25.35,50.9833333333333,""
-1403,wol_lck,428,luck,lck,Wolyn,luck,1924,25.3407845331747,50.7582696158609,""
-1403,wol_mlnc,429,luck,lck,Wolyn,luck,250,25.0897171033436,51.1474013674258,""
-1403,wol_zrwn,430,luck,lck,Wolyn,luck,80,,,""
-1404,brc_dznkw,431,ostrog,strg,Wolyn,ostrog_brac_pod,320,29.4410383064258,49.4538982937316,""
-1404,brc_lpwc,432,ostrog,strg,Wolyn,ostrog_brac_pod,175,29.0602498441165,49.2179710240081,""
-1404,brc_pkw,433,ostrog,strg,Wolyn,ostrog_brac_pod,860,28.2578510603185,49.5694818067427,""
-1404,brc_strzyzwk,434,ostrog,strg,Wolyn,ostrog_brac_pod,130,28.468315310115,49.3014788264923,""
-1404,brc_ttyjw,435,ostrog,strg,Wolyn,ostrog_brac_pod,510,29.6782184657351,49.3579190818522,""
-1404,brc_ttls,,ostrog,strg,Wolyn,ostrog_brac_pod,2388,,,""
-1404,pod_lnw,436,ostrog,strg,Wolyn,ostrog_brac_pod,0,28.13333333,49.7,""
-1404,brc_wnnc,437,ostrog,strg,Wolyn,ostrog_brac_pod,0,28.4453063565441,49.2190502787917,""
-1404,brc_zywtw,438,ostrog,strg,Wolyn,ostrog_brac_pod,393,29.549986566646,49.2721731294391,""
-1405,kij_brdyczw,439,ostrog,strg,Wolyn,ostrog_kij,1320,28.58333333,49.9,""
-1405,kij_blcrkw,440,ostrog,strg,Wolyn,ostrog_kij,1400,15.2666666666667,45.8666666666667,""
-1405,kij_blpl,441,ostrog,strg,Wolyn,ostrog_kij,415,23.7333333333333,50.9833333333333,""
-1405,kij_blylwk,442,ostrog,strg,Wolyn,ostrog_kij,0,29.0166666666667,49.6833333333333,""
-1405,kij_bylwk,443,ostrog,strg,Wolyn,ostrog_kij,408,29.0166666666667,49.6833333333333,""
-1405,kij_bhslw,444,ostrog,strg,Wolyn,ostrog_kij,1000,30.8666666666667,49.55,""
-1405,kij_brdnk,445,ostrog,strg,Wolyn,ostrog_kij,180,29.9166666666667,50.65,""
-1405,kij_brwc,446,ostrog,strg,Wolyn,ostrog_kij,52,32.5,49.2333333333333,""
-1405,kij_brszczjwk,447,ostrog,strg,Wolyn,ostrog_kij,250,34.0166666666667,55.7666666666667,""
-1405,kij_brsylw,448,ostrog,strg,Wolyn,ostrog_kij,800,29.5333333333333,50.2833333333333,""
-1405,kij_bystryk,450,ostrog,strg,Wolyn,ostrog_kij,0,29.15,49.7333333333333,""
-1405,kij_byszw,451,ostrog,strg,Wolyn,ostrog_kij,280,,,""
-1405,kij_chdrkw,453,ostrog,strg,Wolyn,ostrog_kij,360,29.3,50.1,""
-1405,kij_cdnw,454,ostrog,strg,Wolyn,ostrog_kij,1246,28.1166666666667,50.05,""
-1405,kij_czjkwk,455,ostrog,strg,Wolyn,ostrog_kij,119,29.05,50.5333333333333,""
-1405,kij_czhryn,456,ostrog,strg,Wolyn,ostrog_kij,440,32.6666666666667,49.0833333333333,""
-1405,kij_czrksy,457,ostrog,strg,Wolyn,ostrog_kij,530,32.0666666666667,49.4166666666667,""
-1405,kij_czrnchw,458,ostrog,strg,Wolyn,ostrog_kij,216,25.45,49.6833333333333,""
-1405,kij_czrwn,459,ostrog,strg,Wolyn,ostrog_kij,193,28.8667,49.9667,Chervone
-1405,kij_dlbysz,460,ostrog,strg,Wolyn,ostrog_kij,85,27.9833333333333,50.3666666666667,""
-1405,kij_fstw,461,ostrog,strg,Wolyn,ostrog_kij,610,29.9166666666667,50.0833333333333,""
-1405,kij_hrmnwk,462,ostrog,strg,Wolyn,ostrog_kij,360,30.55,50,""
-1405,kij_hrnstjpl,463,ostrog,strg,Wolyn,ostrog_kij,156,30.25,51.0666666666667,""
-1405,kij_hrdyszcz,464,ostrog,strg,Wolyn,ostrog_kij,30,31.45,49.28333333,""
-1405,kij_hrszkw,465,ostrog,strg,Wolyn,ostrog_kij,80,29.9,49.25,""
-1405,kij_hs,466,ostrog,strg,Wolyn,ostrog_kij,0,,,""
-1405,kij_wnc,467,ostrog,strg,Wolyn,ostrog_kij,132,29.05,50.15,""
-1405,kij_khrlk,469,ostrog,strg,Wolyn,ostrog_kij,98,30.8333333333333,49.85,""
-1405,kij_kmnk,471,ostrog,strg,Wolyn,ostrog_kij,150,28.7,48.0333333333333,""
-1405,kij_knw,472,ostrog,strg,Wolyn,ostrog_kij,425,45.3666666666667,43.1,""
-1405,kij_kdn,473,ostrog,strg,Wolyn,ostrog_kij,502,28.7,50.0833333333333,""
-1405,kij_krstszw,474,ostrog,strg,Wolyn,ostrog_kij,440,29.0667,50.3167,Korostyshiv
-1405,kij_krsn,475,ostrog,strg,Wolyn,ostrog_kij,475,31.2666666666667,49.4166666666667,""
-1405,kij_kszwt,476,ostrog,strg,Wolyn,ostrog_kij,300,30.61666667,49.48333333,""
-1405,kij_ktln,477,ostrog,strg,Wolyn,ostrog_kij,350,28.9666666666667,50.1166666666667,""
-1405,kij_krsnpl,478,ostrog,strg,Wolyn,ostrog_kij,126,28.05,49.8333333333333,""
-1405,kij_krylw,479,ostrog,strg,Wolyn,ostrog_kij,120,33.2333333333333,49.05,""
-1405,kij_lszczyn,481,ostrog,strg,Wolyn,ostrog_kij,403,28.8333333333333,50.15,""
-1405,kij_mdwdwk,482,ostrog,strg,Wolyn,ostrog_kij,30,27.8833333333333,49.4333333333333,""
-1405,kij_mrpl,485,ostrog,strg,Wolyn,ostrog_kij,354,27.7,50.1,""
-1405,kij_mszn,486,ostrog,strg,Wolyn,ostrog_kij,405,31.75,49.5166666666667,""
-1405,kij_mtwlwk,488,ostrog,strg,Wolyn,ostrog_kij,130,30.0833333333333,50.15,motowilowka
-1405,kij_mtwlwk,488,ostrog,strg,Wolyn,ostrog_kij,0,30.0833333333333,50.15,motowilowka
-1405,kij_lwsk,490,ostrog,strg,Wolyn,ostrog_kij,150,27.65,51.2166666666667,""
-1405,kij_pwlcz,492,ostrog,strg,Wolyn,ostrog_kij,1026,29.45,49.8666666666667,""
-1405,kij_phrbyszcz,494,ostrog,strg,Wolyn,ostrog_kij,860,29.2666666666667,49.4833333333333,""
-1405,kij_prdzw,495,ostrog,strg,Wolyn,ostrog_kij,117,,,""
-1405,kij_przybrsk,496,ostrog,strg,Wolyn,ostrog_kij,105,30.0333333333333,51.0166666666667,""
-1405,kij_rdmysl,497,ostrog,strg,Wolyn,ostrog_kij,305,29.2333333333333,50.5,""
-1405,kij_rjgrd,498,ostrog,strg,Wolyn,ostrog_kij,176,22.7,53.73333333,""
-1405,kij_rktn,499,ostrog,strg,Wolyn,ostrog_kij,53,27.21666667,51.28333333,""
-1405,kij_rzw,500,ostrog,strg,Wolyn,ostrog_kij,230,28.2833333333333,48.2333333333333,""
-1405,kij_rzszczw,502,ostrog,strg,Wolyn,ostrog_kij,132,24.7666666666667,50.35,""
-1405,kij_skwr,503,ostrog,strg,Wolyn,ostrog_kij,300,29.6666666666667,49.7333333333333,""
-1405,kij_smyl,504,ostrog,strg,Wolyn,ostrog_kij,660,31.8833333333333,49.2166666666667,""
-1405,kij_stwszcz,505,ostrog,strg,Wolyn,ostrog_kij,30,30.2,49.4,""
-1405,kij_slbdyszcz,506,ostrog,strg,Wolyn,ostrog_kij,60,29.6,48.9666666666667,""
-1405,kij_trszcz,507,ostrog,strg,Wolyn,ostrog_kij,120,30.5,49.5666666666667,""
-1405,kij_ttls,,ostrog,strg,Wolyn,ostrog_kij,22217,,,""
-1405,kij_stblw,508,ostrog,strg,Wolyn,ostrog_kij,176,,,""
-1405,kij_trktmrw,509,ostrog,strg,Wolyn,ostrog_kij,127,31.3333333333333,49.9833333333333,""
-1405,kij_trjnw,510,ostrog,strg,Wolyn,ostrog_kij,60,28.5333333333333,50.1166666666667,""
-1405,kij_szmr,511,ostrog,strg,Wolyn,ostrog_kij,90,28.4666666666667,50.8666666666667,""
-1405,kij_wrnyhrdk,512,ostrog,strg,Wolyn,ostrog_kij,46,28.9,49.7833333333333,""
-1405,kij_wlsk,513,ostrog,strg,Wolyn,ostrog_kij,75,28.5166666666667,50.3833333333333,""
-1405,kij_wldrk,514,ostrog,strg,Wolyn,ostrog_kij,755,29.9244620338245,49.5170412573298,""
-1405,kij_lwkw,515,ostrog,strg,Wolyn,ostrog_kij,100,,,""
-1405,kij_lysnk,516,ostrog,strg,Wolyn,ostrog_kij,758,30.8333333333333,49.25,""
-1405,kij_mkrw,518,ostrog,strg,Wolyn,ostrog_kij,200,29.8166666666667,50.4666666666667,""
-1405,kij_zbtyn,519,ostrog,strg,Wolyn,ostrog_kij,50,32.15,49.15,""
-1405,kij_zytmrz,520,ostrog,strg,Wolyn,ostrog_kij,360,28.6833333333333,50.2666666666667,""
-1406,wol_lksndryj,521,ostrog,strg,Wolyn,ostrog_wol,150,26.35,50.7333333333333,""
-1406,wol_brznc,525,ostrog,strg,Wolyn,ostrog_wol,528,26.4647958186845,51.4318120266411,""
-1406,wol_brzn,526,ostrog,strg,Wolyn,ostrog_wol,375,26.7428382392154,50.99111756199,""
-1406,wol_blgrdk,527,ostrog,strg,Wolyn,ostrog_wol,160,25.55,50.3166666666667,""
-1406,wol_czrtryj,528,ostrog,strg,Wolyn,ostrog_wol,132,25.8666666666667,51.2166666666667,""
-1406,wol_czrnlwk,529,ostrog,strg,Wolyn,ostrog_wol,150,,,""
-1406,wol_drzn,530,ostrog,strg,Wolyn,ostrog_wol,190,26.05,50.8666666666667,""
-1406,wol_drmn,531,ostrog,strg,Wolyn,ostrog_wol,150,26.2166666666667,50.3833333333333,""
-1406,wol_grnd_ttls_fr_strg,,ostrog,strg,Wolyn,ostrog_wol,42077,,,""
-1406,wol_gpkw,532,ostrog,strg,Wolyn,ostrog_wol,50,27.05,50.8333333333333,""
-1406,wol_hszcz,533,ostrog,strg,Wolyn,ostrog_wol,260,26.6768278376889,50.5939696558528,""
-1406,wol_hrycw,534,ostrog,strg,Wolyn,ostrog_wol,142,27.2265085616139,49.9631111837887,""
-1406,wol_hlwczw,535,ostrog,strg,Wolyn,ostrog_wol,30,25.2193224623243,51.2578913785683,""
-1406,wol_jnw,536,ostrog,strg,Wolyn,ostrog_wol,153,24.1163888888889,50.7944444444444,""
-1406,wol_knstntynw,538,ostrog,strg,Wolyn,ostrog_wol,1050,,,""
-1406,wol_krzc,539,ostrog,strg,Wolyn,ostrog_wol,700,27.1292848535212,50.6065737602135,""
-1406,wol_krsylw,541,ostrog,strg,Wolyn,ostrog_wol,315,26.9666666666667,49.65,""
-1406,wol_krp,542,ostrog,strg,Wolyn,ostrog_wol,222,26.5002758147272,50.6516982682608,""
-1406,wol_klczyn,543,ostrog,strg,Wolyn,ostrog_wol,236,24.4666666666667,51.1,""
-1406,wol_knw,544,ostrog,strg,Wolyn,ostrog_wol,95,26.3784428445861,50.2379804967259,""
-1406,wol_kzmn,545,ostrog,strg,Wolyn,ostrog_wol,332,27.0864246386942,49.6942266152401,""
-1406,wol_mryn,546,ostrog,strg,Wolyn,ostrog_wol,300,,,""
-1406,wol_mdzyrzcz_krck,547,ostrog,strg,Wolyn,ostrog_wol,1700,26.86666667,50.65,""
-1406,wol_strpl,550,ostrog,strg,Wolyn,ostrog_wol,150,27.55,49.8166666666667,""
-1406,wol_strg,551,ostrog,strg,Wolyn,ostrog_wol,1286,26.5265492856806,50.3295195120305,""
-1406,wol_rwn,552,ostrog,strg,Wolyn,ostrog_wol,787,26.2624680797275,50.6105938879652,""
-1406,wol_plnn,553,ostrog,strg,Wolyn,ostrog_wol,750,27.5195969364713,50.1174948899498,""
-1406,wol_srny,554,ostrog,strg,Wolyn,ostrog_wol,50,26.6,51.3333333333333,""
-1406,wol_stpn,555,ostrog,strg,Wolyn,ostrog_wol,792,26.299894067448,51.1317598532733,""
-1406,wol_sdylkw,556,ostrog,strg,Wolyn,ostrog_wol,220,27.1300089948138,50.1696325432066,""
-1406,wol_szmsk,557,ostrog,strg,Wolyn,ostrog_wol,285,26.1264422341505,50.1243188079118,""
-1406,wol_slwt,558,ostrog,strg,Wolyn,ostrog_wol,272,26.8808257408614,50.2981203542716,""
-1406,wol_ttls,,ostrog,strg,Wolyn,ostrog_wol,17032,,,""
-1406,wol_tczyn,559,ostrog,strg,Wolyn,ostrog_wol,787,26.5780693025542,50.6903847439389,""
-1406,wol_szptwk,560,ostrog,strg,Wolyn,ostrog_wol,440,27.0467327614568,50.1770148655051,""
-1406,wol_wrkwcz,561,ostrog,strg,Wolyn,ostrog_wol,0,25.9936694422982,50.468743476246,""
-1406,wol_wldzmrzc,562,ostrog,strg,Wolyn,ostrog_wol,271,26.15,51.4166666666667,""
-1406,wol_zslw,563,ostrog,strg,Wolyn,ostrog_wol,1500,26.8123189823602,50.1183474454349,""
-1406,wol_zwhl,564,ostrog,strg,Wolyn,ostrog_wol,792,27.6108387222478,50.5867337683617,""
-1406,wol_lbn,565,ostrog,strg,Wolyn,ostrog_wol,630,27.3675272938102,50.0099898167561,""
-1406,wol_wlynsk_drwcz,567,ostrog,strg,Wolyn,ostrog_wol,50,,,""
-1406,wol_lbr,568,ostrog,strg,Wolyn,ostrog_wol,450,27.7313520677126,49.9150645968052,""
-1406,wol_lbmrk,569,ostrog,strg,Wolyn,ostrog_wol,100,27.1666666666667,50.75,""
-1407,kij_brhn,570,owrucz,wrcz,Wolyn,owrucz,300,30.2666666666667,51.7833333333333,""
-1407,kij_chjnk,571,owrucz,wrcz,Wolyn,owrucz,100,29.9833333333333,51.9,""
-1407,kij_czrnbyl,573,owrucz,wrcz,Wolyn,owrucz,216,30.2166666666667,51.2666666666667,""
-1407,kij_wrcz,575,owrucz,wrcz,Wolyn,owrucz,120,28.8,51.3166666666667,""
-1407,kij_sylwszn,576,owrucz,wrcz,Wolyn,owrucz,300,,,""
-1407,kij_ttls,,owrucz,wrcz,Wolyn,owrucz,1956,,,""
-1407,kij_wldnk,577,owrucz,wrcz,Wolyn,owrucz,250,28.4666666666667,51.3166666666667,""
-1407,kij_lbnk,578,owrucz,wrcz,Wolyn,owrucz,50,30.7333333333333,49.7,""
-1407,kij_lhyny,579,owrucz,wrcz,Wolyn,owrucz,100,28.4,51.0833333333333,""
-1407,kij_nrdycz,580,owrucz,wrcz,Wolyn,owrucz,200,29.0833333333333,51.2,""
-1407,kij_nrdzynsk,581,owrucz,wrcz,Wolyn,owrucz,120,28.6,51.266666666667,Norinsk
-1408,wol_brstczk,582,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,800,25.1166666666667,50.35,""
-1408,wol_drszkpl,583,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,500,24.6833333333333,50.4333333333333,""
-1408,wol_bldw,584,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,175,24.9166666666667,50.6,""
-1408,wol_grnd_ttls_fr_wlyn,,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,76955,,,""
-1408,wol_hrchw,585,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,210,24.7597846983461,50.5010182121339,""
-1408,wol_hlwk,586,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,145,43.6333333333333,48.65,""
-1408,wol_jzrzny,587,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,90,26.0333333333333,50.45,""
-1408,wol_ksln,588,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,24.7827996063281,50.8467081240406,""
-1408,wol_lsnw,589,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,1100,25.0833333333333,50.2333333333333,""
-1408,wol_mchlwk,590,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,80,25.3637319308506,50.1528039239754,""
-1408,wol_zdtycz,591,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,24.7166666666667,50.85,""
-1408,wol_pryck,592,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,215,24.4531193892141,50.6219553864874,""
-1408,wol_rznpl,593,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,,,""
-1408,wol_skl,594,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,327,25.33333333,51.05,""
-1408,wol_stbchw,595,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,25.1833333333333,51.4,""
-1408,wol_stlwk,596,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,,,""
-1408,blz_strmlch,597,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,73,25.05,50.3333333333333,""
-1408,wol_swnchy,598,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,24.7499719888403,50.6310218286807,""
-1408,wol_trczyn,599,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,300,24.9790121992021,50.7603843869013,""
-1408,wol_ttls,,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,9464,,,""
-1408,wol_sclg,600,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,400,24.1584006280539,50.8640470329804,""
-1408,wol_wldzmrz,601,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,24.3073160650718,50.8524309444856,""
-1408,wol_lbczwk,602,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,145,24.9833333333333,50.4166666666667,""
-1408,wol_brml,603,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,25.2,50.4666666666667,""
-1408,wol_lkcz,604,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,311,24.632923048569,50.7341435838205,""
-1408,wol_trzysk,605,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,24.5427875925651,51.0994574704276,""
-1408,wol_mltyn,606,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,280,26.6265895480614,50.4439433438887,""
-1408,wol_rychw,607,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,765,24.3,50.783333,Horychiv
-200,rus_blzw,608,rzeszow,rzszw,Autonomous,rzs_snd,500,22.1,49.8833333333333,""
-200,snd_czdc,609,rzeszow,rzszw,Autonomous,rzs_snd,500,21.838794618623,49.9464065187548,""
-200,snd_frysztk,610,rzeszow,rzszw,Autonomous,rzs_snd,320,21.608879143114,49.8369870766933,""
-200,snd_glgw,611,rzeszow,rzszw,Autonomous,rzs_snd,700,21.9644452586563,50.1506787422238,""
-200,rus_krsnbrd,612,rzeszow,rzszw,Autonomous,rzs_snd,0,,,""
-200,snd_nbylc,613,rzeszow,rzszw,Autonomous,rzs_snd,0,21.9,49.86666667,""
-200,snd_rpczyc,614,rzeszow,rzszw,Autonomous,rzs_snd,900,21.6094127251689,50.0518921131857,""
-200,swr_rzwdw,615,rzeszow,rzszw,Autonomous,rzs_snd,0,22.05,50.58333333,""
-200,rus_rzszw,616,rzeszow,rzszw,Autonomous,rzs_snd,3581,21.9927683044083,50.0333357013252,""
-200,snd_sdrzyszw,617,rzeszow,rzszw,Autonomous,rzs_snd,500,21.7,50.0666666666667,""
-200,snd_strzyzw,618,rzeszow,rzszw,Autonomous,rzs_snd,2490,21.7865751959357,49.8692737782343,""
-200,snd_wlpl,619,rzeszow,rzszw,Autonomous,rzs_snd,102,21.6132339356438,49.9447446076232,""
-200,rus_tyczyn,620,rzeszow,rzszw,Autonomous,rzs_snd,800,22.0191399570457,49.9625356086967,""
-200,NA_ttls,,rzeszow,rzszw,Autonomous,rzs_snd,10691,,,""
-301,maz_gwrw,621,tykocin,tykcn,Autonomous,tyk_maz,0,21.5818773205469,52.894083303342,""
-301,maz_grjw,622,tykocin,tykcn,Autonomous,tyk_maz,70,,,""
-301,maz_jblnn,623,tykocin,tykcn,Autonomous,tyk_maz,0,20.93333333,52.36666667,""
-301,maz_jdwbn,624,tykocin,tykcn,Autonomous,tyk_maz,150,22.3166532139231,53.2818512690223,""
-301,maz_klczkw,625,tykocin,tykcn,Autonomous,tyk_maz,0,21.85,53.05,""
-301,maz_lpnk,626,tykocin,tykcn,Autonomous,tyk_maz,200,21.2666666666667,52.9,""
-301,maz_myszync,627,tykocin,tykcn,Autonomous,tyk_maz,200,21.35,53.38333333,""
-301,maz_nwgrd,628,tykocin,tykcn,Autonomous,tyk_maz,72,21.86666667,53.23333333,""
-301,maz_rdk,629,tykocin,tykcn,Autonomous,tyk_maz,0,22.7333333333333,52.7166666666667,""
-301,maz_sndw,630,tykocin,tykcn,Autonomous,tyk_maz,100,,,""
-301,maz_stwsk,632,tykocin,tykcn,Autonomous,tyk_maz,190,22.165308314201,53.3706577447029,""
-301,maz_stwsk,632,tykocin,tykcn,Autonomous,tyk_maz,0,22.165308314201,53.3706577447029,""
-301,maz_szczcn,633,tykocin,tykcn,Autonomous,tyk_maz,0,22.2833333333333,53.5666666666667,""
-301,NA_ttls,,tykocin,tykcn,Autonomous,tyk_maz,2067,,,""
-301,maz_trszyn,634,tykocin,tykcn,Autonomous,tyk_maz,35,21.7333333333333,53.0333333333333,""
-301,maz_wzn,635,tykocin,tykcn,Autonomous,tyk_maz,100,22.3817275848938,53.189946972492,""
-301,maz_zwdw,636,tykocin,tykcn,Autonomous,tyk_maz,0,,,""
-301,maz_zmbrw,637,tykocin,tykcn,Autonomous,tyk_maz,0,22.2438630601394,52.9672827107023,""
-302,pdl_gstw,638,tykocin,tykcn,Autonomous,tyk_pdl,170,22.9780204465886,53.8374492809893,""
-302,pdl_blystk,639,tykocin,tykcn,Autonomous,tyk_pdl,400,23.1567122228573,53.1187646617058,""
-302,pdl_bczk,640,tykocin,tykcn,Autonomous,tyk_pdl,400,23.05,52.65,""
-302,pdl_drhczyn,641,tykocin,tykcn,Autonomous,tyk_pdl,0,22.6421027558106,52.4086554314051,""
-302,pdl_gndz,642,tykocin,tykcn,Autonomous,tyk_pdl,140,22.7363522692555,53.4796053466194,""
-302,pdl_grnd_ttls,,tykocin,tykcn,Autonomous,tyk_pdl,9662,,,""
-302,pdl_jsnwk,643,tykocin,tykcn,Autonomous,tyk_pdl,220,23.0409281097724,53.3938778123214,""
-302,pdl_knyszyn,644,tykocin,tykcn,Autonomous,tyk_pdl,62,22.91666667,53.31666667,""
-302,pdl_lsc,645,tykocin,tykcn,Autonomous,tyk_pdl,180,22.7361404654278,52.2060376386106,""
-302,pdl_mlnk,646,tykocin,tykcn,Autonomous,tyk_pdl,108,23.05,52.33333333,""
-302,pdl_nmrw,647,tykocin,tykcn,Autonomous,tyk_pdl,50,23.153071510976,52.2869645109771,""
-302,pdl_rly,648,tykocin,tykcn,Autonomous,tyk_pdl,1100,23.3333333333333,52.7,""
-302,pdl_swc,649,tykocin,tykcn,Autonomous,tyk_pdl,200,22.65,53.5,""
-302,pdl_rjgrd,651,tykocin,tykcn,Autonomous,tyk_pdl,150,22.6892578439671,53.7162133761394,""
-302,pdl_rjgrd,651,tykocin,tykcn,Autonomous,tyk_pdl,0,22.6892578439671,53.7162133761394,""
-302,pdl_smtycz,652,tykocin,tykcn,Autonomous,tyk_pdl,750,22.862653952951,52.4271122417998,""
-302,pdl_skly,653,tykocin,tykcn,Autonomous,tyk_pdl,380,22.7043560929703,52.9909547793715,""
-302,pdl_srz,654,tykocin,tykcn,Autonomous,tyk_pdl,150,22.95,52.95,""
-302,pdl_tykcn,655,tykocin,tykcn,Autonomous,tyk_pdl,970,22.7912700839357,53.1941224365405,""
-302,pdl_wszn,656,tykocin,tykcn,Autonomous,tyk_pdl,100,22.3833333333333,53.2,""
-302,pdl_wysk_mzwck,657,tykocin,tykcn,Autonomous,tyk_pdl,0,22.4850792625023,52.9227540565595,""
-302,pdl_knstntynw,658,tykocin,tykcn,Autonomous,tyk_pdl,85,,,""
-302,pdl_srnk,659,tykocin,tykcn,Autonomous,tyk_pdl,350,22.8897636976863,52.3179459894113,""
-302,pdl_ttls,,tykocin,tykcn,Autonomous,tyk_pdl,7595,,,""
-302,pdl_rssz,660,tykocin,tykcn,Autonomous,tyk_pdl,50,23.1333333333333,51.8666666666667,""
-401,maz_czyzw,661,wegro,wgr,Autonomous,weg_maz,450,22.3333333333333,52.8,""
-401,maz_klszyn,663,wegro,wgr,Autonomous,weg_maz,470,21.8028486041197,52.2091992195937,""
-401,maz_kmnczyk,664,wegro,wgr,Autonomous,weg_maz,30,21.55,52.6,""
-401,maz_krczw,665,wegro,wgr,Autonomous,weg_maz,100,21.25,52.08333333,""
-401,maz_mnsk_mzwck,666,wegro,wgr,Autonomous,weg_maz,30,21.56666667,52.18333333,""
-401,maz_strw_mzwck,667,wegro,wgr,Autonomous,weg_maz,100,21.8969812839418,52.7984870290779,""
-401,maz_rdzymn,668,wegro,wgr,Autonomous,weg_maz,50,21.18333333,52.41666667,""
-401,maz_stczk,669,wegro,wgr,Autonomous,weg_maz,120,21.9025828281132,52.5450857101926,""
-401,maz_ttls,,wegro,wgr,Autonomous,weg_maz,3100,,,""
-401,maz_wsw,670,wegro,wgr,Autonomous,weg_maz,120,21.6957285783508,52.867501221041,""
-401,maz_zrby,671,wegro,wgr,Autonomous,weg_maz,150,22.1232973219718,52.7491093681494,""
-401,maz_zrby_kscln,672,wegro,wgr,Autonomous,weg_maz,0,22.1232973219718,52.7491093681494,""
-401,maz_wlk_gwrwsk,674,wegro,wgr,Autonomous,weg_maz,200,21.5667,52.9,Goworowo
-401,maz_dbr,675,wegro,wgr,Autonomous,weg_maz,50,21.68333333,52.33333333,""
-401,maz_jdw,676,wegro,wgr,Autonomous,weg_maz,100,21.63333333,52.46666667,""
-401,maz_lw,677,wegro,wgr,Autonomous,weg_maz,50,21.96666667,52.38333333,""
-401,maz_snnc,678,wegro,wgr,Autonomous,weg_maz,40,21.61666667,52.1,""
-401,maz_ngw,679,wegro,wgr,Autonomous,weg_maz,30,21.3833333333333,52.5166666666667,""
-402,pdl_cchnwc,680,wegro,wgr,Autonomous,weg_pdl,300,22.4992061780633,52.6742200015964,""
-402,pdl_grnd_ttls,,wegro,wgr,Autonomous,weg_pdl,7784,,,""
-402,pdl_ksw_lck,681,wegro,wgr,Autonomous,weg_pdl,200,22.1612071701251,52.5921703265756,""
-402,pdl_mrdy,682,wegro,wgr,Autonomous,weg_pdl,363,22.5124004121436,52.2124088063868,""
-402,pdl_wgrw,684,wegro,wgr,Autonomous,weg_pdl,30,22.0228060172178,52.3963946953898,""
-402,pdl_mkbdy,685,wegro,wgr,Autonomous,weg_pdl,150,22.1179016452034,52.2692260251658,""
-402,pdl_sklw_pdlsk,686,wegro,wgr,Autonomous,weg_pdl,0,22.2681783895744,52.4094776905297,""
-402,pdl_ttls,,wegro,wgr,Autonomous,weg_pdl,3837,,,""
-402,pdl_wysk_mzwck,687,wegro,wgr,Autonomous,weg_pdl,0,22.4850792625023,52.9227540565595,""
-501,blz_blz,688,chelm_belz,chlmblz,Chellm-Belz,chl,407,24.003847421274,50.3816143620553,""
-501,blz_csznw,689,chelm_belz,chlmblz,Chellm-Belz,chl,1280,23.1417450554359,50.2429694398181,""
-501,blz_dbrtwr,690,chelm_belz,chlmblz,Chellm-Belz,chl,60,24.3833333333333,50.2,""
-501,blz_dbnk,691,chelm_belz,chlmblz,Chellm-Belz,chl,1100,23.8873304884389,51.0533168382045,""
-501,blz_grbwc,692,chelm_belz,chlmblz,Chellm-Belz,chl,208,23.5547737664318,50.8292112195087,""
-501,blz_hrdl,693,chelm_belz,chlmblz,Chellm-Belz,chl,660,24.0333333333333,50.9,""
-501,blz_kmrw,694,chelm_belz,chlmblz,Chellm-Belz,chl,330,23.4666666666667,50.6166666666667,""
-501,blz_krytnc,695,chelm_belz,chlmblz,Chellm-Belz,chl,240,24.0072394247488,50.9491600182676,""
-501,blz_krystynpl,696,chelm_belz,chlmblz,Chellm-Belz,chl,240,24.23333333,50.38333333,""
-501,blz_lbcz,697,chelm_belz,chlmblz,Chellm-Belz,chl,200,,,""
-501,blz_lbczw,698,chelm_belz,chlmblz,Chellm-Belz,chl,730,23.1250406861361,50.1595550632533,""
-501,blz_lbl,699,chelm_belz,chlmblz,Chellm-Belz,chl,200,23.95,50.2,""
-501,blz_msty_krlwk,700,chelm_belz,chlmblz,Chellm-Belz,chl,324,24.15,50.2333,Velyki Mosty
-501,blz_msty_szlchck,701,chelm_belz,chlmblz,Chellm-Belz,chl,97,,,""
-501,blz_nrl,702,chelm_belz,chlmblz,Chellm-Belz,chl,900,23.3147428228395,50.3516257630205,""
-501,blz_nmrw,703,chelm_belz,chlmblz,Chellm-Belz,chl,800,23.4333333333333,50.1,""
-501,blz_lszczyc,704,chelm_belz,chlmblz,Chellm-Belz,chl,650,23.0308333333333,50.1669444444444,""
-501,blz_przwl,706,chelm_belz,chlmblz,Chellm-Belz,chl,100,23.6333333333333,50.6166666666667,""
-501,blz_rchn,707,chelm_belz,chlmblz,Chellm-Belz,chl,40,23.55,50.5333333333333,""
-501,blz_rdzchw,708,chelm_belz,chlmblz,Chellm-Belz,chl,638,24.650815714149,50.2774144609958,""
-501,blz_rw_rsk,709,chelm_belz,chlmblz,Chellm-Belz,chl,772,23.6213278009305,50.2303176668933,""
-501,blz_stjnw,710,chelm_belz,chlmblz,Chellm-Belz,chl,284,24.6524976990533,50.3731527139266,""
-501,blz_szczrwc,711,chelm_belz,chlmblz,Chellm-Belz,chl,220,25.0333333333333,50.2666666666667,""
-501,blz_trtkw,712,chelm_belz,chlmblz,Chellm-Belz,chl,368,24.3973966174658,50.4567450697687,""
-501,blz_tprw,713,chelm_belz,chlmblz,Chellm-Belz,chl,385,24.7333333333333,50.1166666666667,""
-501,blz_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl,19659,,,""
-501,blz_tyszwc,714,chelm_belz,chlmblz,Chellm-Belz,chl,1010,23.7058841553443,50.6227441449671,""
-501,blz_hnw,715,chelm_belz,chlmblz,Chellm-Belz,chl,1941,23.7598911177874,50.3624009809213,""
-501,blz_wtkw,717,chelm_belz,chlmblz,Chellm-Belz,chl,850,24.4882238157869,50.3052785790103,""
-501,blz_bsk,718,chelm_belz,chlmblz,Chellm-Belz,chl,935,24.6166666666667,49.9666666666667,""
-501,blz_ptylcz,719,chelm_belz,chlmblz,Chellm-Belz,chl,240,23.55,50.2,""
-501,blz_jrczw,720,chelm_belz,chlmblz,Chellm-Belz,chl,156,,,""
-501,blz_lpsk,721,chelm_belz,chlmblz,Chellm-Belz,chl,800,23.3485653647849,50.3481498869745,""
-501,blz_skl,722,chelm_belz,chlmblz,Chellm-Belz,chl,1265,24.2897495683034,50.4906821376766,""
-502,lbl_blgrj,723,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,22.7333333333333,50.5333333333333,""
-502,rus_chlm,724,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1612,23.474799012592,51.1332146271815,""
-502,lbl_grzkw,725,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.0166666666667,50.95,""
-502,NA_grzkw_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,,,""
-502,rus_hlszw,726,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,650,24.2666666666667,49.3,""
-502,rus_krsnbrd,727,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.2166666666667,50.55,""
-502,rus_krsnczyn,728,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,228,23.3771119027443,50.9297891568531,""
-502,rus_krsnczyn,728,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,220,23.3771119027443,50.9297891568531,""
-502,rus_lbml,729,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1890,24.0333333333333,51.2333333333333,""
-502,rus_krylw,730,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,570,,,""
-502,rus_mcjw,731,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1040,24.3491611179975,51.2245944768592,""
-502,lbl_mdlbrzyc,732,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,22.3306422283973,50.7545039338917,""
-502,rus_pln,733,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,230,23.7123776578962,51.2919776341083,""
-502,rus_rtn,734,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,550,24.531656249436,51.6611552518694,""
-502,rus_rjwc,735,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,180,,,""
-502,rus_sdlszcz,736,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,38,23.1637218418252,51.1939255515011,""
-502,rus_snw,737,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1350,22.6160562422611,50.1691498051277,""
-502,rus_skrbszw,738,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.3666666666667,50.85,""
-502,rus_swrz,739,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,136,24.4333333333333,49.65,""
-502,rus_trngr,741,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,250,23.1654776655647,50.8899379764094,""
-502,rus_wjslwc,743,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,80,23.552095628596,50.9273672934201,""
-502,rus_hrbszw,744,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1000,23.9,50.8,""
-502,rus_chn,745,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,250,23.6592908853506,50.9029127795118,""
-502,rus_chlm_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,8776,,,""
-502,lbl_plszkwc,747,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,,,""
-502,NA_grnd_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,29409,,,""
-601,chl_szmbrk,752,great_poland,grtplnd,Great Poland,gp_prussia,600,19.0215373759096,53.5584541843512,""
-601,NA_ttl,,great_poland,grtplnd,Great Poland,gp_prussia,600,,,""
-601,NA_ttls,,great_poland,grtplnd,Great Poland,gp_prussia,600,,,""
-602,kij_brzsc,757,great_poland,grtplnd,Great Poland,gp_in_and_kuj,280,18.8980555555556,52.605,Brześć Kujawski
-602,inw_dbrzyn,758,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,19.3166666666667,52.6333333333333,""
-602,inw_frdn,759,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,18.1710801160909,53.1592822820413,""
-602,inw_nwrclw,760,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1000,18.2856831720379,52.7986200298129,""
-602,kij_zbc,761,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,,,""
-602,kij_kwl,763,great_poland,grtplnd,Great Poland,gp_in_and_kuj,530,,,""
-602,inw_lpn,764,great_poland,grtplnd,Great Poland,gp_in_and_kuj,120,19.1833333333333,52.85,""
-602,kij_lbrbc,765,great_poland,grtplnd,Great Poland,gp_in_and_kuj,0,18.85,52.55,""
-602,kij_lbrnc,766,great_poland,grtplnd,Great Poland,gp_in_and_kuj,200,18.85,52.55,""
-602,kij_przdcz,768,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,18.9,52.33333333,""
-602,kij_strzln,770,great_poland,grtplnd,Great Poland,gp_in_and_kuj,150,18.2,52.63333333,""
-602,NA_ttls_brzsc,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1760,,,""
-602,NA_ttls_dbrzyn,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1720,,,""
-602,NA_ttls,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,0,,,""
-603,kls_brk,773,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.253833115765,51.9205515395357,""
-603,kls_chdzz,774,great_poland,grtplnd,Great Poland,gp_kalisz,1120,16.9062057422499,52.9928559929061,""
-603,kls_dbrzn_frydlnd,776,great_poland,grtplnd,Great Poland,gp_kalisz,1200,17.23333333,53.53333333,""
-603,kls_dzlyn,777,great_poland,grtplnd,Great Poland,gp_kalisz,100,17.5019408341046,52.5893387973836,""
-603,kls_gnzn,778,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.5860406166389,52.5403921737027,""
-603,kls_glncz,779,great_poland,grtplnd,Great Poland,gp_kalisz,550,17.3,52.95,""
-603,kls_gln,780,great_poland,grtplnd,Great Poland,gp_kalisz,600,18.1164653729346,52.2402275167327,""
-603,kls_grnw,781,great_poland,grtplnd,Great Poland,gp_kalisz,200,16.5280555555556,52.2222222222222,""
-603,kls_jrcn,782,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.4898578854863,51.9698160252835,""
-603,kls_jrczw,783,great_poland,grtplnd,Great Poland,gp_kalisz,50,17.3,51.9666666666667,""
-603,kls_kzmrz,786,great_poland,grtplnd,Great Poland,gp_kalisz,50,18.1666666666667,52.3166666666667,""
-603,kls_kcyn,787,great_poland,grtplnd,Great Poland,gp_kalisz,500,17.4916233481593,52.9812428308052,""
-603,kls_klczw,788,great_poland,grtplnd,Great Poland,gp_kalisz,100,18.1778984780415,52.3679220070574,""
-603,kls_kbyln,789,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.216247628786,51.7181171553752,""
-603,kls_kzmn,790,great_poland,grtplnd,Great Poland,gp_kalisz,120,17.4655921680504,51.8163462992014,""
-603,kls_kl,791,great_poland,grtplnd,Great Poland,gp_kalisz,300,18.6383425310967,52.1800953420951,""
-603,kls_knn,792,great_poland,grtplnd,Great Poland,gp_kalisz,130,18.2611830948784,52.1993310614889,""
-603,kls_kωmnk,793,great_poland,grtplnd,Great Poland,gp_kalisz,220,18.2666666666667,51.7666666666667,""
-603,kls_krjnk,794,great_poland,grtplnd,Great Poland,gp_kalisz,350,16.9728030602185,53.2990520987558,""
-603,kls_krtszyn,795,great_poland,grtplnd,Great Poland,gp_kalisz,3000,17.4422734924693,51.6857294322649,""
-603,kls_krnk,796,great_poland,grtplnd,Great Poland,gp_kalisz,660,17.1,52.25,""
-603,kls_mrgnn,797,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.1083916949951,52.9568364926788,""
-603,kls_mrcz,798,great_poland,grtplnd,Great Poland,gp_kalisz,80,17.6161351782918,53.2471238130634,""
-603,kls_nkl,799,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.6,53.15,""
-603,kls_nwmst_n_wrt,800,great_poland,grtplnd,Great Poland,gp_kalisz,200,17.41666667,52.1,""
-603,kls_pgrzl,802,great_poland,grtplnd,Great Poland,gp_kalisz,0,17.2304,51.8235,Pogorzela
-603,kls_pyzdry,803,great_poland,grtplnd,Great Poland,gp_kalisz,230,17.6970598985808,52.1739416132984,""
-603,kls_rychwl,807,great_poland,grtplnd,Great Poland,gp_kalisz,100,18.1778984780415,52.0699785765744,""
-603,kls_rychwl,807,great_poland,grtplnd,Great Poland,gp_kalisz,0,18.1778984780415,52.0699785765744,""
-603,kls_smplbrg,808,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.5349675061567,53.4419895380988,""
-603,kls_skk,809,great_poland,grtplnd,Great Poland,gp_kalisz,850,17.1750752975165,52.6601605972408,""
-603,kls_ttls,,great_poland,grtplnd,Great Poland,gp_kalisz,18582,,,""
-603,kls_wtkw,812,great_poland,grtplnd,Great Poland,gp_kalisz,400,,,""
-603,kls_wrzsn,813,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.583521870143,52.3248155623555,""
-603,kls_znmysl,814,great_poland,grtplnd,Great Poland,gp_kalisz,56,17.1662587328484,52.150632878823,""
-603,kls_zdny,815,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.3872981103873,51.6432843534798,""
-603,kls_zltw,816,great_poland,grtplnd,Great Poland,gp_kalisz,1800,18.45,52.4333333333333,""
-603,kls_lbszyn,817,great_poland,grtplnd,Great Poland,gp_kalisz,700,17.9147,52.9533,Labiszyn
-603,kls_zrkw,818,great_poland,grtplnd,Great Poland,gp_kalisz,100,17.5701062085899,52.060786385779,""
-603,kls_strw,819,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.8296319770446,51.642995488546,""
-603,kls_mlslw,821,great_poland,grtplnd,Great Poland,gp_kalisz,120,17.4841099919432,52.2072225655312,""
-603,kls_lbznc,822,great_poland,grtplnd,Great Poland,gp_kalisz,600,17.2339008453791,53.2555372944034,""
-604,lcz_blwy,824,great_poland,grtplnd,Great Poland,gp_lcz,300,19.657683841721,52.0696896055206,""
-604,lcz_brtszwc,825,great_poland,grtplnd,Great Poland,gp_lcz,500,,,""
-604,lcz_brzzny,827,great_poland,grtplnd,Great Poland,gp_lcz,0,19.7523089633067,51.8025157705036,""
-604,lcz_brzzny,827,great_poland,grtplnd,Great Poland,gp_lcz,750,19.7523089633067,51.8025157705036,""
-604,lcz_krsnwc,829,great_poland,grtplnd,Great Poland,gp_lcz,250,19.1628713168798,52.257173559542,""
-604,lcz_lczyc,830,great_poland,grtplnd,Great Poland,gp_lcz,1000,19.1851132350946,52.0602086541128,""
-604,lcz_sbt,833,great_poland,grtplnd,Great Poland,gp_lcz,150,19.6787658287715,52.1199286433841,""
-604,lcz_strykw,834,great_poland,grtplnd,Great Poland,gp_lcz,900,19.6101199865212,51.8952536495223,""
-604,lcz_jzd,835,great_poland,grtplnd,Great Poland,gp_lcz,220,19.9188598067443,51.5967624698702,""
-604,lcz_ttls,,great_poland,grtplnd,Great Poland,gp_lcz,4224,,,""
-604,lcz_jzd,835,great_poland,grtplnd,Great Poland,gp_lcz,0,19.9188598067443,51.5967624698702,""
-605,swr_brznn,837,great_poland,grtplnd,Great Poland,gp_maz_and_sier,150,18.83333333,51.46666667,""
-605,swr_blszkw,838,great_poland,grtplnd,Great Poland,gp_maz_and_sier,600,,,""
-605,maz_cchnw,840,great_poland,grtplnd,Great Poland,gp_maz_and_sier,600,20.6131654524722,52.8768091320985,""
-605,swr_dbr,841,great_poland,grtplnd,Great Poland,gp_maz_and_sier,106,18.6302706797126,51.9148540152208,""
-605,swr_grbw,842,great_poland,grtplnd,Great Poland,gp_maz_and_sier,100,19.0166666666667,52.1333333333333,""
-605,swr_kpn,843,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1650,17.9893369275864,51.2753564884692,""
-605,maz_mkw,844,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1100,21.1,52.86666667,""
-605,maz_nslsk,845,great_poland,grtplnd,Great Poland,gp_maz_and_sier,700,20.8079336703153,52.5764054722053,""
-605,swr_ptrkw,846,great_poland,grtplnd,Great Poland,gp_maz_and_sier,410,19.6995187781732,51.3998168315162,""
-605,maz_rzn,847,great_poland,grtplnd,Great Poland,gp_maz_and_sier,150,21.3998114202246,52.8840772315061,""
-605,swr_tszyn,848,great_poland,grtplnd,Great Poland,gp_maz_and_sier,130,19.55,51.6,""
-605,swr_wrszw,849,great_poland,grtplnd,Great Poland,gp_maz_and_sier,200,18.16666667,51.28333333,""
-605,maz_wyszgrd,850,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1800,20.1991704829083,52.3906221685169,""
-605,swr_zlczw,851,great_poland,grtplnd,Great Poland,gp_maz_and_sier,100,18.61666667,51.41666667,""
-605,NA_ttls_blszkw,,great_poland,grtplnd,Great Poland,gp_maz_and_sier,6486,,,""
-605,NA_ttls_cchnw,,great_poland,grtplnd,Great Poland,gp_maz_and_sier,4350,,,""
-605,swr_wrt,852,great_poland,grtplnd,Great Poland,gp_maz_and_sier,300,18.6375088667701,51.7135844167648,""
-605,swr_wdw,853,great_poland,grtplnd,Great Poland,gp_maz_and_sier,400,18.95,51.43333333,""
-605,swr_lsk,854,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1800,19.1381094623661,51.5937669181229,""
-605,swr_ltmrsk,855,great_poland,grtplnd,Great Poland,gp_maz_and_sier,500,19.2211218751091,51.7447458045709,""
-606,plc_bzn,856,great_poland,grtplnd,Great Poland,gp_plock,150,19.8883779124893,52.9522695042882,""
-606,plc_drbn,857,great_poland,grtplnd,Great Poland,gp_plock,1200,19.9909173215416,52.7286808563644,""
-606,plc_mlw,859,great_poland,grtplnd,Great Poland,gp_plock,400,20.3958996049872,53.1128967392486,""
-606,plc_plck,860,great_poland,grtplnd,Great Poland,gp_plock,1000,19.6868871563571,52.5452559167792,""
-606,plc_plnsk,861,great_poland,grtplnd,Great Poland,gp_plock,300,20.3864709374641,52.6145747441871,""
-606,plc_rdznw,862,great_poland,grtplnd,Great Poland,gp_plock,500,20.0803995666807,52.9370553542593,""
-606,plc_srpc,863,great_poland,grtplnd,Great Poland,gp_plock,700,19.676986166703,52.846907067628,""
-606,plc_szrnsk,864,great_poland,grtplnd,Great Poland,gp_plock,250,20.1257049859446,53.0147915121055,""
-606,plc_ttls,,great_poland,grtplnd,Great Poland,gp_plock,4500,,,""
-607,pzn_bbmst,865,great_poland,grtplnd,Great Poland,gp_poznan,680,15.8281395187974,52.170737622087,""
-607,pzn_bjnw,866,great_poland,grtplnd,Great Poland,gp_poznan,350,,,""
-607,pzn_brc,867,great_poland,grtplnd,Great Poland,gp_poznan,350,15.6666666666667,52.3166666666667,""
-607,pzn_chrnkw,868,great_poland,grtplnd,Great Poland,gp_poznan,530,16.5666666666667,52.9,""
-607,pzn_czmpn,869,great_poland,grtplnd,Great Poland,gp_poznan,64,16.7686830228192,52.1472718363076,""
-607,pzn_czlp,870,great_poland,grtplnd,Great Poland,gp_poznan,600,,,""
-607,pzn_frydlndk,871,great_poland,grtplnd,Great Poland,gp_poznan,1000,,,""
-607,pzn_grdzsk,873,great_poland,grtplnd,Great Poland,gp_poznan,1000,,,""
-607,pzn_hnrchsdrf,875,great_poland,grtplnd,Great Poland,gp_poznan,0,15.7666666666667,48.75,""
-607,pzn_jtrsn,876,great_poland,grtplnd,Great Poland,gp_poznan,160,17.1666666666667,51.65,""
-607,pzn_krgw,877,great_poland,grtplnd,Great Poland,gp_poznan,600,15.8692686772135,52.0738558335319,""
-607,pzn_lwwk,878,great_poland,grtplnd,Great Poland,gp_poznan,500,16.1774439084625,52.4501529889966,""
-607,pzn_mdzychd,879,great_poland,grtplnd,Great Poland,gp_poznan,600,15.9090455538725,52.6136429890082,""
-607,pzn_mdzyrzcz,880,great_poland,grtplnd,Great Poland,gp_poznan,900,15.601067293933,52.4385252219059,""
-607,pzn_brnk,882,great_poland,grtplnd,Great Poland,gp_poznan,500,16.8379584192683,52.6479673553438,""
-607,pzn_brzysk,883,great_poland,grtplnd,Great Poland,gp_poznan,150,16.5295,52.707,Obrzycko
-607,pzn_sczn,884,great_poland,grtplnd,Great Poland,gp_poznan,300,16.6713374152226,51.9053826946526,""
-607,pzn_pl,885,great_poland,grtplnd,Great Poland,gp_poznan,600,16.7451247957284,53.1518301723533,""
-607,pzn_pnwy,886,great_poland,grtplnd,Great Poland,gp_poznan,600,16.2684840257706,52.5070422938322,""
-607,pzn_rknwc,887,great_poland,grtplnd,Great Poland,gp_poznan,30,16.2666666666667,52.1333333333333,""
-607,pzn_rwcz,888,great_poland,grtplnd,Great Poland,gp_poznan,1200,16.8489957032058,51.6023061570581,""
-607,pzn_rstrzw,889,great_poland,grtplnd,Great Poland,gp_poznan,80,,,""
-607,pzn_rgzn,890,great_poland,grtplnd,Great Poland,gp_poznan,640,17.0090273315753,52.7447892976152,""
-607,pzn_srkw,892,great_poland,grtplnd,Great Poland,gp_poznan,450,16.0686899611559,52.6517564976282,""
-607,pzn_skwrzyn,893,great_poland,grtplnd,Great Poland,gp_poznan,1000,15.5,52.6,""
-607,pzn_stszw,894,great_poland,grtplnd,Great Poland,gp_poznan,120,16.7,52.2833333333333,""
-607,pzn_szmtly,895,great_poland,grtplnd,Great Poland,gp_poznan,800,16.5789600389842,52.6135917631906,""
-607,pzn_szlchtyczkw,896,great_poland,grtplnd,Great Poland,gp_poznan,0,16.2396668080681,51.7102572094422,""
-607,pzn_szrm,897,great_poland,grtplnd,Great Poland,gp_poznan,0,17.0166666666667,52.0833333333333,""
-607,pzn_ttls,,great_poland,grtplnd,Great Poland,gp_poznan,23544,,,""
-607,pzn_trzcl,899,great_poland,grtplnd,Great Poland,gp_poznan,500,15.8663393641309,52.3619313442304,""
-607,pzn_tczn,900,great_poland,grtplnd,Great Poland,gp_poznan,600,16.1677759880048,53.2032132917295,""
-607,pzn_wlcz,901,great_poland,grtplnd,Great Poland,gp_poznan,860,16.4662960835582,53.2729364219463,""
-607,pzn_wln,902,great_poland,grtplnd,Great Poland,gp_poznan,400,16.1683085098533,52.8896346477441,""
-607,pzn_wlsztyn,903,great_poland,grtplnd,Great Poland,gp_poznan,550,16.1232350725055,52.1125768917393,""
-607,pzn_wrnk,904,great_poland,grtplnd,Great Poland,gp_poznan,1300,16.395178660655,52.7102352039637,""
-607,pzn_wschw,905,great_poland,grtplnd,Great Poland,gp_poznan,400,16.3107996444516,51.8110018325274,""
-607,pzn_zbszyn,906,great_poland,grtplnd,Great Poland,gp_poznan,100,15.9074639216155,52.2584554477666,""
-607,pzn_lgwc,907,great_poland,grtplnd,Great Poland,gp_poznan,100,,,""
-607,pzn_lszn,908,great_poland,grtplnd,Great Poland,gp_poznan,4430,16.5803501510703,51.8319693916415,""
-608,raw_gbn,909,great_poland,grtplnd,Great Poland,gp_rawa,380,19.7463604130323,52.4015965961398,""
-608,raw_glwn,912,great_poland,grtplnd,Great Poland,gp_rawa,0,19.7294985917311,51.9562852954767,""
-608,raw_grnd_ttls_fr_grt_plnd,,great_poland,grtplnd,Great Poland,gp_rawa,69696,,,""
-608,raw_gstynn,913,great_poland,grtplnd,Great Poland,gp_rawa,350,19.4698938969765,52.4204964592252,""
-608,raw_jkbk_n_ktn,915,great_poland,grtplnd,Great Poland,gp_rawa,300,19.36666667,52.23333333,""
-608,raw_ktn,916,great_poland,grtplnd,Great Poland,gp_rawa,700,19.365384861164,52.2343616582197,""
-608,raw_rw,918,great_poland,grtplnd,Great Poland,gp_rawa,0,20.5167,51.9833,Mszczonow
-608,raw_schczw,919,great_poland,grtplnd,Great Poland,gp_rawa,1100,20.2583077456788,52.2296990080455,""
-608,raw_ttls,,great_poland,grtplnd,Great Poland,gp_rawa,3330,,,""
-608,raw_zychln,920,great_poland,grtplnd,Great Poland,gp_rawa,200,19.6333333333333,52.25,""
-701,krk_bdzn,921,little_poland,lttlplnd,Little Poland,lp_krakow,771,19.15,50.3166666666667,""
-701,krk_bbw,922,little_poland,lttlplnd,Little Poland,lp_krakow,510,20.95,49.7166666666667,""
-701,krk_brzsk,923,little_poland,lttlplnd,Little Poland,lp_krakow,400,20.61666667,49.96666667,""
-701,krk_czstchw,924,little_poland,lttlplnd,Little Poland,lp_krakow,220,19.11666667,50.8,""
-701,krk_dkl,925,little_poland,lttlplnd,Little Poland,lp_krakow,1072,21.6860257240549,49.554219626069,""
-701,krk_dzlszyc,926,little_poland,lttlplnd,Little Poland,lp_krakow,1513,20.3518672181044,50.364328748119,""
-701,krk_jsl,928,little_poland,lttlplnd,Little Poland,lp_krakow,200,21.46666667,49.75,""
-701,krk_krmlw,929,little_poland,lttlplnd,Little Poland,lp_krakow,200,19.51666667,50.48333333,""
-701,krk_ksz,930,little_poland,lttlplnd,Little Poland,lp_krakow,300,20.1333333333333,50.45,""
-701,krk_kznc,931,little_poland,lttlplnd,Little Poland,lp_krakow,0,19.9833333333333,49.2666666666667,""
-701,krk_mkw_pdhlnsk,932,little_poland,lttlplnd,Little Poland,lp_krakow,1100,19.68333333,49.73333333,""
-701,krk_nwy_scz,933,little_poland,lttlplnd,Little Poland,lp_krakow,2000,20.690447443607,49.6277523000376,""
-701,krk_nwy_trg,934,little_poland,lttlplnd,Little Poland,lp_krakow,200,20.03333333,49.48333333,""
-701,krk_oksz,935,little_poland,lttlplnd,Little Poland,lp_krakow,50,20.1,50.7333333333333,""
-701,krk_lksz,936,little_poland,lttlplnd,Little Poland,lp_krakow,1412,19.5610273003353,50.2799178617954,""
-701,krk_plc,938,little_poland,lttlplnd,Little Poland,lp_krakow,900,19.6566666666667,50.4663888888889,""
-701,krk_szczkcny,940,little_poland,lttlplnd,Little Poland,lp_krakow,1000,19.81769531201,50.6267904556694,""
-701,krk_wsncz,941,little_poland,lttlplnd,Little Poland,lp_krakow,2500,20.4666666666667,49.9166666666667,""
-701,krk_wlbrm,942,little_poland,lttlplnd,Little Poland,lp_krakow,132,19.7575177310378,50.386130638554,""
-701,krk_zrnwc,943,little_poland,lttlplnd,Little Poland,lp_krakow,500,19.8645519257054,50.4862766813287,""
-701,krk_llw,947,little_poland,lttlplnd,Little Poland,lp_krakow,0,19.623860080642,50.6823363132487,""
-701,krk_wdzslw,949,little_poland,lttlplnd,Little Poland,lp_krakow,2360,20.1890120637673,50.5216186745448,""
-701,krk_zrk,950,little_poland,lttlplnd,Little Poland,lp_krakow,2410,19.3646385512403,50.6267316409447,""
-701,krk_chrznw,951,little_poland,lttlplnd,Little Poland,lp_krakow,725,19.4073151859327,50.1428386339043,""
-701,krk_jnw,952,little_poland,lttlplnd,Little Poland,lp_krakow,1300,19.4361111111111,50.7219444444445,""
-701,krk_swcm,953,little_poland,lttlplnd,Little Poland,lp_krakow,212,19.2199817805724,50.0389134002222,""
-701,krk_ttls,,little_poland,lttlplnd,Little Poland,lp_krakow,26118,,,""
-701,krk_ztr,954,little_poland,lttlplnd,Little Poland,lp_krakow,150,19.4366407309876,49.9963072727383,""
-701,krk_zmgrd,955,little_poland,lttlplnd,Little Poland,lp_krakow,350,21.5333333333333,49.6,""
-701,krk_zywc,956,little_poland,lttlplnd,Little Poland,lp_krakow,99,19.21666667,49.68333333,""
-702,raw_bkwsk,957,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,100,,,""
-702,sier_dzlszyn,958,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2585,18.8666666666667,51.1166666666667,""
-702,sier_kncpl,960,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2415,19.5,51.21666667,""
-702,raw_nwtnc,961,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,254,22.0333333333333,49.5,""
-702,raw_rymnw,962,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2350,21.86666667,49.58333333,""
-702,maz_rymnw_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2806,,,""
-702,raw_schczw,963,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,0,20.2583077456788,52.2296990080455,""
-702,maz_kmnsk_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,5772,,,""
-702,maz_kncpl_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,0,,,""
-702,raw_jcmrz,964,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,102,,,""
-702,maz_prszk,965,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,400,18.46666667,51.05,""
-702,raw_wrsw,966,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,180,20.6667,52.3333,Wiersze
-703,snd_brnw,967,little_poland,lttlplnd,Little Poland,lp_snd,0,21.5414977540724,50.5004085132082,""
-703,snd_bgr,968,little_poland,lttlplnd,Little Poland,lp_snd,0,21.26666667,50.66666667,""
-703,snd_chcny,969,little_poland,lttlplnd,Little Poland,lp_snd,0,20.45,50.73333333,""
-703,snd_dbrw,970,little_poland,lttlplnd,Little Poland,lp_snd,0,,,""
-703,snd_dzkw,971,little_poland,lttlplnd,Little Poland,lp_snd,0,21.6735694930518,50.5736530266283,""
-703,snd_glnw,972,little_poland,lttlplnd,Little Poland,lp_snd,0,20.48333333,51.4,""
-703,snd_gwrczw,973,little_poland,lttlplnd,Little Poland,lp_snd,0,20.43333333,51.28333333,""
-703,snd_grnd_ttl,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,""
-703,snd_grnd_ttls,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,""
-703,snd_wnsk,974,little_poland,lttlplnd,Little Poland,lp_snd,0,21.2763787491002,50.7322616547403,""
-703,snd_jnkw,975,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7,50.8666666666667,""
-703,snd_klmntw,976,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4518960157239,50.6559576484049,""
-703,snd_klbszw,977,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7761474438178,50.243292222219,""
-703,snd_knsk,978,little_poland,lttlplnd,Little Poland,lp_snd,0,20.41666667,51.2,""
-703,snd_mlplsk_stszw,979,little_poland,lttlplnd,Little Poland,lp_snd,0,21.16666667,50.55,""
-703,snd_mlc,980,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4209311197436,50.2873986608467,""
-703,snd_lsnc,981,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0633957334977,50.4498570958185,""
-703,snd_ptw,982,little_poland,lttlplnd,Little Poland,lp_snd,0,21.422655309602,50.8001856707047,""
-703,snd_strwc,983,little_poland,lttlplnd,Little Poland,lp_snd,0,21.3856395114783,50.9393127567377,""
-703,snd_pcnw,984,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0391764821201,50.4006078212925,""
-703,snd_przchnc,985,little_poland,lttlplnd,Little Poland,lp_snd,0,20.75,50.7,""
-703,snd_pnczw,986,little_poland,lttlplnd,Little Poland,lp_snd,0,20.5264118280355,50.5189216953248,""
-703,snd_prysch,987,little_poland,lttlplnd,Little Poland,lp_snd,0,20.6333333333333,51.3666666666667,""
-703,snd_przclw,988,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4792277026127,50.1938329236188,""
-703,snd_przdbrz,989,little_poland,lttlplnd,Little Poland,lp_snd,0,19.8902752076779,51.0871861107212,""
-703,snd_rkw,990,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0426018622044,50.6734751113508,""
-703,snd_rzchw,991,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4908336710324,50.2408876975438,""
-703,snd_sndmrz,992,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7482642326869,50.6802248969709,""
-703,snd_snn,993,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4709941275857,51.0850678440196,""
-703,snd_sklw,994,little_poland,lttlplnd,Little Poland,lp_snd,0,22.1166666666667,50.2333333333333,""
-703,snd_stpnc,995,little_poland,lttlplnd,Little Poland,lp_snd,0,20.9436859366947,50.4395537829802,""
-703,snd_szydlw,996,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0009831469214,50.5925936931935,""
-703,snd_trnw,997,little_poland,lttlplnd,Little Poland,lp_snd,0,20.9896751202111,50.0133282941541,""
-703,snd_trlw,998,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7132390454284,51.0009790136628,""
-703,snd_ttls,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,""
-703,snd_wslc,999,little_poland,lttlplnd,Little Poland,lp_snd,0,20.6725883063707,50.3503113545614,""
-703,snd_wlszczw,1000,little_poland,lttlplnd,Little Poland,lp_snd,0,19.9698713046743,50.8512954703839,""
-703,snd_zwchst,1001,little_poland,lttlplnd,Little Poland,lp_snd,0,21.85,50.8,""
-703,snd_rdnk,1002,little_poland,lttlplnd,Little Poland,lp_snd,0,22.2505163652582,50.4431765463099,""
-703,snd_zrnw,1003,little_poland,lttlplnd,Little Poland,lp_snd,0,20.18333333,51.25,""
-703,snd_pczn,1004,little_poland,lttlplnd,Little Poland,lp_snd,0,20.3017065123084,51.3797836032394,""
-703,snd_chmlnk,1005,little_poland,lttlplnd,Little Poland,lp_snd,0,20.751816260778,50.6157205294638,""
-703,snd_drzwc,1006,little_poland,lttlplnd,Little Poland,lp_snd,0,20.4945643911962,51.4539240908487,""
-703,snd_krzwk,1007,little_poland,lttlplnd,Little Poland,lp_snd,0,21.1025098018942,50.5902310768377,""
-703,snd_zrw,1008,little_poland,lttlplnd,Little Poland,lp_snd,0,21.6668804063832,50.8882330453796,""
-703,snd_nwmst,1009,little_poland,lttlplnd,Little Poland,lp_snd,0,20.5833333333333,51.6166666666667,""
-703,snd_plnc,1010,little_poland,lttlplnd,Little Poland,lp_snd,0,21.2820452919938,50.4318926873371,""
-703,snd_sbkw,1011,little_poland,lttlplnd,Little Poland,lp_snd,0,20.4506221751522,50.6993455566878,""
-703,snd_scmn,1012,little_poland,lttlplnd,Little Poland,lp_snd,0,19.8376232208363,50.7651792255722,""
-703,snd_zbn,1013,little_poland,lttlplnd,Little Poland,lp_snd,0,20.8876863388886,50.135262413324,""
-801,lbl_brnw,1014,lublin,lbln,Lublin,lbl,300,22.15,51.56666667,""
-801,lbl_bskpc,1015,lublin,lbln,Lublin,lbl,50,,,""
-801,lbl_czmrnk,1016,lublin,lbln,Lublin,lbl,618,22.6397032809995,51.6669431418605,""
-801,lbl_glsk,1017,lublin,lbln,Lublin,lbl,0,22.6028678366868,51.1868019407681,""
-801,lbl_kzmrz,1018,lublin,lbln,Lublin,lbl,1000,21.95,51.31666667,""
-801,lbl_krw,1019,lublin,lbln,Lublin,lbl,1400,22.1954279453548,51.3963120125894,""
-801,lbl_krsnk,1020,lublin,lbln,Lublin,lbl,400,22.2252944668201,50.910897387666,""
-801,lbl_lbrtw,1021,lublin,lbln,Lublin,lbl,1172,22.6124826296956,51.4655024177109,""
-801,lbl_mnchw,1022,lublin,lbln,Lublin,lbl,48,,,""
-801,lbl_pl,1023,lublin,lbln,Lublin,lbl,200,21.9797940570869,51.1533763334861,""
-801,lbl_strw_lblsk,1024,lublin,lbln,Lublin,lbl,450,22.8662968093382,51.4943450664417,""
-801,lbl_psk,1025,lublin,lbln,Lublin,lbl,630,22.8564062823966,51.1378969158341,""
-801,lbl_rchw,1026,lublin,lbln,Lublin,lbl,220,21.8618682913268,50.8851683518799,""
-801,lbl_rdzyn,1027,lublin,lbln,Lublin,lbl,1545,22.6072296843265,51.7838108039918,""
-801,lbl_zbczyn,1030,lublin,lbln,Lublin,lbl,300,22.43333333,52.08333333,""
-801,lbl_bychw,1031,lublin,lbln,Lublin,lbl,350,22.5488080426717,51.0065193132922,""
-801,lbl_kck,1032,lublin,lbln,Lublin,lbl,825,22.4528371899905,51.6303175552428,""
-801,lbl_cp_btwn_sn,1033,lublin,lbln,Lublin,lbl,0,,,""
-801,lbl_lczn,1034,lublin,lbln,Lublin,lbl,660,22.8943731304794,51.2952404274906,""
-801,lbl_lkw,1035,lublin,lbln,Lublin,lbl,1333,22.3868230230026,51.9345666091139,""
-801,lbl_kmnk,1036,lublin,lbln,Lublin,lbl,240,,,""
-801,lbl_blzyc,1037,lublin,lbln,Lublin,lbl,142,22.291677484443,51.1745099434198,""
-801,lbl_grdk,1039,lublin,lbln,Lublin,lbl,70,22.8,51.5833333333333,""
-801,lbl_prczw,1042,lublin,lbln,Lublin,lbl,250,22.8964602329782,51.6399317717861,""
-801,lbl_rdmysl,1043,lublin,lbln,Lublin,lbl,120,21.95,50.6833333333333,""
-801,lbl_srczyn,1044,lublin,lbln,Lublin,lbl,150,21.9166666666667,52.0166666666667,""
-801,lbl_sdlc,1045,lublin,lbln,Lublin,lbl,300,22.2915347053797,52.1663468513515,""
-801,lbl_wwlnc,1046,lublin,lbln,Lublin,lbl,36,22.15,51.3,""
-801,lbl_zklkw,1047,lublin,lbln,Lublin,lbl,450,22.1003542190583,50.757270668121,""
-801,lbl_ttls,,lublin,lbln,Lublin,lbl,14237,,,""
-802,raw_bl,1048,lublin,lbln,Lublin,lbl_maz_and_raw,60,20.4773922660233,51.8021499658723,""
-802,maz_drwlw,1049,lublin,lbln,Lublin,lbl_maz_and_raw,40,19.0666666666667,51.9666666666667,""
-802,maz_grwln,1050,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.63333333,51.9,""
-802,maz_grjc,1051,lublin,lbln,Lublin,lbl_maz_and_raw,54,20.86666667,51.86666667,""
-802,raw_glwn,1052,lublin,lbln,Lublin,lbl_maz_and_raw,100,19.7294985917311,51.9562852954767,""
-802,maz_gszczyn,1053,lublin,lbln,Lublin,lbl_maz_and_raw,50,20.85,51.73333333,""
-802,maz_kbylnc,1054,lublin,lbln,Lublin,lbl_maz_and_raw,99,21.5666666666667,51.65,""
-802,maz_klbl,1055,lublin,lbln,Lublin,lbl_maz_and_raw,100,21.48333333,52.06666667,""
-802,maz_ltwcz,1056,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.8,52.0333333333333,""
-802,maz_mcjwc,1057,lublin,lbln,Lublin,lbl_maz_and_raw,40,21.55,51.7,""
-802,maz_mgnszw,1058,lublin,lbln,Lublin,lbl_maz_and_raw,200,21.4,51.76666667,""
-802,maz_mnsk_mzwck,1059,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.56666667,52.18333333,""
-802,raw_nwmst_n_plc,1060,lublin,lbln,Lublin,lbl_maz_and_raw,890,20.58333333,51.63333333,""
-802,maz_sck,1061,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.41666667,51.96666667,""
-802,maz_zrw_mzwck,1062,lublin,lbln,Lublin,lbl_maz_and_raw,100,20.85,52.2333333333333,""
-802,maz_psczn,1063,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.03333333,52.08333333,""
-802,maz_przbyszw,1064,lublin,lbln,Lublin,lbl_maz_and_raw,100,20.85,51.6666666666667,""
-802,raw_rw,1065,lublin,lbln,Lublin,lbl_maz_and_raw,60,20.2549,51.7644,Rawa Mazowiecka
-802,maz_rz,1066,lublin,lbln,Lublin,lbl_maz_and_raw,30,19.3,51.6,""
-802,maz_sbkw,1067,lublin,lbln,Lublin,lbl_maz_and_raw,100,21.15,51.9666666666667,""
-802,raw_str_rw,1068,lublin,lbln,Lublin,lbl_maz_and_raw,40,20.2833333333333,51.8833333333333,""
-802,maz_wrk,1069,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.2,51.78333333,""
-802,maz_wrsw,1070,lublin,lbln,Lublin,lbl_maz_and_raw,0,21,52.25,""
-802,NA_ttls_bl,,lublin,lbln,Lublin,lbl_maz_and_raw,1510,,,""
-802,maz_lskrzw,1071,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.6,51.7833333333333,""
-802,NA_ttls_drwlw,,lublin,lbln,Lublin,lbl_maz_and_raw,1403,,,""
-802,maz_ltw,1072,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.7166666666667,51.9166666666667,""
-802,maz_prysw,1073,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.68333333,51.96666667,""
-802,maz_mcjwc,1057,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.55,51.7,""
-803,snd_dmw,1076,lublin,lbln,Lublin,lbl_snd,30,22.26666667,51.73333333,""
-803,snd_blbrzg,1077,lublin,lbln,Lublin,lbl_snd,100,20.95,51.65,""
-803,snd_bbrwnk,1078,lublin,lbln,Lublin,lbl_snd,258,21.9360311567662,51.5500981138661,""
-803,snd_cplw,1079,lublin,lbln,Lublin,lbl_snd,70,21.5666666666667,51.25,""
-803,snd_grnd_ttls,,lublin,lbln,Lublin,lbl_snd,27185,,,""
-803,snd_grnc,1080,lublin,lbln,Lublin,lbl_snd,291,21.82455180056,51.4686331015864,""
-803,snd_glwczw,1081,lublin,lbln,Lublin,lbl_snd,40,21.3166666666667,51.6166666666667,""
-803,snd_gnwszw,1082,lublin,lbln,Lublin,lbl_snd,473,21.8044863747558,51.4749465140026,""
-803,snd_jnwc,1083,lublin,lbln,Lublin,lbl_snd,700,21.8961413933183,51.3228180845571,""
-803,snd_kznw,1084,lublin,lbln,Lublin,lbl_snd,150,21.46666667,51.28333333,""
-803,snd_klww,1085,lublin,lbln,Lublin,lbl_snd,100,20.6508370180592,51.5302196804942,""
-803,snd_krytnc,1086,lublin,lbln,Lublin,lbl_snd,0,20.5166666666667,50.6666666666667,""
-803,snd_kznc,1087,lublin,lbln,Lublin,lbl_snd,1356,21.5579433009543,51.5868273248648,""
-803,snd_lpsk,1088,lublin,lbln,Lublin,lbl_snd,260,,,""
-803,snd_mstkw,1089,lublin,lbln,Lublin,lbl_snd,32,21.8333333333333,51.8833333333333,""
-803,snd_przysch,1090,lublin,lbln,Lublin,lbl_snd,500,20.6391173267673,51.3543741954957,""
-803,snd_przytk,1091,lublin,lbln,Lublin,lbl_snd,450,20.9044444444444,51.4683333333333,""
-803,snd_rdm,1092,lublin,lbln,Lublin,lbl_snd,130,21.1420895371657,51.4010672853102,""
-803,snd_ryczywl,1093,lublin,lbln,Lublin,lbl_snd,810,21.4373268428229,51.6845460072119,""
-803,snd_ryk,1094,lublin,lbln,Lublin,lbl_snd,200,21.93333333,51.63333333,""
-803,snd_snn,1095,lublin,lbln,Lublin,lbl_snd,260,21.4709941275857,51.0850678440196,""
-803,snd_skryszw,1096,lublin,lbln,Lublin,lbl_snd,50,21.25,51.31666667,""
-803,snd_skrzynn,1097,lublin,lbln,Lublin,lbl_snd,40,20.71666667,51.36666667,""
-803,snd_slc_n_vstl,1098,lublin,lbln,Lublin,lbl_snd,100,21.76666667,51.13333333,""
-803,snd_stzyc,1099,lublin,lbln,Lublin,lbl_snd,204,21.78333333,51.58333333,""
-803,snd_schwl,1100,lublin,lbln,Lublin,lbl_snd,250,20.75,50.6333333333333,""
-803,snd_szydlwc,1101,lublin,lbln,Lublin,lbl_snd,664,20.8598638067476,51.2277101824852,""
-803,snd_ttls,,lublin,lbln,Lublin,lbl_snd,10035,,,""
-803,snd_wjcszkw,1103,lublin,lbln,Lublin,lbl_snd,100,22.3166666666667,51.7666666666667,""
-803,snd_zwchst,1104,lublin,lbln,Lublin,lbl_snd,0,21.85,50.8,""
-803,snd_zwln,1105,lublin,lbln,Lublin,lbl_snd,600,21.5753909640079,51.3588170648557,""
-803,snd_lysbyk,1106,lublin,lbln,Lublin,lbl_snd,80,22.2873062038145,51.6042218253958,""
-803,snd_jdlnsk,1107,lublin,lbln,Lublin,lbl_snd,50,21.11666667,51.51666667,""
-803,snd_zlchw,1108,lublin,lbln,Lublin,lbl_snd,996,21.9008132375521,51.8057849041063,""
-803,snd_drzywl,1109,lublin,lbln,Lublin,lbl_snd,30,20.55,51.53333333,""
-900,lbl_blgry,1110,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,904,22.7333333333333,50.5333333333333,""
-900,lbl_frnnpl,1111,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,100,24.2833333333333,50.7333333333333,""
-900,lbl_gry,1112,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,450,22.65,50.7166666666667,""
-900,rus_krsnbrd,1113,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,370,23.2166666666667,50.55,""
-900,lbl_plszkwc,1114,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,,,""
-900,snd_rzwdw,1115,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,250,22.0452193378143,50.5914562600578,""
-900,snd_trngrd,1116,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,1500,22.75,50.36666667,""
-900,NA_ttls,,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,11684,,,""
-900,rus_trbn,1117,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,1000,22.7508986934139,50.8236251878812,""
-900,lbl_wysk,1118,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,200,22.66666667,50.91666667,""
-900,rus_zmsc,1119,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,3000,23.2542579851682,50.7180934056805,""
-900,lbl_grzkw,1120,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,23.0166666666667,50.95,""
-900,blz_lszczw,1121,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,300,23.7107938798568,50.5240292467359,""
-900,snd_lnw,1122,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,857,22.2650551544938,50.4902165091471,""
-900,snd_knm,1123,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,623,,,""
-900,lbl_mdlbrzyc,1124,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,500,22.3306422283973,50.7545039338917,""
-900,lbl_tmszw,1125,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,55,,,""
-900,rus_szczbrszyn,1126,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,900,22.9833333333333,50.7,""
-900,rus_zlkwk,1127,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,22.8434483253943,50.9052899799149,""
+﻿table,name,index,id,community,community_code,land,table_abbr,potential,lon,lat,newname,is_sum
+100,ciechanowiec,maz_cchnwc,1,ciechanowiec,cchnwc,Autonomous,ext,0,22.5,52.6833333333333,"",0
+100,debica,snd_dbc,2,debica,dbc,Autonomous,ext,500,21.4276119355814,50.0462665069964,"",0
+100,jablonka,maz_jblnk,3,ciechanowiec,cchnwc,Autonomous,ext,100,22.3600769124574,52.9558069811952,"",0
+100,grodzisk,maz_grdzsk,4,ciechanowiec,cchnwc,Autonomous,ext,80,20.6166666666667,52.1,"",0
+100,jozefow,lbl_jzfw,5,jezefow,jzfw,Autonomous,ext,400,23.05,50.4833333333333,"",0
+100,kazimierz,krk_kzmrz,6,krakow,krkw,Autonomous,ext,2375,19.9466672325367,50.0516214964871,"",0
+100,lublin,lbl_lbln,7,lublin,lbln,Autonomous,ext,30,22.5717026123729,51.2527987607334,"",0
+100,miedzyrzecz_podlaski,pdl_mdzyrzcz_pdlsk,8,miedzyrzecz_podlaski,mdzyrzczpdlsk,Autonomous,ext,600,22.7833333333333,51.9833333333333,"",0
+100,poznan,pzn_pznn,9,poznan,pznn,Autonomous,ext,3417,16.9356907686123,52.4098079881286,"",0
+100,wysokie_mazowieckie,maz_wysk_mzwck,10,ciechanowiec,cchnwc,Autonomous,ext,280,22.5166666666667,52.9166666666667,"",0
+100,przemysl,rus_przmysl,11,przemysl,przmysl,Autonomous,ext,2000,22.7720602434326,49.7833567820999,"",0
+100,siemiatycze,pdl_smtycz,12,siemiatycze,smtycz,Autonomous,ext,0,22.862653952951,52.4271122417998,"",0
+100,koscielna_nur,maz_kscln_nr,13,ciechanowiec,cchnwc,Autonomous,ext,40,22.36666667,52.95,"",0
+100,miedzyrzecz_korecki,wol_mdzyrzcz_krck,14,miedzyrzecz_korecki,mdzyrzczkrck,Autonomous,ext,0,26.86666667,50.65,"",0
+100,glusk,lbl_glsk,15,lublin,lbln,Autonomous,ext,700,22.6028678366868,51.1868019407681,"",0
+1000,bachtyn,pod_bchtyn,16,podolia,pdl,Podolia,podolia,180,27.4833333333333,48.8166666666667,"",0
+1000,balin,pod_bln,17,podolia,pdl,Podolia,podolia,230,26.6605581479981,48.8780831610185,"",0
+1000,bar,pod_br,18,podolia,pdl,Podolia,podolia,1710,27.687441853947,49.0795898090702,"",0
+1000,bilcze,pod_blcz,19,podolia,pdl,Podolia,podolia,100,25.8833333333333,48.7833333333333,"",0
+1000,borek,pod_brk,20,podolia,pdl,Podolia,podolia,0,,,"",0
+1000,borszczow,pod_brszczw,21,podolia,pdl,Podolia,podolia,590,26.0446154992621,48.7971335771734,"",0
+1000,chmielnik,pod_chmlnk,22,podolia,pdl,Podolia,podolia,1482,27.96666667,49.55,"",0
+1000,czarnoostrow,pod_czrnstrw,24,podolia,pdl,Podolia,podolia,0,26.76086653245,49.5060832846021,"",0
+1000,czeniejowce,brc_cznjwc,25,podolia,pdl,Podolia,podolia,150,26.3667,49,Chemerivtsi,0
+1000,czercze,pod_czrcz,26,podolia,pdl,Podolia,podolia,260,26.5239614208908,48.8601084646789,"",0
+1000,czerwonogrod,pod_czrwngrd,27,podolia,pdl,Podolia,podolia,325,25.5883953711223,48.7970831827642,"",0
+1000,deraznia,pod_drzn,28,podolia,pdl,Podolia,podolia,560,27.4095626882433,49.2841503182117,"",0
+1000,dunajowiec,pod_dnjwc,29,podolia,pdl,Podolia,podolia,1140,26.83333333,48.9,"",0
+1000,dωwinogrod,pod_dωwngrd,30,podolia,pdl,Podolia,podolia,176,24.25,49.73333333,"",0
+1000,fulsztyn,pod_flsztyn,32,podolia,pdl,Podolia,podolia,360,,,"",0
+1000,grodek,pod_grdk,33,podolia,pdl,Podolia,podolia,460,26.5615283908293,49.1625405022417,"",0
+1000,grodek_on_dnister,pod_grdk_n_dnstr,34,podolia,pdl,Podolia,podolia,84,26.0017,49.0017,Gorodnitsa  (horodnica),0
+1000,husiatyn,pod_hstyn,35,podolia,pdl,Podolia,podolia,1000,26.1898681442441,49.0705031959831,"",0
+1000,jagielnica,pod_jglnc,36,podolia,pdl,Podolia,podolia,540,25.7452549737826,48.946831863226,"",0
+1000,janow,pod_jnw,37,podolia,pdl,Podolia,podolia,0,28.35,49.4833333333333,"",0
+1000,jarmolnica,pod_jrmlnc,38,podolia,pdl,Podolia,podolia,216,26.8333,49.2,Yarmolyntsi,0
+1000,jaruha,pod_jrh,39,podolia,pdl,Podolia,podolia,366,28.05,48.3333333333333,"",0
+1000,jaryszow,pod_jryszw,40,podolia,pdl,Podolia,podolia,720,27.6314884267825,48.516039231793,"",0
+1000,jazlowiec,pod_jzlwc,41,podolia,pdl,Podolia,podolia,448,25.4333333333333,49,"",0
+1000,jezierzany,pod_jzrzny,42,podolia,pdl,Podolia,podolia,0,25.9537194380546,48.8783504826931,"",0
+1000,kalusz,pod_klsz,44,podolia,pdl,Podolia,podolia,170,24.3666666666667,49.0333333333333,"",0
+1000,kamieniec_podolski,pod_kmnc_pdlsk,45,podolia,pdl,Podolia,podolia,500,26.5833333333333,48.6833333333333,"",0
+1000,kasperowce,pod_ksprwc,46,podolia,pdl,Podolia,podolia,70,25.8598102478508,48.662106294711,"",0
+1000,kitajgrod,pod_ktjgrd,47,podolia,pdl,Podolia,podolia,320,26.8023486666688,48.6368074298325,"",0
+1000,kolendziany,pod_klndzny,48,podolia,pdl,Podolia,podolia,100,25.95,48.9666666666667,"",0
+1000,kopajgrod,pod_kpjgrd,49,podolia,pdl,Podolia,podolia,340,27.7994046227236,48.8567562031438,"",0
+1000,krolowka,pod_krlwk,50,podolia,pdl,Podolia,podolia,181,,,"",0
+1000,krzywcza,pod_krzywcz,51,podolia,pdl,Podolia,podolia,566,26.1,48.7,"",0
+1000,kudryniec,pod_kdrync,52,podolia,pdl,Podolia,podolia,210,26.7667,49.3833,Kudryntsi,0
+1000,kupin,pod_kpn,53,podolia,pdl,Podolia,podolia,254,26.5757065488601,49.1005339327516,"",0
+1000,kuzmin,pod_kzmn,54,podolia,pdl,Podolia,podolia,280,,,"",0
+1000,lanckorona,pod_lnckrn,55,podolia,pdl,Podolia,podolia,560,,,"",0
+1000,latyczew,pod_ltyczw,56,podolia,pdl,Podolia,podolia,400,27.6261175434232,49.3843308586413,"",0
+1000,letniowce,pod_ltnwc,57,podolia,pdl,Podolia,podolia,134,27.2781673285881,48.8300364526266,"",0
+1000,lityn,pod_ltyn,58,podolia,pdl,Podolia,podolia,0,28.0833333333333,49.3333333333333,"",0
+1000,michalpol,pod_mchlpl,59,podolia,pdl,Podolia,podolia,290,27.1394843317541,49.2436773806912,"",0
+1000,miedzyborz,pod_mdzybrz,60,podolia,pdl,Podolia,podolia,2500,27.3895682765039,49.4387889992553,"",0
+1000,mikitynce,pod_mktync,61,podolia,pdl,Podolia,podolia,0,25.0666666666667,48.4,"",0
+1000,mikolajow,pod_mkljw,62,podolia,pdl,Podolia,podolia,530,26.8477921399581,49.5741585825679,"",0
+1000,minkowce,pod_mnkwc,63,podolia,pdl,Podolia,podolia,600,27.1134944503114,48.8504159234821,Mynkivtsi,0
+1000,mohylow_podolski,pod_mhylw_pdlsk,65,podolia,pdl,Podolia,podolia,1300,27.8,48.45,Mohyliv-Podilskyy,0
+1000,moztow,pod_mztw,66,podolia,pdl,Podolia,podolia,216,,,"",0
+1000,nowy_konstantynow,pod_nwy_knstntynw,67,podolia,pdl,Podolia,podolia,0,27.7333333333333,49.4833333333333,"",0
+1000,okop,pod_kp,68,podolia,pdl,Podolia,podolia,158,26.5333333333333,49.9666666666667,"",0
+1000,olchowiec,pod_lchwc,69,podolia,pdl,Podolia,podolia,60,27.3633924845133,48.6881049715231,"",0
+1000,orynin,pod_rynn,70,podolia,pdl,Podolia,podolia,439,26.411212872189,48.7500077187815,"",0
+1000,ozarzynce,pod_zrzync,71,podolia,pdl,Podolia,podolia,890,27.788517159541,48.5388364606765,"",0
+1000,pikow,pod_pkw,72,podolia,pdl,Podolia,podolia,352,28.2833333333333,49.5666666666667,"",0
+1000,pilawa,pod_plw,73,podolia,pdl,Podolia,podolia,280,27.45,49.6,"",0
+1000,pobuzniany,pod_pbznny,74,podolia,pdl,Podolia,podolia,391,25.5853,48.7433,Potochyshche,0
+1000,ploskirow,pod_plskrw,75,podolia,pdl,Podolia,podolia,400,27,49.41666667,"",0
+1000,salicha,pod_slch,76,podolia,pdl,Podolia,podolia,60,26.8833333333333,49.8666666666667,"",0
+1000,satanow,pod_stnw,78,podolia,pdl,Podolia,podolia,750,26.2570355829167,49.256210001541,"",0
+1000,sawince,pod_swnc,79,podolia,pdl,Podolia,podolia,183,26.7997855179463,49.0814533904746,"",0
+1000,serebria,pod_srbr,80,podolia,pdl,Podolia,podolia,107,29.9333333333333,48.5666666666667,"",0
+1000,sidorow,pod_sdrw,81,podolia,pdl,Podolia,podolia,160,26.1549004442975,49.0109341390287,"",0
+1000,skala,pod_skl,82,podolia,pdl,Podolia,podolia,360,26.1952719535816,48.8449278881399,"",0
+1000,smotrycz,pod_smtrycz,83,podolia,pdl,Podolia,podolia,340,26.5419864756668,48.9487410006871,"",0
+1000,snidkow,pod_sndkw,84,podolia,pdl,Podolia,podolia,0,27.6333333333333,48.8166666666667,"",0
+1000,snitowka,pod_sntwk,85,podolia,pdl,Podolia,podolia,100,27.5034472424196,49.3334331663167,"",0
+1000,snydkow,pod_snydkw,86,podolia,pdl,Podolia,podolia,474,27.6333333333333,48.8166666666667,"",0
+1000,sokolec,pod_sklc,87,podolia,pdl,Podolia,podolia,430,27.0774297285751,48.7371966417511,"",0
+1000,solobkowiec,pod_slbkwc,88,podolia,pdl,Podolia,podolia,118,26.9166666666667,49.0833333333333,"",0
+1000,studenica,pod_stdnc,90,podolia,pdl,Podolia,podolia,360,28.4166666666667,49.1333333333333,"",0
+1000,sudkowce,pod_sdkwc,91,podolia,pdl,Podolia,podolia,170,26.9166666666667,49.1833333333333,"",0
+1000,szarawka,pod_szrwk,92,podolia,pdl,Podolia,podolia,810,26.9801216083181,49.2139927623949,"",0
+1000,szarogrod,pod_szrgrd,93,podolia,pdl,Podolia,podolia,1333,28.0916649585137,48.7389628625526,"",0
+1000,szatawa,pod_sztw,94,podolia,pdl,Podolia,podolia,200,26.7065941063316,48.7680695783116,"",0
+1000,tarnowody,pod_trnwdy,95,podolia,pdl,Podolia,podolia,394,26.2333,49.4167,Tarnoruda,0
+1000,tatarzyska,pod_ttrzysk,96,podolia,pdl,Podolia,podolia,200,26.9,48.9833333333333,"",0
+1000,totals,pod_ttls,,podolia,pdl,Podolia,podolia,37776,,,"",1
+1000,tluste,pod_tlst,97,podolia,pdl,Podolia,podolia,252,25.7368977000694,48.8518484148717,"",0
+1000,ulanowiec,pod_lnwc,98,podolia,pdl,Podolia,podolia,120,25.8256,48.9003,Ulashkivtsi,0
+1000,turylicz,pod_trylcz,99,podolia,pdl,Podolia,podolia,50,48.9333333333333,53.3666666666667,"",0
+1000,uszyca,pod_szyc,100,podolia,pdl,Podolia,podolia,260,27.0833333333333,48.6,"",0
+1000,ulanow,pod_lnw,101,podolia,pdl,Podolia,podolia,594,28.13333333,49.7,"",0
+1000,wierzbowiec,pod_wrzbwc,102,podolia,pdl,Podolia,podolia,180,27.4299113447288,48.7168171708956,"",0
+1000,ulaszkowiec,pod_lszkwc,103,podolia,pdl,Podolia,podolia,185,25.83333333,48.9,"",0
+1000,wierzbowka,pod_wrzbwk,104,podolia,pdl,Podolia,podolia,66,26.2333333333333,48.75,"",0
+1000,wonkowce,pod_wnkwc,105,podolia,pdl,Podolia,podolia,582,27.2237433990833,49.0300187921068,"",0
+1000,zamiechow,pod_zmchw,107,podolia,pdl,Podolia,podolia,560,27.3666279663849,48.8540389403032,"",0
+1000,zbrzyszcze,pod_zbrzyszcz,108,podolia,pdl,Podolia,podolia,880,26.1833,48.9333,Zbryzh,0
+1000,zinkow,pod_znkw,109,podolia,pdl,Podolia,podolia,540,27.0737578551854,49.0927358718654,"",0
+1000,luczyniec,pod_lczync,110,podolia,pdl,Podolia,podolia,160,27.8239014146597,48.7131941540745,"",0
+1000,makow,pod_mkw,111,podolia,pdl,Podolia,podolia,350,26.6880852450822,48.7902836831939,"",0
+1000,zwaniec,pod_zwnc,112,podolia,pdl,Podolia,podolia,1320,26.5,48.55,"",0
+1100,babice_bachow,rus_bbc_bchw,113,przemysl,przmysl,Autonomous,przemysl,60,24.65,49.5333333333333,"",0
+1100,balicz,rus_blcz,114,przemysl,przmysl,Autonomous,przemysl,60,,,"",0
+1100,bircza,rus_brcz,115,przemysl,przmysl,Autonomous,przemysl,140,22.4799927762449,49.6827438179612,"",0
+1100,bybel,rus_bybl,116,przemysl,przmysl,Autonomous,przemysl,0,,,"",0
+1100,chodnowicz,rus_chdnwcz,117,przemysl,przmysl,Autonomous,przemysl,50,,,"",0
+1100,chyrow,rus_chyrw,118,przemysl,przmysl,Autonomous,przemysl,550,22.8512160134777,49.5356750820732,"",0
+1100,czarna,rus_czrn,119,przemysl,przmysl,Autonomous,przemysl,80,,,"",0
+1100,czupnowicz,rus_czpnwcz,120,przemysl,przmysl,Autonomous,przemysl,50,,,"",0
+1100,dobromil,rus_dbrml,121,przemysl,przmysl,Autonomous,przemysl,2600,22.7820199767628,49.5714563340374,"",0
+1100,dubiecko,rus_dbck,122,przemysl,przmysl,Autonomous,przemysl,40,22.3963050095301,49.8205162710256,"",0
+1100,dydnia,rus_dydn,123,przemysl,przmysl,Autonomous,przemysl,40,22.1666666666667,49.6833333333333,"",0
+1100,dynow,rus_dynw,124,przemysl,przmysl,Autonomous,przemysl,1030,22.2387066300105,49.8155331366544,"",0
+1100,felsztyn,rus_flsztyn,125,przemysl,przmysl,Autonomous,przemysl,150,22.9666666666667,49.5333333333333,"",0
+1100,fredropol,rus_frdrpl,126,przemysl,przmysl,Autonomous,przemysl,40,22.75,49.7,"",0
+1100,husakow,rus_hskw,128,przemysl,przmysl,Autonomous,przemysl,120,22.9880212636859,49.7159816387095,"",0
+1100,husow,rus_hsw,129,przemysl,przmysl,Autonomous,przemysl,50,22.2833333333333,49.9833333333333,"",0
+1100,iskan,rus_skn,130,przemysl,przmysl,Autonomous,przemysl,30,22.4333333333333,49.7833333333333,"",0
+1100,izdebki,rus_zdbk,131,przemysl,przmysl,Autonomous,przemysl,120,22.1166666666667,49.75,"",0
+1100,jaroslaw,rus_jrslw,132,przemysl,przmysl,Autonomous,przemysl,1977,22.7153476274968,50.0095083215402,"",0
+1100,jawornik,rus_jwrnk,133,przemysl,przmysl,Autonomous,przemysl,110,22.3166666666667,49.7333333333333,"",0
+1100,jawornik_ruski,rus_jwrnk_rsk,134,przemysl,przmysl,Autonomous,przemysl,30,22.3166666666667,49.7333333333333,"",0
+1100,krakowiec,rus_krkwc,135,przemysl,przmysl,Autonomous,przemysl,410,23.1569190174614,49.9576305264845,"",0
+1100,krukienice,rus_krknc,136,przemysl,przmysl,Autonomous,przemysl,0,23.1666666666667,49.6833333333333,"",0
+1100,krzeszow,rus_krzszw,137,przemysl,przmysl,Autonomous,przemysl,40,22.3471344669615,50.398190472345,"",0
+1100,krzywcza,rus_krzywcz,138,przemysl,przmysl,Autonomous,przemysl,50,22.5360033562236,49.7969008245707,"",0
+1100,lezajsk,rus_lzjsk,139,przemysl,przmysl,Autonomous,przemysl,1050,22.4322199159075,50.2482101130387,"",0
+1100,lubomierz,rus_lbmrz,140,przemysl,przmysl,Autonomous,przemysl,480,,,"",0
+1100,medyka,rus_mdyk,141,przemysl,przmysl,Autonomous,przemysl,230,22.9333333333333,49.8,"",0
+1100,mosciska,rus_mscsk,142,przemysl,przmysl,Autonomous,przemysl,1200,23.1404868823332,49.7926234475512,"",0
+1100,nowomiasto,rus_nwmst,143,przemysl,przmysl,Autonomous,przemysl,218,22.8666666666667,49.6166666666667,"",0
+1100,nowosiolki,rus_nwslk,144,przemysl,przmysl,Autonomous,przemysl,50,22.7333333333333,49.6333333333333,"",0
+1100,polski_kanczuga,rus_plsk_knczg,145,przemysl,przmysl,Autonomous,przemysl,340,22.41666667,49.98333333,"",0
+1100,pruchnik,rus_prchnk,146,przemysl,przmysl,Autonomous,przemysl,310,22.51228709487,49.9065297870308,"",0
+1100,przeworsk,rus_przwrsk,147,przemysl,przmysl,Autonomous,przemysl,1705,22.495735258181,50.0623245222614,"",0
+1100,radymno,rus_rdymn,148,przemysl,przmysl,Autonomous,przemysl,130,22.83333333,49.95,"",0
+1100,rybotycze,rus_rybtycz,149,przemysl,przmysl,Autonomous,przemysl,100,22.6440835588608,49.6555547118457,"",0
+1100,sadowa,rus_sdw,150,przemysl,przmysl,Autonomous,przemysl,270,,,"",0
+1100,sambor,rus_smbr,151,przemysl,przmysl,Autonomous,przemysl,740,23.1916205576575,49.5119098625276,"",0
+1100,sosnica,rus_ssnc,153,przemysl,przmysl,Autonomous,przemysl,100,22.6666666666667,49.9666666666667,"",0
+1100,stanislawczyk,rus_stnslwczyk,154,przemysl,przmysl,Autonomous,przemysl,40,24.9204940009383,50.1631001278898,"",0
+1100,starosol,rus_strsl,155,przemysl,przmysl,Autonomous,przemysl,200,22.9666666666667,49.4833333333333,"",0
+1100,stary_sambor,rus_stry_smbr,156,przemysl,przmysl,Autonomous,przemysl,260,23.0087818959958,49.4320362635312,"",0
+1100,szumin,rus_szmn,157,przemysl,przmysl,Autonomous,przemysl,50,22.9333333333333,49.5,"",0
+1100,tarnawa,rus_trnw,158,przemysl,przmysl,Autonomous,przemysl,80,22.8,49.55,"",0
+1100,turka_w_gorach,rus_trk_w_grch,159,przemysl,przmysl,Autonomous,przemysl,600,23.03333333,49.15,"",0
+1100,walawa,rus_wlw,160,przemysl,przmysl,Autonomous,przemysl,80,,,"",0
+1100,wielkie_oczy,blz_wlk_czy,161,przemysl,przmysl,Autonomous,przemysl,500,23.1593464476978,50.0134945736297,"",0
+1100,wisznia,rus_wszn,162,przemysl,przmysl,Autonomous,przemysl,0,23.3666666666667,49.7833333333333,"",0
+1100,wyszatyce,rus_wysztyc,163,przemysl,przmysl,Autonomous,przemysl,70,22.8833333333333,49.8333333333333,"",0
+1100,totals,rus_ttls,,przemysl,przmysl,Autonomous,przemysl,21793,,,"",1
+1100,twierza,rus_twrz,164,przemysl,przmysl,Autonomous,przemysl,120,23.2333333333333,49.8,"",0
+1100,ustrzyki,rus_strzyk,165,przemysl,przmysl,Autonomous,przemysl,220,22.5833333333333,49.4333333333333,"",0
+1100,wietlin,rus_wtln,166,przemysl,przmysl,Autonomous,przemysl,400,22.8166666666667,50,"",0
+1100,lancut,rus_lnct,167,przemysl,przmysl,Autonomous,przemysl,280,22.2335999054101,50.0746711669128,"",0
+1100,krasiczyn,rus_krsczyn,168,przemysl,przmysl,Autonomous,przemysl,60,22.6599399449126,49.7709885240422,"",0
+1100,klucz_niklowiecki,rus_klcz_nklwck,169,przemysl,przmysl,Autonomous,przemysl,50,,,"",0
+1100,manasterz,rus_mnstrz,170,przemysl,przmysl,Autonomous,przemysl,100,22.6666666666667,50.1166666666667,"",0
+1100,zulin,rus_zln,171,przemysl,przmysl,Autonomous,przemysl,219,23.7666666666667,49.1833333333333,"",0
+1201,berszada,brc_brszd,172,rus,rs,Rus,rus_brc_kij_pod,0,29.5106645652708,48.3653417998653,"",0
+1201,borszczejowka,kij_brszczjwk,173,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,bosowka,brc_bswk,174,rus,rs,Rus,rus_brc_kij_pod,0,30.6333333333333,49.2333333333333,"",0
+1201,braclaw,kij_brclw,175,rus,rs,Rus,rus_brc_kij_pod,0,28.9250894287188,48.8222842841435,"",0
+1201,brailow,kij_brlw,176,rus,rs,Rus,rus_brc_kij_pod,0,28.1495736322789,49.1189899552346,"",0
+1201,cekinowka,kij_cknwk,177,rus,rs,Rus,rus_brc_kij_pod,0,28.3166666666667,48.15,"",0
+1201,chaszejowka,kij_chszjwk,178,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,chmielnik,kij_chmlnk,179,rus,rs,Rus,rus_brc_kij_pod,0,27.95,49.55,"",0
+1201,chwaszczow,kij_chwszczw,180,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,czekielnik,kij_czklnk,181,rus,rs,Rus,rus_brc_kij_pod,0,29.3667,48.2167,Chechelnyk,0
+1201,czerniejowce,kij_czrnjwc,182,rus,rs,Rus,rus_brc_kij_pod,0,28.1166666666667,48.5333333333333,"",0
+1201,daszow,kij_dszw,183,rus,rs,Rus,rus_brc_kij_pod,0,29.412887567286,49.0082710774274,"",0
+1201,dziunkow,kij_dznkw,184,rus,rs,Rus,rus_brc_kij_pod,0,29.4410383064258,49.4538982937316,"",0
+1201,dωwinogrodka,kij_dωwngrdk,185,rus,rs,Rus,rus_brc_kij_pod,0,29.45,49.45,Dzyunkiv,0
+1201,gologorz,kij_glgrz,186,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,granow,kij_grnw,187,rus,rs,Rus,rus_brc_kij_pod,0,29.5667,48.8667,Hraniv,0
+1201,grygrycz,kij_grygrycz,188,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,gurniewice,kij_grnwc,189,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,hajsan,kij_hjsn,190,rus,rs,Rus,rus_brc_kij_pod,0,29.4,48.8,Haysyn,0
+1201,ilince,kij_lnc,191,rus,rs,Rus,rus_brc_kij_pod,0,29.2253143105871,49.1069011372157,"",0
+1201,jahorlik,kij_jhrlk,192,rus,rs,Rus,rus_brc_kij_pod,0,29.15,47.3666666666667,"",0
+1201,janow,kij_jnw,194,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,jozefgrod,kij_jzfgrd,195,rus,rs,Rus,rus_brc_kij_pod,0,29.6219444444444,47.94,balta,0
+1201,kalnik,kij_klnk,196,rus,rs,Rus,rus_brc_kij_pod,0,29.3833333333333,49.0333333333333,"",0
+1201,kitajgrod,pod_ktjgrd,197,rus,rs,Rus,rus_brc_kij_pod,0,26.8023486666688,48.6368074298325,"",0
+1201,kochanowka,kij_kchnwk,198,rus,rs,Rus,rus_brc_kij_pod,0,28.7430692832033,49.2789983136466,"",0
+1201,kruty,kij_krty,201,rus,rs,Rus,rus_brc_kij_pod,0,29.2105845354031,47.9417938099241,"",0
+1201,kublicz,kij_kblcz,202,rus,rs,Rus,rus_brc_kij_pod,0,29.5666666666667,48.7166666666667,"",0
+1201,kuzminka,kij_kzmnk,203,rus,rs,Rus,rus_brc_kij_pod,0,29.2833,49.3,Kozhanka,0
+1201,kuznica,kij_kznc,204,rus,rs,Rus,rus_brc_kij_pod,0,28.7333333333333,48.4333333333333,"",0
+1201,komajgrod,kij_kmjgrd,205,rus,rs,Rus,rus_brc_kij_pod,0,28.6166666666667,48.5333333333333,"",0
+1201,krasne,kij_krsn,206,rus,rs,Rus,rus_brc_kij_pod,0,28.4060001247807,48.9102824563786,"",0
+1201,lityn,kij_ltyn,207,rus,rs,Rus,rus_brc_kij_pod,0,28.0737794326512,49.3336568160142,"",0
+1201,markowka,kij_mrkwk,208,rus,rs,Rus,rus_brc_kij_pod,0,28.6166666666667,49.0833333333333,"",0
+1201,miastkowka,kij_mstkwk,209,rus,rs,Rus,rus_brc_kij_pod,0,28.6984250967567,48.3706534511778,"",0
+1201,monasterzyska,kij_mnstrzysk,210,rus,rs,Rus,rus_brc_kij_pod,0,25.16666667,49.08333333,"",0
+1201,murachwa,kij_mrchw,211,rus,rs,Rus,rus_brc_kij_pod,0,28.21666667,48.78333333,"",0
+1201,niemirow,kij_nmrw,212,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,pieczara,kij_pczr,214,rus,rs,Rus,rus_brc_kij_pod,0,28.7166666666667,48.85,"",0
+1201,przyluka,kij_przylk,215,rus,rs,Rus,rus_brc_kij_pod,0,28.7281811365107,49.3883153183818,"",0
+1201,rajgrod,kij_rjgrd,216,rus,rs,Rus,rus_brc_kij_pod,0,22.7,53.73333333,"",0
+1201,raszkow,kij_rszkw,217,rus,rs,Rus,rus_brc_kij_pod,0,25.4166666666667,48.7333333333333,"",0
+1201,sawran,kij_swrn,219,rus,rs,Rus,rus_brc_kij_pod,0,30.0861639352275,48.1423384208255,"",0
+1201,sieliszcza,kij_slszcz,220,rus,rs,Rus,rus_brc_kij_pod,0,25.28333333,48.58333333,"",0
+1201,salasze,kij_slsz,221,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,sokolowka,kij_sklwk,222,rus,rs,Rus,rus_brc_kij_pod,0,30.144764312639,49.0180452276019,"",0
+1201,strzyzawka,kij_strzyzwk,223,rus,rs,Rus,rus_brc_kij_pod,0,28.468315310115,49.3014788264923,"",0
+1201,szopkowice,kij_szpkwc,224,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,teplic,kij_tplc,225,rus,rs,Rus,rus_brc_kij_pod,0,29.75,48.6666666666667,"",0
+1201,terlowka,kij_trlwk,226,rus,rs,Rus,rus_brc_kij_pod,0,27.5666666666667,49.35,"",0
+1201,tomaszpol,kij_tmszpl,227,rus,rs,Rus,rus_brc_kij_pod,0,28.524229359565,48.5461841977478,"",0
+1201,totals,kij_ttls,,rus,rs,Rus,rus_brc_kij_pod,0,,,"",1
+1201,trostianiec,kij_trstnc,228,rus,rs,Rus,rus_brc_kij_pod,0,29.2333333333333,48.5166666666667,"",0
+1201,tulczyn,kij_tlczyn,229,rus,rs,Rus,rus_brc_kij_pod,0,28.8586292078969,48.6639806931607,"",0
+1201,turia,kij_tr,230,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,tywrow,kij_tywrw,231,rus,rs,Rus,rus_brc_kij_pod,0,28.5244842256295,49.0061465955078,"",0
+1201,uman,kij_mn,232,rus,rs,Rus,rus_brc_kij_pod,0,30.2097103404636,48.7494787258727,"",0
+1201,winnica,kij_wnnc,233,rus,rs,Rus,rus_brc_kij_pod,0,28.4453063565441,49.2190502787917,"",0
+1201,uladowka,pod_ldwk,234,rus,rs,Rus,rus_brc_kij_pod,0,28.2333333333333,49.5,"",0
+1201,woroszylowka,kij_wrszylwk,236,rus,rs,Rus,rus_brc_kij_pod,0,28.3404125988615,49.0374429958322,"",0
+1201,zadykowicz,kij_zdykwcz,237,rus,rs,Rus,rus_brc_kij_pod,0,,,"",0
+1201,zinkow,pod_znkw,238,rus,rs,Rus,rus_brc_kij_pod,0,27.0737578551854,49.0927358718654,"",0
+1201,zorniszcza,kij_zrnszcz,239,rus,rs,Rus,rus_brc_kij_pod,0,29.083440719742,49.056253268457,"",0
+1201,zwierzchowka,kij_zwrzchwk,240,rus,rs,Rus,rus_brc_kij_pod,0,29.1745333583559,48.4433278352367,"",0
+1201,ladyzyn,kij_ldyzyn,241,rus,rs,Rus,rus_brc_kij_pod,0,29.2571324292044,48.6814890613505,"",0
+1201,lipowiec,kij_lpwc,242,rus,rs,Rus,rus_brc_kij_pod,0,29.0602498441165,49.2179710240081,"",0
+1202,baworow,hlc_bwrw,244,rus,rs,Rus,rus_halicz,150,25.7166666666667,49.45,"",0
+1202,biloboznica,hlc_blbznc,246,rus,rs,Rus,rus_halicz,0,25.6833333333333,49.05,"",0
+1202,bohorodczany,hlc_bhrdczny,247,rus,rs,Rus,rus_halicz,1100,24.5389368062523,48.808608313829,"",0
+1202,bolszowiec,hlc_blszwc,248,rus,rs,Rus,rus_halicz,384,24.7463888888889,49.1855555555556,"",0
+1202,buczacz,hlc_bczcz,249,rus,rs,Rus,rus_halicz,1250,25.3748517635572,49.0569249549936,"",0
+1202,budzanow,hlc_bdznw,250,rus,rs,Rus,rus_halicz,510,25.7198215685299,49.1611708042141,"",0
+1202,bursztyn,hlc_brsztyn,252,rus,rs,Rus,rus_halicz,800,24.6384592929678,49.2571511312529,"",0
+1202,czernelica,hlc_czrnlc,254,rus,rs,Rus,rus_halicz,300,25.4333333333333,48.8166666666667,"",0
+1202,czortkow,hlc_czrtkw,255,rus,rs,Rus,rus_halicz,1000,25.8,49.0166666666667,"",0
+1202,delatyn,hlc_dltyn,256,rus,rs,Rus,rus_halicz,450,24.6166666666667,48.5333333333333,"",0
+1202,gwoωdziec,hlc_gwωdzc,257,rus,rs,Rus,rus_halicz,722,25.28333333,48.58333333,"",0
+1202,halicz,hlc_hlcz,258,rus,rs,Rus,rus_halicz,280,24.7533230461832,49.1033340564261,"",0
+1202,horodenka,hlc_hrdnk,259,rus,rs,Rus,rus_halicz,850,25.4878415392055,48.6804103695425,"",0
+1202,janow,hlc_jnw,1300,rus,rs,Rus,rus_halicz,500,,0.7944444444444,"",0
+1202,kakielniki,hlc_kklnk,263,rus,rs,Rus,rus_halicz,40,,,"",0
+1202,kalusz,hlc_klsz,264,rus,rs,Rus,rus_halicz,2800,24.3748590363421,49.0139183035606,"",0
+1202,kamionka,hlc_kmnk,265,rus,rs,Rus,rus_halicz,150,,,"",0
+1202,kopyczynce,hlc_kpyczync,266,rus,rs,Rus,rus_halicz,1000,25.9166666666667,49.1,"",0
+1202,kolomyja,hlc_klmyj,268,rus,rs,Rus,rus_halicz,1850,25.0412777077861,48.5351097772064,"",0
+1202,kosow,hlc_ksw,270,rus,rs,Rus,rus_halicz,1650,25.0984845776194,48.3253174774479,"",0
+1202,kulaczkowce,hlc_klczkwc,271,rus,rs,Rus,rus_halicz,200,25.3083461746369,48.5569863674305,"",0
+1202,martynow,hlc_mrtynw,272,rus,rs,Rus,rus_halicz,150,24.5636766381681,49.2188789147777,"",0
+1202,kuty,hlc_kty,273,rus,rs,Rus,rus_halicz,900,25.1833333333333,48.2666666666667,"",0
+1202,maryampol,hlc_mrympl,274,rus,rs,Rus,rus_halicz,0,24.85,49.0333333333333,"",0
+1202,mikulince,hlc_mklnc,276,rus,rs,Rus,rus_halicz,800,25.6211920366437,49.3866642018069,"",0
+1202,monasterzyska,hlc_mnstrzysk,277,rus,rs,Rus,rus_halicz,1700,25.1801270737996,49.097857454165,"",0
+1202,nadworna,hlc_ndwrn,278,rus,rs,Rus,rus_halicz,2400,24.5705987477066,48.6306782965941,"",0
+1202,obertyn,hlc_brtyn,280,rus,rs,Rus,rus_halicz,100,25.1718977664166,48.7001401656673,"",0
+1202,pistynia,hlc_pstyn,282,rus,rs,Rus,rus_halicz,375,,,"",0
+1202,podhajce,hlc_pdhjc,283,rus,rs,Rus,rus_halicz,3500,25.127734045462,49.2678300974148,"",0
+1202,podkamien,hlc_pdkmn,284,rus,rs,Rus,rus_halicz,180,25.3189246883268,49.9428889324104,"",0
+1202,potok,hlc_ptk,285,rus,rs,Rus,rus_halicz,200,25.3428,48.9089,Zolotyy Potik,0
+1202,rohatyn,hlc_rhtyn,286,rus,rs,Rus,rus_halicz,2000,24.6324716095947,49.4066408771173,"",0
+1202,skalat,hlc_sklt,287,rus,rs,Rus,rus_halicz,700,25.9685877987634,49.4341351417527,"",0
+1202,sniatyn,hlc_sntyn,288,rus,rs,Rus,rus_halicz,0,25.5666666666667,48.45,"",0
+1202,solotwina,hlc_sltwn,289,rus,rs,Rus,rus_halicz,900,24.4365220360386,48.6983706605418,"",0
+1202,stanislawow,hlc_stnslww,290,rus,rs,Rus,rus_halicz,200,24.7029830495295,48.9125403005606,"",0
+1202,strusow,hlc_strsw,292,rus,rs,Rus,rus_halicz,100,25.6224067068419,49.3494786316431,"",0
+1202,stupczate,hlc_stpczt,293,rus,rs,Rus,rus_halicz,892,24.9630461143333,48.4075681023789,"",0
+1202,suchostaw,hlc_schstw,294,rus,rs,Rus,rus_halicz,300,25.8590199101616,49.1611708042141,"",0
+1202,tarnopol,hlc_trnpl,295,rus,rs,Rus,rus_halicz,4200,25.5912056931086,49.5592747346345,"",0
+1202,totals,hlc_ttls,,rus,rs,Rus,rus_halicz,47006,,,"",1
+1202,towste,hlc_twst,296,rus,rs,Rus,rus_halicz,600,25.7333333333333,48.85,"",0
+1202,tysmenica,hlc_tysmnc,297,rus,rs,Rus,rus_halicz,1300,24.85,48.9,"",0
+1202,tlumacz,hlc_tlmcz,298,rus,rs,Rus,rus_halicz,250,25.0246329567424,48.8685346957074,"",0
+1202,uscie,hlc_sc,299,rus,rs,Rus,rus_halicz,880,24.9666666666667,49.0333333333333,"",0
+1202,trembowla,hlc_trmbwl,301,rus,rs,Rus,rus_halicz,600,25.7025749597079,49.2940958692724,"",0
+1202,wojnilow,hlc_wjnlw,302,rus,rs,Rus,rus_halicz,800,24.4898404829322,49.1176927191802,"",0
+1202,zablotow,hlc_zbltw,303,rus,rs,Rus,rus_halicz,1700,25.2800288279972,48.4609054638133,"",0
+1202,zawalow,hlc_zwlw,305,rus,rs,Rus,rus_halicz,500,25.0193957216299,49.2075068941877,"",0
+1202,dniatyn,hlc_dntyn,307,rus,rs,Rus,rus_halicz,2900,24.6166666666667,48.5333333333333,dniatyn,0
+1202,lysiec,hlc_lysc,308,rus,rs,Rus,rus_halicz,68,24.6166666666667,48.8666666666667,"",0
+1202,grzymalow,hlc_grzymlw,309,rus,rs,Rus,rus_halicz,500,26.0238553058215,49.3344461680464,"",0
+1202,maryampol,hlc_mrympl,274,rus,rs,Rus,rus_halicz,650,24.85,49.0333333333333,"",0
+1203,bialykamien,lww_blykmn,311,rus,rs,Rus,rus_lwow,200,24.8333333333333,49.9,"",0
+1203,bialykamien_bobrka,lww_blykmn_bbrk,312,rus,rs,Rus,rus_lwow,0,24.83333333,49.9,"",0
+1203,brody,lww_brdy,313,rus,rs,Rus,rus_lwow,10897,25.1398384784093,50.0903413847266,"",0
+1203,brzezany,lww_brzzny,314,rus,rs,Rus,rus_lwow,2000,24.9450128766262,49.449226082865,"",0
+1203,brzozdowce,lww_brzzdwc,315,rus,rs,Rus,rus_lwow,150,24.1669562823142,49.4616991272277,"",0
+1203,chodorow,lww_chdrw,316,rus,rs,Rus,rus_lwow,1600,24.3202226483031,49.4122258216027,"",0
+1203,bolechow,lww_blchw,317,rus,rs,Rus,rus_lwow,300,23.8585697958239,49.0535679630246,"",0
+1203,dolina,lww_dln,318,rus,rs,Rus,rus_lwow,1000,24.0103630237654,48.962179218136,"",0
+1203,gliniany,lww_glnny,320,rus,rs,Rus,rus_lwow,600,24.5286051465668,49.8169650992427,"",0
+1203,gologory,lww_glgry,321,rus,rs,Rus,rus_lwow,1100,24.7041813367782,49.7460936085389,"",0
+1203,grodek,lww_grdk,322,rus,rs,Rus,rus_lwow,1500,23.6444444444444,49.7833333333333,"",0
+1203,janow,lww_jnw,323,rus,rs,Rus,rus_lwow,550,23.733333333333,49.916666666667,Ivano-Frankove,0
+1203,jaryczow,lww_jryczw,324,rus,rs,Rus,rus_lwow,1360,24.3,49.9,"",0
+1203,jaworow,lww_jwrw,325,rus,rs,Rus,rus_lwow,2760,23.3664773909695,49.9335770643359,"",0
+1203,kamionka,lww_kmnk,326,rus,rs,Rus,rus_lwow,625,,,"",0
+1203,knichynicze,lww_knchyncz,327,rus,rs,Rus,rus_lwow,500,24.4667,49.3833,Knyahynychi,0
+1203,komarno,lww_kmrn,328,rus,rs,Rus,rus_lwow,1350,23.6875534425943,49.6304099838989,"",0
+1203,kozowa,lww_kzw,329,rus,rs,Rus,rus_lwow,345,25.1388008640343,49.4321064906891,"",0
+1203,kulikow,lww_klkw,331,rus,rs,Rus,rus_lwow,730,24.0729247177645,49.9694255297011,"",0
+1203,lwow,lww_lww,332,rus,rs,Rus,rus_lwow,1500,24.0349130375792,49.8406207795665,"",0
+1203,mikolajow,lww_mkljw,333,rus,rs,Rus,rus_lwow,100,23.9833333333333,49.5333333333333,"",0
+1203,nawarya,lww_nwry,334,rus,rs,Rus,rus_lwow,200,23.9333333333333,49.75,"",0
+1203,olesko,lww_lsk,335,rus,rs,Rus,rus_lwow,500,24.8748591681089,49.9649872990441,"",0
+1203,podkamien,lww_pdkmn,336,rus,rs,Rus,rus_lwow,1000,25.3189246883268,49.9428889324104,"",0
+1203,podwysokie,lww_pdwysk,337,rus,rs,Rus,rus_lwow,832,24.8,49.4,"",0
+1203,pomorzany,lww_pmrzny,338,rus,rs,Rus,rus_lwow,1125,24.9475137266137,49.6274577587889,"",0
+1203,przemysliany,lww_przmyslny,339,rus,rs,Rus,rus_lwow,1000,24.55,49.6666666666667,"",0
+1203,rozdol,lww_rzdl,340,rus,rs,Rus,rus_lwow,900,24.0576334202946,49.4640261877296,"",0
+1203,rozniatow,lww_rzntw,341,rus,rs,Rus,rus_lwow,500,24.1517750789478,48.9369373621803,"",0
+1203,sasow,lww_ssw,342,rus,rs,Rus,rus_lwow,125,24.9372180200243,49.8731741874722,"",0
+1203,sokolow,lww_sklw,343,rus,rs,Rus,rus_lwow,300,,,"",0
+1203,sokolowka,lww_sklwk,344,rus,rs,Rus,rus_lwow,150,,,"",0
+1203,stanislawczyk,lww_stnslwczyk,345,rus,rs,Rus,rus_lwow,150,24.9204940009383,50.1631001278898,"",0
+1203,strzeliska,lww_strzlsk,346,rus,rs,Rus,rus_lwow,1350,24.402848127743,49.5139818294366,"",0
+1203,swierz,lww_swrz,347,rus,rs,Rus,rus_lwow,1000,24.4333333333333,49.65,"",0
+1203,szczerzec,lww_szczrzc,348,rus,rs,Rus,rus_lwow,450,23.848034317391,49.6500652172344,"",0
+1203,winniki,lww_wnnk,349,rus,rs,Rus,rus_lwow,904,24.1166666666667,49.8166666666667,"",0
+1203,zborow,lww_zbrw,350,rus,rs,Rus,rus_lwow,1300,25.1334467062661,49.6625951976747,"",0
+1203,zloczow,lww_zlczw,351,rus,rs,Rus,rus_lwow,325,24.8879062245419,49.8139626973594,"",0
+1203,bobrka,lww_bbrk,353,rus,rs,Rus,rus_lwow,1150,24.30853036385,49.6415047417087,"",0
+1203,totals,lww_ttls,,rus,rs,Rus,rus_lwow,46149,,,"",1
+1203,zurow,lww_zrw,355,rus,rs,Rus,rus_lwow,125,24.4706309005344,49.3025281923083,"",0
+1203,zydaczow,lww_zydczw,356,rus,rs,Rus,rus_lwow,880,24.1555238263846,49.3755978904523,"",0
+1203,zolkiew,lww_zlkw,357,rus,rs,Rus,rus_lwow,460,23.9864315780325,50.0677191063534,"",0
+1203,zurawno,lww_zrwn,358,rus,rs,Rus,rus_lwow,1000,24.2855680158447,49.2536599226656,"",0
+1300,biercza,prz_brcz,359,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.4833333333333,49.7,"",0
+1300,fredropol,prz_frdrpl,360,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.75,49.7,"",0
+1300,krukienice,prz_krknc,361,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.1666666666667,49.6833333333333,"",0
+1300,rybotycze,prz_rybtycz,362,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.6440835588608,49.6555547118457,"",0
+1300,sambor,prz_smbr,363,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.1916205576575,49.5119098625276,"",0
+1300,stanislawow,prz_stnslww,364,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,24.7029830495295,48.9125403005606,"",0
+1300,starosol,prz_strsl,365,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.9666666666667,49.4833333333333,"",0
+1300,stary_sambor,prz_stry_smbr,366,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,23.0087818959958,49.4320362635312,"",0
+1300,uszkow,prz_szkw,367,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,350,87.3166666666667,54.1,"",0
+1300,totals,prz_ttls,,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,1076,,,"",1
+1300,laszki,prz_lszk,368,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,826,22.9,50.0166666666667,"",0
+1300,nowomiasto_bybel,prz_nwmst_bybl,369,samborszczyzna,smbrszczyzn,Samborszczyzna,samborszczyzna,0,22.8667,49.6167,Nove Misto,0
+1401,dubno,wol_dbn,370,dubno,dbn,Wolyn,dubno,972,25.7172811969365,50.4240122390242,"",0
+1401,kamien_korzecki,wol_kmn_krzck,371,kamien_korzecki,kmnkrzck,Wolyn,dubno,870,24.9667,51.6333,Kamen Kashirskiy,0
+1401,kowel,wol_kwl,372,kowel,kwl,Wolyn,dubno,1600,24.7115008603188,51.2075745997114,"",0
+1401,michnowka,wol_mchnwk,373,kamien_korzecki,kmnkrzck,Wolyn,dubno,50,26.45,49.8166666666667,"",0
+1401,miedzyrzecz_korecki,wol_mdzyrzcz_krck,374,miedzyrzecz_korecki,mdzyrzczkrck,Wolyn,dubno,0,26.86666667,50.65,"",0
+1401,milianowiec,wol_mlnwc,375,kamien_korzecki,kmnkrzck,Wolyn,dubno,130,24.45,51.1833,Mylianovychi,0
+1401,niesuchojeze,wol_nschjz,376,kowel,kwl,Wolyn,dubno,700,24.836420470039,51.3791323582925,"",0
+1401,olyka,wol_lyk,377,olyka,lyk,Wolyn,dubno,1000,25.8127837717377,50.7065041092544,"",0
+1401,wyzwa,wol_wyzw,378,kowel,kwl,Wolyn,dubno,818,24.4333333333333,51.4333333333333,"",0
+1401,warkowicze,wol_wrkwcz,379,dubno,dbn,Wolyn,dubno,360,25.9936694422982,50.468743476246,"",0
+1401,total,wol_ttl,,dubno_kowel_olyka_MiedKorecki,dbnkwllykMdKrck,Wolyn,dubno,4303,,,"",1
+1402,bazalia,wol_bzl,380,krzemieniec,krzmnc,Wolyn,krzemieniec,394,26.4805463729352,49.7113979121374,"",0
+1402,jampol,wol_jmpl,381,krzemieniec,krzmnc,Wolyn,krzemieniec,1018,26.2363451004231,49.951793850072,"",0
+1402,kornica,wol_krnc,382,krzemieniec,krzmnc,Wolyn,krzemieniec,130,26.5333333333333,50.05,"",0
+1402,kozin,wol_kzn,383,krzemieniec,krzmnc,Wolyn,krzemieniec,185,25.453542299028,50.2628185894661,"",0
+1402,krzemieniec,wol_krzmnc,384,krzemieniec,krzmnc,Wolyn,krzemieniec,680,25.727400675079,50.0959831627669,"",0
+1402,lachowce,wol_lchwc,385,krzemieniec,krzmnc,Wolyn,krzemieniec,1694,26.4022078177175,49.9927387149213,"",0
+1402,lanowce,wol_lnwc,386,krzemieniec,krzmnc,Wolyn,krzemieniec,150,26.0737278348844,49.8538397548952,"",0
+1402,oleksyniec,wol_lksync,387,krzemieniec,krzmnc,Wolyn,krzemieniec,462,25.55,49.8333333333333,"",0
+1402,oleszyce,wol_lszyc,388,krzemieniec,krzmnc,Wolyn,krzemieniec,62,,,"",0
+1402,ozochowce,wol_zchwc,389,krzemieniec,krzmnc,Wolyn,krzemieniec,448,,,"",0
+1402,ptycze,wol_ptycz,390,krzemieniec,krzmnc,Wolyn,krzemieniec,87,,,"",0
+1402,perniatyn,wol_prntyn,391,krzemieniec,krzmnc,Wolyn,krzemieniec,80,,,"",0
+1402,radziwilow,wol_rdzwlw,392,krzemieniec,krzmnc,Wolyn,krzemieniec,539,25.25,50.1333333333333,"",0
+1402,rochmanow,wol_rchmnw,393,krzemieniec,krzmnc,Wolyn,krzemieniec,60,26.0833333333333,50.1333333333333,"",0
+1402,szumsk,wol_szmsk,394,krzemieniec,krzmnc,Wolyn,krzemieniec,0,26.1264422341505,50.1243188079118,"",0
+1402,tofipol,wol_tfpl,395,krzemieniec,krzmnc,Wolyn,krzemieniec,748,26.4166666666667,49.8333333333333,"",0
+1402,testuchow,wol_tstchw,396,krzemieniec,krzmnc,Wolyn,krzemieniec,30,,,"",0
+1402,werba,wol_wrb,397,krzemieniec,krzmnc,Wolyn,krzemieniec,175,25.6072318724741,50.2745051290501,"",0
+1402,wisniowiec,wol_wsnwc,398,krzemieniec,krzmnc,Wolyn,krzemieniec,870,25.75,49.9,"",0
+1402,woloczysko,wol_wlczysk,399,krzemieniec,krzmnc,Wolyn,krzemieniec,508,,,"",0
+1402,wyzgrodek,wol_wyzgrdk,400,krzemieniec,krzmnc,Wolyn,krzemieniec,622,25.9722719308116,49.7760388944262,"",0
+1402,zabikryk,wol_zbkryk,401,krzemieniec,krzmnc,Wolyn,krzemieniec,30,,,"",0
+1402,zbaraz,wol_zbrz,402,krzemieniec,krzmnc,Wolyn,krzemieniec,946,25.7792442275492,49.6762540754747,"",0
+1402,czarnoostrow,pod_czrnstrw,403,krzemieniec,krzmnc,Wolyn,krzemieniec,180,26.76086653245,49.5060832846021,"",0
+1402,totals,wol_ttls,,krzemieniec,krzmnc,Wolyn,krzemieniec,10889,,,"",1
+1402,izumsk,wol_zmsk,404,krzemieniec,krzmnc,Wolyn,krzemieniec,0,,,"",0
+1402,horynka,wol_hrynk,406,krzemieniec,krzmnc,Wolyn,krzemieniec,200,25.7837510306115,49.9860074810875,"",0
+1402,klucz,wol_klcz,407,krzemieniec,krzmnc,Wolyn,krzemieniec,200,,,"",0
+1402,krupiec,wol_krpc,408,krzemieniec,krzmnc,Wolyn,krzemieniec,91,25.3131345401382,50.1572367497069,"",0
+1403,borowce,wol_brwc,409,luck,lck,Wolyn,luck,31,,,"",0
+1403,czartorysk,wol_czrtrysk,410,luck,lck,Wolyn,luck,100,25.8732231628744,51.2244816245351,"",0
+1403,czetwertnie,wol_cztwrtn,411,luck,lck,Wolyn,luck,32,48.0166666666667,58.75,"",0
+1403,derewicz,wol_drwcz,412,luck,lck,Wolyn,luck,0,27.5833333333333,49.9666666666667,"",0
+1403,grodek,wol_grdk,413,luck,lck,Wolyn,luck,50,26.1833333333333,50.6833333333333,"",0
+1403,janowka,wol_jnwk,414,luck,lck,Wolyn,luck,44,25.2590281513494,51.0923894629769,"",0
+1403,kaszowka,wol_kszwk,415,luck,lck,Wolyn,luck,400,25.3227070847967,51.1609212424157,"",0
+1403,kilikiew,wol_klkw,416,luck,lck,Wolyn,luck,0,27.05,50.5333333333333,"",0
+1403,klewan,wol_klwn,417,luck,lck,Wolyn,luck,500,25.9778577575319,50.7383398545835,"",0
+1403,kolki,wol_klk,418,luck,lck,Wolyn,luck,400,25.6771076572093,51.0980518912497,"",0
+1403,krasnostaw,wol_krsnstw,419,luck,lck,Wolyn,luck,250,27.18333333,50.4,"",0
+1403,leszniowek,wol_lsznwk,420,luck,lck,Wolyn,luck,127,25.08333333,50.23333333,"",0
+1403,morawica,wol_mrwc,421,luck,lck,Wolyn,luck,400,25.5833333333333,50.5166666666667,"",0
+1403,okonsk,wol_knsk,422,luck,lck,Wolyn,luck,20,25.55,51.25,"",0
+1403,ostrozec,wol_strzc,423,luck,lck,Wolyn,luck,250,25.550309808035,50.6629818243413,"",0
+1403,rafalowka,wol_rflwk,424,luck,lck,Wolyn,luck,150,25.8666666666667,51.3666666666667,"",0
+1403,targowica,wol_trgwc,425,luck,lck,Wolyn,luck,360,25.4029449083155,50.5561910313742,"",0
+1403,totals,wol_ttls,,luck,lck,Wolyn,luck,5834,,,"",1
+1403,trojanowka,wol_trjnwk,426,luck,lck,Wolyn,luck,264,25.2833333333333,51.3333333333333,"",0
+1403,wisienki,wol_wsnk,427,luck,lck,Wolyn,luck,36,25.35,50.9833333333333,"",0
+1403,luck,wol_lck,428,luck,lck,Wolyn,luck,1924,25.3407845331747,50.7582696158609,"",0
+1403,mielnica,wol_mlnc,429,luck,lck,Wolyn,luck,250,25.0897171033436,51.1474013674258,"",0
+1403,zurawno,wol_zrwn,430,luck,lck,Wolyn,luck,80,,,"",0
+1404,dziunkow,brc_dznkw,431,ostrog,strg,Wolyn,ostrog_brac_pod,320,29.4410383064258,49.4538982937316,"",0
+1404,lipowiec,brc_lpwc,432,ostrog,strg,Wolyn,ostrog_brac_pod,175,29.0602498441165,49.2179710240081,"",0
+1404,pikow,brc_pkw,433,ostrog,strg,Wolyn,ostrog_brac_pod,860,28.2578510603185,49.5694818067427,"",0
+1404,strzyzawka,brc_strzyzwk,434,ostrog,strg,Wolyn,ostrog_brac_pod,130,28.468315310115,49.3014788264923,"",0
+1404,tetyjow,brc_ttyjw,435,ostrog,strg,Wolyn,ostrog_brac_pod,510,29.6782184657351,49.3579190818522,"",0
+1404,totals,brc_ttls,,ostrog,strg,Wolyn,ostrog_brac_pod,2388,,,"",1
+1404,ulanow,pod_lnw,436,ostrog,strg,Wolyn,ostrog_brac_pod,0,28.13333333,49.7,"",0
+1404,winnica,brc_wnnc,437,ostrog,strg,Wolyn,ostrog_brac_pod,0,28.4453063565441,49.2190502787917,"",0
+1404,zywotow,brc_zywtw,438,ostrog,strg,Wolyn,ostrog_brac_pod,393,29.549986566646,49.2721731294391,"",0
+1405,berdyczow,kij_brdyczw,439,ostrog,strg,Wolyn,ostrog_kij,1320,28.58333333,49.9,"",0
+1405,bialocerkiew,kij_blcrkw,440,ostrog,strg,Wolyn,ostrog_kij,1400,15.2666666666667,45.8666666666667,"",0
+1405,bialopole,kij_blpl,441,ostrog,strg,Wolyn,ostrog_kij,415,23.7333333333333,50.9833333333333,"",0
+1405,bilylowka,kij_blylwk,442,ostrog,strg,Wolyn,ostrog_kij,0,29.0166666666667,49.6833333333333,"",0
+1405,biylowka,kij_bylwk,443,ostrog,strg,Wolyn,ostrog_kij,408,29.0166666666667,49.6833333333333,"",0
+1405,bohuslaw,kij_bhslw,444,ostrog,strg,Wolyn,ostrog_kij,1000,30.8666666666667,49.55,"",0
+1405,borodianka,kij_brdnk,445,ostrog,strg,Wolyn,ostrog_kij,180,29.9166666666667,50.65,"",0
+1405,borowica,kij_brwc,446,ostrog,strg,Wolyn,ostrog_kij,52,32.5,49.2333333333333,"",0
+1405,borszczejowka,kij_brszczjwk,447,ostrog,strg,Wolyn,ostrog_kij,250,34.0166666666667,55.7666666666667,"",0
+1405,brusylow,kij_brsylw,448,ostrog,strg,Wolyn,ostrog_kij,800,29.5333333333333,50.2833333333333,"",0
+1405,bystryk,kij_bystryk,450,ostrog,strg,Wolyn,ostrog_kij,0,29.15,49.7333333333333,"",0
+1405,byszow,kij_byszw,451,ostrog,strg,Wolyn,ostrog_kij,280,,,"",0
+1405,chodarkow,kij_chdrkw,453,ostrog,strg,Wolyn,ostrog_kij,360,29.3,50.1,"",0
+1405,cudnow,kij_cdnw,454,ostrog,strg,Wolyn,ostrog_kij,1246,28.1166666666667,50.05,"",0
+1405,czajkowka,kij_czjkwk,455,ostrog,strg,Wolyn,ostrog_kij,119,29.05,50.5333333333333,"",0
+1405,czehryn,kij_czhryn,456,ostrog,strg,Wolyn,ostrog_kij,440,32.6666666666667,49.0833333333333,"",0
+1405,czerkasy,kij_czrksy,457,ostrog,strg,Wolyn,ostrog_kij,530,32.0666666666667,49.4166666666667,"",0
+1405,czerniechow,kij_czrnchw,458,ostrog,strg,Wolyn,ostrog_kij,216,25.45,49.6833333333333,"",0
+1405,czerwone,kij_czrwn,459,ostrog,strg,Wolyn,ostrog_kij,193,28.8667,49.9667,Chervone,0
+1405,dolbysz,kij_dlbysz,460,ostrog,strg,Wolyn,ostrog_kij,85,27.9833333333333,50.3666666666667,"",0
+1405,fastow,kij_fstw,461,ostrog,strg,Wolyn,ostrog_kij,610,29.9166666666667,50.0833333333333,"",0
+1405,hermanowka,kij_hrmnwk,462,ostrog,strg,Wolyn,ostrog_kij,360,30.55,50,"",0
+1405,hornostajpol,kij_hrnstjpl,463,ostrog,strg,Wolyn,ostrog_kij,156,30.25,51.0666666666667,"",0
+1405,horodyszcze,kij_hrdyszcz,464,ostrog,strg,Wolyn,ostrog_kij,30,31.45,49.28333333,"",0
+1405,horoszkow,kij_hrszkw,465,ostrog,strg,Wolyn,ostrog_kij,80,29.9,49.25,"",0
+1405,husia,kij_hs,466,ostrog,strg,Wolyn,ostrog_kij,0,,,"",0
+1405,iwnica,kij_wnc,467,ostrog,strg,Wolyn,ostrog_kij,132,29.05,50.15,"",0
+1405,kahorlik,kij_khrlk,469,ostrog,strg,Wolyn,ostrog_kij,98,30.8333333333333,49.85,"",0
+1405,kamionka,kij_kmnk,471,ostrog,strg,Wolyn,ostrog_kij,150,28.7,48.0333333333333,"",0
+1405,kaniow,kij_knw,472,ostrog,strg,Wolyn,ostrog_kij,425,45.3666666666667,43.1,"",0
+1405,kodnia,kij_kdn,473,ostrog,strg,Wolyn,ostrog_kij,502,28.7,50.0833333333333,"",0
+1405,korostaszow,kij_krstszw,474,ostrog,strg,Wolyn,ostrog_kij,440,29.0667,50.3167,Korostyshiv,0
+1405,korsun,kij_krsn,475,ostrog,strg,Wolyn,ostrog_kij,475,31.2666666666667,49.4166666666667,"",0
+1405,koszowata,kij_kszwt,476,ostrog,strg,Wolyn,ostrog_kij,300,30.61666667,49.48333333,"",0
+1405,kotelnia,kij_ktln,477,ostrog,strg,Wolyn,ostrog_kij,350,28.9666666666667,50.1166666666667,"",0
+1405,krasnopol,kij_krsnpl,478,ostrog,strg,Wolyn,ostrog_kij,126,28.05,49.8333333333333,"",0
+1405,krylow,kij_krylw,479,ostrog,strg,Wolyn,ostrog_kij,120,33.2333333333333,49.05,"",0
+1405,leszczyn,kij_lszczyn,481,ostrog,strg,Wolyn,ostrog_kij,403,28.8333333333333,50.15,"",0
+1405,medwedowka,kij_mdwdwk,482,ostrog,strg,Wolyn,ostrog_kij,30,27.8833333333333,49.4333333333333,"",0
+1405,miropol,kij_mrpl,485,ostrog,strg,Wolyn,ostrog_kij,354,27.7,50.1,"",0
+1405,moszna,kij_mszn,486,ostrog,strg,Wolyn,ostrog_kij,405,31.75,49.5166666666667,"",0
+1405,motowolowka,kij_mtwlwk,488,ostrog,strg,Wolyn,ostrog_kij,130,30.0833333333333,50.15,motowilowka,0
+1405,motowolowka,kij_mtwlwk,488,ostrog,strg,Wolyn,ostrog_kij,0,30.0833333333333,50.15,motowilowka,0
+1405,olewsk,kij_lwsk,490,ostrog,strg,Wolyn,ostrog_kij,150,27.65,51.2166666666667,"",0
+1405,pawolocz,kij_pwlcz,492,ostrog,strg,Wolyn,ostrog_kij,1026,29.45,49.8666666666667,"",0
+1405,pohrebyszcze,kij_phrbyszcz,494,ostrog,strg,Wolyn,ostrog_kij,860,29.2666666666667,49.4833333333333,"",0
+1405,pradzow,kij_prdzw,495,ostrog,strg,Wolyn,ostrog_kij,117,,,"",0
+1405,przyborsk,kij_przybrsk,496,ostrog,strg,Wolyn,ostrog_kij,105,30.0333333333333,51.0166666666667,"",0
+1405,radomysl,kij_rdmysl,497,ostrog,strg,Wolyn,ostrog_kij,305,29.2333333333333,50.5,"",0
+1405,rejgrod,kij_rjgrd,498,ostrog,strg,Wolyn,ostrog_kij,176,22.7,53.73333333,"",0
+1405,rokitna,kij_rktn,499,ostrog,strg,Wolyn,ostrog_kij,53,27.21666667,51.28333333,"",0
+1405,rozow,kij_rzw,500,ostrog,strg,Wolyn,ostrog_kij,230,28.2833333333333,48.2333333333333,"",0
+1405,rzeszczow,kij_rzszczw,502,ostrog,strg,Wolyn,ostrog_kij,132,24.7666666666667,50.35,"",0
+1405,skwira,kij_skwr,503,ostrog,strg,Wolyn,ostrog_kij,300,29.6666666666667,49.7333333333333,"",0
+1405,smyla,kij_smyl,504,ostrog,strg,Wolyn,ostrog_kij,660,31.8833333333333,49.2166666666667,"",0
+1405,stawiszcze,kij_stwszcz,505,ostrog,strg,Wolyn,ostrog_kij,30,30.2,49.4,"",0
+1405,slobodyszcze,kij_slbdyszcz,506,ostrog,strg,Wolyn,ostrog_kij,60,29.6,48.9666666666667,"",0
+1405,taraszcza,kij_trszcz,507,ostrog,strg,Wolyn,ostrog_kij,120,30.5,49.5666666666667,"",0
+1405,totals,kij_ttls,,ostrog,strg,Wolyn,ostrog_kij,22217,,,"",1
+1405,steblow,kij_stblw,508,ostrog,strg,Wolyn,ostrog_kij,176,,,"",0
+1405,traktamirow,kij_trktmrw,509,ostrog,strg,Wolyn,ostrog_kij,127,31.3333333333333,49.9833333333333,"",0
+1405,trojanow,kij_trjnw,510,ostrog,strg,Wolyn,ostrog_kij,60,28.5333333333333,50.1166666666667,"",0
+1405,uszomier,kij_szmr,511,ostrog,strg,Wolyn,ostrog_kij,90,28.4666666666667,50.8666666666667,"",0
+1405,wernyhorodok,kij_wrnyhrdk,512,ostrog,strg,Wolyn,ostrog_kij,46,28.9,49.7833333333333,"",0
+1405,wilsk,kij_wlsk,513,ostrog,strg,Wolyn,ostrog_kij,75,28.5166666666667,50.3833333333333,"",0
+1405,wolodarka,kij_wldrk,514,ostrog,strg,Wolyn,ostrog_kij,755,29.9244620338245,49.5170412573298,"",0
+1405,lowkow,kij_lwkw,515,ostrog,strg,Wolyn,ostrog_kij,100,,,"",0
+1405,lysianka,kij_lysnk,516,ostrog,strg,Wolyn,ostrog_kij,758,30.8333333333333,49.25,"",0
+1405,makarow,kij_mkrw,518,ostrog,strg,Wolyn,ostrog_kij,200,29.8166666666667,50.4666666666667,"",0
+1405,zabotyn,kij_zbtyn,519,ostrog,strg,Wolyn,ostrog_kij,50,32.15,49.15,"",0
+1405,zytomierz,kij_zytmrz,520,ostrog,strg,Wolyn,ostrog_kij,360,28.6833333333333,50.2666666666667,"",0
+1406,aleksandryja,wol_lksndryj,521,ostrog,strg,Wolyn,ostrog_wol,150,26.35,50.7333333333333,"",0
+1406,bereznica,wol_brznc,525,ostrog,strg,Wolyn,ostrog_wol,528,26.4647958186845,51.4318120266411,"",0
+1406,berezno,wol_brzn,526,ostrog,strg,Wolyn,ostrog_wol,375,26.7428382392154,50.99111756199,"",0
+1406,bialogrodka,wol_blgrdk,527,ostrog,strg,Wolyn,ostrog_wol,160,25.55,50.3166666666667,"",0
+1406,czartoryja,wol_czrtryj,528,ostrog,strg,Wolyn,ostrog_wol,132,25.8666666666667,51.2166666666667,"",0
+1406,czernilowka,wol_czrnlwk,529,ostrog,strg,Wolyn,ostrog_wol,150,,,"",0
+1406,derazna,wol_drzn,530,ostrog,strg,Wolyn,ostrog_wol,190,26.05,50.8666666666667,"",0
+1406,derman,wol_drmn,531,ostrog,strg,Wolyn,ostrog_wol,150,26.2166666666667,50.3833333333333,"",0
+1406,grand_totals_for_ostrog,wol_grnd_ttls_fr_strg,,ostrog,strg,Wolyn,ostrog_wol,42077,,,"",1
+1406,gupkow,wol_gpkw,532,ostrog,strg,Wolyn,ostrog_wol,50,27.05,50.8333333333333,"",0
+1406,hoszcza,wol_hszcz,533,ostrog,strg,Wolyn,ostrog_wol,260,26.6768278376889,50.5939696558528,"",0
+1406,hrycow,wol_hrycw,534,ostrog,strg,Wolyn,ostrog_wol,142,27.2265085616139,49.9631111837887,"",0
+1406,hulewiczow,wol_hlwczw,535,ostrog,strg,Wolyn,ostrog_wol,30,25.2193224623243,51.2578913785683,"",0
+1406,janow,wol_jnw,536,ostrog,strg,Wolyn,ostrog_wol,153,24.1163888888889,50.7944444444444,"",0
+1406,konstantynow,wol_knstntynw,538,ostrog,strg,Wolyn,ostrog_wol,1050,,,"",0
+1406,korzec,wol_krzc,539,ostrog,strg,Wolyn,ostrog_wol,700,27.1292848535212,50.6065737602135,"",0
+1406,krasylow,wol_krsylw,541,ostrog,strg,Wolyn,ostrog_wol,315,26.9666666666667,49.65,"",0
+1406,krupa,wol_krp,542,ostrog,strg,Wolyn,ostrog_wol,222,26.5002758147272,50.6516982682608,"",0
+1406,kulczyn,wol_klczyn,543,ostrog,strg,Wolyn,ostrog_wol,236,24.4666666666667,51.1,"",0
+1406,kuniow,wol_knw,544,ostrog,strg,Wolyn,ostrog_wol,95,26.3784428445861,50.2379804967259,"",0
+1406,kuzmin,wol_kzmn,545,ostrog,strg,Wolyn,ostrog_wol,332,27.0864246386942,49.6942266152401,"",0
+1406,maryan,wol_mryn,546,ostrog,strg,Wolyn,ostrog_wol,300,,,"",0
+1406,miedzyrzecz_korecki,wol_mdzyrzcz_krck,547,ostrog,strg,Wolyn,ostrog_wol,1700,26.86666667,50.65,"",0
+1406,ostropol,wol_strpl,550,ostrog,strg,Wolyn,ostrog_wol,150,27.55,49.8166666666667,"",0
+1406,ostrog,wol_strg,551,ostrog,strg,Wolyn,ostrog_wol,1286,26.5265492856806,50.3295195120305,"",0
+1406,rowno,wol_rwn,552,ostrog,strg,Wolyn,ostrog_wol,787,26.2624680797275,50.6105938879652,"",0
+1406,polonne,wol_plnn,553,ostrog,strg,Wolyn,ostrog_wol,750,27.5195969364713,50.1174948899498,"",0
+1406,sarny,wol_srny,554,ostrog,strg,Wolyn,ostrog_wol,50,26.6,51.3333333333333,"",0
+1406,stepan,wol_stpn,555,ostrog,strg,Wolyn,ostrog_wol,792,26.299894067448,51.1317598532733,"",0
+1406,sudylkow,wol_sdylkw,556,ostrog,strg,Wolyn,ostrog_wol,220,27.1300089948138,50.1696325432066,"",0
+1406,szumsk,wol_szmsk,557,ostrog,strg,Wolyn,ostrog_wol,285,26.1264422341505,50.1243188079118,"",0
+1406,slawuta,wol_slwt,558,ostrog,strg,Wolyn,ostrog_wol,272,26.8808257408614,50.2981203542716,"",0
+1406,totals,wol_ttls,,ostrog,strg,Wolyn,ostrog_wol,17032,,,"",1
+1406,tuczyn,wol_tczyn,559,ostrog,strg,Wolyn,ostrog_wol,787,26.5780693025542,50.6903847439389,"",0
+1406,szepetowka,wol_szptwk,560,ostrog,strg,Wolyn,ostrog_wol,440,27.0467327614568,50.1770148655051,"",0
+1406,warkowicze,wol_wrkwcz,561,ostrog,strg,Wolyn,ostrog_wol,0,25.9936694422982,50.468743476246,"",0
+1406,wlodzimirzec,wol_wldzmrzc,562,ostrog,strg,Wolyn,ostrog_wol,271,26.15,51.4166666666667,"",0
+1406,zaslaw,wol_zslw,563,ostrog,strg,Wolyn,ostrog_wol,1500,26.8123189823602,50.1183474454349,"",0
+1406,zwiahel,wol_zwhl,564,ostrog,strg,Wolyn,ostrog_wol,792,27.6108387222478,50.5867337683617,"",0
+1406,labun,wol_lbn,565,ostrog,strg,Wolyn,ostrog_wol,630,27.3675272938102,50.0099898167561,"",0
+1406,wolynska_derewicz,wol_wlynsk_drwcz,567,ostrog,strg,Wolyn,ostrog_wol,50,,,"",0
+1406,lubar,wol_lbr,568,ostrog,strg,Wolyn,ostrog_wol,450,27.7313520677126,49.9150645968052,"",0
+1406,lubomirka,wol_lbmrk,569,ostrog,strg,Wolyn,ostrog_wol,100,27.1666666666667,50.75,"",0
+1407,brahin,kij_brhn,570,owrucz,wrcz,Wolyn,owrucz,300,30.2666666666667,51.7833333333333,"",0
+1407,chojniki,kij_chjnk,571,owrucz,wrcz,Wolyn,owrucz,100,29.9833333333333,51.9,"",0
+1407,czarnobyl,kij_czrnbyl,573,owrucz,wrcz,Wolyn,owrucz,216,30.2166666666667,51.2666666666667,"",0
+1407,owrucz,kij_wrcz,575,owrucz,wrcz,Wolyn,owrucz,120,28.8,51.3166666666667,"",0
+1407,sylweszna,kij_sylwszn,576,owrucz,wrcz,Wolyn,owrucz,300,,,"",0
+1407,totals,kij_ttls,,owrucz,wrcz,Wolyn,owrucz,1956,,,"",1
+1407,wieledniki,kij_wldnk,577,owrucz,wrcz,Wolyn,owrucz,250,28.4666666666667,51.3166666666667,"",0
+1407,lubianka,kij_lbnk,578,owrucz,wrcz,Wolyn,owrucz,50,30.7333333333333,49.7,"",0
+1407,luhyny,kij_lhyny,579,owrucz,wrcz,Wolyn,owrucz,100,28.4,51.0833333333333,"",0
+1407,narodycze,kij_nrdycz,580,owrucz,wrcz,Wolyn,owrucz,200,29.0833333333333,51.2,"",0
+1407,nordzynsk,kij_nrdzynsk,581,owrucz,wrcz,Wolyn,owrucz,120,28.6,51.266666666667,Norinsk,0
+1408,bersteczko,wol_brstczk,582,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,800,25.1166666666667,50.35,"",0
+1408,druszkopol,wol_drszkpl,583,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,500,24.6833333333333,50.4333333333333,"",0
+1408,bludow,wol_bldw,584,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,175,24.9166666666667,50.6,"",0
+1408,grand_totals_for_wolyn,wol_grnd_ttls_fr_wlyn,,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,76955,,,"",1
+1408,horochow,wol_hrchw,585,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,210,24.7597846983461,50.5010182121339,"",0
+1408,hulowka,wol_hlwk,586,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,145,43.6333333333333,48.65,"",0
+1408,jeziorzany,wol_jzrzny,587,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,90,26.0333333333333,50.45,"",0
+1408,kisielin,wol_ksln,588,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,24.7827996063281,50.8467081240406,"",0
+1408,lesniow,wol_lsnw,589,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,1100,25.0833333333333,50.2333333333333,"",0
+1408,michalowka,wol_mchlwk,590,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,80,25.3637319308506,50.1528039239754,"",0
+1408,ozdiutycze,wol_zdtycz,591,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,24.7166666666667,50.85,"",0
+1408,poryck,wol_pryck,592,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,215,24.4531193892141,50.6219553864874,"",0
+1408,rozenpol,wol_rznpl,593,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,,,"",0
+1408,sokol,wol_skl,594,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,327,25.33333333,51.05,"",0
+1408,stobuchwa,wol_stbchw,595,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,25.1833333333333,51.4,"",0
+1408,stolowka,wol_stlwk,596,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,,,"",0
+1408,stremilche,blz_strmlch,597,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,73,25.05,50.3333333333333,"",0
+1408,swiniuchy,wol_swnchy,598,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,24.7499719888403,50.6310218286807,"",0
+1408,torczyn,wol_trczyn,599,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,300,24.9790121992021,50.7603843869013,"",0
+1408,totals,wol_ttls,,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,9464,,,"",1
+1408,uscilug,wol_sclg,600,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,400,24.1584006280539,50.8640470329804,"",0
+1408,wlodzimierz,wol_wldzmrz,601,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,250,24.3073160650718,50.8524309444856,"",0
+1408,lobaczowka,wol_lbczwk,602,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,145,24.9833333333333,50.4166666666667,"",0
+1408,boromel,wol_brml,603,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,100,25.2,50.4666666666667,"",0
+1408,lokacze,wol_lkcz,604,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,311,24.632923048569,50.7341435838205,"",0
+1408,turzysk,wol_trzysk,605,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,700,24.5427875925651,51.0994574704276,"",0
+1408,milatyn,wol_mltyn,606,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,280,26.6265895480614,50.4439433438887,"",0
+1408,orychow,wol_rychw,607,wlodzimierz,wldzmrz,Wolyn,wlodzimierz,765,24.3,50.783333,Horychiv,0
+200,blazow,rus_blzw,608,rzeszow,rzszw,Autonomous,rzs_snd,500,22.1,49.8833333333333,"",0
+200,czudec,snd_czdc,609,rzeszow,rzszw,Autonomous,rzs_snd,500,21.838794618623,49.9464065187548,"",0
+200,frysztak,snd_frysztk,610,rzeszow,rzszw,Autonomous,rzs_snd,320,21.608879143114,49.8369870766933,"",0
+200,glogow,snd_glgw,611,rzeszow,rzszw,Autonomous,rzs_snd,700,21.9644452586563,50.1506787422238,"",0
+200,krasnobrod,rus_krsnbrd,612,rzeszow,rzszw,Autonomous,rzs_snd,0,,,"",0
+200,niebylec,snd_nbylc,613,rzeszow,rzszw,Autonomous,rzs_snd,0,21.9,49.86666667,"",0
+200,ropczyce,snd_rpczyc,614,rzeszow,rzszw,Autonomous,rzs_snd,900,21.6094127251689,50.0518921131857,"",0
+200,rozwadow,swr_rzwdw,615,rzeszow,rzszw,Autonomous,rzs_snd,0,22.05,50.58333333,"",0
+200,rzeszow,rus_rzszw,616,rzeszow,rzszw,Autonomous,rzs_snd,3581,21.9927683044083,50.0333357013252,"",0
+200,sedrzyszow,snd_sdrzyszw,617,rzeszow,rzszw,Autonomous,rzs_snd,500,21.7,50.0666666666667,"",0
+200,strzyzow,snd_strzyzw,618,rzeszow,rzszw,Autonomous,rzs_snd,2490,21.7865751959357,49.8692737782343,"",0
+200,wielopole,snd_wlpl,619,rzeszow,rzszw,Autonomous,rzs_snd,102,21.6132339356438,49.9447446076232,"",0
+200,tyczyn,rus_tyczyn,620,rzeszow,rzszw,Autonomous,rzs_snd,800,22.0191399570457,49.9625356086967,"",0
+200,totals,NA_ttls,,rzeszow,rzszw,Autonomous,rzs_snd,10691,,,"",1
+301,goworowo,maz_gwrw,621,tykocin,tykcn,Autonomous,tyk_maz,0,21.5818773205469,52.894083303342,"",0
+301,grajew,maz_grjw,622,tykocin,tykcn,Autonomous,tyk_maz,70,,,"",0
+301,jablonna,maz_jblnn,623,tykocin,tykcn,Autonomous,tyk_maz,0,20.93333333,52.36666667,"",0
+301,jedwabne,maz_jdwbn,624,tykocin,tykcn,Autonomous,tyk_maz,150,22.3166532139231,53.2818512690223,"",0
+301,kleczkowo,maz_klczkw,625,tykocin,tykcn,Autonomous,tyk_maz,0,21.85,53.05,"",0
+301,lipniki,maz_lpnk,626,tykocin,tykcn,Autonomous,tyk_maz,200,21.2666666666667,52.9,"",0
+301,myszyniec,maz_myszync,627,tykocin,tykcn,Autonomous,tyk_maz,200,21.35,53.38333333,"",0
+301,nowogrod,maz_nwgrd,628,tykocin,tykcn,Autonomous,tyk_maz,72,21.86666667,53.23333333,"",0
+301,rudka,maz_rdk,629,tykocin,tykcn,Autonomous,tyk_maz,0,22.7333333333333,52.7166666666667,"",0
+301,sniadow,maz_sndw,630,tykocin,tykcn,Autonomous,tyk_maz,100,,,"",0
+301,stawiski,maz_stwsk,632,tykocin,tykcn,Autonomous,tyk_maz,190,22.165308314201,53.3706577447029,"",0
+301,stawiski,maz_stwsk,632,tykocin,tykcn,Autonomous,tyk_maz,0,22.165308314201,53.3706577447029,"",0
+301,szczucin,maz_szczcn,633,tykocin,tykcn,Autonomous,tyk_maz,0,22.2833333333333,53.5666666666667,"",0
+301,totals,NA_ttls,,tykocin,tykcn,Autonomous,tyk_maz,2067,,,"",1
+301,troszyn,maz_trszyn,634,tykocin,tykcn,Autonomous,tyk_maz,35,21.7333333333333,53.0333333333333,"",0
+301,wizna,maz_wzn,635,tykocin,tykcn,Autonomous,tyk_maz,100,22.3817275848938,53.189946972492,"",0
+301,zawadow,maz_zwdw,636,tykocin,tykcn,Autonomous,tyk_maz,0,,,"",0
+301,zambrow,maz_zmbrw,637,tykocin,tykcn,Autonomous,tyk_maz,0,22.2438630601394,52.9672827107023,"",0
+302,augustow,pdl_gstw,638,tykocin,tykcn,Autonomous,tyk_pdl,170,22.9780204465886,53.8374492809893,"",0
+302,bialystok,pdl_blystk,639,tykocin,tykcn,Autonomous,tyk_pdl,400,23.1567122228573,53.1187646617058,"",0
+302,boczki,pdl_bczk,640,tykocin,tykcn,Autonomous,tyk_pdl,400,23.05,52.65,"",0
+302,drohiczyn,pdl_drhczyn,641,tykocin,tykcn,Autonomous,tyk_pdl,0,22.6421027558106,52.4086554314051,"",0
+302,goniadz,pdl_gndz,642,tykocin,tykcn,Autonomous,tyk_pdl,140,22.7363522692555,53.4796053466194,"",0
+302,grand_totals,pdl_grnd_ttls,,tykocin,tykcn,Autonomous,tyk_pdl,9662,,,"",1
+302,jasionowka,pdl_jsnwk,643,tykocin,tykcn,Autonomous,tyk_pdl,220,23.0409281097724,53.3938778123214,"",0
+302,knyszyn,pdl_knyszyn,644,tykocin,tykcn,Autonomous,tyk_pdl,62,22.91666667,53.31666667,"",0
+302,losice,pdl_lsc,645,tykocin,tykcn,Autonomous,tyk_pdl,180,22.7361404654278,52.2060376386106,"",0
+302,mielnik,pdl_mlnk,646,tykocin,tykcn,Autonomous,tyk_pdl,108,23.05,52.33333333,"",0
+302,niemirow,pdl_nmrw,647,tykocin,tykcn,Autonomous,tyk_pdl,50,23.153071510976,52.2869645109771,"",0
+302,orly,pdl_rly,648,tykocin,tykcn,Autonomous,tyk_pdl,1100,23.3333333333333,52.7,"",0
+302,osowiec,pdl_swc,649,tykocin,tykcn,Autonomous,tyk_pdl,200,22.65,53.5,"",0
+302,rajgrod,pdl_rjgrd,651,tykocin,tykcn,Autonomous,tyk_pdl,150,22.6892578439671,53.7162133761394,"",0
+302,rajgrod,pdl_rjgrd,651,tykocin,tykcn,Autonomous,tyk_pdl,0,22.6892578439671,53.7162133761394,"",0
+302,siemiatycze,pdl_smtycz,652,tykocin,tykcn,Autonomous,tyk_pdl,750,22.862653952951,52.4271122417998,"",0
+302,sokoly,pdl_skly,653,tykocin,tykcn,Autonomous,tyk_pdl,380,22.7043560929703,52.9909547793715,"",0
+302,suraz,pdl_srz,654,tykocin,tykcn,Autonomous,tyk_pdl,150,22.95,52.95,"",0
+302,tykocin,pdl_tykcn,655,tykocin,tykcn,Autonomous,tyk_pdl,970,22.7912700839357,53.1941224365405,"",0
+302,wiszna,pdl_wszn,656,tykocin,tykcn,Autonomous,tyk_pdl,100,22.3833333333333,53.2,"",0
+302,wysokie_mazowieckie,pdl_wysk_mzwck,657,tykocin,tykcn,Autonomous,tyk_pdl,0,22.4850792625023,52.9227540565595,"",0
+302,konstantynow,pdl_knstntynw,658,tykocin,tykcn,Autonomous,tyk_pdl,85,,,"",0
+302,sarnaki,pdl_srnk,659,tykocin,tykcn,Autonomous,tyk_pdl,350,22.8897636976863,52.3179459894113,"",0
+302,totals,pdl_ttls,,tykocin,tykcn,Autonomous,tyk_pdl,7595,,,"",1
+302,rososz,pdl_rssz,660,tykocin,tykcn,Autonomous,tyk_pdl,50,23.1333333333333,51.8666666666667,"",0
+401,czyzew,maz_czyzw,661,wegro,wgr,Autonomous,weg_maz,450,22.3333333333333,52.8,"",0
+401,kaluszyn,maz_klszyn,663,wegro,wgr,Autonomous,weg_maz,470,21.8028486041197,52.2091992195937,"",0
+401,kamienczyk,maz_kmnczyk,664,wegro,wgr,Autonomous,weg_maz,30,21.55,52.6,"",0
+401,karczew,maz_krczw,665,wegro,wgr,Autonomous,weg_maz,100,21.25,52.08333333,"",0
+401,minsk_mazowiecki,maz_mnsk_mzwck,666,wegro,wgr,Autonomous,weg_maz,30,21.56666667,52.18333333,"",0
+401,ostrow_mazowiecka,maz_strw_mzwck,667,wegro,wgr,Autonomous,weg_maz,100,21.8969812839418,52.7984870290779,"",0
+401,radzymin,maz_rdzymn,668,wegro,wgr,Autonomous,weg_maz,50,21.18333333,52.41666667,"",0
+401,stoczek,maz_stczk,669,wegro,wgr,Autonomous,weg_maz,120,21.9025828281132,52.5450857101926,"",0
+401,totals,maz_ttls,,wegro,wgr,Autonomous,weg_maz,3100,,,"",1
+401,wasewo,maz_wsw,670,wegro,wgr,Autonomous,weg_maz,120,21.6957285783508,52.867501221041,"",0
+401,zareby,maz_zrby,671,wegro,wgr,Autonomous,weg_maz,150,22.1232973219718,52.7491093681494,"",0
+401,zareby_koscielne,maz_zrby_kscln,672,wegro,wgr,Autonomous,weg_maz,0,22.1232973219718,52.7491093681494,"",0
+401,wolka_goworowska,maz_wlk_gwrwsk,674,wegro,wgr,Autonomous,weg_maz,200,21.5667,52.9,Goworowo,0
+401,dobre,maz_dbr,675,wegro,wgr,Autonomous,weg_maz,50,21.68333333,52.33333333,"",0
+401,jadow,maz_jdw,676,wegro,wgr,Autonomous,weg_maz,100,21.63333333,52.46666667,"",0
+401,liw,maz_lw,677,wegro,wgr,Autonomous,weg_maz,50,21.96666667,52.38333333,"",0
+401,siennica,maz_snnc,678,wegro,wgr,Autonomous,weg_maz,40,21.61666667,52.1,"",0
+401,niegow,maz_ngw,679,wegro,wgr,Autonomous,weg_maz,30,21.3833333333333,52.5166666666667,"",0
+402,ciechanowiec,pdl_cchnwc,680,wegro,wgr,Autonomous,weg_pdl,300,22.4992061780633,52.6742200015964,"",0
+402,grand_totals,pdl_grnd_ttls,,wegro,wgr,Autonomous,weg_pdl,7784,,,"",1
+402,kosow_lacki,pdl_ksw_lck,681,wegro,wgr,Autonomous,weg_pdl,200,22.1612071701251,52.5921703265756,"",0
+402,mordy,pdl_mrdy,682,wegro,wgr,Autonomous,weg_pdl,363,22.5124004121436,52.2124088063868,"",0
+402,wegrow,pdl_wgrw,684,wegro,wgr,Autonomous,weg_pdl,30,22.0228060172178,52.3963946953898,"",0
+402,mokobody,pdl_mkbdy,685,wegro,wgr,Autonomous,weg_pdl,150,22.1179016452034,52.2692260251658,"",0
+402,sokolow_podlaski,pdl_sklw_pdlsk,686,wegro,wgr,Autonomous,weg_pdl,0,22.2681783895744,52.4094776905297,"",0
+402,totals,pdl_ttls,,wegro,wgr,Autonomous,weg_pdl,3837,,,"",1
+402,wysokie_mazowieckie,pdl_wysk_mzwck,687,wegro,wgr,Autonomous,weg_pdl,0,22.4850792625023,52.9227540565595,"",0
+501,belz,blz_blz,688,chelm_belz,chlmblz,Chellm-Belz,chl,407,24.003847421274,50.3816143620553,"",0
+501,cieszanow,blz_csznw,689,chelm_belz,chlmblz,Chellm-Belz,chl,1280,23.1417450554359,50.2429694398181,"",0
+501,dobrotwor,blz_dbrtwr,690,chelm_belz,chlmblz,Chellm-Belz,chl,60,24.3833333333333,50.2,"",0
+501,dubienka,blz_dbnk,691,chelm_belz,chlmblz,Chellm-Belz,chl,1100,23.8873304884389,51.0533168382045,"",0
+501,grabowiec,blz_grbwc,692,chelm_belz,chlmblz,Chellm-Belz,chl,208,23.5547737664318,50.8292112195087,"",0
+501,horodlo,blz_hrdl,693,chelm_belz,chlmblz,Chellm-Belz,chl,660,24.0333333333333,50.9,"",0
+501,komorow,blz_kmrw,694,chelm_belz,chlmblz,Chellm-Belz,chl,330,23.4666666666667,50.6166666666667,"",0
+501,korytnica,blz_krytnc,695,chelm_belz,chlmblz,Chellm-Belz,chl,240,24.0072394247488,50.9491600182676,"",0
+501,krystynpol,blz_krystynpl,696,chelm_belz,chlmblz,Chellm-Belz,chl,240,24.23333333,50.38333333,"",0
+501,libicza,blz_lbcz,697,chelm_belz,chlmblz,Chellm-Belz,chl,200,,,"",0
+501,lubaczow,blz_lbczw,698,chelm_belz,chlmblz,Chellm-Belz,chl,730,23.1250406861361,50.1595550632533,"",0
+501,lubela,blz_lbl,699,chelm_belz,chlmblz,Chellm-Belz,chl,200,23.95,50.2,"",0
+501,mosty_krolewkie,blz_msty_krlwk,700,chelm_belz,chlmblz,Chellm-Belz,chl,324,24.15,50.2333,Velyki Mosty,0
+501,mosty_szlacheckie,blz_msty_szlchck,701,chelm_belz,chlmblz,Chellm-Belz,chl,97,,,"",0
+501,narol,blz_nrl,702,chelm_belz,chlmblz,Chellm-Belz,chl,900,23.3147428228395,50.3516257630205,"",0
+501,niemierow,blz_nmrw,703,chelm_belz,chlmblz,Chellm-Belz,chl,800,23.4333333333333,50.1,"",0
+501,oleszczyce,blz_lszczyc,704,chelm_belz,chlmblz,Chellm-Belz,chl,650,23.0308333333333,50.1669444444444,"",0
+501,przewale,blz_przwl,706,chelm_belz,chlmblz,Chellm-Belz,chl,100,23.6333333333333,50.6166666666667,"",0
+501,rachanie,blz_rchn,707,chelm_belz,chlmblz,Chellm-Belz,chl,40,23.55,50.5333333333333,"",0
+501,radziechow,blz_rdzchw,708,chelm_belz,chlmblz,Chellm-Belz,chl,638,24.650815714149,50.2774144609958,"",0
+501,rawa_ruska,blz_rw_rsk,709,chelm_belz,chlmblz,Chellm-Belz,chl,772,23.6213278009305,50.2303176668933,"",0
+501,stojanow,blz_stjnw,710,chelm_belz,chlmblz,Chellm-Belz,chl,284,24.6524976990533,50.3731527139266,"",0
+501,szczurowice,blz_szczrwc,711,chelm_belz,chlmblz,Chellm-Belz,chl,220,25.0333333333333,50.2666666666667,"",0
+501,tartakow,blz_trtkw,712,chelm_belz,chlmblz,Chellm-Belz,chl,368,24.3973966174658,50.4567450697687,"",0
+501,toporow,blz_tprw,713,chelm_belz,chlmblz,Chellm-Belz,chl,385,24.7333333333333,50.1166666666667,"",0
+501,totals,blz_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl,19659,,,"",1
+501,tyszowce,blz_tyszwc,714,chelm_belz,chlmblz,Chellm-Belz,chl,1010,23.7058841553443,50.6227441449671,"",0
+501,uhnow,blz_hnw,715,chelm_belz,chlmblz,Chellm-Belz,chl,1941,23.7598911177874,50.3624009809213,"",0
+501,witkow,blz_wtkw,717,chelm_belz,chlmblz,Chellm-Belz,chl,850,24.4882238157869,50.3052785790103,"",0
+501,busk,blz_bsk,718,chelm_belz,chlmblz,Chellm-Belz,chl,935,24.6166666666667,49.9666666666667,"",0
+501,potylicz,blz_ptylcz,719,chelm_belz,chlmblz,Chellm-Belz,chl,240,23.55,50.2,"",0
+501,jaroczew,blz_jrczw,720,chelm_belz,chlmblz,Chellm-Belz,chl,156,,,"",0
+501,lipsko,blz_lpsk,721,chelm_belz,chlmblz,Chellm-Belz,chl,800,23.3485653647849,50.3481498869745,"",0
+501,sokal,blz_skl,722,chelm_belz,chlmblz,Chellm-Belz,chl,1265,24.2897495683034,50.4906821376766,"",0
+502,bilgoraj,lbl_blgrj,723,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,22.7333333333333,50.5333333333333,"",0
+502,chelm,rus_chlm,724,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1612,23.474799012592,51.1332146271815,"",0
+502,gorzkow,lbl_grzkw,725,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.0166666666667,50.95,"",0
+502,gorzkow_totals,NA_grzkw_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,,,"",1
+502,holeszow,rus_hlszw,726,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,650,24.2666666666667,49.3,"",0
+502,krasnobrod,rus_krsnbrd,727,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.2166666666667,50.55,"",0
+502,krosniczyn,rus_krsnczyn,728,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,228,23.3771119027443,50.9297891568531,"",0
+502,krosniczyn,rus_krsnczyn,728,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,220,23.3771119027443,50.9297891568531,"",0
+502,lubomla,rus_lbml,729,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1890,24.0333333333333,51.2333333333333,"",0
+502,krylow,rus_krylw,730,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,570,,,"",0
+502,maciejow,rus_mcjw,731,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1040,24.3491611179975,51.2245944768592,"",0
+502,modliborzyce,lbl_mdlbrzyc,732,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,22.3306422283973,50.7545039338917,"",0
+502,opalin,rus_pln,733,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,230,23.7123776578962,51.2919776341083,"",0
+502,ratno,rus_rtn,734,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,550,24.531656249436,51.6611552518694,"",0
+502,rejowice,rus_rjwc,735,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,180,,,"",0
+502,siedliszcze,rus_sdlszcz,736,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,38,23.1637218418252,51.1939255515011,"",0
+502,sieniawa,rus_snw,737,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1350,22.6160562422611,50.1691498051277,"",0
+502,skierbieszow,rus_skrbszw,738,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,23.3666666666667,50.85,"",0
+502,swierz,rus_swrz,739,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,136,24.4333333333333,49.65,"",0
+502,tarnogora,rus_trngr,741,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,250,23.1654776655647,50.8899379764094,"",0
+502,wojslawice,rus_wjslwc,743,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,80,23.552095628596,50.9273672934201,"",0
+502,hrubieszow,rus_hrbszw,744,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,1000,23.9,50.8,"",0
+502,uchanie,rus_chn,745,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,250,23.6592908853506,50.9029127795118,"",0
+502,chelm_totals,rus_chlm_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,8776,,,"",1
+502,pilaszkowiec,lbl_plszkwc,747,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,0,,,"",0
+502,grand_totals,NA_grnd_ttls,,chelm_belz,chlmblz,Chellm-Belz,chl_lub_rus,29409,,,"",1
+601,szembruk,chl_szmbrk,752,great_poland,grtplnd,Great Poland,gp_prussia,600,19.0215373759096,53.5584541843512,"",0
+601,total,NA_ttl,,great_poland,grtplnd,Great Poland,gp_prussia,600,,,"",1
+601,totals,NA_ttls,,great_poland,grtplnd,Great Poland,gp_prussia,600,,,"",1
+602,brzesc,kij_brzsc,757,great_poland,grtplnd,Great Poland,gp_in_and_kuj,280,18.8980555555556,52.605,Brześć Kujawski,0
+602,dobrzyn,inw_dbrzyn,758,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,19.3166666666667,52.6333333333333,"",0
+602,fordon,inw_frdn,759,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,18.1710801160909,53.1592822820413,"",0
+602,inowroclaw,inw_nwrclw,760,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1000,18.2856831720379,52.7986200298129,"",0
+602,izbica,kij_zbc,761,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,,,"",0
+602,kowal,kij_kwl,763,great_poland,grtplnd,Great Poland,gp_in_and_kuj,530,,,"",0
+602,lipno,inw_lpn,764,great_poland,grtplnd,Great Poland,gp_in_and_kuj,120,19.1833333333333,52.85,"",0
+602,lubrabiec,kij_lbrbc,765,great_poland,grtplnd,Great Poland,gp_in_and_kuj,0,18.85,52.55,"",0
+602,lubraniec,kij_lbrnc,766,great_poland,grtplnd,Great Poland,gp_in_and_kuj,200,18.85,52.55,"",0
+602,przedecz,kij_przdcz,768,great_poland,grtplnd,Great Poland,gp_in_and_kuj,300,18.9,52.33333333,"",0
+602,strzelno,kij_strzln,770,great_poland,grtplnd,Great Poland,gp_in_and_kuj,150,18.2,52.63333333,"",0
+602,totals_brzesc,NA_ttls_brzsc,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1760,,,"",1
+602,totals_dobrzyn,NA_ttls_dbrzyn,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,1720,,,"",1
+602,totals,NA_ttls,,great_poland,grtplnd,Great Poland,gp_in_and_kuj,0,,,"",1
+603,borek,kls_brk,773,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.253833115765,51.9205515395357,"",0
+603,chodziez,kls_chdzz,774,great_poland,grtplnd,Great Poland,gp_kalisz,1120,16.9062057422499,52.9928559929061,"",0
+603,debrzno_frydland,kls_dbrzn_frydlnd,776,great_poland,grtplnd,Great Poland,gp_kalisz,1200,17.23333333,53.53333333,"",0
+603,dzialyn,kls_dzlyn,777,great_poland,grtplnd,Great Poland,gp_kalisz,100,17.5019408341046,52.5893387973836,"",0
+603,gniezno,kls_gnzn,778,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.5860406166389,52.5403921737027,"",0
+603,golancza,kls_glncz,779,great_poland,grtplnd,Great Poland,gp_kalisz,550,17.3,52.95,"",0
+603,golina,kls_gln,780,great_poland,grtplnd,Great Poland,gp_kalisz,600,18.1164653729346,52.2402275167327,"",0
+603,granowo,kls_grnw,781,great_poland,grtplnd,Great Poland,gp_kalisz,200,16.5280555555556,52.2222222222222,"",0
+603,jarocin,kls_jrcn,782,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.4898578854863,51.9698160252835,"",0
+603,jaroczew,kls_jrczw,783,great_poland,grtplnd,Great Poland,gp_kalisz,50,17.3,51.9666666666667,"",0
+603,kazimierz,kls_kzmrz,786,great_poland,grtplnd,Great Poland,gp_kalisz,50,18.1666666666667,52.3166666666667,"",0
+603,kcynia,kls_kcyn,787,great_poland,grtplnd,Great Poland,gp_kalisz,500,17.4916233481593,52.9812428308052,"",0
+603,kleczew,kls_klczw,788,great_poland,grtplnd,Great Poland,gp_kalisz,100,18.1778984780415,52.3679220070574,"",0
+603,kobylin,kls_kbyln,789,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.216247628786,51.7181171553752,"",0
+603,kozmin,kls_kzmn,790,great_poland,grtplnd,Great Poland,gp_kalisz,120,17.4655921680504,51.8163462992014,"",0
+603,kolo,kls_kl,791,great_poland,grtplnd,Great Poland,gp_kalisz,300,18.6383425310967,52.1800953420951,"",0
+603,konin,kls_knn,792,great_poland,grtplnd,Great Poland,gp_kalisz,130,18.2611830948784,52.1993310614889,"",0
+603,koωminek,kls_kωmnk,793,great_poland,grtplnd,Great Poland,gp_kalisz,220,18.2666666666667,51.7666666666667,"",0
+603,krajenka,kls_krjnk,794,great_poland,grtplnd,Great Poland,gp_kalisz,350,16.9728030602185,53.2990520987558,"",0
+603,krotoszyn,kls_krtszyn,795,great_poland,grtplnd,Great Poland,gp_kalisz,3000,17.4422734924693,51.6857294322649,"",0
+603,kurnik,kls_krnk,796,great_poland,grtplnd,Great Poland,gp_kalisz,660,17.1,52.25,"",0
+603,margonin,kls_mrgnn,797,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.1083916949951,52.9568364926788,"",0
+603,mrocza,kls_mrcz,798,great_poland,grtplnd,Great Poland,gp_kalisz,80,17.6161351782918,53.2471238130634,"",0
+603,naklo,kls_nkl,799,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.6,53.15,"",0
+603,nowemiasto_on_warta,kls_nwmst_n_wrt,800,great_poland,grtplnd,Great Poland,gp_kalisz,200,17.41666667,52.1,"",0
+603,pogorzel,kls_pgrzl,802,great_poland,grtplnd,Great Poland,gp_kalisz,0,17.2304,51.8235,Pogorzela,0
+603,pyzdry,kls_pyzdry,803,great_poland,grtplnd,Great Poland,gp_kalisz,230,17.6970598985808,52.1739416132984,"",0
+603,rychwal,kls_rychwl,807,great_poland,grtplnd,Great Poland,gp_kalisz,100,18.1778984780415,52.0699785765744,"",0
+603,rychwal,kls_rychwl,807,great_poland,grtplnd,Great Poland,gp_kalisz,0,18.1778984780415,52.0699785765744,"",0
+603,sempelborg,kls_smplbrg,808,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.5349675061567,53.4419895380988,"",0
+603,skoki,kls_skk,809,great_poland,grtplnd,Great Poland,gp_kalisz,850,17.1750752975165,52.6601605972408,"",0
+603,totals,kls_ttls,,great_poland,grtplnd,Great Poland,gp_kalisz,18582,,,"",1
+603,witkow,kls_wtkw,812,great_poland,grtplnd,Great Poland,gp_kalisz,400,,,"",0
+603,wrzesnia,kls_wrzsn,813,great_poland,grtplnd,Great Poland,gp_kalisz,800,17.583521870143,52.3248155623555,"",0
+603,zaniemysl,kls_znmysl,814,great_poland,grtplnd,Great Poland,gp_kalisz,56,17.1662587328484,52.150632878823,"",0
+603,zduny,kls_zdny,815,great_poland,grtplnd,Great Poland,gp_kalisz,150,17.3872981103873,51.6432843534798,"",0
+603,zlotowo,kls_zltw,816,great_poland,grtplnd,Great Poland,gp_kalisz,1800,18.45,52.4333333333333,"",0
+603,labuszyn,kls_lbszyn,817,great_poland,grtplnd,Great Poland,gp_kalisz,700,17.9147,52.9533,Labiszyn,0
+603,zerkow,kls_zrkw,818,great_poland,grtplnd,Great Poland,gp_kalisz,100,17.5701062085899,52.060786385779,"",0
+603,ostrow,kls_strw,819,great_poland,grtplnd,Great Poland,gp_kalisz,300,17.8296319770446,51.642995488546,"",0
+603,miloslaw,kls_mlslw,821,great_poland,grtplnd,Great Poland,gp_kalisz,120,17.4841099919432,52.2072225655312,"",0
+603,lobzenica,kls_lbznc,822,great_poland,grtplnd,Great Poland,gp_kalisz,600,17.2339008453791,53.2555372944034,"",0
+604,bielawy,lcz_blwy,824,great_poland,grtplnd,Great Poland,gp_lcz,300,19.657683841721,52.0696896055206,"",0
+604,bratoszowice,lcz_brtszwc,825,great_poland,grtplnd,Great Poland,gp_lcz,500,,,"",0
+604,brzeziny,lcz_brzzny,827,great_poland,grtplnd,Great Poland,gp_lcz,0,19.7523089633067,51.8025157705036,"",0
+604,brzeziny,lcz_brzzny,827,great_poland,grtplnd,Great Poland,gp_lcz,750,19.7523089633067,51.8025157705036,"",0
+604,krosniewice,lcz_krsnwc,829,great_poland,grtplnd,Great Poland,gp_lcz,250,19.1628713168798,52.257173559542,"",0
+604,leczyca,lcz_lczyc,830,great_poland,grtplnd,Great Poland,gp_lcz,1000,19.1851132350946,52.0602086541128,"",0
+604,sobota,lcz_sbt,833,great_poland,grtplnd,Great Poland,gp_lcz,150,19.6787658287715,52.1199286433841,"",0
+604,strykow,lcz_strykw,834,great_poland,grtplnd,Great Poland,gp_lcz,900,19.6101199865212,51.8952536495223,"",0
+604,ujazd,lcz_jzd,835,great_poland,grtplnd,Great Poland,gp_lcz,220,19.9188598067443,51.5967624698702,"",0
+604,totals,lcz_ttls,,great_poland,grtplnd,Great Poland,gp_lcz,4224,,,"",1
+604,ujazd,lcz_jzd,835,great_poland,grtplnd,Great Poland,gp_lcz,0,19.9188598067443,51.5967624698702,"",0
+605,burzenin,swr_brznn,837,great_poland,grtplnd,Great Poland,gp_maz_and_sier,150,18.83333333,51.46666667,"",0
+605,blaszkow,swr_blszkw,838,great_poland,grtplnd,Great Poland,gp_maz_and_sier,600,,,"",0
+605,ciechanow,maz_cchnw,840,great_poland,grtplnd,Great Poland,gp_maz_and_sier,600,20.6131654524722,52.8768091320985,"",0
+605,dobra,swr_dbr,841,great_poland,grtplnd,Great Poland,gp_maz_and_sier,106,18.6302706797126,51.9148540152208,"",0
+605,grabow,swr_grbw,842,great_poland,grtplnd,Great Poland,gp_maz_and_sier,100,19.0166666666667,52.1333333333333,"",0
+605,kepno,swr_kpn,843,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1650,17.9893369275864,51.2753564884692,"",0
+605,makow,maz_mkw,844,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1100,21.1,52.86666667,"",0
+605,nasielsk,maz_nslsk,845,great_poland,grtplnd,Great Poland,gp_maz_and_sier,700,20.8079336703153,52.5764054722053,"",0
+605,piotrkow,swr_ptrkw,846,great_poland,grtplnd,Great Poland,gp_maz_and_sier,410,19.6995187781732,51.3998168315162,"",0
+605,rozan,maz_rzn,847,great_poland,grtplnd,Great Poland,gp_maz_and_sier,150,21.3998114202246,52.8840772315061,"",0
+605,tuszyn,swr_tszyn,848,great_poland,grtplnd,Great Poland,gp_maz_and_sier,130,19.55,51.6,"",0
+605,wieruszow,swr_wrszw,849,great_poland,grtplnd,Great Poland,gp_maz_and_sier,200,18.16666667,51.28333333,"",0
+605,wyszogrod,maz_wyszgrd,850,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1800,20.1991704829083,52.3906221685169,"",0
+605,zloczew,swr_zlczw,851,great_poland,grtplnd,Great Poland,gp_maz_and_sier,100,18.61666667,51.41666667,"",0
+605,totals_blaszkow,NA_ttls_blszkw,,great_poland,grtplnd,Great Poland,gp_maz_and_sier,6486,,,"",1
+605,totals_ciechanow,NA_ttls_cchnw,,great_poland,grtplnd,Great Poland,gp_maz_and_sier,4350,,,"",1
+605,warta,swr_wrt,852,great_poland,grtplnd,Great Poland,gp_maz_and_sier,300,18.6375088667701,51.7135844167648,"",0
+605,widawa,swr_wdw,853,great_poland,grtplnd,Great Poland,gp_maz_and_sier,400,18.95,51.43333333,"",0
+605,lask,swr_lsk,854,great_poland,grtplnd,Great Poland,gp_maz_and_sier,1800,19.1381094623661,51.5937669181229,"",0
+605,lutomiersk,swr_ltmrsk,855,great_poland,grtplnd,Great Poland,gp_maz_and_sier,500,19.2211218751091,51.7447458045709,"",0
+606,biezun,plc_bzn,856,great_poland,grtplnd,Great Poland,gp_plock,150,19.8883779124893,52.9522695042882,"",0
+606,drobin,plc_drbn,857,great_poland,grtplnd,Great Poland,gp_plock,1200,19.9909173215416,52.7286808563644,"",0
+606,mlawa,plc_mlw,859,great_poland,grtplnd,Great Poland,gp_plock,400,20.3958996049872,53.1128967392486,"",0
+606,plock,plc_plck,860,great_poland,grtplnd,Great Poland,gp_plock,1000,19.6868871563571,52.5452559167792,"",0
+606,plonsk,plc_plnsk,861,great_poland,grtplnd,Great Poland,gp_plock,300,20.3864709374641,52.6145747441871,"",0
+606,radzanow,plc_rdznw,862,great_poland,grtplnd,Great Poland,gp_plock,500,20.0803995666807,52.9370553542593,"",0
+606,sierpc,plc_srpc,863,great_poland,grtplnd,Great Poland,gp_plock,700,19.676986166703,52.846907067628,"",0
+606,szrensk,plc_szrnsk,864,great_poland,grtplnd,Great Poland,gp_plock,250,20.1257049859446,53.0147915121055,"",0
+606,totals,plc_ttls,,great_poland,grtplnd,Great Poland,gp_plock,4500,,,"",1
+607,babimost,pzn_bbmst,865,great_poland,grtplnd,Great Poland,gp_poznan,680,15.8281395187974,52.170737622087,"",0
+607,bojanow,pzn_bjnw,866,great_poland,grtplnd,Great Poland,gp_poznan,350,,,"",0
+607,broice,pzn_brc,867,great_poland,grtplnd,Great Poland,gp_poznan,350,15.6666666666667,52.3166666666667,"",0
+607,charnkow,pzn_chrnkw,868,great_poland,grtplnd,Great Poland,gp_poznan,530,16.5666666666667,52.9,"",0
+607,czempin,pzn_czmpn,869,great_poland,grtplnd,Great Poland,gp_poznan,64,16.7686830228192,52.1472718363076,"",0
+607,czlop,pzn_czlp,870,great_poland,grtplnd,Great Poland,gp_poznan,600,,,"",0
+607,frydlandek,pzn_frydlndk,871,great_poland,grtplnd,Great Poland,gp_poznan,1000,,,"",0
+607,grodzisko,pzn_grdzsk,873,great_poland,grtplnd,Great Poland,gp_poznan,1000,,,"",0
+607,heinrichsdorf,pzn_hnrchsdrf,875,great_poland,grtplnd,Great Poland,gp_poznan,0,15.7666666666667,48.75,"",0
+607,jutrosin,pzn_jtrsn,876,great_poland,grtplnd,Great Poland,gp_poznan,160,17.1666666666667,51.65,"",0
+607,kargowa,pzn_krgw,877,great_poland,grtplnd,Great Poland,gp_poznan,600,15.8692686772135,52.0738558335319,"",0
+607,lwowek,pzn_lwwk,878,great_poland,grtplnd,Great Poland,gp_poznan,500,16.1774439084625,52.4501529889966,"",0
+607,miedzychod,pzn_mdzychd,879,great_poland,grtplnd,Great Poland,gp_poznan,600,15.9090455538725,52.6136429890082,"",0
+607,miedzyrzecz,pzn_mdzyrzcz,880,great_poland,grtplnd,Great Poland,gp_poznan,900,15.601067293933,52.4385252219059,"",0
+607,oborniki,pzn_brnk,882,great_poland,grtplnd,Great Poland,gp_poznan,500,16.8379584192683,52.6479673553438,"",0
+607,obrzysko,pzn_brzysk,883,great_poland,grtplnd,Great Poland,gp_poznan,150,16.5295,52.707,Obrzycko,0
+607,osieczna,pzn_sczn,884,great_poland,grtplnd,Great Poland,gp_poznan,300,16.6713374152226,51.9053826946526,"",0
+607,pila,pzn_pl,885,great_poland,grtplnd,Great Poland,gp_poznan,600,16.7451247957284,53.1518301723533,"",0
+607,pniewy,pzn_pnwy,886,great_poland,grtplnd,Great Poland,gp_poznan,600,16.2684840257706,52.5070422938322,"",0
+607,rakoniewice,pzn_rknwc,887,great_poland,grtplnd,Great Poland,gp_poznan,30,16.2666666666667,52.1333333333333,"",0
+607,rawicz,pzn_rwcz,888,great_poland,grtplnd,Great Poland,gp_poznan,1200,16.8489957032058,51.6023061570581,"",0
+607,restarzew,pzn_rstrzw,889,great_poland,grtplnd,Great Poland,gp_poznan,80,,,"",0
+607,rogozno,pzn_rgzn,890,great_poland,grtplnd,Great Poland,gp_poznan,640,17.0090273315753,52.7447892976152,"",0
+607,sierakow,pzn_srkw,892,great_poland,grtplnd,Great Poland,gp_poznan,450,16.0686899611559,52.6517564976282,"",0
+607,skwirzyna,pzn_skwrzyn,893,great_poland,grtplnd,Great Poland,gp_poznan,1000,15.5,52.6,"",0
+607,steszew,pzn_stszw,894,great_poland,grtplnd,Great Poland,gp_poznan,120,16.7,52.2833333333333,"",0
+607,szamotuly,pzn_szmtly,895,great_poland,grtplnd,Great Poland,gp_poznan,800,16.5789600389842,52.6135917631906,"",0
+607,szlichtyczkow,pzn_szlchtyczkw,896,great_poland,grtplnd,Great Poland,gp_poznan,0,16.2396668080681,51.7102572094422,"",0
+607,szrem,pzn_szrm,897,great_poland,grtplnd,Great Poland,gp_poznan,0,17.0166666666667,52.0833333333333,"",0
+607,totals,pzn_ttls,,great_poland,grtplnd,Great Poland,gp_poznan,23544,,,"",1
+607,trzciel,pzn_trzcl,899,great_poland,grtplnd,Great Poland,gp_poznan,500,15.8663393641309,52.3619313442304,"",0
+607,tuczno,pzn_tczn,900,great_poland,grtplnd,Great Poland,gp_poznan,600,16.1677759880048,53.2032132917295,"",0
+607,walcz,pzn_wlcz,901,great_poland,grtplnd,Great Poland,gp_poznan,860,16.4662960835582,53.2729364219463,"",0
+607,wielen,pzn_wln,902,great_poland,grtplnd,Great Poland,gp_poznan,400,16.1683085098533,52.8896346477441,"",0
+607,wolsztyn,pzn_wlsztyn,903,great_poland,grtplnd,Great Poland,gp_poznan,550,16.1232350725055,52.1125768917393,"",0
+607,wronki,pzn_wrnk,904,great_poland,grtplnd,Great Poland,gp_poznan,1300,16.395178660655,52.7102352039637,"",0
+607,wschowa,pzn_wschw,905,great_poland,grtplnd,Great Poland,gp_poznan,400,16.3107996444516,51.8110018325274,"",0
+607,zbaszyn,pzn_zbszyn,906,great_poland,grtplnd,Great Poland,gp_poznan,100,15.9074639216155,52.2584554477666,"",0
+607,lagowice,pzn_lgwc,907,great_poland,grtplnd,Great Poland,gp_poznan,100,,,"",0
+607,leszno,pzn_lszn,908,great_poland,grtplnd,Great Poland,gp_poznan,4430,16.5803501510703,51.8319693916415,"",0
+608,gabin,raw_gbn,909,great_poland,grtplnd,Great Poland,gp_rawa,380,19.7463604130323,52.4015965961398,"",0
+608,glowno,raw_glwn,912,great_poland,grtplnd,Great Poland,gp_rawa,0,19.7294985917311,51.9562852954767,"",0
+608,grand_totals_for_great_poland,raw_grnd_ttls_fr_grt_plnd,,great_poland,grtplnd,Great Poland,gp_rawa,69696,,,"",1
+608,gostynin,raw_gstynn,913,great_poland,grtplnd,Great Poland,gp_rawa,350,19.4698938969765,52.4204964592252,"",0
+608,jakubek_in_kutno,raw_jkbk_n_ktn,915,great_poland,grtplnd,Great Poland,gp_rawa,300,19.36666667,52.23333333,"",0
+608,kutno,raw_ktn,916,great_poland,grtplnd,Great Poland,gp_rawa,700,19.365384861164,52.2343616582197,"",0
+608,rawa,raw_rw,918,great_poland,grtplnd,Great Poland,gp_rawa,0,20.5167,51.9833,Mszczonow,0
+608,sochaczew,raw_schczw,919,great_poland,grtplnd,Great Poland,gp_rawa,1100,20.2583077456788,52.2296990080455,"",0
+608,totals,raw_ttls,,great_poland,grtplnd,Great Poland,gp_rawa,3330,,,"",1
+608,zychlin,raw_zychln,920,great_poland,grtplnd,Great Poland,gp_rawa,200,19.6333333333333,52.25,"",0
+701,bedzin,krk_bdzn,921,little_poland,lttlplnd,Little Poland,lp_krakow,771,19.15,50.3166666666667,"",0
+701,bobow,krk_bbw,922,little_poland,lttlplnd,Little Poland,lp_krakow,510,20.95,49.7166666666667,"",0
+701,brzesko,krk_brzsk,923,little_poland,lttlplnd,Little Poland,lp_krakow,400,20.61666667,49.96666667,"",0
+701,czestochowa,krk_czstchw,924,little_poland,lttlplnd,Little Poland,lp_krakow,220,19.11666667,50.8,"",0
+701,dukla,krk_dkl,925,little_poland,lttlplnd,Little Poland,lp_krakow,1072,21.6860257240549,49.554219626069,"",0
+701,dzialoszyce,krk_dzlszyc,926,little_poland,lttlplnd,Little Poland,lp_krakow,1513,20.3518672181044,50.364328748119,"",0
+701,jaslo,krk_jsl,928,little_poland,lttlplnd,Little Poland,lp_krakow,200,21.46666667,49.75,"",0
+701,kromolow,krk_krmlw,929,little_poland,lttlplnd,Little Poland,lp_krakow,200,19.51666667,50.48333333,"",0
+701,ksiaz,krk_ksz,930,little_poland,lttlplnd,Little Poland,lp_krakow,300,20.1333333333333,50.45,"",0
+701,kuznice,krk_kznc,931,little_poland,lttlplnd,Little Poland,lp_krakow,0,19.9833333333333,49.2666666666667,"",0
+701,makow_podhalanski,krk_mkw_pdhlnsk,932,little_poland,lttlplnd,Little Poland,lp_krakow,1100,19.68333333,49.73333333,"",0
+701,nowy_sacz,krk_nwy_scz,933,little_poland,lttlplnd,Little Poland,lp_krakow,2000,20.690447443607,49.6277523000376,"",0
+701,nowy_targ,krk_nwy_trg,934,little_poland,lttlplnd,Little Poland,lp_krakow,200,20.03333333,49.48333333,"",0
+701,oksza,krk_oksz,935,little_poland,lttlplnd,Little Poland,lp_krakow,50,20.1,50.7333333333333,"",0
+701,olkusz,krk_lksz,936,little_poland,lttlplnd,Little Poland,lp_krakow,1412,19.5610273003353,50.2799178617954,"",0
+701,pilca,krk_plc,938,little_poland,lttlplnd,Little Poland,lp_krakow,900,19.6566666666667,50.4663888888889,"",0
+701,szczekociny,krk_szczkcny,940,little_poland,lttlplnd,Little Poland,lp_krakow,1000,19.81769531201,50.6267904556694,"",0
+701,wisnicz,krk_wsncz,941,little_poland,lttlplnd,Little Poland,lp_krakow,2500,20.4666666666667,49.9166666666667,"",0
+701,wolbrom,krk_wlbrm,942,little_poland,lttlplnd,Little Poland,lp_krakow,132,19.7575177310378,50.386130638554,"",0
+701,zarnowiec,krk_zrnwc,943,little_poland,lttlplnd,Little Poland,lp_krakow,500,19.8645519257054,50.4862766813287,"",0
+701,lelow,krk_llw,947,little_poland,lttlplnd,Little Poland,lp_krakow,0,19.623860080642,50.6823363132487,"",0
+701,wodzislaw,krk_wdzslw,949,little_poland,lttlplnd,Little Poland,lp_krakow,2360,20.1890120637673,50.5216186745448,"",0
+701,zarki,krk_zrk,950,little_poland,lttlplnd,Little Poland,lp_krakow,2410,19.3646385512403,50.6267316409447,"",0
+701,chrzanow,krk_chrznw,951,little_poland,lttlplnd,Little Poland,lp_krakow,725,19.4073151859327,50.1428386339043,"",0
+701,janow,krk_jnw,952,little_poland,lttlplnd,Little Poland,lp_krakow,1300,19.4361111111111,50.7219444444445,"",0
+701,oswiecim,krk_swcm,953,little_poland,lttlplnd,Little Poland,lp_krakow,212,19.2199817805724,50.0389134002222,"",0
+701,totals,krk_ttls,,little_poland,lttlplnd,Little Poland,lp_krakow,26118,,,"",1
+701,zator,krk_ztr,954,little_poland,lttlplnd,Little Poland,lp_krakow,150,19.4366407309876,49.9963072727383,"",0
+701,zmigrod,krk_zmgrd,955,little_poland,lttlplnd,Little Poland,lp_krakow,350,21.5333333333333,49.6,"",0
+701,zywiec,krk_zywc,956,little_poland,lttlplnd,Little Poland,lp_krakow,99,19.21666667,49.68333333,"",0
+702,bukowsko,raw_bkwsk,957,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,100,,,"",0
+702,dzialoszyn,sier_dzlszyn,958,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2585,18.8666666666667,51.1166666666667,"",0
+702,koniecpol,sier_kncpl,960,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2415,19.5,51.21666667,"",0
+702,nowotaniec,raw_nwtnc,961,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,254,22.0333333333333,49.5,"",0
+702,rymanow,raw_rymnw,962,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2350,21.86666667,49.58333333,"",0
+702,rymanow_totals,maz_rymnw_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,2806,,,"",1
+702,sochaczew,raw_schczw,963,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,0,20.2583077456788,52.2296990080455,"",0
+702,kaminsk_totals,maz_kmnsk_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,5772,,,"",1
+702,koniecpol_totals,maz_kncpl_ttls,,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,0,,,"",1
+702,jacmierz,raw_jcmrz,964,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,102,,,"",0
+702,praszka,maz_prszk,965,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,400,18.46666667,51.05,"",0
+702,warsaw,raw_wrsw,966,little_poland,lttlplnd,Little Poland,lp_maz_and_raw,180,20.6667,52.3333,Wiersze,0
+703,baranow,snd_brnw,967,little_poland,lttlplnd,Little Poland,lp_snd,0,21.5414977540724,50.5004085132082,"",0
+703,bogoria,snd_bgr,968,little_poland,lttlplnd,Little Poland,lp_snd,0,21.26666667,50.66666667,"",0
+703,checiny,snd_chcny,969,little_poland,lttlplnd,Little Poland,lp_snd,0,20.45,50.73333333,"",0
+703,dabrow,snd_dbrw,970,little_poland,lttlplnd,Little Poland,lp_snd,0,,,"",0
+703,dzikow,snd_dzkw,971,little_poland,lttlplnd,Little Poland,lp_snd,0,21.6735694930518,50.5736530266283,"",0
+703,gielniow,snd_glnw,972,little_poland,lttlplnd,Little Poland,lp_snd,0,20.48333333,51.4,"",0
+703,gowarczow,snd_gwrczw,973,little_poland,lttlplnd,Little Poland,lp_snd,0,20.43333333,51.28333333,"",0
+703,grand_total,snd_grnd_ttl,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,"",1
+703,grand_totals,snd_grnd_ttls,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,"",1
+703,iwaniska,snd_wnsk,974,little_poland,lttlplnd,Little Poland,lp_snd,0,21.2763787491002,50.7322616547403,"",0
+703,janikow,snd_jnkw,975,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7,50.8666666666667,"",0
+703,klimontow,snd_klmntw,976,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4518960157239,50.6559576484049,"",0
+703,kolbuszowa,snd_klbszw,977,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7761474438178,50.243292222219,"",0
+703,konskie,snd_knsk,978,little_poland,lttlplnd,Little Poland,lp_snd,0,20.41666667,51.2,"",0
+703,malopolski_staszow,snd_mlplsk_stszw,979,little_poland,lttlplnd,Little Poland,lp_snd,0,21.16666667,50.55,"",0
+703,mielec,snd_mlc,980,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4209311197436,50.2873986608467,"",0
+703,olesnica,snd_lsnc,981,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0633957334977,50.4498570958185,"",0
+703,opatow,snd_ptw,982,little_poland,lttlplnd,Little Poland,lp_snd,0,21.422655309602,50.8001856707047,"",0
+703,ostrowiec,snd_strwc,983,little_poland,lttlplnd,Little Poland,lp_snd,0,21.3856395114783,50.9393127567377,"",0
+703,pacanow,snd_pcnw,984,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0391764821201,50.4006078212925,"",0
+703,pierzchnica,snd_przchnc,985,little_poland,lttlplnd,Little Poland,lp_snd,0,20.75,50.7,"",0
+703,pinczow,snd_pnczw,986,little_poland,lttlplnd,Little Poland,lp_snd,0,20.5264118280355,50.5189216953248,"",0
+703,prysucha,snd_prysch,987,little_poland,lttlplnd,Little Poland,lp_snd,0,20.6333333333333,51.3666666666667,"",0
+703,przeclaw,snd_przclw,988,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4792277026127,50.1938329236188,"",0
+703,przedborz,snd_przdbrz,989,little_poland,lttlplnd,Little Poland,lp_snd,0,19.8902752076779,51.0871861107212,"",0
+703,rakow,snd_rkw,990,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0426018622044,50.6734751113508,"",0
+703,rzochow,snd_rzchw,991,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4908336710324,50.2408876975438,"",0
+703,sandomierz,snd_sndmrz,992,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7482642326869,50.6802248969709,"",0
+703,sienno,snd_snn,993,little_poland,lttlplnd,Little Poland,lp_snd,0,21.4709941275857,51.0850678440196,"",0
+703,sokolow,snd_sklw,994,little_poland,lttlplnd,Little Poland,lp_snd,0,22.1166666666667,50.2333333333333,"",0
+703,stopnica,snd_stpnc,995,little_poland,lttlplnd,Little Poland,lp_snd,0,20.9436859366947,50.4395537829802,"",0
+703,szydlow,snd_szydlw,996,little_poland,lttlplnd,Little Poland,lp_snd,0,21.0009831469214,50.5925936931935,"",0
+703,tarnow,snd_trnw,997,little_poland,lttlplnd,Little Poland,lp_snd,0,20.9896751202111,50.0133282941541,"",0
+703,tarlow,snd_trlw,998,little_poland,lttlplnd,Little Poland,lp_snd,0,21.7132390454284,51.0009790136628,"",0
+703,totals,snd_ttls,,little_poland,lttlplnd,Little Poland,lp_snd,0,,,"",1
+703,wislica,snd_wslc,999,little_poland,lttlplnd,Little Poland,lp_snd,0,20.6725883063707,50.3503113545614,"",0
+703,wloszczowa,snd_wlszczw,1000,little_poland,lttlplnd,Little Poland,lp_snd,0,19.9698713046743,50.8512954703839,"",0
+703,zawichost,snd_zwchst,1001,little_poland,lttlplnd,Little Poland,lp_snd,0,21.85,50.8,"",0
+703,rudnik,snd_rdnk,1002,little_poland,lttlplnd,Little Poland,lp_snd,0,22.2505163652582,50.4431765463099,"",0
+703,zarnow,snd_zrnw,1003,little_poland,lttlplnd,Little Poland,lp_snd,0,20.18333333,51.25,"",0
+703,opoczno,snd_pczn,1004,little_poland,lttlplnd,Little Poland,lp_snd,0,20.3017065123084,51.3797836032394,"",0
+703,chmielnik,snd_chmlnk,1005,little_poland,lttlplnd,Little Poland,lp_snd,0,20.751816260778,50.6157205294638,"",0
+703,drzewica,snd_drzwc,1006,little_poland,lttlplnd,Little Poland,lp_snd,0,20.4945643911962,51.4539240908487,"",0
+703,kurozweki,snd_krzwk,1007,little_poland,lttlplnd,Little Poland,lp_snd,0,21.1025098018942,50.5902310768377,"",0
+703,ozarow,snd_zrw,1008,little_poland,lttlplnd,Little Poland,lp_snd,0,21.6668804063832,50.8882330453796,"",0
+703,nowemiasto,snd_nwmst,1009,little_poland,lttlplnd,Little Poland,lp_snd,0,20.5833333333333,51.6166666666667,"",0
+703,polaniec,snd_plnc,1010,little_poland,lttlplnd,Little Poland,lp_snd,0,21.2820452919938,50.4318926873371,"",0
+703,sobkow,snd_sbkw,1011,little_poland,lttlplnd,Little Poland,lp_snd,0,20.4506221751522,50.6993455566878,"",0
+703,secemin,snd_scmn,1012,little_poland,lttlplnd,Little Poland,lp_snd,0,19.8376232208363,50.7651792255722,"",0
+703,zabno,snd_zbn,1013,little_poland,lttlplnd,Little Poland,lp_snd,0,20.8876863388886,50.135262413324,"",0
+801,baranow,lbl_brnw,1014,lublin,lbln,Lublin,lbl,300,22.15,51.56666667,"",0
+801,biskupce,lbl_bskpc,1015,lublin,lbln,Lublin,lbl,50,,,"",0
+801,czemierniki,lbl_czmrnk,1016,lublin,lbln,Lublin,lbl,618,22.6397032809995,51.6669431418605,"",0
+801,glusk,lbl_glsk,1017,lublin,lbln,Lublin,lbl,0,22.6028678366868,51.1868019407681,"",0
+801,kazimierz,lbl_kzmrz,1018,lublin,lbln,Lublin,lbl,1000,21.95,51.31666667,"",0
+801,kurow,lbl_krw,1019,lublin,lbln,Lublin,lbl,1400,22.1954279453548,51.3963120125894,"",0
+801,krasnik,lbl_krsnk,1020,lublin,lbln,Lublin,lbl,400,22.2252944668201,50.910897387666,"",0
+801,lubartow,lbl_lbrtw,1021,lublin,lbln,Lublin,lbl,1172,22.6124826296956,51.4655024177109,"",0
+801,mnichow,lbl_mnchw,1022,lublin,lbln,Lublin,lbl,48,,,"",0
+801,opole,lbl_pl,1023,lublin,lbln,Lublin,lbl,200,21.9797940570869,51.1533763334861,"",0
+801,ostrow_lubelski,lbl_strw_lblsk,1024,lublin,lbln,Lublin,lbl,450,22.8662968093382,51.4943450664417,"",0
+801,piaski,lbl_psk,1025,lublin,lbln,Lublin,lbl,630,22.8564062823966,51.1378969158341,"",0
+801,rachow,lbl_rchw,1026,lublin,lbln,Lublin,lbl,220,21.8618682913268,50.8851683518799,"",0
+801,radzyn,lbl_rdzyn,1027,lublin,lbln,Lublin,lbl,1545,22.6072296843265,51.7838108039918,"",0
+801,zbuczyn,lbl_zbczyn,1030,lublin,lbln,Lublin,lbl,300,22.43333333,52.08333333,"",0
+801,bychawa,lbl_bychw,1031,lublin,lbln,Lublin,lbl,350,22.5488080426717,51.0065193132922,"",0
+801,kock,lbl_kck,1032,lublin,lbln,Lublin,lbl,825,22.4528371899905,51.6303175552428,"",0
+801,cape_between_san,lbl_cp_btwn_sn,1033,lublin,lbln,Lublin,lbl,0,,,"",0
+801,leczna,lbl_lczn,1034,lublin,lbln,Lublin,lbl,660,22.8943731304794,51.2952404274906,"",0
+801,lukow,lbl_lkw,1035,lublin,lbln,Lublin,lbl,1333,22.3868230230026,51.9345666091139,"",0
+801,kamionka,lbl_kmnk,1036,lublin,lbln,Lublin,lbl,240,,,"",0
+801,belzyce,lbl_blzyc,1037,lublin,lbln,Lublin,lbl,142,22.291677484443,51.1745099434198,"",0
+801,grodek,lbl_grdk,1039,lublin,lbln,Lublin,lbl,70,22.8,51.5833333333333,"",0
+801,parczew,lbl_prczw,1042,lublin,lbln,Lublin,lbl,250,22.8964602329782,51.6399317717861,"",0
+801,radomysl,lbl_rdmysl,1043,lublin,lbln,Lublin,lbl,120,21.95,50.6833333333333,"",0
+801,seroczyn,lbl_srczyn,1044,lublin,lbln,Lublin,lbl,150,21.9166666666667,52.0166666666667,"",0
+801,siedlce,lbl_sdlc,1045,lublin,lbln,Lublin,lbl,300,22.2915347053797,52.1663468513515,"",0
+801,wawelnica,lbl_wwlnc,1046,lublin,lbln,Lublin,lbl,36,22.15,51.3,"",0
+801,zaklikow,lbl_zklkw,1047,lublin,lbln,Lublin,lbl,450,22.1003542190583,50.757270668121,"",0
+801,totals,lbl_ttls,,lublin,lbln,Lublin,lbl,14237,,,"",1
+802,biala,raw_bl,1048,lublin,lbln,Lublin,lbl_maz_and_raw,60,20.4773922660233,51.8021499658723,"",0
+802,drwalew,maz_drwlw,1049,lublin,lbln,Lublin,lbl_maz_and_raw,40,19.0666666666667,51.9666666666667,"",0
+802,garwolin,maz_grwln,1050,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.63333333,51.9,"",0
+802,grojec,maz_grjc,1051,lublin,lbln,Lublin,lbl_maz_and_raw,54,20.86666667,51.86666667,"",0
+802,glowno,raw_glwn,1052,lublin,lbln,Lublin,lbl_maz_and_raw,100,19.7294985917311,51.9562852954767,"",0
+802,goszczyn,maz_gszczyn,1053,lublin,lbln,Lublin,lbl_maz_and_raw,50,20.85,51.73333333,"",0
+802,kobylnica,maz_kbylnc,1054,lublin,lbln,Lublin,lbl_maz_and_raw,99,21.5666666666667,51.65,"",0
+802,kolbiel,maz_klbl,1055,lublin,lbln,Lublin,lbl_maz_and_raw,100,21.48333333,52.06666667,"",0
+802,latowicz,maz_ltwcz,1056,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.8,52.0333333333333,"",0
+802,maciejowice,maz_mcjwc,1057,lublin,lbln,Lublin,lbl_maz_and_raw,40,21.55,51.7,"",0
+802,magnuszew,maz_mgnszw,1058,lublin,lbln,Lublin,lbl_maz_and_raw,200,21.4,51.76666667,"",0
+802,minsk_mazowiecki,maz_mnsk_mzwck,1059,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.56666667,52.18333333,"",0
+802,nowemiasto_on_pilica,raw_nwmst_n_plc,1060,lublin,lbln,Lublin,lbl_maz_and_raw,890,20.58333333,51.63333333,"",0
+802,osieck,maz_sck,1061,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.41666667,51.96666667,"",0
+802,ozarow_mazowiecki,maz_zrw_mzwck,1062,lublin,lbln,Lublin,lbl_maz_and_raw,100,20.85,52.2333333333333,"",0
+802,piaseczno,maz_psczn,1063,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.03333333,52.08333333,"",0
+802,przebyszew,maz_przbyszw,1064,lublin,lbln,Lublin,lbl_maz_and_raw,100,20.85,51.6666666666667,"",0
+802,rawa,raw_rw,1065,lublin,lbln,Lublin,lbl_maz_and_raw,60,20.2549,51.7644,Rawa Mazowiecka,0
+802,roza,maz_rz,1066,lublin,lbln,Lublin,lbl_maz_and_raw,30,19.3,51.6,"",0
+802,sobikow,maz_sbkw,1067,lublin,lbln,Lublin,lbl_maz_and_raw,100,21.15,51.9666666666667,"",0
+802,stara_rawa,raw_str_rw,1068,lublin,lbln,Lublin,lbl_maz_and_raw,40,20.2833333333333,51.8833333333333,"",0
+802,warka,maz_wrk,1069,lublin,lbln,Lublin,lbl_maz_and_raw,80,21.2,51.78333333,"",0
+802,warsaw,maz_wrsw,1070,lublin,lbln,Lublin,lbl_maz_and_raw,0,21,52.25,"",0
+802,totals_biala,NA_ttls_bl,,lublin,lbln,Lublin,lbl_maz_and_raw,1510,,,"",1
+802,laskarzew,maz_lskrzw,1071,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.6,51.7833333333333,"",0
+802,totals_drwalew,NA_ttls_drwlw,,lublin,lbln,Lublin,lbl_maz_and_raw,1403,,,"",1
+802,letow,maz_ltw,1072,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.7166666666667,51.9166666666667,"",0
+802,parysow,maz_prysw,1073,lublin,lbln,Lublin,lbl_maz_and_raw,50,21.68333333,51.96666667,"",0
+802,maciejowice,maz_mcjwc,1057,lublin,lbln,Lublin,lbl_maz_and_raw,0,21.55,51.7,"",0
+803,adamow,snd_dmw,1076,lublin,lbln,Lublin,lbl_snd,30,22.26666667,51.73333333,"",0
+803,bialobrzegi,snd_blbrzg,1077,lublin,lbln,Lublin,lbl_snd,100,20.95,51.65,"",0
+803,bobrowniki,snd_bbrwnk,1078,lublin,lbln,Lublin,lbl_snd,258,21.9360311567662,51.5500981138661,"",0
+803,ciepelow,snd_cplw,1079,lublin,lbln,Lublin,lbl_snd,70,21.5666666666667,51.25,"",0
+803,grand_totals,snd_grnd_ttls,,lublin,lbln,Lublin,lbl_snd,27185,,,"",1
+803,granica,snd_grnc,1080,lublin,lbln,Lublin,lbl_snd,291,21.82455180056,51.4686331015864,"",0
+803,glowaczow,snd_glwczw,1081,lublin,lbln,Lublin,lbl_snd,40,21.3166666666667,51.6166666666667,"",0
+803,gniewoszow,snd_gnwszw,1082,lublin,lbln,Lublin,lbl_snd,473,21.8044863747558,51.4749465140026,"",0
+803,janowiec,snd_jnwc,1083,lublin,lbln,Lublin,lbl_snd,700,21.8961413933183,51.3228180845571,"",0
+803,kazanow,snd_kznw,1084,lublin,lbln,Lublin,lbl_snd,150,21.46666667,51.28333333,"",0
+803,klwow,snd_klww,1085,lublin,lbln,Lublin,lbl_snd,100,20.6508370180592,51.5302196804942,"",0
+803,korytnica,snd_krytnc,1086,lublin,lbln,Lublin,lbl_snd,0,20.5166666666667,50.6666666666667,"",0
+803,kozienice,snd_kznc,1087,lublin,lbln,Lublin,lbl_snd,1356,21.5579433009543,51.5868273248648,"",0
+803,lipsko,snd_lpsk,1088,lublin,lbln,Lublin,lbl_snd,260,,,"",0
+803,miastkow,snd_mstkw,1089,lublin,lbln,Lublin,lbl_snd,32,21.8333333333333,51.8833333333333,"",0
+803,przysucha,snd_przysch,1090,lublin,lbln,Lublin,lbl_snd,500,20.6391173267673,51.3543741954957,"",0
+803,przytuk,snd_przytk,1091,lublin,lbln,Lublin,lbl_snd,450,20.9044444444444,51.4683333333333,"",0
+803,radom,snd_rdm,1092,lublin,lbln,Lublin,lbl_snd,130,21.1420895371657,51.4010672853102,"",0
+803,ryczywol,snd_ryczywl,1093,lublin,lbln,Lublin,lbl_snd,810,21.4373268428229,51.6845460072119,"",0
+803,ryki,snd_ryk,1094,lublin,lbln,Lublin,lbl_snd,200,21.93333333,51.63333333,"",0
+803,sienno,snd_snn,1095,lublin,lbln,Lublin,lbl_snd,260,21.4709941275857,51.0850678440196,"",0
+803,skaryszew,snd_skryszw,1096,lublin,lbln,Lublin,lbl_snd,50,21.25,51.31666667,"",0
+803,skrzynno,snd_skrzynn,1097,lublin,lbln,Lublin,lbl_snd,40,20.71666667,51.36666667,"",0
+803,solec_on_vistula,snd_slc_n_vstl,1098,lublin,lbln,Lublin,lbl_snd,100,21.76666667,51.13333333,"",0
+803,stezyca,snd_stzyc,1099,lublin,lbln,Lublin,lbl_snd,204,21.78333333,51.58333333,"",0
+803,suchowola,snd_schwl,1100,lublin,lbln,Lublin,lbl_snd,250,20.75,50.6333333333333,"",0
+803,szydlowiec,snd_szydlwc,1101,lublin,lbln,Lublin,lbl_snd,664,20.8598638067476,51.2277101824852,"",0
+803,totals,snd_ttls,,lublin,lbln,Lublin,lbl_snd,10035,,,"",1
+803,wojcieszkow,snd_wjcszkw,1103,lublin,lbln,Lublin,lbl_snd,100,22.3166666666667,51.7666666666667,"",0
+803,zawichost,snd_zwchst,1104,lublin,lbln,Lublin,lbl_snd,0,21.85,50.8,"",0
+803,zwolen,snd_zwln,1105,lublin,lbln,Lublin,lbl_snd,600,21.5753909640079,51.3588170648557,"",0
+803,lysobyki,snd_lysbyk,1106,lublin,lbln,Lublin,lbl_snd,80,22.2873062038145,51.6042218253958,"",0
+803,jedlinsk,snd_jdlnsk,1107,lublin,lbln,Lublin,lbl_snd,50,21.11666667,51.51666667,"",0
+803,zelechow,snd_zlchw,1108,lublin,lbln,Lublin,lbl_snd,996,21.9008132375521,51.8057849041063,"",0
+803,odrzywol,snd_drzywl,1109,lublin,lbln,Lublin,lbl_snd,30,20.55,51.53333333,"",0
+900,bilgoray,lbl_blgry,1110,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,904,22.7333333333333,50.5333333333333,"",0
+900,frannopol,lbl_frnnpl,1111,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,100,24.2833333333333,50.7333333333333,"",0
+900,goray,lbl_gry,1112,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,450,22.65,50.7166666666667,"",0
+900,krasnobrod,rus_krsnbrd,1113,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,370,23.2166666666667,50.55,"",0
+900,pilaszkowiec,lbl_plszkwc,1114,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,,,"",0
+900,rozwadow,snd_rzwdw,1115,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,250,22.0452193378143,50.5914562600578,"",0
+900,tarnogrod,snd_trngrd,1116,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,1500,22.75,50.36666667,"",0
+900,totals,NA_ttls,,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,11684,,,"",1
+900,turobin,rus_trbn,1117,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,1000,22.7508986934139,50.8236251878812,"",0
+900,wysokie,lbl_wysk,1118,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,200,22.66666667,50.91666667,"",0
+900,zamosc,rus_zmsc,1119,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,3000,23.2542579851682,50.7180934056805,"",0
+900,gorzkow,lbl_grzkw,1120,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,23.0166666666667,50.95,"",0
+900,laszczow,blz_lszczw,1121,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,300,23.7107938798568,50.5240292467359,"",0
+900,ulanow,snd_lnw,1122,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,857,22.2650551544938,50.4902165091471,"",0
+900,ekonomia,snd_knm,1123,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,623,,,"",0
+900,modliborzyce,lbl_mdlbrzyc,1124,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,500,22.3306422283973,50.7545039338917,"",0
+900,tomaszow,lbl_tmszw,1125,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,55,,,"",0
+900,szczebreszyn,rus_szczbrszyn,1126,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,900,22.9833333333333,50.7,"",0
+900,zolkiewka,rus_zlkwk,1127,ordynacja_zamoyska,rdyncjzmysk,Lublin,ordzam,70,22.8434483253943,50.9052899799149,"",0

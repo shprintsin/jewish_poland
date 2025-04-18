@@ -1,5 +1,6 @@
 # %% 
 # convert the data to long format
+
 assign_index  %>% group_by(table)  %>% filter(duplicated(index))  %>% select(name)
 result=assign_index   %>% select(
     name,table,community,community_code,
@@ -20,6 +21,8 @@ villages =result %>% filter(!is.na(value))  %>% filter(village==1)   %>% select(
 near=result  %>% filter(!is.na(value))  %>% filter(near+suburb==1)  %>% select(year,near_value=value,table,index)
 towns=result  %>% filter(!is.na(value))  %>% filter(village+near+suburb==0,year!='poll')   %>% select(-village,-suburb,-near,-type)
 
+kalik_geomatry=fread('kalik_geometry.csv')
+res=fread('full_result.csv')
 # then, merge all to one long table
 
 res=towns  %>% 
@@ -30,39 +33,93 @@ res=res  %>% mutate(
     TRUE~year
     )
 )
-res
-
+# res %>% fwrite('full_result.csv')
 # %% merge with geospatial coordinated data
-df_geom=df_geom  %>% select(table,index,geometry)
-final=res  %>%
- left_join(df_geom,c('table','index'))  %>% data.table()
+# res %>% select(table,index,name) %>% mutate(table=table %>% as.numeric()) %>% unique() %>% left_join(kalik_geomatry,c('table','index'))   %>% filter(is.na(kalik_id)) %>% select(index,name.x,name.y) %>%filter(!grepl('totals',name.x)) %>%  unique() %>% print(100)
+res %>% left_join(kalik_geomatry,c('table','index'))   %>% filter(is.na(kalik_id)) %>% colnames()
+res %>% left_join(kalik_geomatry,c('table','index'))  %>% select(name=name.x,table,community,community_code,land,table_title,table_abbr,viv_e,index,poll,year,value,villages_value,near_value,kalik_id,newname,lon,lat)  %>% fwrite('result_2.0.csv')
+final=fread('result_2.0.csv') %>% select(-table_title)
+
+
 
 # remove NA and duplicates
-final  %>% colnames()
 
 setnames(final,'poll','potential')
 setnames(final,'viv_e','voivodeship')
 setnafill(cols=c('villages_value','near_value','potential'),fill=0,final) 
 final=final %>% mutate(across(where(is.list), ~ lapply(., function(x) if (is.null(x)) NA else x))) 
-final=final  %>% filter(!grepl('total',name)) 
-final=final  %>% group_by(index,year)  %>% filter(!duplicated(value))
-final=final  %>% left_join(geoname_data,c("index"))  %>% mutate(
-    geometry=ifelse(is.na(table.y),geometry.x,geometry.y)
-)  %>% select(-geometry.x,-geometry.y,-table.y)
-setnames(final,'table.x','table')
-final  %>% fwrite('result_full.csv')
-final  %>% select()
 
-final  %>% select(index,table,index,voivodeship,year,value, community,community_code,land,table_abbr,table_title,
-index,potential,year,value,villages_value,near_value,geometry)  %>% fwrite('full_result.csv')
+final %>% fwrite('result_2.0.csv')
+final=fread('result_2.0.csv') 
+final=final %>% mutate(total=as.numeric(grepl('total|Total|totals',name)|grepl('_ttl',index))) 
+final%>% select(table,index,year,value,villages=villages_value,near=near_value,is_sum=total) %>% fwrite('result_wide_values.csv',bom=TRUE)
+final%>%select(table,name,index,id=kalik_id,community,community_code,land,table_abbr,potential,lon,lat,newname,is_sum=total)  %>% unique()%>% fwrite('KLK_result_wide_properties.csv',bom=TRUE)
+setnames(final,'near_value','near')
+setnames(final,'villages_value','villages')
+final %>% colnames()
 
-final  %>% select(
-    table,index,year,value, geometry,
+towns_clean <- final %>%
+  select(name, table, community, community_code, land, table_abbr,
+         voivodeship, potential, index, year, value, kalik_id,
+         newname, lon, lat)
+
+# Add transformed village rows
+villages_long <- final %>%
+  filter(!is.na(villages)) %>%
+  transmute(
+    name = paste0(name, "_village"),
+    table,
+    community,
+    community_code = paste0(community_code, "_vilg"),
+    land,
+    table_abbr,
+    voivodeship,
     potential,
-    villages_value,near_value,
-    name,
-    voivodeship=voivodeship,land,community,
-    
-    community_code,table_abbr
-)  %>% fwrite('result.csv')
+    index,
+    year,
+    value = villages,
+    kalik_id,
+    newname,
+    lon,
+    lat
+  )
 
+# Add transformed near rows
+near_long <- final %>%
+  filter(!is.na(near)) %>%
+  transmute(
+    name = paste0(name, "_near"),
+    table,
+    community,
+    community_code = paste0(community_code, "_near"),
+    land,
+    table_abbr,
+    voivodeship,
+    potential,
+    index,
+    year,
+    value = near,
+    kalik_id,
+    newname,
+    lon,
+    lat
+  )
+
+#####################
+
+# Combine all rows
+final_long <- bind_rows(towns_clean, villages_long, near_long)
+wide_res <- final_long %>%
+  pivot_wider(
+    id_cols = c(index, table, name, community, community_code, land, table_abbr,
+                voivodeship, potential, kalik_id, newname, lon, lat),
+    names_from = year,
+    values_from = c(value),
+    values_fill = NA,
+    names_sep = "_",
+
+  )
+wide_res  %>% fwrite('result_wide.csv',bom=TRUE)
+
+fread('KLK_result_wide_properties.csv') %>% filter(!is.na(lon),is_sum==0) 
+fread('KLK_result_wide_properties.csv') %>% filter(is_sum==0) 
