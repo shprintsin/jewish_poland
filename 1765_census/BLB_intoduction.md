@@ -1,5 +1,3 @@
-Here is the text with improved formatting, paragraph sorting, and markdown, using *italics* for names and sources:
-
 **List of Jews and Karaites in the Halych Land and the Trembowla and Kolomyia Districts in the year 1765.**
 
 Published by
