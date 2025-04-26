@@ -1,0 +1,39 @@
+﻿
+Powiat krakowski ma kahalów 4
+
+                   I. Kahal kazimierski przy Krakowie.                          
+Miasta i wsie:         Żydzi Żydówki  Miasta i wsie:             Żydzi Żydówki  
+Kazimierz              1648 1809      Łuczanowice                5         4        
+Browar królewski       39   36        Kosmyszow                  5         3        
+Browar starościński    12   9         Konary                     5         2        
+Smoleńsko              12   12        Piaski                     5         1        
+Wygoda                 23   23        Prokocim                   11        7        
+Rzeplin                3    4         Raysko                     5         1        
+Pleszow                2    4         Soboniowice (Sobniowice)   4         3        
+Kossocice              4    3         Gay                        9         9        
+Ochoyno                3    6         Borek                      3         2        
+Łusina                 4    3         Zelczyna                   3         3        
+Brzezie                10   4         Zielonki                   3         2        
+Zabawska karczma       12   12        Raciborsko                 4         5        
+Catkowice (Czatkowice) 6    5         Garlica                    4         4        
+Cianowice              3    2         Jurczyce                   4         3        
+Binczyce (Bieńczyce)   6    4         Janowice                   5         3        
+Kończyce               5    3         Pawlikowice                4         3
+Owczary                4    3         Suma: 34                   1876      2001
+Krzysztoforzyce        1    4         W tem dzieci do i roku     74         93
+                            II. Kahal olkuski.                                  
+Olkusz                 78   84        Łazy                       3    5        
+Trzebinia              28   31        Wierzbanowice (Jerzma-                   
+Krzykawka              4    5         nowice)                    2    5        
+Bolesław               2    3         Oycow                      7    3        
+Płoki                  4    3         Przeginia                  2    1        
+Lgota                  7    6         Czaiowice                  2    4        
+Ostręznica             4    2         Wierzchowie                4    4        
+Zawada                 1    2         Biały Kościoł              2    2        
+Cubrowice (Czubrowice) 3    2         Sułoszowa                  6    6        
+Racławice              2    3         Niszołowice (Niesiułowice) 4    2        
+Żary                   2    1          Golczowice                1    2        
+Dubie                  3    2          Chichło (Chechło)         3    6        
+Radwanowice            3    2         Grabowa                    2    3        
+Pisary                 6    5         Wodomia (Widoma)           4    3        
+Szklary                3    5         Zagroda                    3    4        

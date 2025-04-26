@@ -1,0 +1,981 @@
+| powiat                                                 | Miasta i wsie                                | Żydzi          | Żydówki      |
+----------------------------------------------------------------------------------------------------------------------------------------|
+|Powiat krakowski ma kahalów 4                          |                                              |                                |
+|I. Kahal kazimierski przy Krakowie.                    |                                              |                                |
+|                                                       | Miasta i wsie:                               | Żydzi           |    Żydówki   |
+|                                                       | Kazimierz                                    |  1648           |    1809      |
+|                                                       | Browar królewski                             |  39             |    36        |
+|                                                       | Browar starościński                          |  12             |    9         |
+|                                                       | Smoleńsko                                    |  12             |    12        |
+|                                                       | Wygoda                                       |  23             |    23        |
+|                                                       | Rzeplin                                      |  3              |    4         |
+|                                                       | Pleszow                                      |  2              |    4         |
+|                                                       | Kossocice                                    |  4              |    3         |
+|                                                       | Ochoyno                                      |  3              |    6         |
+|                                                       | Łusina                                       |  4              |    3         |
+|                                                       | Brzezie                                      |  10             |    4         |
+|                                                       | Zabawska karczma                             |  12             |    12        |
+|                                                       | Catkowice (Czatkowice)                       |  6              |    5         |
+|                                                       | Cianowice                                    |  3              |    2         |
+|                                                       | Binczyce (Bieńczyce)                         |  6              |    4         |
+|                                                       | Kończyce                                     |  5              |    3         |
+|                                                       | Owczary                                      |  4              |    3         |
+|                                                       | Krzysztoforzyce                              |  1              |    4         |
+|                                                       | Łuczanowice                                  |  5              |    4         |
+|                                                       | Kosmyszow                                    |  5              |    3         |
+|                                                       | Konary                                       |  5              |    2         |
+|                                                       | Piaski                                       |  5              |    1         |
+|                                                       | Prokocim                                     |  11             |    7         |
+|                                                       | Raysko                                       |  5              |    1         |
+|                                                       | Soboniowice (Sobniowice)                     |  4              |    3         |
+|                                                       | Gay                                          |  9              |    9         |
+|                                                       | Borek                                        |  3              |    2         |
+|                                                       | Zelczyna                                     |  3              |    3         |
+|                                                       | Zielonki                                     |  3              |    2         |
+|                                                       | Raciborsko                                   |  4              |    5         |
+|                                                       | Garlica                                      |  4              |    4         |
+|                                                       | Jurczyce                                     |  4              |    3         |
+|                                                       | Janowice                                     |  5              |    3         |
+|                                                       | Pawlikowice                                  |  4              |    3         |
+|                                                       | Suma: 34                                     |  1876           |    2001      |
+|                                                       | W tem dzieci do i roku                       |  74             |    93        |
+|II. Kahal olkuski.                                     | Olkusz                                       |  78             |    84        |
+|                                                       | Trzebinia                                    |  28             |    31        |
+|                                                       | Krzykawka                                    |  4              |    5         |
+|                                                       | Bolesław                                     |  2              |    3         |
+|                                                       | Płoki                                        |  4              |    3         |
+|                                                       | Lgota                                        |  7              |    6         |
+|                                                       | Ostręznica                                   |  4              |    2         |
+|                                                       | Zawada                                       |  1              |    2         |
+|                                                       | Cubrowice (Czubrowice)                       |  3              |    2         |
+|                                                       | Racławice                                    |  2              |    3         |
+|                                                       | Żary                                         |  2              |    1         |
+|                                                       | Dubie                                        |  3              |    2         |
+|                                                       | Radwanowice                                  |  3              |    2         |
+|                                                       | Pisary                                       |  6              |    5         |
+|                                                       | Szklary                                      |  3              |    5         |
+|                                                       | Łazy                                         |  3              |    5         |
+|                                                       | Wierzbanowice (Jerzma-nowice)                |  2              |    5         |
+|                                                       | Oycow                                        |  7              |    3         |
+|                                                       | Przeginia                                    |  2              |    1         |
+|                                                       | Czaiowice                                    |  2              |    4         |
+|                                                       | Wierzchowie                                  |  4              |    4         |
+|                                                       | Biały Kościoł                                |  2              |    2         |
+|                                                       | Sułoszowa                                    |  6              |    6         |
+|                                                       | Niszołowice (Niesiułowice)                   |  4              |    2         |
+|                                                       | Golczowice                                   |  1              |    2         |
+|                                                       | Chichło (Chechło)                            |  3              |    6         |
+|                                                       | Grabowa                                      |  2              |    3         |
+|                                                       | Wodomia (Widoma)                             |  4              |    3         |
+|                                                       | Zagroda                                      |  3              |    4         |
+|                                                       | #page num:                                   |  #8             |              |
+|                                                       | Przyza grodzie                               |  2              |    5         |
+|                                                       | Łęka                                         |  2              |    2         |
+|                                                       | Przyłęka                                     |  1              |    2         |
+|                                                       | Niegowonice                                  |  5              |    3         |
+|                                                       | Suma: 33                                     |  205            |    218       |
+|                                                       | W tem dzieci do roku                         |  15             |    12        |
+|                                                       | II. Kahal chrzanowski.                       |                 |              |
+|                                                       | Chrzanów                                     |  186            |     164      |
+|                                                       | W tem dzieci do roku                         |  9              |     14       |
+|IV. Kahal będziński.                                   | Będzin                                       |  219            |     227      |
+|                                                       | Modrzeiow                                    |  14             |     11       |
+|                                                       | Niwecka karczma                              |  4              |     5        |
+|                                                       | Zagorze                                      |  4              |     6        |
+|                                                       | Długoszyn                                    |  4              |     7        |
+|                                                       | Szczakowa                                    |  9              |     17       |
+|                                                       | Cieszkowice (Ciężkowice)                     |  14             |     8        |
+|                                                       | Suma: 7                                      |  268            |     281      |
+|                                                       | W tem dzieci do roku                         |  17             |     17       |
+| Powiat proszowski ma kahał 1.|                        |                                              |                 |              |
+| Kahal dzialoszycki.                                   | Działoszyce                                  |  249            |   260        |
+|                                                       | Jakubowice                                   |  4              |   3          |
+|                                                       | Januszowice                                  |  3              |   2          |
+|                                                       | Sodoł                                        |  3              |   6          |
+|                                                       | Michałowice                                  |  3              |   3          |
+|                                                       | Ciuslice                                     |  3              |   1          |
+|                                                       | Batycka karczma                              |  I              |   2          |
+|                                                       | Opatkowice                                   |  5              |   2          |
+|                                                       | Bronocice                                    |  5              |   4          |
+|                                                       | Podgaje                                      |  5              |   4          |
+|                                                       | Drozeiowice                                  |  4              |   3          |
+|                                                       | Sielce                                       |  3              |   4          |
+|                                                       | Zakrzew z karczmą                            |  5              |   3          |
+|                                                       | Kuzki                                        |  5              |   1          |
+|                                                       | Przybenice (Przybynice)                      |  2              |   1          |
+|                                                       | Małoszow                                     |  3              |   2          |
+|                                                       | Łaszow                                       |  3              |   1          |
+|                                                       | Bołoska karczma                              |  3              |   1          |
+|                                                       | Niezwoio wice (Nieswojowice)                 |  4              |   1          |
+|                                                       | Szposzow                                     |  3              |   1          |
+|                                                       | Głubczow (Głupczów)                          |  I              |   1          |
+|                                                       | Słupów                                       |  2              |   4          |
+|                                                       | Burzkow (Buszków)                            |  2              |   1          |
+|                                                       | Izykowice                                    |  2              |   2          |
+|                                                       | Secygniow                                    |  2              |   2          |
+|                                                       | Dziewięcice                                  |  6              |   4          |
+|                                                       | Jastrzębniki z karczmą                       |  7              |   6          |
+|                                                       | Szyszczyce                                   |  4              |   3          |
+|                                                       | Chmielów                                     |  5              |   9          |
+|                                                       | Szczotkowice                                 |  2              |   4          |
+|                                                       | Suma: 30                                     |  347            |   346        |
+|                                                       | W tem dzieci do roku                         |  15             |   27         |
+|Powiat xięski ma kahałów 3.|                                                                          |                 |
+|Miasto Xiąz popisało się w|                                                                           |                 |
+|województwie sendomirskim do miasta Pińczowa.|                                                        |                 |              |
+|I.  Kahal żarnowiecki.                                 | Żarnowiec                                    |  152            |   169        |
+|                                                       | Jelcza                                       |  5              |   2          |
+|                                                       | Trzczyca (Tczyca) z karczmą                  |  5              |   7          |
+|                                                       | Wierzbie                                     |  4              |   3          |
+|                                                       | Szwoycany (Swojczany)                        |  2              |   2          |
+|                                                       | Hlina (Chlina) z karczmą                     |  6              |   5          |
+|                                                       | Przełaia z karczmą                           |  4              |   4          |
+|                                                       | Małoszyce                                    |  3              |   3          |
+|                                                       | Otola                                        |  2              |   2          |
+|                                                       | Suma: 9                                      |  183            |   197        |
+|II. Kahal wodzisławski.                                | Wodzisław                                    |  476            |   524        |
+|                                                       | Nagłowice                                    |  5              |   6          |
+|                                                       | Piołonka (Piełonka)                          |  2              |   2          |
+|                                                       | Krzciencice (Krzcięcice)                     |  6              |   5          |
+|                                                       | Gniewienczyn (Gniewięcin)                    |  1              |   4          |
+|                                                       | Pawłowice                                    |  6              |   3          |
+|                                                       | Czekay                                       |  3              |   4          |
+|                                                       | Woyciechowice                                |  3              |   4          |
+|                                                       | Boleszyce                                    |  4              |   2          |
+|                                                       | Łowinią                                      |  5              |   6          |
+|                                                       | Lubcza                                       |  6              |   6          |
+|                                                       | Wola lubecka                                 |  1              |   1          |
+|                                                       | Przyłęk                                      |  3              |   4          |
+|                                                       | Zielonki                                     |  2              |   1          |
+|                                                       | Mierzawa                                     |  4              |   2          |
+|                                                       | Jaronowice                                   |  2              |   1          |
+|                                                       | Potok                                        |  3              |   8          |
+|                                                       | Trzczeniec                                   |  4              |   5          |
+|                                                       | Przyłęka                                     |  3              |   2          |
+|                                                       | Rakoszyn                                     |  3              |   3          |
+|                                                       | Pękosław                                     |  2              |   3          |
+|                                                       | Kręzoły                                      |  2              |   4          |
+|                                                       | Wierzbica                                    |  2              |   2          |
+|                                                       | Hyca (Chycza)                                |  4              |   3          |
+|                                                       | Brzostki                                     |  2              |   6          |
+|                                                       | Rzeszowek                                    |  1              |   1          |
+|                                                       | Mstyczow                                     |  7              |   5          |
+|                                                       | Zareszyn                                     |  6              |   4          |
+|                                                       | Przezwody                                    |  2              |   3          |
+|                                                       | Wechadłow                                    |  2              |   2          |
+|                                                       | Konary                                       |  2              |   2          |
+|                                                       | Łąntpczyn (Łątczyn)                          |  4              |   3          |
+|                                                       | Warzyn                                       |  5              |   5          |
+|                                                       | Zdanowice                                    |  8              |   5          |
+|                                                       | Oksza                                        |  2              |   4          |
+|                                                       | Slinczyn (Slęcin)                            |  4              |   1          |
+|                                                       | Klimontów                                    |  3              |   7          |
+|                                                       | SІensк0                                      |  8              |   5          |
+|                                                       | Nowa wieś                                    |  1              |   2          |
+|                                                       | Sendziszow                                   |  1              |   1          |
+|                                                       | Kozłow                                       |  2              |   i          |
+|                                                       | Zarogow                                      |  3              |   2          |
+|                                                       | Brzuchania                                   |  2              |   2          |
+|                                                       | Czaple                                       |  2              |   6          |
+|                                                       | Grzegorzowice                                |  11             |   9          |
+|                                                       | Goleszy                                      |  1              |   1          |
+|                                                       | Wysocice                                     |  1              |   2          |
+|                                                       | Luborzyca                                    |  5              |   2          |
+|                                                       | Ulinka mała                                  |  3              |   2          |
+|                                                       | Ulina wielka                                 |  2              |   1          |
+|                                                       | Chobendza (Chobędza)                         |  4              |   3          |
+|                                                       | Buk                                          |  5              |   4          |
+|                                                       | Czarkowka                                    |  2              |   1          |
+|                                                       | Jerzowka (Jeżówka)                           |  2              |   1          |
+|                                                       | Makowa                                       |  2              |   2          |
+|                                                       | Strzebinia                                   |  5              |   3          |
+|                                                       | Karsnica                                     |  2              |   1          |
+|                                                       | Witowice                                     |  4              |   3          |
+|                                                       | Wielkanoc                                    |  4              |   7          |
+|                                                       | Gołcza                                       |  6              |   5          |
+|                                                       | Biskupice                                    |  7              |   4          |
+|                                                       | Cisza                                        |  3              |   2          |
+|                                                       | Sławice                                      |  6              |   2          |
+|                                                       | Troposzow (Tropiszów)                        |  4              |   4          |
+|                                                       | Igołomia                                     |  8              |   6          |
+|                                                       | Sarbia                                       |  5              |   2          |
+|                                                       | Karwin                                       |  1              |   2          |
+|                                                       | Czulice                                      |  2              |   31         |
+|                                                       | Siedliska                                    |  1              |              |
+|                                                       | Birkow                                       |  7              |   8          |
+|                                                       | #page num:                                   |   #10           |              |
+|                                                       | Polikarcice                                  |   1             |   4          |
+|                                                       | Krzeszowice                                  |   6             |   4          |
+|                                                       | Waganowice                                   |   5             |   5          |
+|                                                       | Czechy                                       |   3             |   2          |
+|                                                       | Piotkowice (Piotrkowice)                     |                 |              |
+|                                                       | wielkie                                      |   4             |   2          |
+|                                                       | Nebela (Niebyła)                             |   3             |   2          |
+|                                                       | Piotkowice małe                              |   2             |   4          |
+|                                                       | Lei o wice                                   |   1             |   2          |
+|                                                       | Rzendowice (Rzędowice)                       |   2             |   1          |
+|                                                       | Gniazdowice                                  |   1             |   2          |
+|                                                       | Dalowice                                     |   7             |   2          |
+|                                                       | Opatkowice                                   |   2             |   3          |
+|                                                       | Proszowice                                   |   5             |   3          |
+|                                                       | Szczytniki                                   |   1             |   4          |
+|                                                       | Nadzow                                       |   3             |   6          |
+|                                                       | Sudołek                                      |   2             |   3          |
+|                                                       | Ibramowice                                   |   6             |   2          |
+|                                                       | Pieczonogi                                   |   4             |   5          |
+|                                                       | Gruszo w                                     |   4             |   5          |
+|                                                       | Radzienice                                   |   4             |   3          |
+|                                                       | Łętkowice (Łętkowice)                        |   2             |   1          |
+|                                                       | Obrazowice                                   |   2             |   3          |
+|                                                       | Janko wice                                   |   5             |   4          |
+|                                                       | Dziewięcioły                                 |   6             |   1          |
+|                                                       | Dziemierzyce                                 |   4             |   3          |
+|                                                       | Kalinowiska                                  |   2             |   3          |
+|                                                       | Kalina mała                                  |   3             |   1          |
+|                                                       | Słomniki                                     |   2             |   4          |
+|                                                       | Swięcice                                     |   4             |   2          |
+|                                                       | Janowice                                     |   5             |   2          |
+|                                                       | Siadów                                       |   3             |   3          |
+|                                                       | Wilkowice                                    |   5             |   3          |
+|                                                       | Pieczeniegi (Pieczonogi)                     |   2             |   5          |
+|                                                       | Dzwikały (Zbigały)                           |   5             |   3          |
+|                                                       | Rzemienice                                   |   3             |   4          |
+|                                                       | Dziaduszyce                                  |   3             |   3          |
+|                                                       | Janowiczki                                   |   2             |   1          |
+|                                                       | Klemięcice                                   |   3             |   3          |
+|                                                       | Suma: 108                                    |   849           |   866        |
+|                                                       | W tem dzieci do roku                         |   43            |   34         |
+|III. Kahal wolbromski.                                 | Wolbrom                                      |   154           |   160        |
+|                                                       | Poręba                                       |   3             |   3          |
+|                                                       | Lgota                                        |   1             |   3          |
+|                                                       | Suma: 3                                      |   158           |   166        |
+|                                                       | W tem dzieci do roku                         |   9             |   12         |
+|Powiat lelowski ma kahalów 6.|                         |
+|I. Kahal lelowski.                                     | Lelów                                        |   109           |   122        |
+|                                                       | Pradła                                       |   4             |   5          |
+|                                                       | Szeliszowice                                 |   2             |   3          |
+|                                                       | Biała                                        |   2             |   3          |
+|                                                       | Bodzeiowice (Bodziejowice)                   |   8             |   8          |
+|                                                       | Dąbrówno                                     |   5             |   3          |
+|                                                       | Slizany (Stężany)                            |   1             |   1          |
+|                                                       | Lgota błotna                                 |   2             |   1          |
+|                                                       | Staromieście                                 |   2             |   4          |
+|                                                       | Dzibica                                      |   1             |   1          |
+|                                                       | Drohlin                                      |   3             |   3          |
+|                                                       | Zagorze                                      |   2             |   2          |
+|                                                       | Biała                                        |   3             |   5          |
+|                                                       | Wilków                                       |   3             |   4          |
+|                                                       | Podgaie                                      |   1             |   1          |
+|                                                       | Jerządze                                     |   4             |   6          |
+|                                                       | Olszyny                                      |   4             |   2          |
+|                                                       | Sadowię                                      |   4             |   2          |
+|                                                       | #page num:                                   |   #11           |              |
+|                                                       | Bystrzonowice                                |   2             |   4          |
+|                                                       | Krumołow                                     |   50            |   55         |
+|                                                       | Blanowice                                    |   1             |   2          |
+|                                                       | Rudniki                                      |   4             |   3          |
+|                                                       | Rudniki item                                 |   1             |   2          |
+|                                                       | Nie rada                                     |   1             |   3          |
+|                                                       | Zawierzę                                     |   3             |   2          |
+|                                                       | Zawierki                                     |   3             |   2          |
+|                                                       | Zawierki item                                |   2             |   2          |
+|                                                       | Wysoka                                       |   2             |   2          |
+|                                                       | Wiesiołki                                    |   3             |   2          |
+|                                                       | Głozowka                                     |   2             |   3          |
+|                                                       | Bzów                                         |   3             |   3          |
+|                                                       | Blanowice                                    |   3             |   1          |
+|                                                       | Rudnik                                       |   2             |   2          |
+|                                                       | Kroczyce arendarz                            |  nie stanęli za|               |
+|                                                       | i karczmarz                                  |   klątwą        |              |
+|                                                       | Wygiełzow arendarz                           |                 |              |
+|                                                       | Suma: 33                                     |   242           |  264         |
+|                                                       | W tern dzieci do roku                        |   19            |  19          |
+|II  Kahał nakielski                                    | Nakło z arendami                             |   49            | 52           |
+|III. Kahał janowski                                    | Janów                                        |   146           | 139          |
+|                                                       | Częstochowa                                  |   18            | 17           |
+|                                                       | Wojtostwo tamże                              |   22            | 16           |
+|                                                       | Poczesna                                     |   8             | 8            |
+|                                                       | Borowno                                      |   7             | 5            |
+|                                                       | Nowa wieś                                    |   1             | 3            |
+|                                                       | Osiny                                        |   2             | 2            |
+|                                                       | Własna                                       |   2             | 2            |
+|                                                       | Starcza                                      |   2             | 2            |
+|                                                       | Jamki                                        |   3             | 4            |
+|                                                       | Dzbiow (Dzbów)                               |   6             | 6            |
+|                                                       | Łaziec                                       |   1             | 1            |
+|                                                       | Wrzosowa                                     |   1             | 1            |
+|                                                       | Błeszno                                      |   10            | 4            |
+|                                                       | Bugay                                        |   1             | 3            |
+|                                                       | Szendzow (Sędów)                             |   3             | 1            |
+|                                                       | Brzeziny                                     |   4             | 9            |
+|                                                       | Łyszec (Łysieć)                              |   1             | 2            |
+|                                                       | Rększowice (Reksowicp)                       |   1             | 1            |
+|                                                       | Kuźnica Maryanowa                            |   2             | 1            |
+|                                                       | Ostatni grosz                                |   1             | 2            |
+|                                                       | Kamień                                       |   4             | 3            |
+|                                                       | Wyczyrpy (Wyczerpy)                          |   9             | 3            |
+|                                                       | Rędziny                                      |   10            | 7            |
+|                                                       | W tern dzieci do roku                        |   3             | 1            |
+|                                                       | Rząsany                                      |   11            | 8            |
+|                                                       | Kościelec                                    |   2             | 4            |
+|                                                       | Mykanów                                      |   9             | 8            |
+|                                                       | Radostkow                                    |   2             | 2            |
+|                                                       | Lubenka (Luboienka)                          |   5             | 8            |
+|                                                       | Lubsyna                                      |   5             | 4            |
+|                                                       | Wierzchowisko                                |   2             | 2            |
+|                                                       | Wolka                                        |   1             | 2            |
+|                                                       | Kuzniczka                                    |   3             | 3            |
+|                                                       | Piersnia (Pierszchno)                        |   5             | 3            |
+|                                                       | Libidza                                      |   3             | 4            |
+|                                                       | Kiedrzyn                                     |   3             | 1            |
+|                                                       | Siedlce                                      |   2             | 6            |
+|                                                       | Małusze                                      |   2             | 2            |
+|                                                       | Kobylczyce                                   |   3             | 2            |
+|                                                       | Mokrzesz (Mokrosz)                           |   3             | 1            |
+|                                                       | Żurawie                                      |   6             | 5            |
+|                                                       | Zagorze                                      |   1             | 1            |
+|                                                       | Bukowno                                      |   2             | 1            |
+|                                                       | Skowronow                                    |   1             | 1            |
+|                                                       | Zalesie                                      |   3             | 2            |
+|                                                       | Suma: 45                                     |   33            | 314          |
+|                                                       | W tem dzieci do roku                         |   10            | 20           |
+|                                                                                                      |                 |
+|IV. Kahał pilecki,|                                                                                   |                 |
+|                                                       | Pilca (Pilica)                               |   240           |266           |
+|                                                       | Udorzcz karczma (Uderz)                      |   6             |5             |
+|                                                       | #page num:                                   |   #12           |              |
+|                                                       | Kleszczowa                                   |   3             |3             |
+|                                                       | Siudecz (Siadcza)                            |   7             |3             |
+|                                                       | Solec                                        |   3             |1             |
+|                                                       | Szyk (Szyce)                                 |   5             |4             |
+|                                                       | Sderbow                                      |   3             |1             |
+|                                                       | Siamoszka (Siamoszyce?)                      |   3             |4             |
+|                                                       | Przełubia                                    |   4             |3             |
+|                                                       | Skarżycki karczmarz                          |   3             |4             |
+|                                                       | Kiełkowicki karczmarz                        |   1             |1             |
+|                                                       | Karlin                                       |   3             |3             |
+|                                                       | Podzamecki karczmarz                         |   2             |3             |
+|                                                       | Ogrodzieniec karczmarz                       |   2             |3             |
+|                                                       | Ciengowice                                   |   6             |4             |
+|                                                       | Rokitno                                      |   4             |3             |
+|                                                       | Kwasniow z karczmą                           |   10            |4             |
+|                                                       | Bydlin z karczmą                             |   7             |4             |
+|                                                       | Strzegoski karczmarz                         |   3             |2             |
+|                                                       | Kąpiele                                      |   2             |1             |
+|                                                       | Cieslin                                      |   5             |2             |
+|                                                       | Rodaki                                       |   2             |3             |
+|                                                       | Suma: 22                                     |   324           |327           |
+|                                                       | W tem dzieci do roku                         |   23            |22            |
+|                                                       | V. Kahal szczekocinski.                      |                 |              |
+|                                                       | Szczekociny                                  |   212           |218           |
+|                                                       | Jeziorowice                                  |   4             |6             |
+|                                                       | Tęgoborz                                     |   3             |4             |
+|                                                       | Obichow (Obiechów)                           |   5             |3             |
+|                                                       | Raszków                                      |   3             |1             |
+|                                                       | Siedliska                                    |   3             |2             |
+|                                                       | Grabice                                      |   3             |7             |
+|                                                       | Moskarzow                                    |   5             |3             |
+|                                                       | Lubachowy                                    |   4             |2             |
+|                                                       | Ołudza                                       |   4             |3             |
+|                                                       | Zawada                                       |   4             |5             |
+|                                                       | Dąbrowka                                     |   3             |2             |
+|                                                       | Druzykowa                                    |   3             |2             |
+|                                                       | Wola                                         |   3             |3             |
+|                                                       | Goleniowy                                    |   7             |3             |
+|                                                       | Dąbrowice                                    |   3             |1             |
+|                                                       | Sprowa                                       |   2             |2             |
+|                                                       | Węgrzynów                                    |   2             |4             |
+|                                                       | Zawadka                                      |   3             |4             |
+|                                                       | Suma: 19                                     |   276           |275           |
+|                                                       | W tem dzieci do roku                         |   18            |13            |
+|VI. Kahal zarecki.                                     | Żarki                                        |   398           |416           |
+|                                                       | Mrzygło d                                    |   28            |24            |
+|                                                       | Poręba                                       |   1             |4             |
+|                                                       | Marciszów                                    |   2             |2             |
+|                                                       | Ciszowka                                     |   2             |1             |
+|                                                       | Przybynow                                    |   1             |4             |
+|                                                       | Biskupice                                    |   1             |2             |
+|                                                       | Olsztyn                                      |   13            |14            |
+|                                                       | Włodowice                                    |   7             |4             |
+|                                                       | Niegow                                       |   3             |4             |
+|                                                       | Mirów                                        |   1             |3             |
+|                                                       | Jaworznik                                    |   6             |2             |
+|                                                       | Bobolice                                     |   1             |3             |
+|                                                       | Skrzydlow                                    |   2             |3             |
+|                                                       | Suma: 14                                     |   466           |486           |
+|                                                       | W tem dzieci do roku                         |   37            |22            |
+|                                                       | Xięstwo Zatorskie ma kahal 1.                |                 |              |
+|                                                       | Kahal zatorski.                              |                 |              |
+|                                                       | Zator                                        |  50             |47            |
+|                                                       | W tem dzieci do roku                         |  5              |              |
+|                                                       | #page num:                                   |  #13            |              |
+|                                                                                                     |   |
+|Xięstwo oświęcimskie ma kahał i. Kahał oświęcimski.    | Oświęcim                                     |  68             |65            |
+|                                                       | Skidzin                                      |  4              |5             |
+|                                                       | Willamowice                                  |  2              |5             |
+|                                                       | Hecnarowie (Helcznarowice)                   |  3              |2             |
+|                                                       | Brzeszcze (Brzeście)                         |  2              |7             |
+|                                                       | Jawiszowice                                  |  25             |26            |
+|                                                       | Kaniów                                       |  7              |5             |
+|                                                       | Dankowice                                    |  5              |4             |
+|                                                       | Komoro wice                                  |  22             |16            |
+|                                                       | Bestfina (Bestwina)                          |  11             |8             |
+|                                                       | Stara wieś                                   |  8              |4             |
+|                                                       | Kozy                                         |  2              |1             |
+|                                                       | Nowa wieś                                    |  2              |6             |
+|                                                       | Bulowice                                     |  12             |12            |
+|                                                       | Nidek                                        |  11             |6             |
+|                                                       | Gierałtowice                                 |  1              |5             |
+|                                                       | Witko wice                                   |  6              |3             |
+|                                                       | Włodygowice                                  |  3              |3             |
+|                                                       | Łazy                                         |  2              |2             |
+|                                                       | Brzezinki                                    |  2              |3             |
+|                                                       | Harmęzy                                      |  3              |2             |
+|                                                       | Na Kamieniu pod Oswięcimem                   |  4              |3             |
+|                                                       | Dwory                                        |  15             |15            |
+|                                                       | Moniowice (Monowice)                         |  3              |2             |
+|                                                       | Spytkowice                                   |  8              |3             |
+|                                                       | Tłuczania (Tłuczań)                          |  5              |5             |
+|                                                       | Brzeźnica                                    |  3              |3             |
+|                                                       | Poręba                                       |  10             |8             |
+|                                                       | Latanice                                     |  3              |3             |
+|                                                       | Kobyłowka (Kopytowka)                        |  3              |5             |
+|                                                       | Przytko wice                                 |  4              |4             |
+|                                                       | Wysoka                                       |  9              |2             |
+|                                                       | Lgota                                        |  6              |4             |
+|                                                       | Babica (Babice)                              |  2              |5             |
+|                                                       | Rokow                                        |  2              |3             |
+|                                                       | Klecza                                       |  2              |3             |
+|                                                       | Stanisławie                                  |  5              |7             |
+|                                                       | Barwałt                                      |  5              |3             |
+|                                                       | Sosnowice                                    |  1              |6             |
+|                                                       | Willamowice                                  |  1              |1             |
+|                                                       | Polanka                                      |  2              |3             |
+|                                                       | Radecza (Radocza)                            |  1              |5             |
+|                                                       | Lencze                                       |  1              |1             |
+|                                                       | Zażyczę (Zarzyce)                            |  2              |2             |
+|                                                       | Bielany                                      |  5              |4             |
+|                                                       | Lęki                                         |  6              |4             |
+|                                                       | Biała w starostwie lipnickim                 |  108            |104           |
+|                                                       | Suma: 47                                     |  417            |398           |
+|                                                       | W tem dzieci do roku                         |  21             |20            |
+|                                                                                                      |   |
+|                                                       | #page num:                                   |  #15            |              |
+|                                                       | Grybów gospodarzy 15, głów                   |  155            |              |
+|                                                       | Przychodni z Węgier                          |  2              |              |
+|                                                       | Suma:                                        |  157            |              |
+|                                                       | Młynów sandeckich ar.1)                      |  3              |              |
+|                                                       | Męcina nizna, w b.                           |  6              |              |
+|                                                       | Kloskowice (Kłuszkowice), w b.               |  6              |              |
+|                                                       | Przyszowa wyzna, w b.                        |  8              |              |
+|                                                       | Olszana, w b.                                |  9              |              |
+|                                                       | Stronie, w b.                                |  9              |              |
+|                                                       | Czarny Potok, w b.                           |  8              |              |
+|                                                        Jakobkowice                                   | 8               |              |
+|                                                        Podkrasne, w b.                               | 6               |              |
+|                                                        Komionka, w b.                                | 8               |              |
+|                                                        Siekierczyna górna, w b.                      | 7               |              |
+|                                                        Siekierczyna nizna, w b.                      | 6               |              |
+|                                                        Siekierczyna, w b.                            | 5               |              |
+|                                                        Zbęk, w b.                                    | 5               |              |
+|                                                        Zabełcze, w b.                                | 9               |              |
+|                                                        Polna, w b.                                   | 3               |              |
+|                                                        Struże (Stróże)                               | 4               |              |
+|                                                        Struże (Stróże) w k.                          | 2               |              |
+|                                                        Jada wola (Jadam wola), na z.                 | 4               |              |
+|                                                        Jadawola w ch.                                | 6               |              |
+|                                                        Jadawola, kom.                                | 3               |              |
+|                                                        Jadawola nizna, w b.                          | 5               |              |
+|                                                        Berdychow w b.                                | 6               |              |
+|                                                        Świdnik, w b.                                 | 9               |              |
+|                                                        Mszalnica, w b.                               | 6               |              |
+|                                                        Czorstyn (Czorsztyn), w b. i 2 k.             | 21              |              |
+|                                                        Tylmanowa, w k.                               | 3               |              |
+|                                                        Tylmanowa w b.                                | 9               |              |
+|                                                        Męcina górna, w b.                            | 6               |              |
+|                                                        Szczawnica, w b.                              | 4               |              |
+|                                                        Ropa, w 3 k.                                  | 22              |              |
+|                                                        Nawoiowa, w b. i 2 k.                         | 14              |              |
+|                                                        Chomranice, w b.                              | 6               |              |
+|                                                        Barcice (Barczyce), w k.                      | 9               |              |
+|                                                        Kokoszka, w b.                                | 3               |              |
+|                                                        Sienna, w b.                                  | 5               |              |
+|                                                        Bugay, w k.                                   | 5               |              |
+|                                                        Wielopole, w b.                               | 6               |              |
+|                                                        Rytro                                         | 7               |              |
+|                                                        Marcinkowice, w b.                            | 6               |              |
+|                                                        Krościenko, w b. i k.                         | 8               |              |
+|                                                        Lipica, w k.                                  | 4               |              |
+|                                                        Niecew, w b. i k.                             | 10              |              |
+|                                                        Jasienna                                      | 6               |              |
+|                                                        Jasienna w b.                                 | 7               |              |
+|                                                        Lipnica, w k.                                 | 6               |              |
+|                                                        Brzana, w b.                                  | 8               |              |
+|                                                        Brzana, w b.                                  | 5               |              |
+|                                                        Janczowa, w b.                                | 6               |              |
+|                                                        Łabowa (miasteczko)                           | 6               |              |
+|                                                        Łabowa kom.                                   | 3               |              |
+|                                                        Maciejowa, w k.                               | 4               |              |
+|                                                        Ochotnica, w b.                               | 12              |              |
+|                                                        Zdonia, w b.                                  | 9               |              |
+|                                                        Biesnik, w b.                                 | 7               |              |
+|                                                        Pałecznica, w b.                              | 5               |              |
+|                                                        Olszowa, w b.                                 | 5               |              |
+|                                                        Nowa wieś, w k.                               | 4               |              |
+|                                                        Rostoka                                       | 3               |              |
+|                                                        Kąsna, kom.                                   | 5               |              |
+|                                                        Kąsna,  w k.                                  | 12              |              |
+|                                                        Stara wieś, w b.                              | 3               |              |
+|                                                        Wrono wice, w b.                              | 5               |              |
+|                                                        Wysokie, w b.                                 | 4               |              |
+|                                                        Witowice, w 2 b.                              | 9               |              |
+|                                                        Krozlowa (Kruźlowa), w b.                     | 4               |              |
+|                                                        Rocmirowa (Rozmierowa), w b.                  | 4               |              |
+|                                                        Michalczowa                                   | 4               |              |
+|                                                        Michalczowa w b.                              | 3               |              |
+|                                                        Michalczowa kom.                              | 3               |              |
+|                                                        Trzecierz, w b.                               | 4               |              |
+|                                                        Brzeziny, w b.                                | 4               |              |
+|                                                        Zawada, w b.                                  | 7               |              |
+|                                                        Poręba, w k.                                  | 3               |              |
+|                                                        Ostrusie (Ostruża)                            | 5               |              |
+|                                                        #page num:                                    | #16             |              |
+|                                                        Pisarzowa, w b.                               | 7               |              |
+|                                                        Staszkowka, w b.                              | 7               |              |
+|                                                        Ptaszkowa                                     | 15              |              |
+|                                                        Siedliska, w k.                               | 6               |              |
+|                                                        Osików                                        | 4               |              |
+|                                                        Mystkow                                       | 4               |              |
+|                                                        Białowoda                                     | 5               |              |
+|                                                        Biesna, w k.                                  | 4               |              |
+|                                                        Korzenna, w b.                                | 8               |              |
+|                                                        Zawadka, w b.                                 | 4               |              |
+|                                                        Cieniawa                                      | 3               |              |
+|                                                        Będzieszyna, w b.                             | 3               |              |
+|                                                        Moczarka, w b.                                |                 |              |
+|                                                        Zawrót                                        | 5               |              |
+|                                                        Barcice, kom.                                 | 8               |              |
+|                                                        Załubincze                                    | 5               |              |
+|                                                        Koniuszowa                                    | 5               |              |
+|                                                        Szalowa, w b. i k.                            | 8               |              |
+|                                                        Łyczana                                       | 7               |              |
+|                                                        Jeżowa, w b. І k.                             | 9               |              |
+|                                                        Krasne, szynkarz                              | 4               |              |
+|                                                        Łosie, k.                                     | 7               |              |
+|                                                        Delata Zydow z tej parafii niestawionych się do| popisu z in nymi|, których gło|wy dla nie  wiadomości liczby nie są in  serowane w komput wyżej wyrażonych: Podlasie (Pod 2 las) arendarz; Lipniczka, arendarz; Cietrzewina                                                                                                       
+|                                                        In summa głów w kah. sand.                    1|368              |             |
+|Powiat czchowski i szczyrzycki.                                                                        |                 |             |
+|Kahal wisnicki.                                         Wiśnicz gospodarzy 78: głów                   | 979               |            |
+|Parafia kahalu wisnickiego.                             Brzesko gospodarzy 12                         | 175               |            |
+|                                                        i w browarze                                  | 6                 |            |
+|                                                        Suma:                                         | 181               |            |
+|                                                        Czchów                                        | 7                 |            |
+|                                                        Limanowa                                      | 21                |            |
+|                                                        Niepołomice                                   | 29                |            |
+|                                                        Kai wary a                                    | 19                |            |
+|                                                        Nowy Targ                                     | 9                 |            |
+|                                                        Lipnica                                       | 17                |            |
+|                                                        Szczypanow                                    | 8                 |            |
+|                                                        Mokrzecka (Mokszyska)                         | 16                |            |
+|                                                        Buczę                                         | 9                 |            |
+|                                                        Poręba                                        | 25                |            |
+|                                                        Ląkta górna                                   | 8                 |            |
+|                                                        Bytomska                                      | 8                 |            |
+|                                                        Rzegocina                                     | 6                 |            |
+|                                                        Łąkta dolna                                   | 6                 |            |
+|                                                        Dołuszyce                                     | 9                 |            |
+|                                                        Buczyna                                       | 7                 |            |
+|                                                        Grabie                                        | 7                 |            |
+|                                                        Gierczyce                                     | 4                 |            |
+|                                                        Borowna                                       | 4                 |            |
+|                                                        Zagórzany                                     | 5                 |            |
+|                                                        Kobyle                                        | 4                 |            |
+|                                                        Minkuszowice (Mikłuszowice)                   | 34                |            |
+|                                                        Dziewin                                       | 4                 |            |
+|                                                        Drwięnia (Drwinia)                            | 3                 |            |
+|                                                        Brzezie                                       | 12                |            |
+|                                                        Czarny Dunajec                                | 9                 |            |
+|                                                        Kokotow                                       | 6                 |            |
+|                                                        Koszary                                       | 5                 |            |
+|                                                        Wyzyce                                        | 11                |            |
+|                                                        Wola górna                                    | 6                 |            |
+|                                                        Grotkowice                                    | 12                |            |
+|                                                        #page num:                                    | #17               |            |
+|                                                        Łososina                                      | 9                 |            |
+|                                                        Młynna                                        | 6                 |            |
+|                                                        Okocim                                        | 13                |            |
+|                                                        Sokołow                                       | 11                |            |
+|                                                        Sieracka (Sieradzka)                          | 4                 |            |
+|                                                        Krolowka                                      | 23                |            |
+|                                                        Raybrot                                       | 3                 |            |
+|                                                        Dębno                                         | 12                |            |
+|                                                        Zbigniow (Zbydniów)                           | 8                 |            |
+|                                                        Damienica (Damianice)                         | 4                 |            |
+|                                                        Sawa                                          | 12                |            |
+|                                                        Rozdzielę                                     | 13                |            |
+|                                                        Leszczyna                                     | 8                 |            |
+|                                                        Kierlikowka                                   | 6                 |            |
+|                                                        Pierzchowce (Pierzchowice)                    | 8                 |            |
+|                                                        Jasień                                        | 7                 |            |
+|                                                        Jodłowka                                      | 3                 |            |
+|                                                        Chranow (Chronow)                             | 19                |            |
+|                                                        Łapczyca (Łapczyce)                           | 2                 |            |
+|                                                        Xiąznice                                      | 2                 |            |
+|                                                        Krakoszowice                                  | 5                 |            |
+|                                                        Niegowiec (Nicgowice)                         | 2I                |            |
+|                                                        Zrzęcica (Zręczyce)                           | 3                 |            |
+|                                                        Gosprzydowa                                   | 14                |            |
+|                                                        Podkamien                                     | 10                |            |
+|                                                        Targowisko                                    | 3                 |            |
+|                                                        Łęczkowice                                    | 6                 |            |
+|                                                        Stanislawice (Stanislawce)                    | 3                 |            |
+|                                                        Cichowice                                     | 2                 |            |
+|                                                        Łapanów                                       | 5                 |            |
+|                                                        Zyrosławice                                   | 8                 |            |
+|                                                        Kępanow                                       | 5                 |            |
+|                                                        Kobylec                                       | 10                |            |
+|                                                        Kobylec                                       | 4                 |            |
+|                                                        Mszana                                        | 17                |            |
+|                                                        Kasinka                                       | 6                 |            |
+|                                                        Niedary                                       | 7                 |            |
+|                                                        Zalesie                                       | 4                 |            |
+|                                                        Woiakowa                                      | 13                |            |
+|                                                        Bałaszowka                                    | 2                 |            |
+|                                                        Rybie                                         | 5                 |            |
+|                                                        Hans to w                                     | 7                 |            |
+|                                                        Węglowka                                      | 8                 |            |
+|                                                        Kobylnik                                      | 5                 |            |
+|                                                        Iwkowa (Jurków)                               | 11                |            |
+|                                                        Jurków                                        | 10                |            |
+|                                                        Kąty                                          | 4                 |            |
+|                                                        Burdak                                        | 7                 |            |
+|                                                        Cichawa                                       | 8                 |            |
+|                                                        Struze (Stróże)                               | 5                 |            |
+|                                                        Gruszow                                       | 21                |            |
+|                                                        Tymowa                                        | 10                |            |
+|                                                        Bukownik                                      | 8                 |            |
+|                                                        Komorniki                                     | 6                 |            |
+|                                                        Głuchów                                       | 6                 |            |
+|                                                        Kwapniki                                      | 6                 |            |
+|                                                        Tymbark                                       | 23                |            |
+|                                                        Lewniowa                                      | 2                 |            |
+|                                                        Zawada                                        | 8                 |            |
+|                                                        Japczyce                                      | 5                 |            |
+|                                                        Przybórów                                     | 5                 |            |
+|                                                        Wola                                          | 10                |            |
+|                                                        Stojowice                                     | 4                 |            |
+|                                                        Gorzkow                                       | 6                 |            |
+|                                                        Makicnice                                     | 6                 |            |
+|                                                        Jadowniki                                     | 9                 |            |
+|                                                        Sterkowiec                                    | 8                 |            |
+|                                                        Grądy                                         | 7                 |            |
+|                                                        Sowliny                                       | 4                 |            |
+|                                                        Mordarka                                      | 4                 |            |
+|                                                        Kłay                                          | b                 |            |
+|                                                        Domosławice                                   | 17                |            |
+|                                                        Haszczowice                                   | 6                 |            |
+|                                                        Łukawka                                       | 4                 |            |
+|                                                        Harzowice (Charzewice)                        | 4                 |            |
+|                                                        Gwozciec (Gwoździec)                          | 5                 |            |
+|                                                        Sułów                                         | 8                 |            |
+|                                                        Łopuszna                                      | 6                 |            |
+|                                                        Raba wyzsza                                   | 8                 |            |
+|                                                        Harklowa                                      | 6                 |            |
+|                                                        Dobrociesz                                    | 5                 |            |
+|                                                        Dobra                                         | 24                |            |
+|                                                        Stopnice                                      | 25                |            |
+|                                                        Mierzeń (Mierzyn)                             | 4                  |           |
+|                                                        #page num:                                    | #18                |           |
+|                                                        Gnoynik                                       | 23                 |           |
+|                                                        Bratuszyce (Bratuczyce)                       | 4                  |           |
+|                                                        Horzejowice                                   | 3                   |          |
+|                                                        Uiazd                                         | 4                   |          |
+|                                                        Dobroczyce                                    | 5                   |          |
+|                                                        Pogwizdów                                     | 5                   |          |
+|                                                        Miętniow                                      | 2                   |          |
+|                                                        Rzezawa                                       | 10                  |          |
+|                                                        Wiatowice większe                             | 6                   |          |
+|                                                        Niezawa                                       | 3                   |          |
+|                                                        Zbarczyce (Zborczyca)                         | 3                   |          |
+|                                                        Strzelce wielkie                              | 5                   |          |
+|                                                        Okulice                                       | 7                   |          |
+|                                                        Podwilk (Podwal)                              | 5                   |          |
+|                                                        Sułków                                        | 3                   |          |
+|                                                        Łąki zabawskie                                | 10                  |          |
+|                                                        Tomasz ko wice                                | 4                   |          |
+|                                                        Rawki                                         | 5                   |          |
+|                                                        Nieprzesna                                    | 4                   |          |
+|                                                        Cichawka                                      | 14                  |          |
+|                                                        Biskupice                                     | 5                   |          |
+|                                                        Porąbka                                       | 4                   |          |
+|                                                        Strzemeszna (Trzemeśna)                       | 7                   |          |
+|                                                        Łyczanka                                      | 5                   |          |
+|                                                        Osieczany                                     | 6                   |          |
+|                                                        Sucha Raba                                    | 7                   |          |
+|                                                        Mieszkowice (Niszkowice)                      | 4                   |          |
+|                                                        Nieszkowice                                   | 4                   |          |
+|                                                        Sławkowice                                    | 3                   |          |
+|                                                        Moczarka                                      | 2                   |          |
+|                                                        Zatoki (Zatoka)                               | 7                   |          |
+|                                                        Rzępia                                        | 3                   |          |
+|                                                        Trzciana                                      | 1                   |          |
+|                                                        Chochołow                                     | 5                   |          |
+|                                                        Klikuszowice                                  | 9                   |          |
+|                                                        Zona wygnanego z miasta Szap-                 |                     |          |
+|                                                        siowa z dwojgiem dzieci                       | 3                   |          |
+|                                                        Przybytni z parafii krakowskiej               | 8                   |          |
+|                                                        Delata Zydow z tej parafii nie                |                     |          |
+|                                                        stawionych się do popisu z in-                |                     |          |
+|                                                        nymi, których głowy dla nie-                  |                     |          |
+|                                                        wiaclomości liczby nie są inse-               |                     |          |
+|                                                        rowane w komput wyżej wy-                     |                     |          |
+|                                                        rażonych: Żywiec, pisarz;                     |                     |          |
+|                                                        Sułów, arendarz; Przydkowi-                   |                     |          |
+|                                                        ce, arendarz, który miał się pi-              |                     |          |
+|                                                        sać w Oświęcimie; Ostrzowsk                   |                     |          |
+|                                                        (Ostrzowsko) karczmarz; Be-                   |                     |          |
+|                                                        nedzym, arendarz; Nawsie,                     |                     |          |
+|                                                        arendarz; Raciborsk, aren-                    |                     |          |
+|                                                        darz, który miał się pisać                    |                     |          |
+|                                                        w Krakowie; Cerekiew, aren-                   |                     |          |
+|                                                        darz                                          |                     |          |
+|                                                        In summa w kah. wiśnickim                     | 2385                |          |
+|Powiat biecki.                                                                                        |                |
+|Kahał żmigrodzki.                                       Żmigród gospodarzy 67,                        | 683                 |          |
+|Parafią kahalu żmigrodzkiego.                           Gorlice gospodarzy 33,                        | 164                 |          |
+|                                                        Biecz                                         | 31                  |          |
+|                                                        Dębowiec                                      | 23                  |          |
+|                                                        Wapienna                                      | 4                   |          |
+|                                                        Pąspna                                        | 6                   |          |
+|                                                        Ropica                                        | 13                  |          |
+|                                                        Malistyf (Małastów)                           | 9                   |          |
+|                                                        Sękowa                                        | 11                  |          |
+|                                                        Szary                                         | 11                  |          |
+|                                                        Wołowiec                                      | 6                   |          |
+|                                                        Długie                                        | 6                   |          |
+|                                                        Żarnowce                                      | 6                   |          |
+|                                                        Chlebna                                       | 10                  |          |
+|                                                        Jedlicze                                      | 42                  |          |
+|                                                        #page num:                                    | #19                 |          |
+|                                                        Łąki                                          | 4                   |          |
+|                                                        Toki                                          | 6                   |          |
+|                                                        Gorzyce                                       | 4                   |          |
+|                                                        Jaworze                                       | 3                   |          |
+|                                                        Lubienko                                      | 8                   |          |
+|                                                        Faysłówka                                     | 7                   |          |
+|                                                        Wolica                                        | 6                   |          |
+|                                                        Lipnica                                       | 7                   |          |
+|                                                        Łapiguz                                       | 2                   |          |
+|                                                        Łysogóra                                      | 4                   |          |
+|                                                        Zeglce (Żeglec)                               | 6                   |          |
+|                                                        Podniebyle                                    | 8                   |          |
+|                                                        Cieklin                                       | 10                  |          |
+|                                                        Dzielec                                       | 4                   |          |
+|                                                        Dobrynia                                      | 3                   |          |
+|                                                        Folusz                                        | 4                   |          |
+|                                                        Strusieklęski                                 | 10                  |          |
+|                                                        Brzezowa                                      | 5                   |          |
+|                                                        Czyrmna (Czyrna)                              | 11                  |          |
+|                                                        Jabłonica                                     | 5                   |          |
+|                                                        Bączala (Bon czai)                            | 5                   |          |
+|                                                        Serwoniec                                     | 6                   |          |
+|                                                        Dąbrówka                                      | 4                   |          |
+|                                                        Sowina                                        | 7                   |          |
+|                                                        Biezdziadza                                   | 9                   |          |
+|                                                        Biezdziadka                                   | 4                   |          |
+|                                                        Wygoda, k.                                    | 3                   |          |
+|                                                        Lublica                                       | 4                   |          |
+|                                                        Siekło wka                                    | 22                  |          |
+|                                                        Warzyce                                       | 15                  |          |
+|                                                        Czelusnica                                    | 8                   |          |
+|                                                        Gossowka                                      | 5                   |          |
+|                                                        Sobniow                                       | 7                   |          |
+|                                                        J asło                                        | 8                   |          |
+|                                                        Ułaszowice                                    | 2                   |          |
+|                                                        Niegłowice                                    | 5                   |          |
+|                                                        Brzeście (Brzyście)                           | 4                   |          |
+|                                                        Brzyscie                                      | 5                   |          |
+|                                                        Zułkow (Żołków)                               | 7                   |          |
+|                                                        Swięcany                                      | 24                  |          |
+|                                                        Szyrzyny (Szerzyny)                           | 38                  |          |
+|                                                        Rozembark                                     | 16                  |          |
+|                                                        Rasłowiec (Racławice)                         | 5                   |          |
+|                                                        Sietnica                                      | 7                   |          |
+|                                                        Moszczenica                                   | 11                  |          |
+|                                                        Machnowka                                     | 6                   |          |
+|                                                        Zagórzany                                     | 9                   |          |
+|                                                        Libusza                                       | 11                  |          |
+|                                                        Polna                                         | 6                   |          |
+|                                                        Grudna                                        | 2                   |          |
+|                                                        Siepietnica                                   | 3                   |          |
+|                                                        Harklowa                                      | 6                   |          |
+|                                                        Skołyszyn                                     | 11                  |          |
+|                                                        Kunowa                                        | 5                   |          |
+|                                                        Lisowek                                       | 7                   |          |
+|                                                        Sławęcin                                      | 5                   |          |
+|                                                        Przysieki                                     | 2                   |          |
+|                                                        Siedliska                                     | 5                   |          |
+|                                                        Trzcinica                                     | 7                   |          |
+|                                                        Osobnica                                      | 5                   |          |
+|                                                        Łazy                                          | 4                   |          |
+|                                                        Wola dębowiecka                               | 2                   |          |
+|                                                        Załęże                                        | 6                   |          |
+|                                                        Swierchowa (Świerkowa)                        | 4                   |          |
+|                                                        Osiek                                         | 8                   |          |
+|                                                        Bieniarową                                    | 7                   |          |
+|                                                        Grab                                          | 7                   |          |
+|                                                        Kotan                                         | 6                   |          |
+|                                                        Myszczowa (Myscowa)                           | 7                   |          |
+|                                                        Świątkowa                                     | 9                   |          |
+|                                                        Swirzow (Swierzowa)                           | 2                   |          |
+|                                                        Bartne                                        | 5                   |          |
+|                                                        Dołchym (Dołembki?)                           | 6                   |          |
+|                                                        Rostayna (Rostajne)                           | 7                   |          |
+|                                                        Polany                                        | 10                  |          |
+|                                                        Desnica (Desznica)                            | 2                   |          |
+|                                                        Konty (Kąty)                                  | 3                   |          |
+|                                                        Krywa (Krzywa)                                | 3                   |          |
+|                                                        Banica                                        | 3                   |          |
+|                                                        Krępna                                        | 3                   |          |
+|                                                        Pregonina (Przegonina)                        | 3                   |          |
+|                                                        Swiątkowka                                    | 9                   |          |
+|                                                        Grabanina                                     | 9                   |          |
+|                                                        Ninaszow (Nienaszów)                          | 23                  |          |
+|                                                        #page num:                                    | #20                 |          |
+|                                                        Makowiska                                     | 7                   |          |
+|                                                        Sulistrowa                                    | 6                   |          |
+|                                                        Draganów a                                    | 5                   |          |
+|                                                        Kobylany                                      | 10                  |          |
+|                                                        Łęki                                          | 7                   |          |
+|                                                        Łaysce                                        | 4                   |          |
+|                                                        Glinik                                        | 5                   |          |
+|                                                        Gliniczek                                     | 3                   |          |
+|                                                        Umieszczę (Umieszcz)                          | 6                   |          |
+|                                                        Tarnowiec                                     | 8                   |          |
+|                                                        Potakowka                                     | 5                   |          |
+|                                                        Brzezowka                                     | 9                   |          |
+|                                                        Cerocanka                                     | 6                   |          |
+|                                                        Borek                                         | 7                   |          |
+|                                                        Szebnie (Szczebnie)                           | 4                   |          |
+|                                                        Moderowka                                     | 3                   |          |
+|                                                        Birowka (Bierówka)                            | 13                  |          |
+|                                                        Niepła                                        | 6                   |          |
+|                                                        Rostoki                                       | 6                   |          |
+|                                                        Sątkowa (Sondkowa)                            | 6                   |          |
+|                                                        Stary Żmigród                                 | 2                   |          |
+|                                                        Kopytowa                                      | 4                   |          |
+|                                                        Żydowskie                                     | 3                   |          |
+|                                                        Ozenna (Ożyna)                                | 7                   |          |
+|                                                        Regietow                                      | 3                   |          |
+|                                                        Nieznaiowa                                    | 7                   |          |
+|                                                        Czarne                                        | 5                   |          |
+|                                                        Radocina                                      | 3                   |          |
+|                                                        Konieczna                                     | 11                  |          |
+|                                                        Smerekowiec                                   | 2                   |          |
+|                                                        Wysowa                                        | 4                   |          |
+|                                                        Uyscie                                        | 24                  |          |
+|                                                        Bielanki                                      | 9                   |          |
+|                                                        Klimkówka                                     | 6                   |          |
+|                                                        No wiec (No wica)                             | 3                   |          |
+|                                                        Pietrowka                                     | 2                   |          |
+|                                                        Pielgrzymka                                   | 2                   |          |
+|                                                        Bednarka                                      | 5                   |          |
+|                                                        Rozdzielę                                     | 4                   |          |
+|                                                        Lipinki                                       | 16                  |          |
+|                                                        Kryg                                          | 3                   |          |
+|                                                        Sokoł                                         | 3                   |          |
+|                                                        Rychwałd                                      | 4                   |          |
+|                                                        Mszanka                                       | 21                  |          |
+|                                                        Garbacz, karczma                              | 7                   |          |
+|                                                        Wola                                          | 2                   |          |
+|                                                        Łużna                                         | 16                  |          |
+|                                                        Bystra                                        | 3                   |          |
+|                                                        Szembark                                      | 8                   |          |
+|                                                        In summa w kahale zmigr.                      | 1926                |          |
+|Kahal dukielski.                                        Dukla gospodarzy 56                           | 568                 |          |
+|                                                        browar pański                                 | 6                   |          |
+|                                                        Suma                                          | 574                 |          |
+|Parafia kabata dukielskiego.                            Równe, w b.                                   | 17                  |          |
+|                                                        Zboiska, w k.                                 | 4                   |          |
+|                                                        Wietrzna (Wietrzno), w b.                     | 7                   |          |
+|                                                        Wróblik, w b.                                 | 6                   |          |
+|                                                        Milczą, w k.                                  | 7                   |          |
+|                                                        Besko, w b., 2 k. i eh.                       | 27                  |          |
+|                                                        Odrzechow (Odrzechowa), w b.-                 |                     |          |
+|                                                        i 2 k.                                        | 18                  |          |
+|                                                        Nowosielce, w b. i ch.                        | 10                  |          |
+|                                                        Czertez, w k.                                 | 5                   |          |
+|                                                        Kostarowka (Kostarowce) w b.                  | 6                   |          |
+|                                                        Białobrzegi, w k.                             | 4                   |          |
+|                                                        Głowienka (Głowienko),, w k.                  | 5                   |          |
+|                                                        Głoysce, w k.                                 | 11                  |          |
+|                                                        Krościenko, w k.                              | 6                   |          |
+|                                                        iwia, w b.                                    | 6                   |          |
+|                                                        Cherowa (Chyrowa), w k.                       | 3                   |          |
+|                                                        Mszanka, w k.                                 | 6                   |          |
+|                                                        #page num:                                    | #21                 |          |
+|                                                        Lipowica, w к.                                | 5                   |          |
+|                                                        Trzciana, w k.                                | 3                   |          |
+|                                                        Tylawa, w b.                                  | 12                  |          |
+|                                                        Barwinek, w 2 b.                              | 12                  |          |
+|                                                        lasie (Jasiel), w b.                          | 3                   |          |
+|                                                        Wernesowka, w b.                              | 4                   |          |
+|                                                        Zawadka, w k.                                 | 4                   |          |
+|                                                        Zendranow (Zyndranowa), w 2 b.                | 20                  |          |
+|                                                        Lubatowka, w k.                               | 4                   |          |
+|                                                        Jasionka, w k.                                | 5                   |          |
+|                                                        Cergowa, w b. i k.                            | 7                   |          |
+|                                                        Teodorowka, w k.                              | 5                   |          |
+|                                                        In summa głów w kahale duk.                   | 806                 |          |
+|Kahal bobowski.                                         Bobowa gospodarzy 29 głów                     | 185                 |          |
+|                                                        w kramnicach                                  | 11                  |          |
+|                                                        w ratuszu                                     | 8                   |          |
+|                                                        w karczmie Wesołej                            | 5                   |          |
+|                                                        w kahale sandeckim głów                       | 1368                |          |
+|                                                        w kahale wisnickim                            | 2385                |          |
+|                                                        w kahale żmigrodzkim                          | 1926                |          |
+|                                                        w kahale dukielskim                           | 806                 |          |
+|                                                        w kahale bobowskim                            | 218                 |          |
+|                                                        Summa                                         | 6703                |          |
+|                                                        w browarze pod zamkierr                       | 2                   |          |
+|                                                        w browarze berdeckim                          | 7                   |          |
+|                                                        Summa:                                        | 218                 |          |
+
+
+
+
+
+|Summaryusz głów żydowskich przez powiaty i kahaly wyprowadzony.                                       |                     |          |
+| W powiecie krakowskim:                                 Żydzi Żydówki Dzieci roku Syny nic mające: Cór ki                  |           |
+|                                                        Kahał kazimierski            1802     1908               74        |        93 |
+|                                                        Kahał olkuski                190       2O6               15        |        12 |
+|                                                        Kahał chrzanowski            177       150               9         |        14 |
+|                                                        Kahał będziński              251       264               17        |        17 |
+|                                                        Suma:                        2420     2528               115       |        136|
+|                                                        #page num:                   #14                                   |           |
+|W powiecie proszowskim:                                                                                                    |
+|Dzieci roku nie mające:                                 Kahał działoszycki          332       319                  15      | 27        |
+|W powiecie xięskim:                                     Kahał żarnowiecki           171       I84                  12      | 13        |
+|                                                        Kahał wodzisławski          806       832                  43      | 34        |
+|                                                        Kahał wolbromski            149       154                   9      | 12        |
+|                                                        Suma:                       1126      1170                  64     | 59        |
+|W powiecie lelowskim                                    Kahał lelowski              223       245                  19      | 19        |
+|                                                        Kahał nakielski             46        52                   3       | 1         |
+|                                                        Kahał janowski              329       294                  10      | 20        |
+|                                                        Kahał pilecki               301       305                  23      | 22        |
+|                                                        Kahał szczekocinski         258       202                  18      | 13        |
+|                                                        Kahał zarecki               429       464                  37      | 22        |
+|                                                        Suma:                       1586      1622               110     | 97          |
+|W xięstwie Zatorskim:                                   Kahał Zatorski              45        47                 5                     |
+|                                                        W xięstwie oświęcimskim                                                        |
+|                                                        Kahał oświęcimski           396       369                21       29           |
+|                                                        Suma sumarum:               5905      6055                330      348         |
+|                                                        Złączywszy Zydow z Żydówkami znajduje się                          11960       |
+|                                                        Dzieci roku nie maiac.vch znaiduie sie                             678         |
+|II.Powiat sandecki.                                                                                                       
+|Kahał sandecki.                                         Sandecz (Sącz)  gospodarzy 69,          602                                    |
+|                                                        Przychodni z Węgier na mieszkanie do miasta   7                                |
+|                                                        Suma:                       609                                                |
+|                                                        In summa patet:             12638                                              |
+|                                                        W tem mężczyzn:             6235                                               |
+|                                                        kobiet:                     6403                                               |

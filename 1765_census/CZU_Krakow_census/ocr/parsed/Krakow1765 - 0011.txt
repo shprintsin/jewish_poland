@@ -1,0 +1,77 @@
+﻿Miasta i wsie;          Żydzi Żydówki   
+Bystrzonowice           2           4         
+Krumołow                50          55        
+Blanowice               1           2         
+Rudniki                 4           3         
+Rudniki item            1           2         
+Nie rada                1           3         
+Zawierzę                3           2         
+Zawierki                3           2         
+Zawierki item           2           2         
+Wysoka                  2           2   
+Wiesiołki               3           2        
+Głozowka                2           3        
+Bzów                    3           3        
+Blanowice               3           1        
+Rudnik                  2           2        
+Kroczyce arendarz       nie stanęli za  
+i karczmarz             klątwą          
+Wygiełzow arendarz                      
+Suma: 33                242         264
+W tern dzieci do roku   19          19
+
+II. Kahał nakielski.                                                           
+Nakło z arendami        49        52     
+III. Kahał janowski                   
+Janów                   146       139      
+Częstochowa             18        17     
+Wojtostwo tamże         22        16    
+Poczesna                8         8        
+Borowno                 7         5        
+Nowa wieś               1         3        
+Osiny                   2         2        
+Własna                  2         2        
+Starcza                 2         2        
+Jamki                   3         4        
+Dzbiow (Dzbów)          6         6        
+Łaziec                  1         1        
+Wrzosowa                1         1        
+Błeszno                 10        4        
+Bugay                   1         3        
+Szendzow (Sędów)        3         1        
+Brzeziny                4         9        
+Łyszec (Łysieć)         1         2        
+Rększowice (Reksowicp)  1         1        
+Kuźnica Maryanowa       2         1        
+Ostatni grosz           1         2        
+Kamień                  4         3        
+Wyczyrpy (Wyczerpy)     9         3        
+Rędziny                 10        7   
+W tern dzieci do roku   3         1                 
+Rząsany                 11        8        
+Kościelec               2         4        
+Mykanów                 9         8        
+Radostkow               2         2        
+Lubenka (Luboienka)     5         8        
+Lubsyna                 5         4        
+Wierzchowisko           2         2        
+Wolka                   1         2        
+Kuzniczka               3         3        
+Piersnia (Pierszchno)   5         3        
+Libidza                 3         4        
+Kiedrzyn                3         1        
+Siedlce                 2         6        
+Małusze                 2         2        
+Kobylczyce              3         2        
+Mokrzesz (Mokrosz)      3         1        
+Żurawie                 6         5        
+Zagorze                 1         1        
+Bukowno                 2         1        
+Skowronow               1         1
+Zalesie                 3         2        
+Suma: 45                33        314
+W tem dzieci do roku    10        20
+
+IV. Kahał pilecki,                                                             
+Pilca (Pilica)          240      266 
+Udorzcz karczma (Uderz) 6        5        

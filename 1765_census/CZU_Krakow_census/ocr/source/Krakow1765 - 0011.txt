@@ -1,0 +1,40 @@
+﻿Miasta i wsie;         Żydzi Żydówki ! Miasta i wsie:          Żydzi Żydówki  
+Bystrzonowice          2     4         Wiesiołki               3     2        
+Krumołow               50    55        Głozowka                2     3        
+Blanowice              I     2         Bzów                    3     3        
+Rudniki                4     3         Blanowice               3     I        
+Rudniki item           1     2         Rudnik                  2     2        
+Nie rada               1     3         Kroczyce arendarz       nie stanęli za  
+Zawierzę               3     2         i karczmarz             klątwą          
+Zawierki               3     2         Wygiełzow arendarz                      
+Zawierki item          2     2         Suma: 33                  242       264
+Wysoka                 2     2         W tern dzieci do roku      19        19
+                          II. Kahał nakielski.                                 
+Nakło z arendami       49      52     W tern dzieci do roku   3     1        
+III. Kahał janowski                                            
+Janów                  146   139       Rząsany                 11    8        
+Częstochowa            18    17        Kościelec               2     4        
+Wojtostwo tamże        22       16     Mykanów                 9     8        
+Poczesna               8     8         Radostkow               2     2        
+Borowno                7     5         Lubenka (Luboienka)     5     8        
+Nowa wieś              1     3         Lubsyna                 5     4        
+Osiny                  2     2         Wierzchowisko           2     2        
+Własna                 2     2         Wolka                   1     2        
+Starcza                2     2         Kuzniczka               3     3        
+Jamki                  3     4         Piersnia (Pierszchno)   5     3        
+Dzbiow (Dzbów)         6     6         Libidza                 3     4        
+Łaziec                 1     1         Kiedrzyn                3     1        
+Wrzosowa               1     1         Siedlce                 2     6        
+Błeszno                10    4         Małusze                 2     2        
+Bugay                  1     3         Kobylczyce              3     2        
+Szendzow (Sędów)       3     1         Mokrzesz (Mokrosz)      3     1        
+Brzeziny               4     9         Żurawie                 6     5        
+Łyszec (Łysieć)        1     2         Zagorze                 1     1        
+Rększowice (Reksowicp) 1     1         Bukowno                 2     1        
+Kuźnica Maryanowa      2     1         Skowronow               1     1
+Ostatni grosz          1     2         Zalesie                 3     2        
+Kamień                 4     3         Suma: 45                33    314
+Wyczyrpy (Wyczerpy)    9     3         W tem dzieci do roku     10   20
+Rędziny                   10 7                                                
+                           IV. Kahał pilecki,                                  
+Pilca (Pilica)         240         266 Udorzcz karczma (Uderz) 6     5        

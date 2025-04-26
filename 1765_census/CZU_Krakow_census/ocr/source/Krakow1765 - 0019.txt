@@ -1,0 +1,43 @@
+﻿                    Głów                     Głów  
+Łąki                4    Rasłowiec (Racławice)   5
+Toki                6    Sietnica                7
+Gorzyce             4    Moszczenica            11
+Jaworze             3    Machnowka               6
+Lubienko            8    Zagórzany               9
+Faysłówka           7    Libusza                11
+Wolica              6    Polna                   6
+Lipnica             7    Grudna                  2
+Łapiguz             2    Siepietnica             3
+Łysogóra            4    Harklowa                6
+Zeglce (Żeglec)     6    Skołyszyn              11
+Podniebyle          8    Kunowa                  5
+Cieklin             10   Lisowek                 7
+Dzielec             4    Sławęcin                5
+Dobrynia            3    Przysieki               2
+Folusz              4    Siedliska               5
+Strusieklęski       10   Trzcinica               7
+Brzezowa            5    Osobnica                5
+Czyrmna (Czyrna)    11   Łazy                    4
+Jabłonica           5    Wola dębowiecka         2
+Bączala (Bon czai)  5    Załęże                  6 
+Serwoniec           6    Swierchowa (Świerkowa)  4 
+Dąbrówka            4    Osiek                   8
+Sowina              7    Bieniarową              7
+Biezdziadza         9    Grab                    7
+Biezdziadka         4    Kotan                   6 
+Wygoda, k.          3    Myszczowa (Myscowa)     7
+Lublica             4    Świątkowa               9 
+Siekło wka          22   Swirzow (Swierzowa)     2
+Warzyce             15   Bartne                  5
+Czelusnica          8    Dołchym (Dołembki?)     6 
+Gossowka            5    Rostayna (Rostajne)     7
+Sobniow             7    Polany                  10
+J asło              8    Desnica (Desznica)      2
+Ułaszowice          2    Konty (Kąty)            3
+Niegłowice          5    Krywa (Krzywa)          3
+Brzeście (Brzyście) 4    Banica                  3
+Brzyscie            5    Krępna                  3
+Zułkow (Żołków)     7    Pregonina (Przegonina)  3
+Swięcany            24   Swiątkowka              9 
+Szyrzyny (Szerzyny) 38   Grabanina               9 
+Rozembark           16   Ninaszow (Nienaszów)   23
