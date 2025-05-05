@@ -1,0 +1,48 @@
+- title: "Żydzi ziemi lwowskiej i powiatu żydaczowskiego w r. 1765"
+  english: "Jewish population in the Lwów region and Żydaczów county in 1765"
+  author: "Ferdynand Bostel"
+  publisher: "Akademia Umiejętności"
+  location: "Kraków"
+  year: 1891
+  language: "Polish"
+  note: "Published by the Academy of Learning"
+
+- title: "Spis Żydów i Karaimów ziemi halickiej i powiatów trembowelskiego i kołomyjskiego w r. 1765"
+  english: "Census of Jews and Karaites in the Halicz region and the counties of Trembowla and Kołomyja in 1765"
+  author: "Dr. Majer Balaban"
+  publisher: "Akademia Umiejętności"
+  location: "Kraków"
+  year: 1909
+  language: "Polish"
+  printer: "Czcionkami drukarni Uniwersytetu Jagiellońskiego pod zarządem Józefa Filipowskiego"
+
+- title: "Spis Żydów Województwa Krakowskiego z roku 1765"
+  english: "Jewish population census in Kraków Voivodeship, 1765"
+  author: "Dr Aleksander Czuczyński"
+  publisher: "Akademia Umiejętności"
+  location: "Kraków"
+  year: 1898
+  language: "Polish"
+  note: "Published by the Academy of Learning; main distribution by the Publishing Society Bookstore"
+
+- title: "Архивъ Юго-Западной Россіи. Часть пятая, томъ II (выпускъ 2-й): Переписи еврейскаго населѣнія въ юго-западномъ краѣ въ 1765—1791 гг."
+  english: "Jewish population censuses in Southwestern Russia, 1765–1791"
+  editor: "Комиссія для разбора древнихъ актовъ"
+  publisher: "Типографія Г. Т. Корчакъ-Новицкаго"
+  location: "Киевъ"
+  year: 1890
+  language: "Russian"
+  series: "Архивъ Юго-Западной Россіи"
+  volume: "Ч. 5, Т. II"
+  issue: "Вып. 2-й"
+
+- title: "Liczba głów żydowskich w Koronie z taryf roku 1765"
+  english: "Jewish head tax enumeration in the Crown of the Polish–Lithuanian Commonwealth based on 1765 tariffs"
+  authors:
+    - "Józef Kleczyński"
+    - "Franciszek Kluczycki"
+  publisher: "Akademia Umiejętności"
+  location: "Kraków"
+  year: 1898
+  language: "Polish"
+  note: "Published by the Academy of Learning; main distribution by the Polish Publishing Society bookstore"
