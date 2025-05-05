@@ -1,0 +1,9 @@
+# Availlable Sources
+
+| Name                                                                                                                                                               | Source                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [BLB_Halicke_1765_V1.csv](https://github.com/shprintsin/jewish_poland/blob/main/1765_census/BLB_Halicke_1765_V1.csv "BLB_Halicke_1765_V1.csv")                   | Spis Żydów i Karaimów ziemi halickiej i powiatów trembowelskiego i kołomyjskiego w r. 1765 |
+| [BSTL_LWW_tables_V1.csv](https://github.com/shprintsin/jewish_poland/blob/main/1765_census/BSTL_LWW_tables_V1.csv "BSTL_LWW_tables_V1.csv")                      | Żydzi ziemi lwowskiej i powiatu żydaczowskiego w r. 1765                                   |
+| [CZU_Krakow_1765_V1.csv](https://github.com/shprintsin/jewish_poland/blob/main/1765_census/CZU_Krakow_1765_V1.csv "CZU_Krakow_1765_V1.csv")                      | Spis Żydów Województwa Krakowskiego z roku 1765                                            |
+| [KLC_liczba-glow_census_V1.csv](https://github.com/shprintsin/jewish_poland/blob/main/1765_census/KLC_liczba-glow_census_V1.csv "KLC_liczba-glow_census_V1.csv") | Liczba głów żydowskich w Koronie z taryf roku 1765                                         |
+| [V2_tables.tsv.txt](https://github.com/shprintsin/jewish_poland/blob/main/1765_census/1765_kiev_area/V2_tables.tsv.txt "V2_tables.tsv.txt")                      | Table from Архивъ Юго-Западной Россіи. Ч. 5, Т. II (вып. 2-й)                              |
